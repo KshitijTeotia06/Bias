@@ -1,0 +1,2530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="72">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04355767</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C3PO</org_study_id>
+    <secondary_id>1OT2HL156812-01</secondary_id>
+    <nct_id>NCT04355767</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma in Outpatients With COVID-19</brief_title>
+  <acronym>C3PO</acronym>
+  <official_title>Clinical-trial of COVID-19 Convalescent Plasma in Outpatients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Strategies to Innovate EmeRgENcy Care Clinical Trials Network (SIREN) - Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this project is to confirm or refute the role of passive immunization&#xD;
+      as a safe and efficacious therapy in preventing the progression from mild to severe/critical&#xD;
+      COVID-19 illness and to understand the immunologic kinetics of anti-SARS-CoV-2 antibodies&#xD;
+      after passive immunization.The primary objective is to determine the efficacy and safety of a&#xD;
+      single dose of convalescent plasma (CP) for preventing the progression from mild to severe&#xD;
+      COVID-19 illness. The secondary objective is to characterize the immunologic response to CP&#xD;
+      administration.&#xD;
+&#xD;
+      This study will enroll adults presenting to the emergency department (ED) with mild,&#xD;
+      symptomatic, laboratory-confirmed COVID-19 illness, who are at high risk for progression to&#xD;
+      severe/critical illness, but who are clinically stable for outpatient management at&#xD;
+      randomization.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 11, 2020</start_date>
+  <completion_date type="Actual">March 29, 2021</completion_date>
+  <primary_completion_date type="Actual">March 29, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Patients With Disease Progression (Intention-to-treat Population)</measure>
+    <time_frame>15 days</time_frame>
+    <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Patients With Disease Progression (Per-protocol Population)</measure>
+    <time_frame>15 days</time_frame>
+    <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Worst Severity Rating on the WHO COVID Ordinal Scale for Clinical Improvement During the 30 Days Following Randomization</measure>
+    <time_frame>30 days</time_frame>
+    <description>This scale was developed by a special World Health Organization (WHO) committee for quantifying COVID-19 illness severity.&#xD;
+1 = Not hospitalized without limitation in activity (no symptoms)&#xD;
+2 = Not hospitalized with limitation in activity (continued symptoms)&#xD;
+3 = Hospitalized not on supplemental oxygen&#xD;
+4 = Hospitalized on supplemental oxygen by mask or nasal prongs&#xD;
+5 = Hospitalized on non-invasive ventilation or high flow nasal cannula&#xD;
+6 = Hospitalized, intubated and mechanically ventilated&#xD;
+7 = Hospitalized, intubated, mechanically ventilated and requiring additional organ support (pressors, renal replacement therapy)&#xD;
+8 = Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Worsening of Symptoms at Day 15 as a Measure of Time to Disease Progression</measure>
+    <time_frame>15 days</time_frame>
+    <description>Assessed on the COVID Outpatient Ordinal Outcome Scale censored at 15 days after randomization. Scale provides more granular detail for outpatients than the WHO scale (adapted from Harrell and Lindsell, 2020). Worsening of symptoms is defined as any subject admitted to the hospital (level 1), seen in the emergency room (level 2), a patient who reports increased symptoms of 2 levels on the scale over a 24 hour period, or a patient who reports increased symptoms of 1 level observed for a 48 hour period.&#xD;
+COVID Outpatient Ordinal Outcomes Scale&#xD;
+1 = patient requires care in the hospital&#xD;
+2 = patient requires care in the emergency department or urgent care&#xD;
+3 = patient at home with symptoms rated as moderate (defined as fever, shortness of breath, abdominal pain)&#xD;
+4 = patient at home with symptoms rated as mild (defined as afebrile, constitutional symptoms (flu-like illness) without shortness&#xD;
+5 = patient in their usual state of health</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospital-free Days During the 30 Days Following Randomization</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause Mortality</measure>
+    <time_frame>Assessed at 30 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">511</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 1 unit of convalescent plasma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive 1 unit of saline with multivitamin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>SARS-CoV-2 convalescent plasma with neutralizing SARS-CoV2 antibodies titers of ≥1:160 administered via intravenous (IV) infusion.</description>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>Saline with multivitamin administered via intravenous (IV) infusion..</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  One or more symptoms of COVID-19 illness and laboratory-confirmed SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Has at least one study defined risk factor for severe COVID-19 illness&#xD;
+&#xD;
+          -  Clinical team deems stable for outpatient management without supplemental oxygen&#xD;
+&#xD;
+          -  CP available at the site at the time of enrollment&#xD;
+&#xD;
+          -  Duration of symptoms ≤ 7 days at ED presentation&#xD;
+&#xD;
+          -  Informed consent from subject&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 18 years&#xD;
+&#xD;
+          -  Prisoner or ward of the state&#xD;
+&#xD;
+          -  Presumed unable to complete follow-up assessments&#xD;
+&#xD;
+          -  Prior adverse reaction(s) from blood product transfusion&#xD;
+&#xD;
+          -  Receipt of any blood product within the past 120 days&#xD;
+&#xD;
+          -  Treating clinical team unwilling to administer 300 ml fluid&#xD;
+&#xD;
+          -  Enrollment in another interventional trial for COVID-19 illness&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clifton W Callaway, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Valerie Durkalski-Mauldin, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frederick Korley, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sharon Yeatts, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Silbergleit, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Barsan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kevin Schulman, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Chandler Regional Medical Center</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Valleywise Health Medical Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Health La Jolla</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Loma Linda University Medical Center</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ronald Reagan UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Medical Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor-UCLA Medical Center</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Shands Hospital</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jackson Memorial Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grady Memorial Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals &amp; Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Maine</state>
+        <zip>04102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Newton-Wellesley Hospital</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan University Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Detroit Receiving Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harper University Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sinai-Grace Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Hospitals Butterworth Hospital</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital-Troy</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48085</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HealthPartners Methodist Hospital</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes Jewish Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Hospital</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Robert Wood Johnson University Hospital</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Hospital</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Hospital</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Medical Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OSU Wexner Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy St. Vincent Medical Center</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University Hospital</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Einstein Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UPMC Presbyterian Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William P. Clements Jr. University Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ben Taub General Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann Texas Medical Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Healthcare</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Froedtert Hospital</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://siren.network/</url>
+    <description>SIREN Network</description>
+  </link>
+  <link>
+    <url>http://hbiostat.org/proj/covid19/bayesplan.html</url>
+    <description>Statistical Design and Analysis Plan for Sequential Parallel-Group RCT for COVID-19 (Harrell and Lindsell, 2020)</description>
+  </link>
+  <results_reference>
+    <citation>Korley FK, Durkalski-Mauldin V, Yeatts SD, Schulman K, Davenport RD, Dumont LJ, El Kassar N, Foster LD, Hah JM, Jaiswal S, Kaplan A, Lowell E, McDyer JF, Quinn J, Triulzi DJ, Van Huysen C, Stevenson VLW, Yadav K, Jones CW, Kea B, Burnett A, Reynolds JC, Greineder CF, Haas NL, Beiser DG, Silbergleit R, Barsan W, Callaway CW; SIREN-C3PO Investigators. Early Convalescent Plasma for High-Risk Outpatients with Covid-19. N Engl J Med. 2021 Nov 18;385(21):1951-1960. doi: 10.1056/NEJMoa2103784. Epub 2021 Aug 18.</citation>
+    <PMID>34407339</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>April 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 21, 2020</study_first_posted>
+  <results_first_submitted>October 13, 2021</results_first_submitted>
+  <results_first_submitted_qc>October 15, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 19, 2021</results_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The complete de-identified patient data set will be shared.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data will be available indefinitely.</ipd_time_frame>
+    <ipd_access_criteria>Data requests will be managed by National Heart, Lung, and Blood Institute (NHLBI).</ipd_access_criteria>
+    <ipd_url>https://biodatacatalyst.nhlbi.nih.gov/</ipd_url>
+  </patient_data>
+  <study_docs>
+    <study_doc>
+      <doc_type>Individual Participant Data Set</doc_type>
+      <doc_url>https://biodatacatalyst.nhlbi.nih.gov/</doc_url>
+    </study_doc>
+  </study_docs>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 16, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/67/NCT04355767/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 4, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/67/NCT04355767/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Patients were enrolled at 48 hospital emergency departments in 21 states.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Convalescent Plasma</title>
+          <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="257"/>
+                <participants group_id="P2" count="254"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Intention-to-treat Population</title>
+              <participants_list>
+                <participants group_id="P1" count="257"/>
+                <participants group_id="P2" count="254"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Had Data for 15-day Outcome</title>
+              <participants_list>
+                <participants group_id="P1" count="257"/>
+                <participants group_id="P2" count="254"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="250"/>
+                <participants group_id="P2" count="251"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Convalescent Plasma</title>
+          <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="257"/>
+            <count group_id="B2" value="254"/>
+            <count group_id="B3" value="511"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54" lower_limit="42" upper_limit="62"/>
+                    <measurement group_id="B2" value="54" lower_limit="40" upper_limit="62"/>
+                    <measurement group_id="B3" value="54" lower_limit="41" upper_limit="62"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="135"/>
+                    <measurement group_id="B2" value="139"/>
+                    <measurement group_id="B3" value="274"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="122"/>
+                    <measurement group_id="B2" value="115"/>
+                    <measurement group_id="B3" value="237"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="83"/>
+                    <measurement group_id="B2" value="73"/>
+                    <measurement group_id="B3" value="156"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="170"/>
+                    <measurement group_id="B2" value="179"/>
+                    <measurement group_id="B3" value="349"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="103"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="172"/>
+                    <measurement group_id="B2" value="165"/>
+                    <measurement group_id="B3" value="337"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="257"/>
+                    <measurement group_id="B2" value="254"/>
+                    <measurement group_id="B3" value="511"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Eligibility risk factor</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Age .50 yr</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="155"/>
+                    <measurement group_id="B2" value="155"/>
+                    <measurement group_id="B3" value="310"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Body-mass index ≥30</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="152"/>
+                    <measurement group_id="B2" value="150"/>
+                    <measurement group_id="B3" value="302"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="105"/>
+                    <measurement group_id="B2" value="111"/>
+                    <measurement group_id="B3" value="216"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Current or former tobacco use</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="81"/>
+                    <measurement group_id="B2" value="71"/>
+                    <measurement group_id="B3" value="152"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetes mellitus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="76"/>
+                    <measurement group_id="B2" value="66"/>
+                    <measurement group_id="B3" value="142"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>COPD or asthma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56"/>
+                    <measurement group_id="B2" value="68"/>
+                    <measurement group_id="B3" value="124"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Coronary artery disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Immunosuppression</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic lung disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic kidney disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Congestive heart disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Currently pregnant</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Organ transplant recipient</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Active cancer</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sickle-cell disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of eligibility risk factors</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="66"/>
+                    <measurement group_id="B3" value="117"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="65"/>
+                    <measurement group_id="B2" value="65"/>
+                    <measurement group_id="B3" value="130"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>≥3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="141"/>
+                    <measurement group_id="B2" value="123"/>
+                    <measurement group_id="B3" value="264"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Other coexisting illness</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Current or former alcohol abuse</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Current or former drug abuse</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thromboembolic disorder</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other hematologic disorder</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Symptom duration before randomization</title>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4" lower_limit="2" upper_limit="5"/>
+                    <measurement group_id="B2" value="3" lower_limit="2" upper_limit="5"/>
+                    <measurement group_id="B3" value="4" lower_limit="2" upper_limit="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Interval between randomization and infusion</title>
+          <units>minutes</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="92" lower_limit="76" upper_limit="128"/>
+                    <measurement group_id="B2" value="69" lower_limit="48" upper_limit="96"/>
+                    <measurement group_id="B3" value="81" lower_limit="63" upper_limit="110"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With Disease Progression (Intention-to-treat Population)</title>
+        <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+        <time_frame>15 days</time_frame>
+        <population>Intention-to-treat population included all randomized participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma</title>
+            <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Disease Progression (Intention-to-treat Population)</title>
+          <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+          <population>Intention-to-treat population included all randomized participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="257"/>
+                <count group_id="O2" value="254"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Patients with a disease-progression event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77"/>
+                    <measurement group_id="O2" value="81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hospital admission for any reason</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="51"/>
+                    <measurement group_id="O2" value="56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Seeking emergency or urgent care</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Death without hospitalization</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Analysis is of patients with a disease-progression event. The trial required a sample size of 900 patients to detect an absolute between-group difference of 10 percentage points (the minimum difference that we considered to be clinically important) with a power of 85%.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <other_analysis_desc>A Bayesian framework was used to calculate a risk difference of 1.9 percentage points (placebo group minus convalescent-plasma group) with a 95% credible interval of -6.0 to 9.8. The posterior probability of superiority was calculated to be 0.68. Efficacy was defined as a posterior probability of 0.975 or more that the proportion of patients with outcome events was higher in the placebo group.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Analysis is of patients with a disease-progression event.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>2.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-5.9</ci_lower_limit>
+            <ci_upper_limit>10.4</ci_upper_limit>
+            <estimate_desc>Risk difference after adjustment for age, sex, symptom duration.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With Disease Progression (Per-protocol Population)</title>
+        <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+        <time_frame>15 days</time_frame>
+        <population>Per-protocol population included all the patients who had undergone randomization after the exclusion of those who did not receive the assigned trial product, had an identified eligibility violation, or had a disease-progression event before the initiation of treatment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma</title>
+            <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Disease Progression (Per-protocol Population)</title>
+          <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+          <population>Per-protocol population included all the patients who had undergone randomization after the exclusion of those who did not receive the assigned trial product, had an identified eligibility violation, or had a disease-progression event before the initiation of treatment.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="246"/>
+                <count group_id="O2" value="251"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Patients with a disease-progression event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71"/>
+                    <measurement group_id="O2" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hospital admission for any reason</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47"/>
+                    <measurement group_id="O2" value="55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Seeking emergency or urgent care</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Death without hospitalization</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Analysis is of patients with a disease-progression event.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <other_analysis_desc>A Bayesian framework was used to calculate a risk difference of 3.0 percentage points (placebo group minus convalescent-plasma group) with a 95% credible interval of -4.9 to 10.8. The posterior probability of superiority was calculated to be 0.76. Efficacy was defined as a posterior probability of 0.975 or more that the proportion of patients with outcome events was higher in the placebo group.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Worst Severity Rating on the WHO COVID Ordinal Scale for Clinical Improvement During the 30 Days Following Randomization</title>
+        <description>This scale was developed by a special World Health Organization (WHO) committee for quantifying COVID-19 illness severity.&#xD;
+1 = Not hospitalized without limitation in activity (no symptoms)&#xD;
+2 = Not hospitalized with limitation in activity (continued symptoms)&#xD;
+3 = Hospitalized not on supplemental oxygen&#xD;
+4 = Hospitalized on supplemental oxygen by mask or nasal prongs&#xD;
+5 = Hospitalized on non-invasive ventilation or high flow nasal cannula&#xD;
+6 = Hospitalized, intubated and mechanically ventilated&#xD;
+7 = Hospitalized, intubated, mechanically ventilated and requiring additional organ support (pressors, renal replacement therapy)&#xD;
+8 = Death</description>
+        <time_frame>30 days</time_frame>
+        <population>Participants with available data are included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma</title>
+            <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Worst Severity Rating on the WHO COVID Ordinal Scale for Clinical Improvement During the 30 Days Following Randomization</title>
+          <description>This scale was developed by a special World Health Organization (WHO) committee for quantifying COVID-19 illness severity.&#xD;
+1 = Not hospitalized without limitation in activity (no symptoms)&#xD;
+2 = Not hospitalized with limitation in activity (continued symptoms)&#xD;
+3 = Hospitalized not on supplemental oxygen&#xD;
+4 = Hospitalized on supplemental oxygen by mask or nasal prongs&#xD;
+5 = Hospitalized on non-invasive ventilation or high flow nasal cannula&#xD;
+6 = Hospitalized, intubated and mechanically ventilated&#xD;
+7 = Hospitalized, intubated, mechanically ventilated and requiring additional organ support (pressors, renal replacement therapy)&#xD;
+8 = Death</description>
+          <population>Participants with available data are included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="250"/>
+                <count group_id="O2" value="248"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Severity rating 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55"/>
+                    <measurement group_id="O2" value="55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="141"/>
+                    <measurement group_id="O2" value="133"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severity rating 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Worsening of Symptoms at Day 15 as a Measure of Time to Disease Progression</title>
+        <description>Assessed on the COVID Outpatient Ordinal Outcome Scale censored at 15 days after randomization. Scale provides more granular detail for outpatients than the WHO scale (adapted from Harrell and Lindsell, 2020). Worsening of symptoms is defined as any subject admitted to the hospital (level 1), seen in the emergency room (level 2), a patient who reports increased symptoms of 2 levels on the scale over a 24 hour period, or a patient who reports increased symptoms of 1 level observed for a 48 hour period.&#xD;
+COVID Outpatient Ordinal Outcomes Scale&#xD;
+1 = patient requires care in the hospital&#xD;
+2 = patient requires care in the emergency department or urgent care&#xD;
+3 = patient at home with symptoms rated as moderate (defined as fever, shortness of breath, abdominal pain)&#xD;
+4 = patient at home with symptoms rated as mild (defined as afebrile, constitutional symptoms (flu-like illness) without shortness&#xD;
+5 = patient in their usual state of health</description>
+        <time_frame>15 days</time_frame>
+        <population>Intention-to-treat population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma</title>
+            <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Worsening of Symptoms at Day 15 as a Measure of Time to Disease Progression</title>
+          <description>Assessed on the COVID Outpatient Ordinal Outcome Scale censored at 15 days after randomization. Scale provides more granular detail for outpatients than the WHO scale (adapted from Harrell and Lindsell, 2020). Worsening of symptoms is defined as any subject admitted to the hospital (level 1), seen in the emergency room (level 2), a patient who reports increased symptoms of 2 levels on the scale over a 24 hour period, or a patient who reports increased symptoms of 1 level observed for a 48 hour period.&#xD;
+COVID Outpatient Ordinal Outcomes Scale&#xD;
+1 = patient requires care in the hospital&#xD;
+2 = patient requires care in the emergency department or urgent care&#xD;
+3 = patient at home with symptoms rated as moderate (defined as fever, shortness of breath, abdominal pain)&#xD;
+4 = patient at home with symptoms rated as mild (defined as afebrile, constitutional symptoms (flu-like illness) without shortness&#xD;
+5 = patient in their usual state of health</description>
+          <population>Intention-to-treat population</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="257"/>
+                <count group_id="O2" value="254"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="107"/>
+                    <measurement group_id="O2" value="116"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.90</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.69</ci_lower_limit>
+            <ci_upper_limit>1.17</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Hospital-free Days During the 30 Days Following Randomization</title>
+        <time_frame>30 days</time_frame>
+        <population>Intention-to-treat population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma</title>
+            <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Hospital-free Days During the 30 Days Following Randomization</title>
+          <population>Intention-to-treat population</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="257"/>
+                <count group_id="O2" value="254"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.3" spread="4.9"/>
+                    <measurement group_id="O2" value="28.6" spread="3.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.3</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.4</ci_lower_limit>
+            <ci_upper_limit>1.1</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-cause Mortality</title>
+        <time_frame>Assessed at 30 days</time_frame>
+        <population>Intention-to-treat population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma</title>
+            <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-cause Mortality</title>
+          <population>Intention-to-treat population</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="257"/>
+                <count group_id="O2" value="254"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Convalescent Plasma</title>
+          <description>Participants receive 1 unit of convalescent plasma (with neutralizing SARS-CoV2 antibodies) administered via intravenous (IV) infusion.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants receive 1 unit of saline with multivitamin administered via intravenous (IV) infusion.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="59" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="64" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Influenza like illness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaphylactic reaction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="39" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Tooth abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Viral diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Infusion related reaction</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Oesophagoscopy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Hyponatraemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Epilepsy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Psychotic disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>End stage renal disease, could not get outpatient dialysis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Iliac artery occlusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Thrombophlebitis superficial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="35" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Infusion site extravasation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Alcohol poisoning</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Infusion related reaction</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Road traffic accident</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Coronavirus test positive</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Paranoia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nephrolithiasis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Bronchospasm</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ecchymosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Tooth extraction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Venous thrombosis limb</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="257"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="254"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>This study did not meet its maximum sample size of 900 participants due to a planned interim analysis that indicated that it was unlikely that there would be a difference in the rate of disease progression between the two groups if continued to the planned sample size.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Kevin Schulman, MD</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>(650) 724-0543</phone>
+      <email>kevin.schulman@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

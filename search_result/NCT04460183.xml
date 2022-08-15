@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="50">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04460183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RESP301-002</org_study_id>
+    <nct_id>NCT04460183</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Efficacy and Safety of RESP301 Plus Standard of Care (SOC) Compared to SOC Alone in Hospitalized Participants With COVID-19</brief_title>
+  <official_title>An Open-label, Adaptive Randomized, Controlled Multicenter Study to Evaluate the Efficacy and Safety of RESP301 Plus Standard of Care (SOC) Compared to SOC Alone in Hospitalized Participants With COVID-19 WHO Grade 3&amp;4 (NOCoV2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thirty Respiratory Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Thirty Respiratory Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The effect of RESP301 as an add on treatment to SOC will be evaluated for its efficacy in&#xD;
+      reducing rate of progression to a more severe level of COVID-19 and for safety, by comparison&#xD;
+      with SOC alone in hospitalized COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, randomized, multicenter, parallel group, concurrent, controlled study&#xD;
+      using a sequential adaptive design to evaluate the efficacy and safety of RESP301 plus SOC&#xD;
+      versus SOC alone in hospitalized patients with COVID-19 (World Health Organization [WHO]&#xD;
+      ordinal scale level 3 or 4).&#xD;
+&#xD;
+      Approximately 300 participants will be enrolled and randomized 2:1 to the Investigational arm&#xD;
+      or the Control arm. The study will be divided into the following periods: Screening period:&#xD;
+      (up to 2 days), Intervention (up to 10 days), follow-up (Day 14 and Day 28).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 29, 2020</start_date>
+  <completion_date type="Actual">May 21, 2021</completion_date>
+  <primary_completion_date type="Actual">April 24, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Progress by at Least One Level Higher on the Modified WHO Ordinal Scale</measure>
+    <time_frame>Baseline, Day 2 and Day 3</time_frame>
+    <description>A modified WHO ordinal scale was used for consistency with the recent study in adults hospitalized with severe COVID-19, to record the participant's status at the time of assessment. The modified WHO ordinal scale included the following levels :&#xD;
+1= Not hospitalized, no limitations on activities; 2= Not hospitalized, limitation on activities; 3= Hospitalized, not requiring supplemental oxygen; 4= Hospitalized, requiring supplemental oxygen; 5= Hospitalized, on non-invasive ventilation or high-flow oxygen devices; 6= Hospitalized, on invasive mechanical ventilation or extra corporeal membrane oxygenation (ECMO); 7= Death. Higher scores mean worse outcome. The number of participants that had an increase in at least one level higher score on the modified WHO ordinal scale was assessed.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Room Air Oxygen Saturation (SpO2) From Baseline Over Time</measure>
+    <time_frame>Day 1 (Baseline) Post-Nebulization, Day 2, 3, 4, 5, 6, and 7</time_frame>
+    <description>Pulse oximetry measurements were performed to evaluate SpO2. The effect of RESP301 as measured by room air SpO2 was assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in National Early Warning Score (NEWS) 2 Symptom Score From Baseline Over Time</measure>
+    <time_frame>Day 1 (Baseline), Day 2, 3, 4, 5, 6, and 7</time_frame>
+    <description>The NEWS is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice, when patients present to, or are being monitored in hospital. Six simple physiological parameters form the basis of the scoring system: 1. Respiration rate; 2. Oxygen saturation; 3. Systolic blood pressure; 4. Pulse rate; 5. Level of consciousness or new confusion; 6. Temperature.&#xD;
+Each score is 0-3 and individual scores are added together for an overall score. An additional two points are added if the patient is receiving oxygen therapy. The total possible score ranges from 0 to 20. The higher the score the greater the clinical risk. Higher scores indicate the need for escalation, medical review and possible clinical intervention, and more intensive monitoring.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline for Number of Participants on the Modified WHO Ordinal Scale at Each Visit</measure>
+    <time_frame>Day 1 (Baseline), Day 2, 3, 4, 5, 6, and 7</time_frame>
+    <description>A modified WHO ordinal scale was used for consistency with the recent study in adults hospitalized with severe COVID-19, to record the participant's status at the time of assessment. The modified WHO ordinal scale included the following levels :&#xD;
+1= Not hospitalized, no limitations on activities; 2= Not hospitalized, limitation on activities; 3= Hospitalized, not requiring supplemental oxygen; 4= Hospitalized, requiring supplemental oxygen; 5= Hospitalized, on non-invasive ventilation or high-flow oxygen devices; 6= Hospitalized, on invasive mechanical ventilation or extra corporeal membrane oxygenation (ECMO); 7= Death. Higher scores mean worse outcome. Change from baseline for Number of Participants on the modified WHO ordinal scale was assesed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Improvement of at Least One Level Lower on the Modified WHO Ordinal Scale</measure>
+    <time_frame>From Baseline to Day 28</time_frame>
+    <description>Time to improvement is the time in which the participant sees a decrease after first study treatment in the WHO 7-point ordinal scale from baseline to a value at least one level lower in days (date of decrease in WHO scale - first dose date + 1). In the case that a patient has not decreased in the WHO scale at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Progression of at Least One Level Higher on the Modified WHO Ordinal Scale</measure>
+    <time_frame>From Baseline to Day 28</time_frame>
+    <description>Time to progression is the time in which the patient sees an increase after first study treatment in the WHO 7-point ordinal scale from baseline to a value at least one level higher in days (date of increase in WHO scale - first dose date + 1). In the case that a patient has not increased in the WHO scale at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Adverse Events</measure>
+    <time_frame>From screening to safety follow up (Day 28)</time_frame>
+    <description>AEs (non-serious) as variables of safety and tolerability of RESP301 were assessed.&#xD;
+Severe AEs is defined as an event that prevents normal everyday activities. An AE that is assessed as severe should not be confused with an SAE. Severe is a category utilized for rating the intensity of an event; and both AE and SAE can be assessed as severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Hospital Discharge</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Time to hospital discharge is the time in the hospital after first study treatment in days (date of discharge - first dose date + 1). Patients who die before leaving the hospital would be considered failures (did not achieve hospital discharge) and censored. In the case that a patient is still hospitalized at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Mortality by Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Incidence of mortality by Day 28 is the number of participants who have died by Day 28 and the percentage of patients reaching this endpoint will be summarized by treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in Oxygen Saturation (SpO2) to &lt;90%</measure>
+    <time_frame>Day 1 (Baseline), Day 2, Day 3</time_frame>
+    <description>Room Air SpO2 for a summary of participants with reduction to &lt; 90%, unless well clinically tolerated according to Investigator's opinion was assesed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Events of Clinical Bronchial Hyper Responsiveness Related to Nebulization</measure>
+    <time_frame>From screening to safety follow up (Day 28)</time_frame>
+    <description>Incidence of clinical bronchial hyper responsiveness related to nebulization was assessed. Oxygen saturation decreased and wheezing was assessed as an incidence of clinical bronchial hyper-responsiveness related to nebulization, requiring temporal increase of supplemental oxygen.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">19</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Investigational arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive inhaled RESP301 administered using a nebulizer three times a day for up to 10 days in addition to the standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive institutional SOC for the treatment of COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>RESP301, a Nitric Oxide generating solution</intervention_name>
+    <description>Product application requires inhalation using a standard handheld nebulizer.</description>
+    <arm_group_label>Investigational arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Participants will receive institutional SOC for the treatment of COVID-19.</description>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_label>Investigational arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participant has laboratory-confirmed SARS-CoV-2 infection as determined by reverse&#xD;
+             transcriptase polymerase chain reaction (RT-PCR) or other approved clinical testing&#xD;
+             prior to randomization.&#xD;
+&#xD;
+          2. Participant is hospitalized in relation to COVID-19, requiring supplemental oxygen to&#xD;
+             maintain SpO2 at a safe level (WHO level 3 &amp; 4).&#xD;
+&#xD;
+          3. Participant is capable of giving signed informed consent&#xD;
+&#xD;
+          4. Participant is male or female. All females of childbearing potential, including&#xD;
+             pregnant females, must consent to urine pregnancy testing at screening to be eligible&#xD;
+             for the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Rapidly deteriorating or likely to require escalation to high flow oxygen, invasive or&#xD;
+             non-invasive ventilatory support within 24 hours according to Investigator's opinion.&#xD;
+&#xD;
+          2. Unable to safely receive a nebulized treatment for approximately 8 minutes according&#xD;
+             to Investigator's opinion.&#xD;
+&#xD;
+          3. Unable to receive or considered ineligible for invasive or non-invasive ventilatory&#xD;
+             support.&#xD;
+&#xD;
+          4. History of methemoglobinemia.&#xD;
+&#xD;
+          5. Presence of uncontrolled asthma, history of severe bronchospasm.&#xD;
+&#xD;
+          6. Presence of severe chronic respiratory disease and tracheostomy.&#xD;
+&#xD;
+          7. Suspected or confirmed untreated, active tuberculosis.&#xD;
+&#xD;
+          8. Severely immune-compromised participants in Investigator's opinion.&#xD;
+&#xD;
+          9. Recent active coronary artery disease or decompensated heart failure.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust, St. Mary's Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>W2 1NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Preston Hospital</name>
+      <address>
+        <city>Preston</city>
+        <zip>PR2 9HT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>July 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 7, 2020</study_first_posted>
+  <results_first_submitted>April 7, 2022</results_first_submitted>
+  <results_first_submitted_qc>June 1, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 2, 2022</results_first_posted>
+  <last_update_submitted>June 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitric Oxide</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 16, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/83/NCT04460183/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 5, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/83/NCT04460183/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>The study was conducted at 2 centers that enrolled 19 participants in the United Kingdom (UK) from 29-Jul-2020 (First Enrolment) to 21-May-2021 (Last Participant Completed).</recruitment_details>
+      <pre_assignment_details>The screening period was of 2 days. All the study assessments were performed as per the schedule of assessment.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>RESP301+SoC</title>
+          <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard of Care (SoC)</title>
+          <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>RESP301+SoC</title>
+          <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+        </group>
+        <group group_id="B2">
+          <title>Standard of Care (SoC)</title>
+          <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="14"/>
+            <count group_id="B2" value="5"/>
+            <count group_id="B3" value="19"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Progress by at Least One Level Higher on the Modified WHO Ordinal Scale</title>
+        <description>A modified WHO ordinal scale was used for consistency with the recent study in adults hospitalized with severe COVID-19, to record the participant's status at the time of assessment. The modified WHO ordinal scale included the following levels :&#xD;
+1= Not hospitalized, no limitations on activities; 2= Not hospitalized, limitation on activities; 3= Hospitalized, not requiring supplemental oxygen; 4= Hospitalized, requiring supplemental oxygen; 5= Hospitalized, on non-invasive ventilation or high-flow oxygen devices; 6= Hospitalized, on invasive mechanical ventilation or extra corporeal membrane oxygenation (ECMO); 7= Death. Higher scores mean worse outcome. The number of participants that had an increase in at least one level higher score on the modified WHO ordinal scale was assessed.</description>
+        <time_frame>Baseline, Day 2 and Day 3</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. For RESP301+SoC arm only 1 participant was available for this analysis who had an increase in at least one level higher score on the modified WHO ordinal scale.&#xD;
+For SoC arm, no data were collected. Hence, 0 participants were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Progress by at Least One Level Higher on the Modified WHO Ordinal Scale</title>
+          <description>A modified WHO ordinal scale was used for consistency with the recent study in adults hospitalized with severe COVID-19, to record the participant's status at the time of assessment. The modified WHO ordinal scale included the following levels :&#xD;
+1= Not hospitalized, no limitations on activities; 2= Not hospitalized, limitation on activities; 3= Hospitalized, not requiring supplemental oxygen; 4= Hospitalized, requiring supplemental oxygen; 5= Hospitalized, on non-invasive ventilation or high-flow oxygen devices; 6= Hospitalized, on invasive mechanical ventilation or extra corporeal membrane oxygenation (ECMO); 7= Death. Higher scores mean worse outcome. The number of participants that had an increase in at least one level higher score on the modified WHO ordinal scale was assessed.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. For RESP301+SoC arm only 1 participant was available for this analysis who had an increase in at least one level higher score on the modified WHO ordinal scale.&#xD;
+For SoC arm, no data were collected. Hence, 0 participants were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline : WHO 7-point ordinal scale: 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 : WHO 7-point ordinal scale: 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 : WHO 7-point ordinal scale: 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Room Air Oxygen Saturation (SpO2) From Baseline Over Time</title>
+        <description>Pulse oximetry measurements were performed to evaluate SpO2. The effect of RESP301 as measured by room air SpO2 was assessed.</description>
+        <time_frame>Day 1 (Baseline) Post-Nebulization, Day 2, 3, 4, 5, 6, and 7</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. Here, the number analyzed in each row signified only the participants that were analyzed for each timepoint.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Room Air Oxygen Saturation (SpO2) From Baseline Over Time</title>
+          <description>Pulse oximetry measurements were performed to evaluate SpO2. The effect of RESP301 as measured by room air SpO2 was assessed.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. Here, the number analyzed in each row signified only the participants that were analyzed for each timepoint.</population>
+          <units>Percent change</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="2.84"/>
+                    <measurement group_id="O2" value="NA" spread="NA">Post-dose nebulization did not occur in the SOC arm at Day 1. Soc arm data is not applicable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.7" spread="4.09"/>
+                    <measurement group_id="O2" value="1.5" spread="2.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" spread="2.80"/>
+                    <measurement group_id="O2" value="3.3" spread="2.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.4" spread="2.61"/>
+                    <measurement group_id="O2" value="3.0" spread="2.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3" spread="1.26"/>
+                    <measurement group_id="O2" value="4.0" spread="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.0" spread="1.41"/>
+                    <measurement group_id="O2" value="4.5" spread="3.54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7 - Change from baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.0" spread="2.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in National Early Warning Score (NEWS) 2 Symptom Score From Baseline Over Time</title>
+        <description>The NEWS is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice, when patients present to, or are being monitored in hospital. Six simple physiological parameters form the basis of the scoring system: 1. Respiration rate; 2. Oxygen saturation; 3. Systolic blood pressure; 4. Pulse rate; 5. Level of consciousness or new confusion; 6. Temperature.&#xD;
+Each score is 0-3 and individual scores are added together for an overall score. An additional two points are added if the patient is receiving oxygen therapy. The total possible score ranges from 0 to 20. The higher the score the greater the clinical risk. Higher scores indicate the need for escalation, medical review and possible clinical intervention, and more intensive monitoring.</description>
+        <time_frame>Day 1 (Baseline), Day 2, 3, 4, 5, 6, and 7</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. Here, the number analyzed in each row signifies only the participants who were analyzed for each time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in National Early Warning Score (NEWS) 2 Symptom Score From Baseline Over Time</title>
+          <description>The NEWS is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice, when patients present to, or are being monitored in hospital. Six simple physiological parameters form the basis of the scoring system: 1. Respiration rate; 2. Oxygen saturation; 3. Systolic blood pressure; 4. Pulse rate; 5. Level of consciousness or new confusion; 6. Temperature.&#xD;
+Each score is 0-3 and individual scores are added together for an overall score. An additional two points are added if the patient is receiving oxygen therapy. The total possible score ranges from 0 to 20. The higher the score the greater the clinical risk. Higher scores indicate the need for escalation, medical review and possible clinical intervention, and more intensive monitoring.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. Here, the number analyzed in each row signifies only the participants who were analyzed for each time point.</population>
+          <units>Score on a NEWS scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline: Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.8" spread="1.99"/>
+                    <measurement group_id="O2" value="1.4" spread="0.89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline: Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.3" spread="1.87"/>
+                    <measurement group_id="O2" value="-0.2" spread="1.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline: Day 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0" spread="2.55"/>
+                    <measurement group_id="O2" value="0.5" spread="0.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline: Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.0" spread="3.37"/>
+                    <measurement group_id="O2" value="-0.5" spread="3.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline: Day 6</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.5" spread="2.12"/>
+                    <measurement group_id="O2" value="-2.0" spread="0.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline: Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.0" spread="2.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline for Number of Participants on the Modified WHO Ordinal Scale at Each Visit</title>
+        <description>A modified WHO ordinal scale was used for consistency with the recent study in adults hospitalized with severe COVID-19, to record the participant's status at the time of assessment. The modified WHO ordinal scale included the following levels :&#xD;
+1= Not hospitalized, no limitations on activities; 2= Not hospitalized, limitation on activities; 3= Hospitalized, not requiring supplemental oxygen; 4= Hospitalized, requiring supplemental oxygen; 5= Hospitalized, on non-invasive ventilation or high-flow oxygen devices; 6= Hospitalized, on invasive mechanical ventilation or extra corporeal membrane oxygenation (ECMO); 7= Death. Higher scores mean worse outcome. Change from baseline for Number of Participants on the modified WHO ordinal scale was assesed.</description>
+        <time_frame>Day 1 (Baseline), Day 2, 3, 4, 5, 6, and 7</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline for Number of Participants on the Modified WHO Ordinal Scale at Each Visit</title>
+          <description>A modified WHO ordinal scale was used for consistency with the recent study in adults hospitalized with severe COVID-19, to record the participant's status at the time of assessment. The modified WHO ordinal scale included the following levels :&#xD;
+1= Not hospitalized, no limitations on activities; 2= Not hospitalized, limitation on activities; 3= Hospitalized, not requiring supplemental oxygen; 4= Hospitalized, requiring supplemental oxygen; 5= Hospitalized, on non-invasive ventilation or high-flow oxygen devices; 6= Hospitalized, on invasive mechanical ventilation or extra corporeal membrane oxygenation (ECMO); 7= Death. Higher scores mean worse outcome. Change from baseline for Number of Participants on the modified WHO ordinal scale was assesed.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale -3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale -2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale -1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2: change from baseline: Modified WHO 7-point ordinal scale 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale -3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale -2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale -1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3: change from baseline: Modified WHO 7-point ordinal scale 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale -3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale -2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale -1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4: change from baseline: Modified WHO 7-point ordinal scale 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale -3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale -2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale -1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5: change from baseline: Modified WHO 7-point ordinal scale 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale -3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale -2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale -1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6: change from baseline: Modified WHO 7-point ordinal scale 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale -3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale -2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale -1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: change from baseline: Modified WHO 7-point ordinal scale 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Improvement of at Least One Level Lower on the Modified WHO Ordinal Scale</title>
+        <description>Time to improvement is the time in which the participant sees a decrease after first study treatment in the WHO 7-point ordinal scale from baseline to a value at least one level lower in days (date of decrease in WHO scale - first dose date + 1). In the case that a patient has not decreased in the WHO scale at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+        <time_frame>From Baseline to Day 28</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. Here, the Overall Number of Participants Analyzed signified only the participants who decrease by at least one level.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Improvement of at Least One Level Lower on the Modified WHO Ordinal Scale</title>
+          <description>Time to improvement is the time in which the participant sees a decrease after first study treatment in the WHO 7-point ordinal scale from baseline to a value at least one level lower in days (date of decrease in WHO scale - first dose date + 1). In the case that a patient has not decreased in the WHO scale at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. Here, the Overall Number of Participants Analyzed signified only the participants who decrease by at least one level.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.00" lower_limit="2.00" upper_limit="10.50"/>
+                    <measurement group_id="O2" value="5.00" lower_limit="5.00" upper_limit="3.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Progression of at Least One Level Higher on the Modified WHO Ordinal Scale</title>
+        <description>Time to progression is the time in which the patient sees an increase after first study treatment in the WHO 7-point ordinal scale from baseline to a value at least one level higher in days (date of increase in WHO scale - first dose date + 1). In the case that a patient has not increased in the WHO scale at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+        <time_frame>From Baseline to Day 28</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. Here, the Overall Number of Participants Analyzed signified only the participants who increase by at least one level.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Progression of at Least One Level Higher on the Modified WHO Ordinal Scale</title>
+          <description>Time to progression is the time in which the patient sees an increase after first study treatment in the WHO 7-point ordinal scale from baseline to a value at least one level higher in days (date of increase in WHO scale - first dose date + 1). In the case that a patient has not increased in the WHO scale at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. Here, the Overall Number of Participants Analyzed signified only the participants who increase by at least one level.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" lower_limit="NA" upper_limit="NA">As only 1 participant was evaluable, hence Median and Full range is not calculable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Adverse Events</title>
+        <description>AEs (non-serious) as variables of safety and tolerability of RESP301 were assessed.&#xD;
+Severe AEs is defined as an event that prevents normal everyday activities. An AE that is assessed as severe should not be confused with an SAE. Severe is a category utilized for rating the intensity of an event; and both AE and SAE can be assessed as severe.</description>
+        <time_frame>From screening to safety follow up (Day 28)</time_frame>
+        <population>The safety analysis set includes the safety (SP) population would include all randomized participants who inhale any amount of study intervention or were randomized to the control arm. The SP would be analyzed according to the actual treatment received. This set will be used for the safety analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events</title>
+          <description>AEs (non-serious) as variables of safety and tolerability of RESP301 were assessed.&#xD;
+Severe AEs is defined as an event that prevents normal everyday activities. An AE that is assessed as severe should not be confused with an SAE. Severe is a category utilized for rating the intensity of an event; and both AE and SAE can be assessed as severe.</description>
+          <population>The safety analysis set includes the safety (SP) population would include all randomized participants who inhale any amount of study intervention or were randomized to the control arm. The SP would be analyzed according to the actual treatment received. This set will be used for the safety analyses.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Participants with at least one AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one AE of Grade 3 or higher</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one treatment-related AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one severe AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one AE leading to study treatment withdrawal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one treatment-related AE leading to study treatment withdrawal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one AE leading to dose interruption</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with at least one treatment-related AE leading to dose interruption</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Hospital Discharge</title>
+        <description>Time to hospital discharge is the time in the hospital after first study treatment in days (date of discharge - first dose date + 1). Patients who die before leaving the hospital would be considered failures (did not achieve hospital discharge) and censored. In the case that a patient is still hospitalized at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+        <time_frame>Day 10</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. Here, the Overall Number of Participants Analyzed signified only the participants who were discharged from hospital.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Hospital Discharge</title>
+          <description>Time to hospital discharge is the time in the hospital after first study treatment in days (date of discharge - first dose date + 1). Patients who die before leaving the hospital would be considered failures (did not achieve hospital discharge) and censored. In the case that a patient is still hospitalized at time of analysis or withdraws from the study before leaving the hospital, they would be censored at their date of last assessment in the data cut or early discontinuation date, respectively.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. Here, the Overall Number of Participants Analyzed signified only the participants who were discharged from hospital.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.00" lower_limit="3.00" upper_limit="6.00"/>
+                    <measurement group_id="O2" value="6.00" lower_limit="5.00" upper_limit="6.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Mortality by Day 28</title>
+        <description>Incidence of mortality by Day 28 is the number of participants who have died by Day 28 and the percentage of patients reaching this endpoint will be summarized by treatment group.</description>
+        <time_frame>Day 28</time_frame>
+        <population>The safety analysis set includes the safety (SP) population would include all randomized participants who inhale any amount of study intervention or were randomized to the control arm. The SP would be analyzed according to the actual treatment received. This set will be used for the safety analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Mortality by Day 28</title>
+          <description>Incidence of mortality by Day 28 is the number of participants who have died by Day 28 and the percentage of patients reaching this endpoint will be summarized by treatment group.</description>
+          <population>The safety analysis set includes the safety (SP) population would include all randomized participants who inhale any amount of study intervention or were randomized to the control arm. The SP would be analyzed according to the actual treatment received. This set will be used for the safety analyses.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Reduction in Oxygen Saturation (SpO2) to &lt;90%</title>
+        <description>Room Air SpO2 for a summary of participants with reduction to &lt; 90%, unless well clinically tolerated according to Investigator's opinion was assesed.</description>
+        <time_frame>Day 1 (Baseline), Day 2, Day 3</time_frame>
+        <population>The intent-to-treat (ITT) population included all randomized participants. Here, the number analyzed in each row signified only the participants that were analyzed for each time point.&#xD;
+Standard of Care (SoC) participants did not receive any nebulization. Hence, no participants were analyzed for Pre-nebulization and Post-nebulization. Therefore, no data were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Reduction in Oxygen Saturation (SpO2) to &lt;90%</title>
+          <description>Room Air SpO2 for a summary of participants with reduction to &lt; 90%, unless well clinically tolerated according to Investigator's opinion was assesed.</description>
+          <population>The intent-to-treat (ITT) population included all randomized participants. Here, the number analyzed in each row signified only the participants that were analyzed for each time point.&#xD;
+Standard of Care (SoC) participants did not receive any nebulization. Hence, no participants were analyzed for Pre-nebulization and Post-nebulization. Therefore, no data were available.</population>
+          <units>Percent change</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="2"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 Pre-Nebulization</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.0" spread="NA">As only 1 participant was evaluable, hence SD is not calculable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 1 Post-Nebulization</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.5" spread="2.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 Pre-Nebulization</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.0" spread="NA">As only 1 participant was evaluable, hence SD is not calculable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 Post-Nebulization</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="86.0" spread="NA">As only 1 participant was evaluable, hence SD is not calculable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 Pre-Nebulization</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.0" spread="NA">As only 1 participant was evaluable, hence SD is not calculable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 Post-Nebulization</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.0" spread="NA">As only 1 participant was evaluable, hence SD is not calculable.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Events of Clinical Bronchial Hyper Responsiveness Related to Nebulization</title>
+        <description>Incidence of clinical bronchial hyper responsiveness related to nebulization was assessed. Oxygen saturation decreased and wheezing was assessed as an incidence of clinical bronchial hyper-responsiveness related to nebulization, requiring temporal increase of supplemental oxygen.</description>
+        <time_frame>From screening to safety follow up (Day 28)</time_frame>
+        <population>The safety analysis set includes the safety (SP) population would include all randomized participants who inhale any amount of study intervention or were randomized to the control arm. The SP would be analyzed according to the actual treatment received. This set will be used for the safety analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>RESP301+SoC</title>
+            <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Events of Clinical Bronchial Hyper Responsiveness Related to Nebulization</title>
+          <description>Incidence of clinical bronchial hyper responsiveness related to nebulization was assessed. Oxygen saturation decreased and wheezing was assessed as an incidence of clinical bronchial hyper-responsiveness related to nebulization, requiring temporal increase of supplemental oxygen.</description>
+          <population>The safety analysis set includes the safety (SP) population would include all randomized participants who inhale any amount of study intervention or were randomized to the control arm. The SP would be analyzed according to the actual treatment received. This set will be used for the safety analyses.</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From screening to safety follow up (30 days)</time_frame>
+      <desc>Severe AEs is defined as an event that prevents normal everyday activities. An AE that is assessed as severe should not be confused with an SAE. Severe is a category utilized for rating the intensity of an event; and both AE and SAE can be assessed as severe.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>RESP301+SoC</title>
+          <description>Participants received inhaled RESP301 administered using a nebulizer three times a day (TID) for up to 10 days in addition to the standard of care (SoC).</description>
+        </group>
+        <group group_id="E2">
+          <title>Standard of Care (SoC) Standard of Care (SoC)</title>
+          <description>Participants received institutional SOC alone for the treatment of COVID-19.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>23.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest Pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Non-Cardiac Chest Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Oedema</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Peripheral Swelling</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Oxygen Saturation Decreased</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Liver Function Test Increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Lymphocyte Count Decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Pain In Extremity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Loss Of Consciousness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal Discomfort</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal Pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Wheezing</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Alison Bracchi, MSc</name_or_title>
+      <organization>Thirty Respiratory Ltd</organization>
+      <phone>+447763882519</phone>
+      <email>alison.bracchi@30.technology</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

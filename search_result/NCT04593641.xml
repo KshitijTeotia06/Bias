@@ -1,0 +1,2094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="123">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04593641</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-P59 1.2</org_study_id>
+    <secondary_id>2020-003165-19</secondary_id>
+    <nct_id>NCT04593641</nct_id>
+  </id_info>
+  <brief_title>This is a Phase 1 Study to Evaluate the Safety,Tolerability and Virology of CT P59 in Patients With Mild Symptoms of Symptoms of Coronavirus Disease (COVID-19)</brief_title>
+  <official_title>A Pilot Phase 1, Randomized, Double-blind, Placebo-controlled, Parallel Group, Single Ascending Dose Study to Evaluate the Safety, Tolerability and Virology of CT-P59 in Patient With Mild Symptoms of SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celltrion</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celltrion</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I study that randomized, double-blind, Placebo-controlled, Parallel Group,&#xD;
+      Single Ascending Dose Study to evaluate Safety, Tolerability and Virology of CT-P59 in&#xD;
+      Patient with Mild Symptoms of Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2)&#xD;
+      Infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      'CT-P59 is a monoclonal antibody targeted against SARS-CoV-2 spike receptor binding protein&#xD;
+      as a treatment for SARS CoV 2 infection. CT-P59 is currently being developed by the Sponsor&#xD;
+      as a potential treatment for SARS-CoV-2 infection. In this study, safety, tolerability and&#xD;
+      virology of CT-P59 will be evaluated in patient with mild symptoms of SARS-CoV-2 Infection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 4, 2020</start_date>
+  <completion_date type="Actual">April 5, 2021</completion_date>
+  <primary_completion_date type="Actual">October 26, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Patients With TEAEs</measure>
+    <time_frame>Up to Day 14</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Patients With Treatment-Emergent Serious Adverse Events (TESAEs)</measure>
+    <time_frame>Up to Day 14</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Patients With Treatment-Emergent Adverse Events of Special Interest (TEAESI; Infusion Related Reactions Including Hypersensitivity/Anaphylactic Reaction)</measure>
+    <time_frame>Up to Day 14</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Patients With Potential Effects on the Incidence of Antibody-Dependent Enhancement (ADE)</measure>
+    <time_frame>Up to Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The Percentage of Patients With Positive/Negative for Quantitative Polymerase Chain Reaction (qPCR)</measure>
+    <time_frame>At Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Viral Shedding in Nasopharyngeal Swab Specimens for qPCR</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Concentration-time Curve of Viral Titers for qPCR</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Actual Results and Change From Baseline for Viral Shedding in Nasopharyngeal Swab Specimens for qPCR</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Clinical Recovery</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Supplemental Oxygen</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Intensive Care Unit Transfer</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Mechanical Ventilation</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With All-cause Mortality</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Hospital Admission</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Concentration-time Curve From Time Zero to Infinity (AUC0-inf) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Cmax (Tmax) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose Normalized AUC0-inf (AUC0-inf/Dose) of CT-P59 (Normalized to Total Body Dose)</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal Half-life (t1/2) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of AUC0-inf Obtained by Extrapolation (%AUCext) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal Elimination Rate Constant (λz) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Body Clearance (CL) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Distribution During the Elimination Phase (Vz) of CT-P59</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 will receive a dose of CT-P59 or matching placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: CT-P59&#xD;
+CT-P59 will be administered&#xD;
+Drug: Placebo&#xD;
+Placebo-matching CT-P59</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 will receive a dose of CT-P59 or matching placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: CT-P59&#xD;
+CT-P59 will be administered&#xD;
+Drug: Placebo&#xD;
+Placebo-matching CT-P59</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 will receive a dose of CT-P59 or matching placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: CT-P59&#xD;
+CT-P59 will be administered&#xD;
+Drug: Placebo&#xD;
+Placebo-matching CT-P59</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CT-P59</intervention_name>
+    <description>administered</description>
+    <arm_group_label>Cohort 1 will receive a dose of CT-P59 or matching placebo</arm_group_label>
+    <arm_group_label>Cohort 2 will receive a dose of CT-P59 or matching placebo</arm_group_label>
+    <arm_group_label>Cohort 3 will receive a dose of CT-P59 or matching placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Each patient must meet all of the following criteria to be randomized in this study:&#xD;
+&#xD;
+          1. Adult male or female patient, aged between 18 to 60 years (both inclusive).&#xD;
+&#xD;
+          2. Patient with laboratory confirmed SARS-CoV-2 infection by Reverse Transcription&#xD;
+             Polymerase Chain Reaction (RT-PCR) at Screening.&#xD;
+&#xD;
+          3. Patient has mild conditions meeting all of the following criteria:&#xD;
+&#xD;
+               1. Oxygen saturation ≥ 94% on room air.&#xD;
+&#xD;
+               2. Not requiring supplemental oxygen.&#xD;
+&#xD;
+          4. Onset of symptom is no more than 7 days prior to the study drug administration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Patient with severe condition meeting one of the following:&#xD;
+&#xD;
+          1. Respiratory distress with respiratory rate ≥ 30 breaths/min.&#xD;
+&#xD;
+          2. Requires supplemental oxygen.&#xD;
+&#xD;
+          3. Experience shock.&#xD;
+&#xD;
+          4. Complicated with other organs failure, and intensive care unit monitoring treatment is&#xD;
+             needed by investigator's discretion.&#xD;
+&#xD;
+          5. Any other conditions suspected of being severe symptoms of SARS-CoV-2 infection, in&#xD;
+             the opinion of the investigator, including but not limited to radiographic findings in&#xD;
+             lung.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Incheon Medical Center</name>
+      <address>
+        <city>Incheon</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>October 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2020</study_first_posted>
+  <results_first_submitted>December 23, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 6, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 8, 2022</results_first_posted>
+  <last_update_submitted>April 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 27, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/41/NCT04593641/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 14, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/41/NCT04593641/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>CT-P59 20 mg/kg</title>
+          <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="P2">
+          <title>CT-P59 40 mg/kg</title>
+          <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="P3">
+          <title>CT-P59 80 mg/kg</title>
+          <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="P4">
+          <title>Placebo</title>
+          <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="5"/>
+                <participants group_id="P3" count="5"/>
+                <participants group_id="P4" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="5"/>
+                <participants group_id="P3" count="5"/>
+                <participants group_id="P4" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>CT-P59 20 mg/kg</title>
+          <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="B2">
+          <title>CT-P59 40 mg/kg</title>
+          <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="B3">
+          <title>CT-P59 80 mg/kg</title>
+          <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="B4">
+          <title>Placebo</title>
+          <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="5"/>
+            <count group_id="B2" value="5"/>
+            <count group_id="B3" value="5"/>
+            <count group_id="B4" value="3"/>
+            <count group_id="B5" value="18"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59" lower_limit="49" upper_limit="61"/>
+                    <measurement group_id="B2" value="51" lower_limit="25" upper_limit="52"/>
+                    <measurement group_id="B3" value="52" lower_limit="29" upper_limit="59"/>
+                    <measurement group_id="B4" value="50" lower_limit="49" upper_limit="57"/>
+                    <measurement group_id="B5" value="52" lower_limit="25" upper_limit="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>South Korea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Romania</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With TEAEs</title>
+        <time_frame>Up to Day 14</time_frame>
+        <population>Safety set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With TEAEs</title>
+          <population>Safety set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="3"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With Treatment-Emergent Serious Adverse Events (TESAEs)</title>
+        <time_frame>Up to Day 14</time_frame>
+        <population>Safety set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Treatment-Emergent Serious Adverse Events (TESAEs)</title>
+          <population>Safety set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With Treatment-Emergent Adverse Events of Special Interest (TEAESI; Infusion Related Reactions Including Hypersensitivity/Anaphylactic Reaction)</title>
+        <time_frame>Up to Day 14</time_frame>
+        <population>Safety set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Treatment-Emergent Adverse Events of Special Interest (TEAESI; Infusion Related Reactions Including Hypersensitivity/Anaphylactic Reaction)</title>
+          <population>Safety set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With Potential Effects on the Incidence of Antibody-Dependent Enhancement (ADE)</title>
+        <time_frame>Up to Day 14</time_frame>
+        <population>Safety set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Potential Effects on the Incidence of Antibody-Dependent Enhancement (ADE)</title>
+          <population>Safety set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Percentage of Patients With Positive/Negative for Quantitative Polymerase Chain Reaction (qPCR)</title>
+        <time_frame>At Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Percentage of Patients With Positive/Negative for Quantitative Polymerase Chain Reaction (qPCR)</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>The number of patients with negative for qPCR</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>The number of patients with positive for qPCR</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>The number of patients who did not obtain any result for qPCR</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Viral Shedding in Nasopharyngeal Swab Specimens for qPCR</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Viral Shedding in Nasopharyngeal Swab Specimens for qPCR</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.49" spread="6.891"/>
+                    <measurement group_id="O2" value="12.50" spread="10.194"/>
+                    <measurement group_id="O3" value="18.51" spread="9.344"/>
+                    <measurement group_id="O4" value="14.19" spread="11.879"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Concentration-time Curve of Viral Titers for qPCR</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Concentration-time Curve of Viral Titers for qPCR</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>(log10cp/mL)*days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55.45" spread="15.964"/>
+                    <measurement group_id="O2" value="41.05" spread="38.738"/>
+                    <measurement group_id="O3" value="56.26" spread="28.358"/>
+                    <measurement group_id="O4" value="60.26" spread="60.062"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Actual Results and Change From Baseline for Viral Shedding in Nasopharyngeal Swab Specimens for qPCR</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Actual Results and Change From Baseline for Viral Shedding in Nasopharyngeal Swab Specimens for qPCR</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>log10cp/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Actual results for viral shedding in nasopharyngeal swab specimens for qPCR at Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.382" spread="0.8542"/>
+                    <measurement group_id="O2" value="0.452" spread="1.0107"/>
+                    <measurement group_id="O3" value="1.008" spread="1.1665"/>
+                    <measurement group_id="O4" value="0.637" spread="1.1027"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from baseline for viral shedding in nasopharyngeal swab specimens for qPCR up to Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-6.326" spread="0.9801"/>
+                    <measurement group_id="O2" value="-4.258" spread="1.8477"/>
+                    <measurement group_id="O3" value="-5.723" spread="1.6683"/>
+                    <measurement group_id="O4" value="-4.367" spread="1.0060"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Clinical Recovery</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Clinical Recovery</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="5"/>
+                    <measurement group_id="O4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Supplemental Oxygen</title>
+        <time_frame>Up to Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Supplemental Oxygen</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Intensive Care Unit Transfer</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Intensive Care Unit Transfer</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Mechanical Ventilation</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Mechanical Ventilation</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With All-cause Mortality</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With All-cause Mortality</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Hospital Admission</title>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Intent-to-Treat (ITT) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Hospital Admission</title>
+          <population>Intent-to-Treat (ITT) set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Concentration-time Curve From Time Zero to Infinity (AUC0-inf) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Concentration-time Curve From Time Zero to Infinity (AUC0-inf) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <population>Pharmacokinetic (PK) set.</population>
+          <units>hr*ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="84538893.8" spread="10202293.97"/>
+                    <measurement group_id="O2" value="178065255.1" spread="16390524.47"/>
+                    <measurement group_id="O3" value="433826801.0" spread="112102013.80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Cmax (Tmax) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Cmax (Tmax) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <population>Pharmacokinetic (PK) set.</population>
+          <units>hr</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.500" lower_limit="1.5" upper_limit="2.5"/>
+                    <measurement group_id="O2" value="2.500" lower_limit="1.55" upper_limit="2.58"/>
+                    <measurement group_id="O3" value="2.500" lower_limit="1.53" upper_limit="2.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Dose Normalized AUC0-inf (AUC0-inf/Dose) of CT-P59 (Normalized to Total Body Dose)</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Dose Normalized AUC0-inf (AUC0-inf/Dose) of CT-P59 (Normalized to Total Body Dose)</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <population>Pharmacokinetic (PK) set.</population>
+          <units>hr*ng/mL/mg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="62595.7" spread="7539.48"/>
+                    <measurement group_id="O2" value="58838.6" spread="10090.23"/>
+                    <measurement group_id="O3" value="60936.0" spread="11969.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Terminal Half-life (t1/2) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Terminal Half-life (t1/2) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <units>hr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="357.1" spread="41.06"/>
+                    <measurement group_id="O2" value="380.8" spread="25.35"/>
+                    <measurement group_id="O3" value="496.3" spread="133.26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of AUC0-inf Obtained by Extrapolation (%AUCext) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of AUC0-inf Obtained by Extrapolation (%AUCext) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <units>Percentage of the extrapolated area</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.917" spread="10.073"/>
+                    <measurement group_id="O2" value="1.242" spread="0.48091"/>
+                    <measurement group_id="O3" value="3.953" spread="2.2905"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Terminal Elimination Rate Constant (λz) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Terminal Elimination Rate Constant (λz) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <population>Pharmacokinetic (PK) set.</population>
+          <units>1/hr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00196" spread="0.00024353"/>
+                    <measurement group_id="O2" value="0.001827" spread="0.00012290"/>
+                    <measurement group_id="O3" value="0.001493" spread="0.00046237"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Body Clearance (CL) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Body Clearance (CL) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <units>mL/hr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.18" spread="2.0775"/>
+                    <measurement group_id="O2" value="17.46" spread="3.4120"/>
+                    <measurement group_id="O3" value="16.86" spread="2.8482"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Volume of Distribution During the Elimination Phase (Vz) of CT-P59</title>
+        <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+        <time_frame>Up to Day 90</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Volume of Distribution During the Elimination Phase (Vz) of CT-P59</title>
+          <description>The PK parameters were calculated by noncompartmental methods based on the actual sampling time points using Phoenix WinNonlin Version 8.3 (Pharsight, St Louis, Missouri, USA).</description>
+          <units>mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8351.9" spread="1676.84"/>
+                    <measurement group_id="O2" value="9514.7" spread="1357.53"/>
+                    <measurement group_id="O3" value="11968.2" spread="3725.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were assessed from the date the patients signed the ICF until end-of-treatment visit (up to Day 90).</time_frame>
+      <desc>Treatment Period: Day 1 to Day 90</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>CT-P59 20 mg/kg</title>
+          <description>Patients were administered CT-P59 (20 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="E2">
+          <title>CT-P59 40 mg/kg</title>
+          <description>Patients were administered CT-P59 (40 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="E3">
+          <title>CT-P59 80 mg/kg</title>
+          <description>Patients were administered CT-P59 (80 mg/kg) by IV infusion with standard of care on Day 1.</description>
+        </group>
+        <group group_id="E4">
+          <title>Placebo</title>
+          <description>Patients were administered Placebo (same volume as the active dose used for CT-P59 in each cohort) by IV infusion with standard of care on Day 1.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>3</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Palpitations</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Conjunctival haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatocellular injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="3"/>
+              </event>
+              <event>
+                <sub_title>Candida infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+              <event>
+                <sub_title>Blood creatine phosphokinase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertriglyceridaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>JiWoong Lim</name_or_title>
+      <organization>Celltrion Inc.</organization>
+      <phone>82-32-850-5806</phone>
+      <email>jiwoong.lim@celltrion.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

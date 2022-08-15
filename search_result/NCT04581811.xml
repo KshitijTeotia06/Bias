@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="135">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04581811</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-300005979</org_study_id>
+    <nct_id>NCT04581811</nct_id>
+  </id_info>
+  <brief_title>Prolonged Prone Positioning for COVID-19-induced Acute Respiratory Distress Syndrome (ARDS)</brief_title>
+  <official_title>Prolonged Prone Positioning for COVID-19-induced Acute Respiratory Distress Syndrome (ARDS): A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prone positioning is one of the few therapies known to improve mortality in ARDS.&#xD;
+      Traditionally, patients are proned for 16 hours per 24 hour period. Some retrospective data&#xD;
+      suggests improvement may persist beyond 16 hours. We aim to perform a pilot study comparing&#xD;
+      traditional prone positioning to prolonged prone positioning in patients with COVID-induced&#xD;
+      ARDS.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 10, 2020</start_date>
+  <completion_date type="Actual">March 20, 2021</completion_date>
+  <primary_completion_date type="Actual">March 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration in Prone Position</measure>
+    <time_frame>96 hours</time_frame>
+    <description>Time spent in the prone position of hours eligible for prone positioning</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in P:F Ratio</measure>
+    <time_frame>End of supine session on day 4</time_frame>
+    <description>Change in PaO2 on ABG to FiO2 ratio from immediately prior to initiation of prone positioning to end of study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Drive Pressure</measure>
+    <time_frame>End of supine session on day 4</time_frame>
+    <description>Change in drive pressure from immediately prior to initiation of prone positioning to end of the study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Unplanned Extubations</measure>
+    <time_frame>End of supine session on day 4</time_frame>
+    <description>Number of unplanned extubations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pressure Ulcers</measure>
+    <time_frame>End of supine session on day 4</time_frame>
+    <description>Number of patients with pressure ulcers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Line Displacement</measure>
+    <time_frame>End of supine session on day 4</time_frame>
+    <description>Number of displaced central venous line or arterial line</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vent Free Days</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days free from mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Mortality at 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rescue Interventions</measure>
+    <time_frame>96 hours</time_frame>
+    <description>Patients in which new initiation of inhaled pulmonary vasodilators, ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tracheostomy</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of patients who have placement of tracheostomy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU Free Days</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days not in ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>S:F Ratio</measure>
+    <time_frame>96 hours</time_frame>
+    <description>Ratio of SpO2 to FiO2</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">52</enrollment>
+  <condition>ARDS</condition>
+  <condition>Covid19</condition>
+  <condition>Acute Hypoxemic Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Prolonged Proning Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive 24 hours in the prone position followed by 8 hours in the supine position for the duration of the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Traditional Proning Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive standard 16 hour prone positioning followed by 8 hours in the supine position for the duration of the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Prolonged Proned Positioning</intervention_name>
+    <description>Patients will be placed in the prone position for 24 hours followed by 8 hours supine for consecutive periods for the duration of the study period</description>
+    <arm_group_label>Prolonged Proning Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Traditional Proning Arm</intervention_name>
+    <description>Patients will be placed in the prone position for 16 hours followed by 8 hours supine for consecutive periods for the duration of the study period</description>
+    <arm_group_label>Traditional Proning Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Positive COVID test Endotracheal Intubation P:F &lt;150 within 1hours of inclusion on at least&#xD;
+        60% FiO2, 10cmH20 PEEP Treating physician plans to implement prone positioning imminently&#xD;
+        Housed in the UAB MICU.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Pre-existing treatment limitation (e.g. DNR order) Prisoner Pregnant Female Children (&lt;18&#xD;
+        years old) Respiratory Failure felt to be caused primarily by something other than COVID-19&#xD;
+        Mechanical ventilation for &gt;48 hours prior to initiation of prone positioning&#xD;
+        Contraindication to proning Physician discretion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <results_first_submitted>February 25, 2022</results_first_submitted>
+  <results_first_submitted_qc>March 29, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 31, 2022</results_first_posted>
+  <last_update_submitted>March 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>David Page</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT04581811/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Prolonged Proning Arm</title>
+          <description>Patients will receive 24 hours in the prone position followed by 8 hours in the supine position for the duration of the study&#xD;
+Prolonged Proned Positioning: Patients will be placed in the prone position for 24 hours followed by 8 hours supine for consecutive periods for the duration of the study period</description>
+        </group>
+        <group group_id="P2">
+          <title>Traditional Proning Arm</title>
+          <description>Patients will receive standard 16 hour prone positioning followed by 8 hours in the supine position for the duration of the study&#xD;
+Traditional Proning Arm: Patients will be placed in the prone position for 16 hours followed by 8 hours supine for consecutive periods for the duration of the study period</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="26"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="26"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Prolonged Proning Arm</title>
+          <description>Patients will receive 24 hours in the prone position followed by 8 hours in the supine position for the duration of the study&#xD;
+Prolonged Proned Positioning: Patients will be placed in the prone position for 24 hours followed by 8 hours supine for consecutive periods for the duration of the study period</description>
+        </group>
+        <group group_id="B2">
+          <title>Traditional Proning Arm</title>
+          <description>Patients will receive standard 16 hour prone positioning followed by 8 hours in the supine position for the duration of the study&#xD;
+Traditional Proning Arm: Patients will be placed in the prone position for 16 hours followed by 8 hours supine for consecutive periods for the duration of the study period</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="26"/>
+            <count group_id="B2" value="26"/>
+            <count group_id="B3" value="52"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="64" spread="14"/>
+                    <measurement group_id="B2" value="62" spread="12"/>
+                    <measurement group_id="B3" value="63" spread="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Duration in Prone Position</title>
+        <description>Time spent in the prone position of hours eligible for prone positioning</description>
+        <time_frame>96 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration in Prone Position</title>
+          <description>Time spent in the prone position of hours eligible for prone positioning</description>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56.6" spread="20.6"/>
+                    <measurement group_id="O2" value="45.7" spread="20.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in P:F Ratio</title>
+        <description>Change in PaO2 on ABG to FiO2 ratio from immediately prior to initiation of prone positioning to end of study period</description>
+        <time_frame>End of supine session on day 4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in P:F Ratio</title>
+          <description>Change in PaO2 on ABG to FiO2 ratio from immediately prior to initiation of prone positioning to end of study period</description>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.6" spread="39.9"/>
+                    <measurement group_id="O2" value="44.3" spread="63.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Drive Pressure</title>
+        <description>Change in drive pressure from immediately prior to initiation of prone positioning to end of the study period</description>
+        <time_frame>End of supine session on day 4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Drive Pressure</title>
+          <description>Change in drive pressure from immediately prior to initiation of prone positioning to end of the study period</description>
+          <units>cm H20</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.16" spread="3.26"/>
+                    <measurement group_id="O2" value="0.88" spread="4.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Unplanned Extubations</title>
+        <description>Number of unplanned extubations</description>
+        <time_frame>End of supine session on day 4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Unplanned Extubations</title>
+          <description>Number of unplanned extubations</description>
+          <units>Unplanned Extubations</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pressure Ulcers</title>
+        <description>Number of patients with pressure ulcers</description>
+        <time_frame>End of supine session on day 4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pressure Ulcers</title>
+          <description>Number of patients with pressure ulcers</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Line Displacement</title>
+        <description>Number of displaced central venous line or arterial line</description>
+        <time_frame>End of supine session on day 4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Line Displacement</title>
+          <description>Number of displaced central venous line or arterial line</description>
+          <units>Central Venous or Arterial LineDislodged</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Vent Free Days</title>
+        <description>Number of days free from mechanical ventilation</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Vent Free Days</title>
+          <description>Number of days free from mechanical ventilation</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.27" spread="9.15"/>
+                    <measurement group_id="O2" value="5.81" spread="9.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality</title>
+        <description>Mortality at 30 days</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>Mortality at 30 days</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rescue Interventions</title>
+        <description>Patients in which new initiation of inhaled pulmonary vasodilators, ECMO</description>
+        <time_frame>96 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rescue Interventions</title>
+          <description>Patients in which new initiation of inhaled pulmonary vasodilators, ECMO</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Tracheostomy</title>
+        <description>Number of patients who have placement of tracheostomy</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Tracheostomy</title>
+          <description>Number of patients who have placement of tracheostomy</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU Free Days</title>
+        <description>Number of days not in ICU</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU Free Days</title>
+          <description>Number of days not in ICU</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.35" spread="7.14"/>
+                    <measurement group_id="O2" value="4.15" spread="7.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>S:F Ratio</title>
+        <description>Ratio of SpO2 to FiO2</description>
+        <time_frame>96 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Prolonged Proning Arm</title>
+            <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+          <group group_id="O2">
+            <title>Traditional Proning Arm</title>
+            <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>S:F Ratio</title>
+          <description>Ratio of SpO2 to FiO2</description>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.70" spread="0.48"/>
+                    <measurement group_id="O2" value="1.69" spread="0.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Prolonged Proning Arm</title>
+          <description>Patients will receive 24 hours in the prone position followed by up to 8 hours in the supine position for the duration of the study</description>
+        </group>
+        <group group_id="E2">
+          <title>Traditional Proning Arm</title>
+          <description>Patients will receive standard 16 hour prone positioning followed by up to 8 hours in the supine position for the duration of the study</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="26"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="26"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="26"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>David Page - PI</name_or_title>
+      <organization>UAB Hospital</organization>
+      <phone>205-975-7387</phone>
+      <email>dpage1@uabmc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

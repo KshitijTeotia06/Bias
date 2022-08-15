@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="38">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04701658</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18216</org_study_id>
+    <secondary_id>J2X-MC-PYAJ</secondary_id>
+    <nct_id>NCT04701658</nct_id>
+  </id_info>
+  <brief_title>A Real World Study of Bamlanivimab in Participants With Mild-to-Moderate Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <acronym>BLAZE-5</acronym>
+  <official_title>A Prospective Cohort Study to Evaluate the Real-world Effectiveness of Bamlanivimab in Participants With Mild-to-moderate COVID-19 at High Risk for Progressing to Severe Illness, With Matched Controls</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AbCellera Biologics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find out whether bamlanivimab is able to stop COVID-19 from&#xD;
+      getting worse. Participants with mild-to-moderate COVID-19 will receive bamlanivimab via an&#xD;
+      injection into a vein. These participants will be matched to similar COVID-19 patients who&#xD;
+      received other treatment at a local medical center. All participants will be followed to&#xD;
+      learn how their disease responds. Participation could last about 3 months and includes two&#xD;
+      required visits to the study site, with the remainder of assessments performed by phone or by&#xD;
+      medical record review.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Actual">June 22, 2021</completion_date>
+  <primary_completion_date type="Actual">June 22, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Who Experience COVID-19 Related Hospitalization or Death From Any Cause</measure>
+    <time_frame>Baseline through Days 29, 60, and 90</time_frame>
+    <description>Percentage of Participants who Experience COVID-19 Related Hospitalization or Death From Any Cause. Hospitalization is defined as ≥24 hours of acute care.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With a COVID-19-related Hospitalization</measure>
+    <time_frame>Baseline through Days 29, 60, and 90</time_frame>
+    <description>Hospitalization is defined as ≥24 hours of acute care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With a COVID-related Emergency Department (ED) Visit</measure>
+    <time_frame>Baseline through Days 29, 60, and 90</time_frame>
+    <description>Percentage of Participants with a COVID-related ED Visit.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">109</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Bamlanivimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received 700 milligram single intravenous infusion of Bamlanivimab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Matched controls who received standard of care.&#xD;
+[The study was originally designed to include a matched control arm. However, due to low enrollment, it was amended to be a single arm study with Bamlanivimab arm only. No matched controls were utilized.]</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bamlanivimab</intervention_name>
+    <description>Administered intravenously.</description>
+    <arm_group_label>Bamlanivimab</arm_group_label>
+    <other_name>LY3819253</other_name>
+    <other_name>LY-CoV555</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Are currently not hospitalized.&#xD;
+&#xD;
+          -  Have one or more mild or moderate COVID-19 symptoms.&#xD;
+&#xD;
+          -  Must have first positive severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)&#xD;
+             viral infection determination and as soon as possible within 10 days of symptom onset&#xD;
+&#xD;
+          -  Are males or non-breastfeeding females.&#xD;
+&#xD;
+          -  Contraceptive use by males or females should be consistent with local regulations for&#xD;
+             those participating in clinical studies.&#xD;
+&#xD;
+          -  Are at high risk for progressing to severe COVID-19 and/or hospitalization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who:&#xD;
+&#xD;
+               -  are hospitalized due to COVID-19, OR&#xD;
+&#xD;
+               -  require oxygen therapy due to COVID-19, OR&#xD;
+&#xD;
+               -  require an increase in baseline oxygen flow rate due to COVID-19 in those on&#xD;
+                  chronic oxygen therapy due to underlying non-COVID-19 related comorbidity.&#xD;
+&#xD;
+          -  Have peripheral capillary oxygen saturation (SpO2) less than or equal to (≤) 90&#xD;
+             percent on room air or arterial partial pressure of oxygen/fraction of inspired oxygen&#xD;
+             (PaO2/FiO2) less than (&lt;) 300, respiratory rate greater than or equal to (≥) 30 per&#xD;
+             minute, heart rate ≥125 per minute.&#xD;
+&#xD;
+          -  Have body weight &lt;40 kilograms.&#xD;
+&#xD;
+          -  Require mechanical ventilation or anticipated impending need for mechanical&#xD;
+             ventilation.&#xD;
+&#xD;
+          -  Have known allergies to any of the components used in the formulation of the&#xD;
+             interventions.&#xD;
+&#xD;
+          -  Suspected or proven serious, active bacterial, fungal, viral, or other infection&#xD;
+             (besides COVID-19) that in the opinion of the investigator could constitute a risk&#xD;
+             when taking intervention.&#xD;
+&#xD;
+          -  Have any comorbidity requiring surgery within &lt;7 days, or that is considered&#xD;
+             life-threatening within 29 days.&#xD;
+&#xD;
+          -  Have any serious concomitant systemic disease, condition, or disorder that, in the&#xD;
+             opinion of the investigator, should preclude participation in this study.&#xD;
+&#xD;
+          -  Have a history of a positive SARS-CoV-2 serology test.&#xD;
+&#xD;
+          -  Have a history of a positive SARS-CoV-2 test prior to the one serving as eligibility&#xD;
+             for this study.&#xD;
+&#xD;
+          -  Have received an investigational intervention for SARS-CoV-2 prophylaxis within 30&#xD;
+             days before dosing.&#xD;
+&#xD;
+          -  Have received treatment with a SARS-CoV-2-specific monoclonal antibody, remdesivir, or&#xD;
+             other treatment for COVID-19.&#xD;
+&#xD;
+          -  Have received convalescent COVID-19 plasma treatment.&#xD;
+&#xD;
+          -  Have participated in a previous SARS-CoV-2 vaccine study.&#xD;
+&#xD;
+          -  Have participated, within the last 30 days, in a clinical study involving an&#xD;
+             investigational intervention. If the previous investigational intervention has a long&#xD;
+             half-life, 5 half-lives or 30 days, whichever is longer, should have passed.&#xD;
+&#xD;
+          -  Are concurrently enrolled in any other type of medical research judged not to be&#xD;
+             scientifically or medically compatible with this study.&#xD;
+&#xD;
+          -  Are breast-feeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Presbyterian Medical Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/7zjYxdhUwux6y1A18CmrFJ</url>
+    <description>A Real World Study of Bamlanivimab in Participants With Mild-to-moderate Coronavirus Disease 2019 (COVID-19) (BLAZE-5)</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>January 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 8, 2021</study_first_posted>
+  <results_first_submitted>November 11, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 11, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 16, 2021</results_first_posted>
+  <last_update_submitted>November 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bamlanivimab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>http://vivli.org/</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 18, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/58/NCT04701658/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 13, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/58/NCT04701658/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>The study was originally designed to include a matched control arm. However, due to low enrollment, it was amended to be a single arm study with Bamlanivimab arm only. No matched controls were utilized.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Bamlanivimab 700 Milligram (mg)</title>
+          <description>Participants received 700 mg single intravenous (IV) infusion of Bamlanivimab.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="109"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Received Single Dose of Bamlanivimab</title>
+              <participants_list>
+                <participants group_id="P1" count="109"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="103"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All participants who received single dose of Bamlanivimab.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Bamlanivimab 700 mg</title>
+          <description>Participants received 700 mg single IV infusion of Bamlanivimab.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="109"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55.40" spread="15.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="83"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="109"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants Who Experience COVID-19 Related Hospitalization or Death From Any Cause</title>
+        <description>Percentage of Participants who Experience COVID-19 Related Hospitalization or Death From Any Cause. Hospitalization is defined as ≥24 hours of acute care.</description>
+        <time_frame>Baseline through Days 29, 60, and 90</time_frame>
+        <population>All participants who received single dose of Bamlanivimab.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bamlanivimab 700 mg</title>
+            <description>Participants received 700 mg single IV infusion of Bamlanivimab.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Who Experience COVID-19 Related Hospitalization or Death From Any Cause</title>
+          <description>Percentage of Participants who Experience COVID-19 Related Hospitalization or Death From Any Cause. Hospitalization is defined as ≥24 hours of acute care.</description>
+          <population>All participants who received single dose of Bamlanivimab.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="109"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline through Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0" upper_limit="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline through Day 60</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0" upper_limit="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline through Day 90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0" upper_limit="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With a COVID-19-related Hospitalization</title>
+        <description>Hospitalization is defined as ≥24 hours of acute care.</description>
+        <time_frame>Baseline through Days 29, 60, and 90</time_frame>
+        <population>All participants who received single dose of Bamlanivimab.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bamlanivimab 700 mg</title>
+            <description>Participants received 700 mg single IV infusion of Bamlanivimab.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With a COVID-19-related Hospitalization</title>
+          <description>Hospitalization is defined as ≥24 hours of acute care.</description>
+          <population>All participants who received single dose of Bamlanivimab.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="109"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline through Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0" upper_limit="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline through Day 60</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0" upper_limit="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline through Day 90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0" upper_limit="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With a COVID-related Emergency Department (ED) Visit</title>
+        <description>Percentage of Participants with a COVID-related ED Visit.</description>
+        <time_frame>Baseline through Days 29, 60, and 90</time_frame>
+        <population>All participants who received single dose of Bamlanivimab.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bamlanivimab 700 mg</title>
+            <description>Participants received 700 mg single IV infusion of Bamlanivimab.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With a COVID-related Emergency Department (ED) Visit</title>
+          <description>Percentage of Participants with a COVID-related ED Visit.</description>
+          <population>All participants who received single dose of Bamlanivimab.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="109"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline through Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.5" lower_limit="1.2" upper_limit="9.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline through Day 60</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.5" lower_limit="1.2" upper_limit="9.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline through Day 90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.5" lower_limit="1.2" upper_limit="9.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline through Follow-up (Up to 90 days)</time_frame>
+      <desc>All participants who received single dose of Bamlanivimab.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Bamlanivimab 700 mg</title>
+          <description>Participants received 700 mg single IV infusion of Bamlanivimab.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 24.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="109"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholelithiasis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>End stage renal disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA 24.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vision blurred</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Infusion site extravasation</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Paranasal sinus hypersecretion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+              <event>
+                <sub_title>Pharyngeal swelling</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="109"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is more than 60 days but less than or equal to 180 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study was originally designed to include a matched control arm. However, due to low enrollment, it was amended to be a single arm study with Bamlanivimab arm only. No matched controls were utilized. Therefore, no comparative analyses were conducted. All analyses were descriptive in nature and conducted only on Bamlanivimab-treated participants.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Chief Medical Officer</name_or_title>
+      <organization>Eli Lilly and Company</organization>
+      <phone>800-545-5979</phone>
+      <email>ClinicalTrials.gov@lilly.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="100">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04596085</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NS-VC-CT01-20</org_study_id>
+    <nct_id>NCT04596085</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Efficacy and Safety of &quot;VIRACIDE&quot; IN THE MANAGEMENT OF CORONA VIRUS DISEASE 2019 (COVID-19)</brief_title>
+  <official_title>A Double Blind, Randomized, Placebo Controlled Study to Evaluate Efficacy and Safety of &quot;VIRACIDE&quot; in the Management of Corona Virus Disease 2019 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Herb, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ProRelix Services LLP</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Herb, Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double blind randomized placebo controlled study will be conducted on 124 subjects,&#xD;
+      50 years and older with mild or asymptomatic COVID-19. If symptomatic, symptoms are mild&#xD;
+      (cough, weakness, sore throat, low grade fever 38.50С, respiratory rate should not be more&#xD;
+      than 22 / min, resting SpO2 &gt;95%, normal highly sensitive C-reactive protein (HS-CRP)&#xD;
+      (&lt;10mg/L). There are no signs of dehydration, sepsis or shortness of breath.&#xD;
+&#xD;
+      The study will be conducted at two centers. There will be a screening visit at Day -4&#xD;
+      followed by three visits at the center at Days 1, 7 and 15 and a follow-up visit on Day 28.&#xD;
+      All participants will be randomized to receive either ViraCide (investigational product) or&#xD;
+      matching placebo. All subjects will receive SOC therapy.&#xD;
+&#xD;
+      Note: If subject is discharged before Day 15 PI's discretion as per patients health&#xD;
+      condition, then assessments scheduled for Day 15 will be carried out on the discharge day (as&#xD;
+      far as possible and those not performed will be noted on appropriate CRF page) and Day 15&#xD;
+      visit will be done telephonically.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Day 1 Randomization, Vital Signs, Pulse oximetry, AE/SAE, Concomitant Medication, ViraCide/&#xD;
+      Placebo treatment start, NEWS scoring; 7-point ordinal scoring Day 7 Physical Examination,&#xD;
+      Vital Signs, AE/SAE, Concomitant Medication, ViraCide/ Placebo Compliance check, Pulse&#xD;
+      oximetry; NEWS scoring; 7-point ordinal scoring.&#xD;
+&#xD;
+      (Note: If the subject is discharged on this day as per PI's discretion and patient's health&#xD;
+      condition then assessment scheduled for day 15 will be carried out on discharge day).&#xD;
+&#xD;
+      Day 15 Physical Examination, Vital Signs, AE/SAE, Concomitant Medication, ViraCide/ Placebo&#xD;
+      treatment end, RT-PCR for Sars- Co-V2, Hs-CRP, Safety Lab Tests, Pulse oximetry; NEWS&#xD;
+      scoring; 7-point ordinal scoring, ViraCide/ Placebo Compliance check, Lab assessment&#xD;
+      including urine analysis Day 28&#xD;
+&#xD;
+      Phone call follow up for time :&#xD;
+&#xD;
+        -  until negative RT-PCR for Sars-Co- V2, COVID-19 related mortality,&#xD;
+&#xD;
+        -  development of any COVID-19 symptom,&#xD;
+&#xD;
+        -  development of any worsening of comorbid condition;&#xD;
+&#xD;
+        -  Development of new AE/SAE; Resolution status of previous AE/SAEs&#xD;
+&#xD;
+      Note: If subject is discharged before Day 15on PI's discretion as per patients health&#xD;
+      condition, then assessments scheduled for Day 15 will be carried out on the discharge day (as&#xD;
+      far as possible and those not performed will be noted on appropriate CRF page) and Day 15&#xD;
+      visit will be done telephonically.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 16, 2020</start_date>
+  <completion_date type="Actual">December 12, 2020</completion_date>
+  <primary_completion_date type="Actual">December 12, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double Blind, Randomized, Placebo Controlled</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Randomized, Double - Blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With National Early Warning Score (NEWS) Change From 3 to 0</measure>
+    <time_frame>First treatment date up to discharge day, an average of 1 week</time_frame>
+    <description>The proportion of cases with National Early Warning Score reduction from 3 to 0 till discharge day between two groups.&#xD;
+This score is associated with clinical risk and a decrease in score indicates a decrease in the risk to the patient and improvement in clinical condition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With 7-point Ordinal Scale Score Change From 3 to 1</measure>
+    <time_frame>First treatment date up to day 7, i.e. up to 1 week</time_frame>
+    <description>Proportion of cases with 7-point ordinal scale score reduction from 3 to 1 till day 7.&#xD;
+This score is associated with clinical improvement and a decrease in score indicates improvement in patient's clinical condition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to a Negative COVID-19 Nucleic Acid Testing</measure>
+    <time_frame>Time Frame: First treatment date up to 28 days</time_frame>
+    <description>Time to COVID-19 nucleic acid testing negativity in oropharyngeal/nasal swab)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of Progression on National Early Warning Score</measure>
+    <time_frame>First treatment date up tp 28 days (28 days)</time_frame>
+    <description>Rate of progression to the severe/critical COVID-19 disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of Progression on 7- Point Ordinal Scale</measure>
+    <time_frame>First treatment date up to 28 days</time_frame>
+    <description>Rate of progression to the severe/critical COVID-19 disease</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU Admissions</measure>
+    <time_frame>Time frame: 28 days</time_frame>
+    <description>Incidence of ICU admissions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject Survival</measure>
+    <time_frame>28 days</time_frame>
+    <description>Subject survival in the trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Mechanical Ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of incidences of mechanical ventilation due to COVID-19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinical or Laboratory Assessment of Comorbid Condition</measure>
+    <time_frame>28 days</time_frame>
+    <description>To evaluate any decline in health condition due to comorbidity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants With Worsening Comorbid Condition</measure>
+    <time_frame>28 days</time_frame>
+    <description>Percent of participants with worsening comorbid condition.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">118</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Investigational product</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels . Fequency: 3 soft gels, two times every day after breakfast and dinner . Duration: 14 days+ SOC Therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times everyday after breakfast and dinner . Duration:14 days + SOC Therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Investigational Product - ViraCide</intervention_name>
+    <description>Viracide</description>
+    <arm_group_label>Investigational product</arm_group_label>
+    <other_name>Investigational Product</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo - Starch Powder Soft gels</intervention_name>
+    <description>Starch Powder Soft gels</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 50 years or older&#xD;
+&#xD;
+          2. Both male and female subjects will be included&#xD;
+&#xD;
+          3. Positive oropharyngeal/nasal swab RT-PCR for Sars-Co- V2. Diagnosed not more than 2&#xD;
+             days ago(diagnosis&#xD;
+&#xD;
+             ≤2days).&#xD;
+&#xD;
+          4. Either asymptomatic or have mild symptoms. Onset of symptoms within no more than 4&#xD;
+             days If symptomatic, symptoms are mild (cough, weakness, sore throat, low grade fever&#xD;
+             38.50С, respiratory rate should not be more than 22 / min, resting SpO2 &gt;95%, normal&#xD;
+             highly sensitive C-reactive protein (HS-CRP) (&lt;10mg/L). There are no signs of&#xD;
+             dehydration, sepsis or shortness of breath.&#xD;
+&#xD;
+          5. Chronic stable medical conditions: diabetes mellitus, or hypertension, or chronic&#xD;
+             heart disease. Under treatment and controlled by medication&#xD;
+&#xD;
+          6. Signed informed consent/or consent given through text message, WhatsApp ore-mail.&#xD;
+&#xD;
+          7. Ability to understand the requirements of the Research Protocol and follow the&#xD;
+             research procedures.&#xD;
+&#xD;
+          8. Subject should be willing to be managed in isolation wards&#xD;
+&#xD;
+          9. Negative pregnancy test (for female participants)&#xD;
+&#xD;
+         10. Adequate contraception for study duration&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Less than 50years&#xD;
+&#xD;
+          2. With severe COVID-19 symptoms requiring immediate hospitalization&#xD;
+&#xD;
+          3. Investigator considers the subject unsuitable for ViraCide&#xD;
+&#xD;
+          4. History of symptoms of more than 4days&#xD;
+&#xD;
+          5. COVID-19 diagnosed &gt;2 days ago using oropharyngeal/nasal swab RT-PCR forSars-Co-V2&#xD;
+&#xD;
+          6. History of cardiopulmonary resuscitation&#xD;
+&#xD;
+          7. Subjects having history of organ failure or conditions requiring ICU monitoring and&#xD;
+             treatment, such as severe liver disease, severe renal dysfunction, upper&#xD;
+             gastrointestinal hemorrhage, disseminated intravascular coagulation or any other&#xD;
+             condition that in the PI&quot;s opinion makes the subject unfit to participate&#xD;
+&#xD;
+          8. Respiratory failure, ARDS or need of mechanical ventilation&#xD;
+&#xD;
+          9. History of acute exacerbation of comorbidity like heart failure, diabetic&#xD;
+             ketoacidosis, myocardial infection, major cardiac rhythm disorder or any other&#xD;
+             condition that in the PI&quot;s opinion makes the subject unfit to participate&#xD;
+&#xD;
+         10. History of or current hepatic failure or severely compromised liver function, or renal&#xD;
+             failure or having chronic kidney disease or acute renal failure&#xD;
+&#xD;
+         11. History of or currently receiving treatment for an endocrine disorder like&#xD;
+             hypothyroidism, hyperthyroidism that is likely to affect the basal heart rate.&#xD;
+&#xD;
+         12. History of or currently under treatment for asthma [exception: patients with history&#xD;
+             of asthma, not on medications/inhalers/nebulizers for at least 6 months before study&#xD;
+             start), COPD, bronchiectasis, asbestosis and other such chronic lung conditions that&#xD;
+             can compromise SpO2 and RR.&#xD;
+&#xD;
+         13. HIV, HBsAg, HCV positive&#xD;
+&#xD;
+         14. Any condition causing immunodeficiency&#xD;
+&#xD;
+         15. Systemic connective tissue disease or any autoimmune disease that is likely to affect&#xD;
+             HS-CRP levels&#xD;
+&#xD;
+         16. History of epilepsy/epileptic fit/convulsions in last 6 months or currently on&#xD;
+             treatment for it&#xD;
+&#xD;
+         17. History of or currently having malignancy and being treated for it. (exception:&#xD;
+             histologically confirmed and cured carcinoma in situ)&#xD;
+&#xD;
+         18. Hypersensitivity reaction to Study drug/placebo&#xD;
+&#xD;
+         19. Any psychiatric issue for which the subject is currently undergoing treatment&#xD;
+&#xD;
+         20. Any history of drug/alcohol dependence within 30 days of screening or current&#xD;
+             drug/alcohol dependence&#xD;
+&#xD;
+         21. Inability to understand the requirements of the Research Protocol and follow the&#xD;
+             research procedures.&#xD;
+&#xD;
+         22. Pregnant or lactating;&#xD;
+&#xD;
+         23. Not willing to use adequate contraception during study duration&#xD;
+&#xD;
+         24. Participation in any other clinical study less than 3months before the start of the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr.Ninad Naik, MD(Ayurveda)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gunjkar Multispeciality Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dr. A Gopal Rao, MD(Med)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Government medical college and Government general hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of General medicine/ clinical research. Government medical college and Government general hospital</name>
+      <address>
+        <city>Srikakulam</city>
+        <state>Andhra Pradesh</state>
+        <zip>532001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gunjkar Multispeciality Hospital</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411019</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>October 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <results_first_submitted>July 29, 2021</results_first_submitted>
+  <results_first_submitted_qc>August 11, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 12, 2021</results_first_posted>
+  <last_update_submitted>August 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus, (SARS-CoV-2)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 21, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/85/NCT04596085/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 4, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/85/NCT04596085/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Investigational Product</title>
+          <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels . Fequency: 3 soft gels, two times every day after breakfast and dinner . Duration: 14 days+ SOC Therapy&#xD;
+Investigational Product - ViraCide: Viracide</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times everyday after breakfast and dinner . Duration:14 days + SOC Therapy&#xD;
+Placebo - Starch Powder Soft gels: Starch Powder Soft gels</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="59"/>
+                <participants group_id="P2" count="59"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="59"/>
+                <participants group_id="P2" count="59"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Investigational Product</title>
+          <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels . Fequency: 3 soft gels, two times every day after breakfast and dinner . Duration: 14 days+ SOC Therapy&#xD;
+Investigational Product - ViraCide: Viracide</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times everyday after breakfast and dinner . Duration:14 days + SOC Therapy&#xD;
+Placebo - Starch Powder Soft gels: Starch Powder Soft gels</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="59"/>
+            <count group_id="B2" value="59"/>
+            <count group_id="B3" value="118"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58.53" spread="5.81"/>
+                    <measurement group_id="B2" value="60.44" spread="7.01"/>
+                    <measurement group_id="B3" value="59.48" spread="6.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59"/>
+                    <measurement group_id="B2" value="59"/>
+                    <measurement group_id="B3" value="118"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With National Early Warning Score (NEWS) Change From 3 to 0</title>
+        <description>The proportion of cases with National Early Warning Score reduction from 3 to 0 till discharge day between two groups.&#xD;
+This score is associated with clinical risk and a decrease in score indicates a decrease in the risk to the patient and improvement in clinical condition.</description>
+        <time_frame>First treatment date up to discharge day, an average of 1 week</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels .</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With National Early Warning Score (NEWS) Change From 3 to 0</title>
+          <description>The proportion of cases with National Early Warning Score reduction from 3 to 0 till discharge day between two groups.&#xD;
+This score is associated with clinical risk and a decrease in score indicates a decrease in the risk to the patient and improvement in clinical condition.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                    <measurement group_id="O2" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With 7-point Ordinal Scale Score Change From 3 to 1</title>
+        <description>Proportion of cases with 7-point ordinal scale score reduction from 3 to 1 till day 7.&#xD;
+This score is associated with clinical improvement and a decrease in score indicates improvement in patient's clinical condition.</description>
+        <time_frame>First treatment date up to day 7, i.e. up to 1 week</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels .</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With 7-point Ordinal Scale Score Change From 3 to 1</title>
+          <description>Proportion of cases with 7-point ordinal scale score reduction from 3 to 1 till day 7.&#xD;
+This score is associated with clinical improvement and a decrease in score indicates improvement in patient's clinical condition.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to a Negative COVID-19 Nucleic Acid Testing</title>
+        <description>Time to COVID-19 nucleic acid testing negativity in oropharyngeal/nasal swab)</description>
+        <time_frame>Time Frame: First treatment date up to 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels .</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to a Negative COVID-19 Nucleic Acid Testing</title>
+          <description>Time to COVID-19 nucleic acid testing negativity in oropharyngeal/nasal swab)</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.47" spread="0.49"/>
+                    <measurement group_id="O2" value="6.97" spread="0.61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Rate of Progression on National Early Warning Score</title>
+        <description>Rate of progression to the severe/critical COVID-19 disease</description>
+        <time_frame>First treatment date up tp 28 days (28 days)</time_frame>
+        <population>The Rate of progression to the severity of the disease was not identifiable as most of the subjects were discharged on Day 7 or 8</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Progression on National Early Warning Score</title>
+          <description>Rate of progression to the severe/critical COVID-19 disease</description>
+          <population>The Rate of progression to the severity of the disease was not identifiable as most of the subjects were discharged on Day 7 or 8</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Rate of Progression on 7- Point Ordinal Scale</title>
+        <description>Rate of progression to the severe/critical COVID-19 disease</description>
+        <time_frame>First treatment date up to 28 days</time_frame>
+        <population>The Rate of progression to the severity of the disease was not identifiable as most of the subjects were discharged on Day 7 or 8</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Progression on 7- Point Ordinal Scale</title>
+          <description>Rate of progression to the severe/critical COVID-19 disease</description>
+          <population>The Rate of progression to the severity of the disease was not identifiable as most of the subjects were discharged on Day 7 or 8</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU Admissions</title>
+        <description>Incidence of ICU admissions</description>
+        <time_frame>Time frame: 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU Admissions</title>
+          <description>Incidence of ICU admissions</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Subject Survival</title>
+        <description>Subject survival in the trial</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Subject Survival</title>
+          <description>Subject survival in the trial</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59"/>
+                    <measurement group_id="O2" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Mechanical Ventilation</title>
+        <description>Number of incidences of mechanical ventilation due to COVID-19 infection</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Mechanical Ventilation</title>
+          <description>Number of incidences of mechanical ventilation due to COVID-19 infection</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Clinical or Laboratory Assessment of Comorbid Condition</title>
+        <description>To evaluate any decline in health condition due to comorbidity</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Clinical or Laboratory Assessment of Comorbid Condition</title>
+          <description>To evaluate any decline in health condition due to comorbidity</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percent of Participants With Worsening Comorbid Condition</title>
+        <description>Percent of participants with worsening comorbid condition.</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Investigational Product</title>
+            <description>Experimental, Investigational Product Ingredient : ViraCide softgels . Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ingredient, Placebo Ingredient Starch softgels. Frequency: 3 soft gels, two times every day after breakfast and dinner.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent of Participants With Worsening Comorbid Condition</title>
+          <description>Percent of participants with worsening comorbid condition.</description>
+          <units>percentage</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="59"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" spread="0"/>
+                    <measurement group_id="O2" value="0" spread="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Investigational Product</title>
+          <description>Experimental, Investigational Product Ingredient : ViraCide Dosage form softgels .</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Ingredient, Placebo Ingredient Starch softgels.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="59"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="59"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="59"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="59"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>vertigo</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="59"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>nausea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="59"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="59"/>
+              </event>
+              <event>
+                <sub_title>mouth ulcer</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="59"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Confidential information during the course of the study and clinical development plan, except the information already existing in the public domain, and all results and reports obtained, collected, conceived, processed and developed pursuant to this Agreement, The INSTITUTION shall use confidential information for the sole purpose of providing services under this Agreement and shall not use confidential information for the INSTITUTION's own benefit at any time.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Mahir Abduldaim</name_or_title>
+      <organization>Natural Supplements LLC</organization>
+      <phone>+966557880299</phone>
+      <email>maherdaim@yahoo.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

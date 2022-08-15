@@ -1,0 +1,2840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="104">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04334460</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B-2660-204</org_study_id>
+    <nct_id>NCT04334460</nct_id>
+  </id_info>
+  <brief_title>Safety and Antiviral Activity of BLD-2660 in COVID-19 Hospitalized Subjects</brief_title>
+  <official_title>Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Safety and Antiviral Activity of BLD-2660 in Hospitalized Subjects With Recently Diagnosed COVID-19 Compared to Standard of Care Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Blade Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Clinipace Worldwide</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Blade Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1,&#xD;
+      2, and 9 that is selective over the cathepsins as well as other protease families, displays&#xD;
+      good metabolic stability and permeability, oral bioavailability and low cytochrome P450 (CYP)&#xD;
+      inhibition. It is under development for the treatment of coronavirus disease-19 (COVID-19)&#xD;
+      resulting from infection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARSCoV2),&#xD;
+      where there is significant unmet medical need.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Interleukin 6 (IL-6), a proinflammatory cytokine, is a key driver of a cytokine storm that&#xD;
+      plays a significant role in clinical complications and acute lung injury. Emerging data&#xD;
+      indicate that serum levels of IL-6 are elevated in COVID-19 patients and are predictive of&#xD;
+      respiratory failure and mortality. IL-6 has been shown to contribute to lung damage during&#xD;
+      SARS-CoV infection and the virus itself is capable of directly inducing its expression.&#xD;
+      Suppression of pro-inflammatory IL-6 have been shown to have a therapeutic effect in many&#xD;
+      inflammatory diseases, including viral infections.&#xD;
+&#xD;
+      In a mouse model of lung injury employing bleomycin, BLD-2660, at therapeutic doses of 30 and&#xD;
+      100 mg/kg twice per day (BID), reduced IL-6 levels in bronchoalveolar lavage (BAL) fluid.&#xD;
+      BLD-2660 also attenuated fibrosis damage as measured by significant reductions in the alpha&#xD;
+      smooth muscle actin and collagen 1 in lung tissue. BLD-2660 also demonstrated target&#xD;
+      engagement by inhibiting cleavage of one of its substrates, spectrin, in bronchoalveolar&#xD;
+      cells.&#xD;
+&#xD;
+      BLD-2660 was also evaluated in a mouse model of NASH fibrosis, demonstrating an anti-fibrotic&#xD;
+      effect. A significant decrease in IL-6 transcription was also observed. This suggests that&#xD;
+      the effect of BLD-2660 on IL-6 is independent of the injury, or the affected organ.&#xD;
+&#xD;
+      It has been shown that the receptor for SARS-CoV-1 and -2 entry into the cell is&#xD;
+      angiotensin-converting enzyme 2 (ACE-2). ACE-2 and the dimeric calpains (data on file) are&#xD;
+      co-expressed in respiratory epithelial cells, the site of both viral entry and predominant&#xD;
+      early lung injury in COVID-19. Inhibition of dimeric calpain activity has not been associated&#xD;
+      with impairment of normal immune function. The safety and tolerability of BLD-2660 has been&#xD;
+      demonstrated in the recently completed Phase 1 single ascending dose (SAD)/multiple ascending&#xD;
+      dose (MAD) B-2660-101 study.&#xD;
+&#xD;
+      As BLD-2660 has been demonstrated to (1) reduce tissue IL-6 levels and (2) attenuate lung&#xD;
+      fibrosis damage, it could therefore, potentially reduce the nonproductive IL-6 mediated&#xD;
+      host-response to infection, which contribute to morbidity and mortality in COVID-19. In&#xD;
+      addition, data suggest that survivors of SARS-CoV-2 infection are at risk for chronic&#xD;
+      impairment of pulmonary function, likely attributable to pulmonary fibrosis secondary to lung&#xD;
+      injury and inflammation. Although there is not yet available data documenting numbers of&#xD;
+      patients infected with SARS CoV2 pneumonia who progress to pulmonary fibrosis, epidemiology,&#xD;
+      viral immunology, and current clinical evidence support that pulmonary fibrosis may become&#xD;
+      one of the serious long-term complications of survivors of COVID-19 related pneumonia.&#xD;
+&#xD;
+      Thus, BLD-2660 could not only potentially downregulate the nonproductive host-response to&#xD;
+      infection, which contributes to morbidity and mortality in COVID-19 but also could reduce&#xD;
+      potential long-term fibrosis and loss of pulmonary function resulting from SARS-CoV&#xD;
+      pneumonia. This study will evaluate BLD-2660 as an add-on therapy to standard of care (SOC)&#xD;
+      in hospitalized subjects with recent diagnosis of COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 4, 2020</start_date>
+  <completion_date type="Actual">June 21, 2021</completion_date>
+  <primary_completion_date type="Actual">November 11, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Recovery</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>To evaluate time to recovery as defined by no longer requiring oxygen support or hospital discharge, whichever occurs first.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Oxygenation</measure>
+    <time_frame>10 days</time_frame>
+    <description>To evaluate change in oxygenation in hospitalized adults with COVID-19 treated with BLD-2660. Measured by change from baseline to Day 10 or hospital discharge, if sooner, in the ratio of peripheral hemoglobin oxygen saturation to fraction of inspired oxygen (SpO2/FiO2)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety &amp; Tolerability: Incidence of TEAEs and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>To evaluate the safety and tolerability of BLD-2660 in the same population. Measured by incidence of TEAEs and serious adverse events (SAEs)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Time to Discharge Readiness</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by time to discharge readiness</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of Subjects Discharged During Study</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by proportion of subjects ready to be discharged from the hospital during the 28-day study period following enrollment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to Resolution of Fever</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by time to resolution of fever below entry criteria for 24 hours in subjects with fever at baseline</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of Remdesivir Use</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by duration (in days) of remdesivir use in subjects starting remdesivir within 24 hours of first dose of BLD-2660</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Clinical Status</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by change from baseline to Days 10, 14, 21 and 28 in clinical status outcome using a 6-point ordinal scale</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of Subjects in Each Category of the 6-point Ordinal Scale</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by percentage of subjects reporting each 6-point ordinal scale of the clinical status outcome assessment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in IL-6</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by change from baseline to Days 10, 14, 21 and 28 in IL-6 in ng/mL measured by analytical assay</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in D-dimer</measure>
+    <time_frame>Course of study; 28 days</time_frame>
+    <description>Measured by change from baseline to Days 10, 14, 21 and 28 in D-dimer in ng/mL measured by analytical assay</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">120</enrollment>
+  <condition>Sars-CoV-2</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Active (BLD-2660) Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BLD-2660</intervention_name>
+    <description>BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+    <arm_group_label>Active (BLD-2660) Group</arm_group_label>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        At least 18 years of age at the time of signing the ICF.&#xD;
+&#xD;
+        Hospitalized for COVID-19.&#xD;
+&#xD;
+        Diagnosed with COVID-19 as defined by having at least 2 of the following signs or symptoms&#xD;
+        within the past 2 days:&#xD;
+&#xD;
+          -  Fever defined as a body temperature of ≥ 38.0 °C oral, or ≥ 38.3 °C rectal, ≥37.7 °C&#xD;
+             forehead or ≥38.7°C aural (axillary temperatures are not allowable);&#xD;
+&#xD;
+          -  Cough;&#xD;
+&#xD;
+          -  Fatigue;&#xD;
+&#xD;
+          -  Shortness of breath.&#xD;
+&#xD;
+        Radiographic evidence (chest x-ray or CT scan) of one the following:&#xD;
+&#xD;
+          -  Ground-glass opacities, or&#xD;
+&#xD;
+          -  Local or bilateral patchy infiltrates, or&#xD;
+&#xD;
+          -  Interstitial pulmonary infiltrates.&#xD;
+&#xD;
+        Oxygen requirements:&#xD;
+&#xD;
+          -  SpO2 ≤ 94% on ambient air OR&#xD;
+&#xD;
+          -  Requires supplemental oxygen administration by nasal cannula, simple face mask, or&#xD;
+             other similar oxygen delivery device.&#xD;
+&#xD;
+        Male and/or female subjects.&#xD;
+&#xD;
+        - Contraception use by men or women should be consistent with local regulations regarding&#xD;
+        the methods of contraception for those participating in clinical studies.&#xD;
+&#xD;
+        All subjects (male or female) who are of childbearing potential must agree to use highly&#xD;
+        effective contraception during the study. Female subjects and male partners of female&#xD;
+        subjects must continue to use highly effective contraception for 30 days after the last&#xD;
+        dose of study drug. Female subjects should not donate oocytes during this time. Male&#xD;
+        subjects and female partners of male subjects must continue to use highly effective&#xD;
+        contraception for 90 days. Male subjects must agree not to donate sperm during this time.&#xD;
+&#xD;
+        Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception&#xD;
+        for the subject.&#xD;
+&#xD;
+        Note: Ethinyl estradiol is the primary estrogen used in hormonal contraceptives. The&#xD;
+        progestin component consists of norethindrone, levonorgestrel, norgestrel, norethindrone&#xD;
+        acetate, ethynodiol diacetate, norgestimate, desogestrel, and drospirenone. As BLD-2660 is&#xD;
+        a weak CYP3A4 inducer, exposure to both the estrogen and progestin components in hormonal&#xD;
+        contraceptives may be decreased, resulting in an increased risk of pregnancy. As such, it&#xD;
+        is recommended that subjects who are on hormonal contraceptives for birth control should&#xD;
+        use an alternate means of contraception (condoms, diaphragms, intrauterine device (IUD),&#xD;
+        other barrier methods, sexual abstinence, etc.) during participation in the study.&#xD;
+&#xD;
+        Women of childbearing potential must have a negative serum pregnancy test at Screening&#xD;
+        within 72 hours prior to first administration of study drug.&#xD;
+&#xD;
+        Women not of childbearing potential must be postmenopausal (defined as cessation of regular&#xD;
+        menstrual periods for at least 1 year&#xD;
+&#xD;
+        Capable of giving signed informed consent which includes compliance with the requirements&#xD;
+        and restrictions listed in the ICF and in this protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Active bacterial pneumonia infection&#xD;
+&#xD;
+        Known active tuberculosis (TB).&#xD;
+&#xD;
+        History of Child-Pugh B or C cirrhosis.&#xD;
+&#xD;
+        History of ischemic heart disease or myocardial infarction or acute coronary syndrome.&#xD;
+&#xD;
+        Subjects requiring supplemental oxygen ≥0.75 FiO2.&#xD;
+&#xD;
+        It is not in the best interest of the subjects to participate, in the opinion of the&#xD;
+        treating Investigator.&#xD;
+&#xD;
+        Female subjects who are pregnant or breastfeeding or expecting to conceive within the&#xD;
+        projected duration of the study, starting with the screening visit through 90 days after&#xD;
+        the last dose of study drug.&#xD;
+&#xD;
+        The following laboratory parameters are excluded:&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt;5 x upper limit of&#xD;
+             normal (ULN);&#xD;
+&#xD;
+          -  Creatinine clearance &lt; 50 mL/min.&#xD;
+&#xD;
+        Requiring, or expected to require mechanical ventilation at screening.&#xD;
+&#xD;
+        Treatment with chloroquine or hydroxychloroquine at study entry.&#xD;
+&#xD;
+        Treatment with anti-IL 6, anti-IL-6 receptor antagonists, or with Janus kinase inhibitors&#xD;
+        (JAKi) in the past 30 days or plans to receive during the study period.&#xD;
+&#xD;
+        Participation in any other clinical study of an experimental drug treatment for COVID-19&#xD;
+        within 6 half-lives of the experimental treatment.&#xD;
+&#xD;
+        Note: Subjects participating in an observational study are an exception to this criterion&#xD;
+        and may qualify for the study with Sponsor approval.&#xD;
+&#xD;
+        Note: Subjects who have entered the follow-up phase of an investigational study may&#xD;
+        participate as long as it has been 4 weeks after the last dose of the previous&#xD;
+        investigational agent.&#xD;
+&#xD;
+          -  Unable to swallow solid oral medication or known malabsorption disorder.&#xD;
+&#xD;
+          -  Subjects who have allergy to BLD-2660 or inactive components of BLD-2660.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Reseach Site</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Brandon</city>
+        <state>Florida</state>
+        <zip>33511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Panama City</city>
+        <state>Florida</state>
+        <zip>32405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Ridgewood</city>
+        <state>New Jersey</state>
+        <zip>07450</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>North Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>North Carolina</state>
+        <zip>28304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Campinas</city>
+        <state>Sao Paulo</state>
+        <zip>13034</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Bahia</city>
+        <zip>41810</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <zip>30150</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Botucatu</city>
+        <zip>18618</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Porto Velho</city>
+        <zip>76801</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <zip>65470</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>São José Do Rio Preto</city>
+        <zip>15090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blade Research Site</name>
+      <address>
+        <city>Vitória</city>
+        <zip>29041</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>April 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2020</study_first_posted>
+  <results_first_submitted>February 20, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 1, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 6, 2022</results_first_posted>
+  <last_update_submitted>April 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 8, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT04334460/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 22, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT04334460/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Active Group</title>
+          <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Group</title>
+          <description>Placebo: Placebo-to-Match BLD-2660</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Full Enrollment</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Full Analysis Set (FAS)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="77"/>
+                <participants group_id="P2" count="38"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Patients did not receive any study drug &amp; are therefore excluded from the FAS.</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Safety Analysis Population</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="77"/>
+                <participants group_id="P2" count="38"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Patients did not receive any study drug &amp; are therefore excluded from the Safety analysis set.</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Active Group</title>
+          <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Group</title>
+          <description>Placebo to Match (PTM) the active BLD-2660</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="81"/>
+            <count group_id="B2" value="39"/>
+            <count group_id="B3" value="120"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="81"/>
+                    <count group_id="B2" value="39"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51.3" spread="12.97"/>
+                    <measurement group_id="B2" value="54.2" spread="13.95"/>
+                    <measurement group_id="B3" value="52.2" spread="13.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="81"/>
+                    <count group_id="B2" value="39"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="81"/>
+                    <count group_id="B2" value="39"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="64"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="81"/>
+                    <count group_id="B2" value="39"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="81"/>
+                    <count group_id="B2" value="39"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Brazil</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="81"/>
+                    <count group_id="B2" value="39"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>APACHE II Score</title>
+          <description>The Acute Physiology and Chronic Health Evaluation Two Score (APACHE II) is a severity score and mortality estimation tool for predicting mortality. The APACHE II score ranges from 0 to 71 and is computed based on several measurements; higher scores correspond to more severe disease and a higher risk of death. For example, a score of 25 represents a predicted mortality of 50% and a score of over 35 represents a predicted mortality of 80%.</description>
+          <population>The reason is due to missing data.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="71"/>
+                    <count group_id="B2" value="31"/>
+                    <count group_id="B3" value="102"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6.5" spread="5.41"/>
+                    <measurement group_id="B2" value="6.5" spread="4.84"/>
+                    <measurement group_id="B3" value="6.5" spread="5.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>6-Point Ordinal Scale</title>
+          <population>The reason is due to missing data.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="77"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="115"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>1 - Not hospitalized</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2 - Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3 - Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="85"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4 - Hospitalized, on non-invasive ventilation or high flow oxygen device</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5 - Hospitalized, on invasive mechanical ventilation or ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6 - Death</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7 - Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SpO2/FiO2 Ratio</title>
+          <population>The reason is due to missing data.</population>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="72"/>
+                    <count group_id="B2" value="37"/>
+                    <count group_id="B3" value="109"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="299.2" spread="61.89"/>
+                    <measurement group_id="B2" value="290.8" spread="72.34"/>
+                    <measurement group_id="B3" value="296.3" spread="65.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SARS-Cov-2 PCR Viral Load (copies/mL)</title>
+          <population>The reason is due to missing data.</population>
+          <units>copies/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="71"/>
+                    <count group_id="B2" value="34"/>
+                    <count group_id="B3" value="105"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5703533.3" spread="30719776.01"/>
+                    <measurement group_id="B2" value="553963.0" spread="2177374.66"/>
+                    <measurement group_id="B3" value="4036053.4" spread="25348615.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>IL-6 (ng/mL)</title>
+          <population>The reason is due to missing data.</population>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="35"/>
+                    <count group_id="B3" value="105"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.9" spread="27.60"/>
+                    <measurement group_id="B2" value="11.3" spread="13.10"/>
+                    <measurement group_id="B3" value="12.4" spread="23.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>D-Dimer (ug/mL)</title>
+          <population>The reason is due to missing data.</population>
+          <units>ug/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="64"/>
+                    <count group_id="B2" value="33"/>
+                    <count group_id="B3" value="97"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.8" spread="0.70"/>
+                    <measurement group_id="B2" value="0.8" spread="0.62"/>
+                    <measurement group_id="B3" value="0.8" spread="0.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Recovery</title>
+        <description>To evaluate time to recovery as defined by no longer requiring oxygen support or hospital discharge, whichever occurs first.</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>FAS Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo: Placebo-to-Match BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Recovery</title>
+          <description>To evaluate time to recovery as defined by no longer requiring oxygen support or hospital discharge, whichever occurs first.</description>
+          <population>FAS Set</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5" lower_limit="3.00" upper_limit="6.00"/>
+                    <measurement group_id="O2" value="4.5" lower_limit="4.00" upper_limit="6.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Oxygenation</title>
+        <description>To evaluate change in oxygenation in hospitalized adults with COVID-19 treated with BLD-2660. Measured by change from baseline to Day 10 or hospital discharge, if sooner, in the ratio of peripheral hemoglobin oxygen saturation to fraction of inspired oxygen (SpO2/FiO2)</description>
+        <time_frame>10 days</time_frame>
+        <population>FAS Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo: Placebo-to-Match BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Oxygenation</title>
+          <description>To evaluate change in oxygenation in hospitalized adults with COVID-19 treated with BLD-2660. Measured by change from baseline to Day 10 or hospital discharge, if sooner, in the ratio of peripheral hemoglobin oxygen saturation to fraction of inspired oxygen (SpO2/FiO2)</description>
+          <population>FAS Set</population>
+          <units>Ratio</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33.8" spread="17.10"/>
+                    <measurement group_id="O2" value="66.8" spread="25.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Safety &amp; Tolerability: Incidence of TEAEs and Serious Adverse Events (SAEs)</title>
+        <description>To evaluate the safety and tolerability of BLD-2660 in the same population. Measured by incidence of TEAEs and serious adverse events (SAEs)</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>Safety Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo to Match (PTM) the active BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety &amp; Tolerability: Incidence of TEAEs and Serious Adverse Events (SAEs)</title>
+          <description>To evaluate the safety and tolerability of BLD-2660 in the same population. Measured by incidence of TEAEs and serious adverse events (SAEs)</description>
+          <population>Safety Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number of Subjects with &gt;=1 TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42"/>
+                    <measurement group_id="O2" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Subjects with &gt;=1 Treatment-Related TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Subjects with &gt;=1 TEAE with Grade 3 or higher</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Subjects with &gt;=1 TE SAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Subjects with &gt;=1 Treatment-Related SAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Subjects with &gt;=1 TEAE leading to discontinuation of study drug</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of fatal AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Time to Discharge Readiness</title>
+        <description>Measured by time to discharge readiness</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>FAS Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo to Match (PTM) the active BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Discharge Readiness</title>
+          <description>Measured by time to discharge readiness</description>
+          <population>FAS Set</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.0" lower_limit="6.00" upper_limit="11.00"/>
+                    <measurement group_id="O2" value="8.0" lower_limit="5.00" upper_limit="22.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Proportion of Subjects Discharged During Study</title>
+        <description>Measured by proportion of subjects ready to be discharged from the hospital during the 28-day study period following enrollment.</description>
+        <time_frame>Course of study; 28 days</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Time to Resolution of Fever</title>
+        <description>Measured by time to resolution of fever below entry criteria for 24 hours in subjects with fever at baseline</description>
+        <time_frame>Course of study; 28 days</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Duration of Remdesivir Use</title>
+        <description>Measured by duration (in days) of remdesivir use in subjects starting remdesivir within 24 hours of first dose of BLD-2660</description>
+        <time_frame>Course of study; 28 days</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Change in Clinical Status</title>
+        <description>Measured by change from baseline to Days 10, 14, 21 and 28 in clinical status outcome using a 6-point ordinal scale</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>FAS Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo to Match (PTM) the active BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Clinical Status</title>
+          <description>Measured by change from baseline to Days 10, 14, 21 and 28 in clinical status outcome using a 6-point ordinal scale</description>
+          <population>FAS Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 10/EOT</title>
+              <category_list>
+                <category>
+                  <title>1 - Not hospitalized</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2 - Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                    <measurement group_id="O2" value="23"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3 - Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4 - Hospitalized, on non-invasive ventilation or high flow oxygen device</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5 - Hospitalized, on invasive mechanical ventilation or ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6 - Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7 - Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14 (Follow-Up)</title>
+              <category_list>
+                <category>
+                  <title>1 - Not hospitalized</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2 - Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3 - Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4 - Hospitalized, on non-invasive ventilation or high flow oxygen device</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5 - Hospitalized, on invasive mechanical ventilation or ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6 - Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7 - Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21 (Follow-Up)</title>
+              <category_list>
+                <category>
+                  <title>1 - Not hospitalized</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54"/>
+                    <measurement group_id="O2" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2 - Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3 - Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4 - Hospitalized, on non-invasive ventilation or high flow oxygen device</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5 - Hospitalized, on invasive mechanical ventilation or ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6 - Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7 - Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <title>1 - Not hospitalized</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="63"/>
+                    <measurement group_id="O2" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2 - Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3 - Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4 - Hospitalized, on non-invasive ventilation or high flow oxygen device</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5 - Hospitalized, on invasive mechanical ventilation or ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6 - Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7 - Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Percentage of Subjects in Each Category of the 6-point Ordinal Scale</title>
+        <description>Measured by percentage of subjects reporting each 6-point ordinal scale of the clinical status outcome assessment.</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>FAS Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo to Match (PTM) the active BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Subjects in Each Category of the 6-point Ordinal Scale</title>
+          <description>Measured by percentage of subjects reporting each 6-point ordinal scale of the clinical status outcome assessment.</description>
+          <population>FAS Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 10 (EOT)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76"/>
+                    <measurement group_id="O2" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14 (Follow-Up)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68"/>
+                    <measurement group_id="O2" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21 (Follow-Up)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Change in IL-6</title>
+        <description>Measured by change from baseline to Days 10, 14, 21 and 28 in IL-6 in ng/mL measured by analytical assay</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>FAS Set. Only participants in the FAS with data at the respective time point are summarized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo to Match (PTM) the active BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in IL-6</title>
+          <description>Measured by change from baseline to Days 10, 14, 21 and 28 in IL-6 in ng/mL measured by analytical assay</description>
+          <population>FAS Set. Only participants in the FAS with data at the respective time point are summarized.</population>
+          <units>ng/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="64"/>
+                    <count group_id="O2" value="34"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.606" spread="13.6212"/>
+                    <measurement group_id="O2" value="4.592" spread="8.8388"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="57"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.547" spread="196.4762"/>
+                    <measurement group_id="O2" value="25.892" spread="82.0965"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="49"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.361" spread="6.6323"/>
+                    <measurement group_id="O2" value="1.981" spread="1.9770"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="49"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.639" spread="28.6087"/>
+                    <measurement group_id="O2" value="2.649" spread="4.0756"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Change in D-dimer</title>
+        <description>Measured by change from baseline to Days 10, 14, 21 and 28 in D-dimer in ng/mL measured by analytical assay</description>
+        <time_frame>Course of study; 28 days</time_frame>
+        <population>FAS Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Group</title>
+            <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Placebo to Match (PTM) the active BLD-2660</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in D-dimer</title>
+          <description>Measured by change from baseline to Days 10, 14, 21 and 28 in D-dimer in ng/mL measured by analytical assay</description>
+          <population>FAS Set</population>
+          <units>ug/mL</units>
+          <param>Geometric Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="77"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="57"/>
+                    <count group_id="O2" value="29"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.51" lower_limit="0.404" upper_limit="0.646"/>
+                    <measurement group_id="O2" value="0.67" lower_limit="0.488" upper_limit="0.926"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="58"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.54" lower_limit="0.431" upper_limit="0.677"/>
+                    <measurement group_id="O2" value="0.57" lower_limit="0.409" upper_limit="0.805"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="53"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.50" lower_limit="0.391" upper_limit="0.6529"/>
+                    <measurement group_id="O2" value="0.56" lower_limit="0.398" upper_limit="0.783"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="60"/>
+                    <count group_id="O2" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.57" lower_limit="0.456" upper_limit="0.719"/>
+                    <measurement group_id="O2" value="0.41" lower_limit="0.295" upper_limit="0.574"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 months.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Active Group</title>
+          <description>BLD-2660: BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo Group</title>
+          <description>Placebo to Match (PTM) the active BLD-2660</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (23.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Atrioventricular block second degree</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Acinetobacter bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatic enzyme increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (23.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="42" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="23" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Leukocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Cardiomegaly</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear congestion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry eye</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Change of bowel habit</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Retching</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Anal incontinence</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Haematemesis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Upper gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Generalised oedema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Vessel puncture site bruise</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Drug hypersensitivity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Fungal infection</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract candidiasis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Fibrin D dimer increased</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Blood bicarbonate decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Blood glucose increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Blood potassium decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Blood pressure increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Breath sounds abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Electrocardiogram QT prolonged</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Transaminases increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Troponin increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphataemia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hypervolaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Type 2 diabetes mellitus</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Myasthenia gravis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Abnormal dreams</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Agitation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Delirium</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hallucination, visual</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hallucination</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary hesitation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Urinary incontinence</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary amyloidosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hiccups</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Subcutaneous emphysema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Hyperhidrosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Orthostatic hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Arterial occlusive disease</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="77"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>SVP, Global Regulatory Affairs, Quality, and Safety</name_or_title>
+      <organization>Blade Therapeutics</organization>
+      <phone>(650) 278 4291</phone>
+      <email>dmody@blademed.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

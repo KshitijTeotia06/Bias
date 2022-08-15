@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="16">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04771013</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AEC-01-2021</org_study_id>
+    <secondary_id>COM-2020-01</secondary_id>
+    <secondary_id>AEC-01-2021</secondary_id>
+    <nct_id>NCT04771013</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Thymic Peptides in the Treatment of Hospitalized COVID-19 Patients in Honduras</brief_title>
+  <official_title>A Single-arm, Open-Label, Phase II Clinical Study to Evaluate the Safety and Efficacy of Thymic Peptides in the Treatment of Hospitalized COVID-19 Patients in Honduras</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Católica de Honduras</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pontificia Universidad Catolica de Chile</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad Católica de Honduras</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-arm, open-label, phase II clinical study to evaluate the safety and efficacy&#xD;
+      of thymic peptides in the treatment of hospitalized COVID-19 patients in Honduras.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study was approved and registered by the Dirección General de Vigilancia del Marco&#xD;
+      Normativo de la Secretaría de Salud de Honduras (General Directorate for Regulatory Framework&#xD;
+      Surveillance of the Ministry of Health of Honduras) the eight of February of 2021; enrollment&#xD;
+      began tenth of February of 2021.&#xD;
+&#xD;
+      The study will analyze 23 clinical parameters, 9 laboratory studies besides complete blood&#xD;
+      count, chest radiography, time to response, adverse clinical outcomes, and hospital length of&#xD;
+      stay in 22 participants treated with a daily oral dose of 250 mg of lyophilized thymic&#xD;
+      peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition&#xD;
+      to the standard treatment. A participant-level comparison based on registry data from&#xD;
+      Hospital de Santa Bárbara Integrado will be performed after propensity score matching. The&#xD;
+      Generic Assessment of Side Effects in Clinical Trials (GASE) will be applied in addition to&#xD;
+      monitoring of treatment-emergent adverse events.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 10, 2021</start_date>
+  <completion_date type="Actual">May 14, 2021</completion_date>
+  <primary_completion_date type="Actual">May 14, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>A participant-level comparison based on registry data from the Hospital de Santa Bárbara Integrado will be performed after propensity score matching.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Participant Recovery</measure>
+    <time_frame>During hospitalization for up to 20 days.</time_frame>
+    <description>Measured in days to clinical recovery that will be defined as the first day, during the 20 days after enrollment, on which a patient met the criteria for category 1, 2, or 3 on the eight-category ordinal scale. The categories are as follows: 1, not hospitalized and no limitations of activities; 2, not hospitalized, with limitation of activities, home oxygen requirement, or both; 3, hospitalized, not requiring supplemental oxygen and no longer requiring ongoing medical care; 4, hospitalized, not requiring supplemental oxygen but requiring ongoing medical care (related to Covid-19 or to other medical conditions); 5, hospitalized, requiring any supplemental oxygen; 6, hospitalized, requiring noninvasive ventilation or use of high-flow oxygen devices; 7, hospitalized, receiving invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); and 8, death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment Related Adverse Events as Assessed by the Common Terminology Criteria for Adverse Events Version 5.0</measure>
+    <time_frame>Up to 20 days</time_frame>
+    <description>Number of participants who experience adverse events ≥ Grade 3, as defined by the Common Terminology Criteria for Adverse Events Version 5.0 (CTCAE v5.0).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment Related Side Effects as Assessed by the General Assessment of Side Effects</measure>
+    <time_frame>Up to 20 days</time_frame>
+    <description>Number of participants who experience severe side effects as defined by the General Assessment of Side Effects (GASE).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants That Died by Day 20</measure>
+    <time_frame>Up to 20 days</time_frame>
+    <description>Number of participants that died due to any reason by day 20.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">22</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Daily oral dose of thymic peptides</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Thymic peptides</intervention_name>
+    <description>250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+    <arm_group_label>Daily oral dose of thymic peptides</arm_group_label>
+    <other_name>Unicahsina</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed case of COVID-19 by viral nucleic acid (RNA) detection, viral antigen&#xD;
+             detection, or detection of antibodies to the virus.&#xD;
+&#xD;
+          -  Participants that require hospitalization under Honduran Ministry of Health Guidelines&#xD;
+             for Clinical Management of COVID-19 Adult Patients: Stage IIb, defined as a patient&#xD;
+             with or without risk factors that presents with warning signs (shortness of breath,&#xD;
+             tachypnea), and altered inflammatory parameters.&#xD;
+&#xD;
+          -  Participants that present with at least one of the following: oxygen saturation level&#xD;
+             below 94 percent; complete blood count showing lymphopenia, neutrophilia, or both;&#xD;
+             positive C-reactive protein; chest radiography or CT scan with ground-glass opacities.&#xD;
+&#xD;
+          -  Male or female at least 21 years old.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 patients that do not require hospitalization under Honduran Ministry of&#xD;
+             Health Guidelines for Clinical Management of COVID-19 Adult Patients: phase IA&#xD;
+             (asymptomatic), phase IB (mild symptoms without risk factors), or phase IC (mild&#xD;
+             symptoms with risk factors).&#xD;
+&#xD;
+          -  Participants currently in other clinical trials evaluating experimental drugs.&#xD;
+&#xD;
+          -  Known history of allergic reactions to thymic peptides or calf thymus acid lysate&#xD;
+             derivatives.&#xD;
+&#xD;
+          -  Organ transplant recipients.&#xD;
+&#xD;
+          -  Women who are pregnant or breast feeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Héctor M Ramos, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Universidad Católica de Honduras; Pontificia Universidad Católica de Chile</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karla G Reyes, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Católica de Honduras; Universidad Mayor</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nelson A Espinoza, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Católica de Honduras</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital de Santa Bárbara Integrado</name>
+      <address>
+        <city>Santa Bárbara</city>
+        <zip>22101</zip>
+        <country>Honduras</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Honduras</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>February 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <results_first_submitted>January 13, 2022</results_first_submitted>
+  <results_first_submitted_qc>February 2, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 4, 2022</results_first_posted>
+  <last_update_submitted>February 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Católica de Honduras</investigator_affiliation>
+    <investigator_full_name>Héctor Miguel Ramos Zaldívar</investigator_full_name>
+    <investigator_title>Director of the Catholic University of Honduras Medical Research Group (GIMUNICAH)</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2 Infection</keyword>
+  <keyword>COVID-19 Pandemic</keyword>
+  <keyword>2019 Novel Coronavirus Disease</keyword>
+  <keyword>Thymic peptides</keyword>
+  <keyword>Thymus gland</keyword>
+  <keyword>Peptides</keyword>
+  <keyword>Honduras</keyword>
+  <keyword>Coronavirus Disease 2019</keyword>
+  <keyword>Coronavirus Disease-19</keyword>
+  <keyword>COVID-19 Virus Infection</keyword>
+  <keyword>2019-nCoV Disease</keyword>
+  <keyword>2019-nCoV Infection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months and ending 5 years following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Investigators whose proposed use of the data has been approved by an independent review committee (&quot;learned intermediary&quot;) identified for this purpose.&#xD;
+For individual participant data meta-analysis.</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 8, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT04771013/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>22 participants were enrolled in the intervention group.&#xD;
+A participant-level comparison based on a control group by propensity score matching from registry data was performed. This accounts for the 22 patients in the arm of the historic control group.&#xD;
+ClinicalTrials.gov Identifier: NCT04771013&#xD;
+MedRxiv: A nonrandomized phase 2 trial of oral thymic peptides in hospitalized patients with Covid-19. doi: https://doi.org/10.1101/2021.12.05.21267318</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Daily Oral Dose of Thymic Peptides</title>
+          <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+        </group>
+        <group group_id="P2">
+          <title>Historic Control Group</title>
+          <description>A participant-level comparison based on a control group by propensity score matching from registry data was performed.&#xD;
+For the comparison group, registry data from June 2020 to February 2021 was considered, as standardization of Stage IIB therapeutic management to its current guideline in Honduras occurred on May 2020.&#xD;
+Although highly controversial among the Honduran scientific community, guidelines approved by the Honduran Ministry of Health for the treatment of Covid-19 include the use of ivermectin, azithromycin, zinc, hydroxychloroquine or chloroquine, acetaminophen, ibuprofen, and oral disinfectants (sodium hypochlorite, hypochlorous acid, hydrogen peroxide, among others) for the initial phases of disease progression. On top of these, therapeutic options for patients presenting with pulmonary compromise before or during hospitalization for phase IIb include colchicine, dexamethasone or methylprednisolone, and anticoagulation (rivaroxaban, apixaban, heparin, or enoxaparin).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Referred to another hospital before day 20</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Daily Oral Dose of Thymic Peptides</title>
+          <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+        </group>
+        <group group_id="B2">
+          <title>Historic Control Group</title>
+          <description>A participant-level comparison based on a control group by propensity score matching from registry data was performed.&#xD;
+For the comparison group, registry data from June 2020 to February 2021 was considered, as standardization of Stage IIB therapeutic management to its current guideline in Honduras occurred on May 2020.&#xD;
+Although highly controversial among the Honduran scientific community, guidelines approved by the Honduran Ministry of Health for the treatment of Covid-19 include the use of ivermectin, azithromycin, zinc, hydroxychloroquine or chloroquine, acetaminophen, ibuprofen, and oral disinfectants (sodium hypochlorite, hypochlorous acid, hydrogen peroxide, among others) for the initial phases of disease progression. On top of these, therapeutic options for patients presenting with pulmonary compromise before or during hospitalization for phase IIb include colchicine, dexamethasone or methylprednisolone, and anticoagulation (rivaroxaban, apixaban, heparin, or enoxaparin).</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="22"/>
+            <count group_id="B2" value="22"/>
+            <count group_id="B3" value="44"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52" spread="16"/>
+                    <measurement group_id="B2" value="57" spread="17"/>
+                    <measurement group_id="B3" value="54" spread="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>≤60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>61-64 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>≥ 65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Mestizo</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Honduras</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Median no. of days since symptom onset</title>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11.5" lower_limit="9" upper_limit="13"/>
+                    <measurement group_id="B2" value="10" lower_limit="9" upper_limit="14"/>
+                    <measurement group_id="B3" value="10.5" lower_limit="9" upper_limit="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbidities</title>
+          <units>Comorbidities</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2" spread="1"/>
+                    <measurement group_id="B2" value="2" spread="2"/>
+                    <measurement group_id="B3" value="2" spread="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coexisting conditions-Diabetes</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coexisting conditions-Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coexisting conditions-Obesity</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coexisting conditions-Chronic obstructive pulmonary disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coexisting conditions-Heart Failure</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coexisting conditions-Organ damage (other than lung)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>WHO Clinical Progression Score of 5 at hospitalization</title>
+          <description>WHO Clinical Progression Scale: 0, uninfected; 1, asymptomatic, viral RNA detected; 2, symptomatic and independent; 3, symptomatic and assistance needed; 4, hospitalised, no oxygen therapy; 5, hospitalised, oxygen by mask or nasal prongs; 6, hospitalised, oxygen by non-invasive ventilation or high flow; 7, intubation and mechanical ventilation pO2/FiO2 ≥150 or SpO2/FiO2 ≥200; 8, mechanical ventilation pO2/FiO2 &lt;150 (SpO2/FiO2 &lt;200) or vasopressors; 9, mechanical ventilation, pO2/FiO2 &lt;150 and vasopressors, dialysis, or ECMO (extracorporeal membrane oxygenation); 10, dead.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Heart rate distribution</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>51-90 beats/min</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>91-110 beats/min</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>111-130 beats/min</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Systolic blood pressure distribution 90-219 mmHg</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Respiratory rate distribution</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>21-24 breaths/min</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>≥ 25 breaths/min</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Oxygen saturation distribution</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>92-93%</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>≤91%</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Temperature distribution</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>35.6-37.9 °C</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>38-39 °C</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>≥39.1 °C</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SARS-CoV-2 positive test result</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Participant Recovery</title>
+        <description>Measured in days to clinical recovery that will be defined as the first day, during the 20 days after enrollment, on which a patient met the criteria for category 1, 2, or 3 on the eight-category ordinal scale. The categories are as follows: 1, not hospitalized and no limitations of activities; 2, not hospitalized, with limitation of activities, home oxygen requirement, or both; 3, hospitalized, not requiring supplemental oxygen and no longer requiring ongoing medical care; 4, hospitalized, not requiring supplemental oxygen but requiring ongoing medical care (related to Covid-19 or to other medical conditions); 5, hospitalized, requiring any supplemental oxygen; 6, hospitalized, requiring noninvasive ventilation or use of high-flow oxygen devices; 7, hospitalized, receiving invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); and 8, death.</description>
+        <time_frame>During hospitalization for up to 20 days.</time_frame>
+        <population>Analyses were performed according to the intention-to-treat principle.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Daily Oral Dose of Thymic Peptides</title>
+            <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+          </group>
+          <group group_id="O2">
+            <title>Historic Control Group</title>
+            <description>A participant-level comparison based on a control group by propensity score matching from registry data was performed.&#xD;
+For the comparison group, registry data from June 2020 to February 2021 was considered, as standardization of Stage IIB therapeutic management to its current guideline in Honduras occurred on May 2020.&#xD;
+Although highly controversial among the Honduran scientific community, guidelines approved by the Honduran Ministry of Health for the treatment of Covid-19 include the use of ivermectin, azithromycin, zinc, hydroxychloroquine or chloroquine, acetaminophen, ibuprofen, and oral disinfectants (sodium hypochlorite, hypochlorous acid, hydrogen peroxide, among others) for the initial phases of disease progression. On top of these, therapeutic options for patients presenting with pulmonary compromise before or during hospitalization for phase IIb include colchicine, dexamethasone or methylprednisolone, and anticoagulation (rivaroxaban, apixaban, heparin, or enoxaparin).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Participant Recovery</title>
+          <description>Measured in days to clinical recovery that will be defined as the first day, during the 20 days after enrollment, on which a patient met the criteria for category 1, 2, or 3 on the eight-category ordinal scale. The categories are as follows: 1, not hospitalized and no limitations of activities; 2, not hospitalized, with limitation of activities, home oxygen requirement, or both; 3, hospitalized, not requiring supplemental oxygen and no longer requiring ongoing medical care; 4, hospitalized, not requiring supplemental oxygen but requiring ongoing medical care (related to Covid-19 or to other medical conditions); 5, hospitalized, requiring any supplemental oxygen; 6, hospitalized, requiring noninvasive ventilation or use of high-flow oxygen devices; 7, hospitalized, receiving invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); and 8, death.</description>
+          <population>Analyses were performed according to the intention-to-treat principle.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6" lower_limit="3.981" upper_limit="8.019"/>
+                    <measurement group_id="O2" value="12" lower_limit="9.023" upper_limit="14.977"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Treatment Related Adverse Events as Assessed by the Common Terminology Criteria for Adverse Events Version 5.0</title>
+        <description>Number of participants who experience adverse events ≥ Grade 3, as defined by the Common Terminology Criteria for Adverse Events Version 5.0 (CTCAE v5.0).</description>
+        <time_frame>Up to 20 days</time_frame>
+        <population>Only Treatment Related Adverse Event data related to mortality was collected from the Historic Control population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Daily Oral Dose of Thymic Peptides</title>
+            <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+          </group>
+          <group group_id="O2">
+            <title>Historic Control Group</title>
+            <description>A participant-level comparison based on a control group by propensity score matching from registry data was performed.&#xD;
+For the comparison group, registry data from June 2020 to February 2021 was considered, as standardization of Stage IIB therapeutic management to its current guideline in Honduras occurred on May 2020.&#xD;
+Although highly controversial among the Honduran scientific community, guidelines approved by the Honduran Ministry of Health for the treatment of Covid-19 include the use of ivermectin, azithromycin, zinc, hydroxychloroquine or chloroquine, acetaminophen, ibuprofen, and oral disinfectants (sodium hypochlorite, hypochlorous acid, hydrogen peroxide, among others) for the initial phases of disease progression. On top of these, therapeutic options for patients presenting with pulmonary compromise before or during hospitalization for phase IIb include colchicine, dexamethasone or methylprednisolone, and anticoagulation (rivaroxaban, apixaban, heparin, or enoxaparin).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Treatment Related Adverse Events as Assessed by the Common Terminology Criteria for Adverse Events Version 5.0</title>
+          <description>Number of participants who experience adverse events ≥ Grade 3, as defined by the Common Terminology Criteria for Adverse Events Version 5.0 (CTCAE v5.0).</description>
+          <population>Only Treatment Related Adverse Event data related to mortality was collected from the Historic Control population.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Treatment Related Side Effects as Assessed by the General Assessment of Side Effects</title>
+        <description>Number of participants who experience severe side effects as defined by the General Assessment of Side Effects (GASE).</description>
+        <time_frame>Up to 20 days</time_frame>
+        <population>Treatment Related Side Effects data not collected from the Historic Control population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Daily Oral Dose of Thymic Peptides</title>
+            <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Treatment Related Side Effects as Assessed by the General Assessment of Side Effects</title>
+          <description>Number of participants who experience severe side effects as defined by the General Assessment of Side Effects (GASE).</description>
+          <population>Treatment Related Side Effects data not collected from the Historic Control population.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants That Died by Day 20</title>
+        <description>Number of participants that died due to any reason by day 20.</description>
+        <time_frame>Up to 20 days</time_frame>
+        <population>The analysis assessed the number of patients that died in each arm by day 20.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Daily Oral Dose of Thymic Peptides</title>
+            <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+          </group>
+          <group group_id="O2">
+            <title>Historic Control Group</title>
+            <description>A participant-level comparison based on a control group by propensity score matching from registry data was performed.&#xD;
+For the comparison group, registry data from June 2020 to February 2021 was considered, as standardization of Stage IIB therapeutic management to its current guideline in Honduras occurred on May 2020.&#xD;
+Although highly controversial among the Honduran scientific community, guidelines approved by the Honduran Ministry of Health for the treatment of Covid-19 include the use of ivermectin, azithromycin, zinc, hydroxychloroquine or chloroquine, acetaminophen, ibuprofen, and oral disinfectants (sodium hypochlorite, hypochlorous acid, hydrogen peroxide, among others) for the initial phases of disease progression. On top of these, therapeutic options for patients presenting with pulmonary compromise before or during hospitalization for phase IIb include colchicine, dexamethasone or methylprednisolone, and anticoagulation (rivaroxaban, apixaban, heparin, or enoxaparin).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants That Died by Day 20</title>
+          <description>Number of participants that died due to any reason by day 20.</description>
+          <population>The analysis assessed the number of patients that died in each arm by day 20.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Patients were evaluated daily during their hospitalization, from day 1 through 20. Patients who agreed to follow-ups by phone communication were monitored for adverse events or side effects up to two weeks after discharge.</time_frame>
+      <desc>Adverse events ≥ Grade 3, as defined by the Common Terminology Criteria for Adverse Events Version 5.0 (CTCAE v5.0), were analyzed.&#xD;
+Only Treatment Related Adverse Event data related to mortality was collected from the Historic Control population.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Daily Oral Dose of Thymic Peptides</title>
+          <description>Patients will receive a daily oral dose of 250 mg of lyophilized thymic peptides dissolved in 50 mL of water (one hour before or two hours after a meal) in addition to the standard treatment, for up to 20 days or until medical discharge.&#xD;
+Thymic peptides: 250 mg oral daily dose of lyophilized thymic peptides dissolved in 50 mL of water, administered with an empty stomach.</description>
+        </group>
+        <group group_id="E2">
+          <title>Historic Control Group</title>
+          <description>A participant-level comparison based on a control group by propensity score matching from registry data was performed.&#xD;
+For the comparison group, registry data from June 2020 to February 2021 was considered, as standardization of Stage IIB therapeutic management to its current guideline in Honduras occurred on May 2020.&#xD;
+Although highly controversial among the Honduran scientific community, guidelines approved by the Honduran Ministry of Health for the treatment of Covid-19 include the use of ivermectin, azithromycin, zinc, hydroxychloroquine or chloroquine, acetaminophen, ibuprofen, and oral disinfectants (sodium hypochlorite, hypochlorous acid, hydrogen peroxide, among others) for the initial phases of disease progression. On top of these, therapeutic options for patients presenting with pulmonary compromise before or during hospitalization for phase IIb include colchicine, dexamethasone or methylprednisolone, and anticoagulation (rivaroxaban, apixaban, heparin, or enoxaparin).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death due to respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Limitations of this study include its small sample size and the lack of a prospectively randomized control group. This was a single-center study that included only mestizo population, which might have impacted its universal validity.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Héctor M. Ramos-Zaldívar</name_or_title>
+      <organization>GIMUNICAH</organization>
+      <phone>+56934988958</phone>
+      <email>hramos@unicah.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

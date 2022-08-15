@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04412057</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CERC-002-CVID-201</org_study_id>
+    <nct_id>NCT04412057</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial to Evaluate CERC-002 in Adults With COVID-19 Pneumonia and Acute Lung Injury</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Multicenter, Phase 2 Clinical Trial to Evaluate the Efficacy and Safety of CERC-002 in Adults With COVID-19 Pneumonia and Acute Lung Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aevi Genomic Medicine, LLC, a Cerecor company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Avalo Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a prospective, randomized, placebo-controlled, double-blind phase 2 clinical&#xD;
+      study of the efficacy and safety of CERC-002, a potent inhibitor of LIGHT (Lymphotoxin-like,&#xD;
+      exhibits Inducible expression, and competes with Herpes Virus Glycoprotein D for Herpesvirus&#xD;
+      Entry Mediator, a receptor expressed by T lymphocytes), for the treatment of patients with&#xD;
+      2019 novel coronavirus disease (COVID-19) pneumonia who have mild to moderate Acute&#xD;
+      Respiratory Distress Syndrome (ARDS).&#xD;
+&#xD;
+      LIGHT is a cytokine in the tumor necrosis factor super family (TNFSF14) which drives&#xD;
+      inflammation and induces many other cytokines including IL-1, IL-6 and GM-CSF. LIGHT levels&#xD;
+      have been shown to be elevated in COVID-19 infected patients and inhibiting LIGHT is&#xD;
+      hypothesized to ameliorate the cytokine storm which has shown to be a major factor in&#xD;
+      progression of ARDS.&#xD;
+&#xD;
+      The study will assess the efficacy and safety of CERC-002 in patients with severe COVID-19&#xD;
+      over a 28 day period as single dose on top of standard of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 17, 2020</start_date>
+  <completion_date type="Actual">January 19, 2021</completion_date>
+  <primary_completion_date type="Actual">December 14, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Double-blind (Participant, Investigator)</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Subjects Alive and Free of Respiratory Failure</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Respiratory failure defined based on resource utilization requiring at least one of the following:&#xD;
+Endotracheal intubation and mechanical ventilation&#xD;
+Oxygen delivered by high-flow nasal cannula (heated, humidified oxygen delivered via reinforced nasal cannula at flow rates &gt;20L/min with fraction of delivered oxygen ≥0.5)&#xD;
+Noninvasive positive pressure ventilation,&#xD;
+Extracorporeal membrane oxygenation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Who Are Alive at Day 28</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>1-month mortality defined as the number of subjects who are alive at the Day 28/ET visit</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">88</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <condition>Acute Lung Injury</condition>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>CERC-002</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CERC-002</intervention_name>
+    <description>Administered once subcutaneously at 16 mg/kg dose up to a maximum dose of 1200 mg.</description>
+    <arm_group_label>CERC-002</arm_group_label>
+    <other_name>AEVI-002 and MDGN-002</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered once subcutaneously</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subject/legally authorized representative (LAR) is able to understand and provide&#xD;
+             written informed consent, and assent (as applicable) to participate in this study.&#xD;
+&#xD;
+          2. Subject is ≥18 years of age at the time of informed consent and assent (as&#xD;
+             applicable).&#xD;
+&#xD;
+          3. Subject is male or non-pregnant, non-lactating female, who if of childbearing&#xD;
+             potential agrees to comply with any applicable contraceptive requirements if.&#xD;
+             discharged from the hospital prior to completing the study.&#xD;
+&#xD;
+          4. Subject has a diagnosis of COVID-19 infection through an approved testing method.&#xD;
+&#xD;
+          5. Subject has been hospitalized due to clinical diagnosis of pneumonia with acute lung&#xD;
+             injury defined as diffuse bilateral radiographic infiltrates with partial pressure of&#xD;
+             arterial oxygen/percentage of inspired oxygen (PaO2/FiO2) &gt;100 and &lt;300.&#xD;
+&#xD;
+          6. Subject's oxygen saturation at rest in ambient air &lt;93%&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject is intubated.&#xD;
+&#xD;
+          2. Subject is currently taking immunomodulators or anti-rejection drugs.&#xD;
+&#xD;
+          3. Subject has been administered an immunomodulating biologic drug within 60 days of&#xD;
+             baseline.&#xD;
+&#xD;
+          4. Subject is in septic shock defined as persistent hypotension requiring vasopressors to&#xD;
+             maintain mean arterial pressure (MAP) of 65 mm Hg or higher and a serum lactate level&#xD;
+             greater than 2 mmol/L (18 mg/dL) despite adequate volume resuscitation.&#xD;
+&#xD;
+          5. Subject has received any live attenuated vaccine, such as varicella-zoster, oral&#xD;
+             polio, or rubella, within 3 months prior to the baseline visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Scott White, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Aevi Genomic Medicine, LLC, a Cerecor company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hoag Memorial Hospital</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research Center</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute, P.A.</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Parkview Research Center</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics, LLC</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LSUHSC - Shreveport</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Carolina Institute for Clinical Research, LLC</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>North Carolina</state>
+        <zip>28304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AnMed Health Medical Center</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lowcountry Infectious Diseases, P.A.</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BRCR Global Texas</name>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <zip>78503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Perlin DS, Neil GA, Anderson C, Zafir-Lavie I, Raines S, Ware CF, Wilkins HJ. Randomized, double-blind, controlled trial of human anti-LIGHT monoclonal antibody in COVID-19 acute respiratory distress syndrome. J Clin Invest. 2022 Feb 1;132(3). pii: e153173. doi: 10.1172/JCI153173.</citation>
+    <PMID>34871182</PMID>
+  </results_reference>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>May 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 2, 2020</study_first_posted>
+  <results_first_submitted>February 24, 2022</results_first_submitted>
+  <results_first_submitted_qc>February 24, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 4, 2022</results_first_posted>
+  <last_update_submitted>March 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 12, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT04412057/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 15, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT04412057/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Of the 88 enrolled patients, 83 met inclusion criteria and were randomized to treatment.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>CERC-002</title>
+          <description>CERC-002: Administered once subcutaneously at 16 mg/kg dose up to a maximum dose of 1200 mg.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo: Administered once subcutaneously</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="42"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Randomized Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="42"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Safety Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="42"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Full Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="42"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Primary Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="31"/>
+                <participants group_id="P2" count="31"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="37"/>
+                <participants group_id="P2" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Discharged prior to receiving study treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Randomized Analysis Set</population>
+      <group_list>
+        <group group_id="B1">
+          <title>CERC-002</title>
+          <description>CERC-002: Administered once subcutaneously at 16 mg/kg dose up to a maximum dose of 1200 mg.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo: Administered once subcutaneously</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="41"/>
+            <count group_id="B2" value="42"/>
+            <count group_id="B3" value="83"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59.2" spread="14.5"/>
+                    <measurement group_id="B2" value="58.1" spread="14.21"/>
+                    <measurement group_id="B3" value="58.7" spread="14.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="63"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="68"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Corticosteroid Use</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Yes</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="73"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Remdesivir Use</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Yes</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index (BMI)</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34.3" spread="8.58"/>
+                    <measurement group_id="B2" value="32.3" spread="6.46"/>
+                    <measurement group_id="B3" value="33.3" spread="7.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Alive and Free of Respiratory Failure</title>
+        <description>Respiratory failure defined based on resource utilization requiring at least one of the following:&#xD;
+Endotracheal intubation and mechanical ventilation&#xD;
+Oxygen delivered by high-flow nasal cannula (heated, humidified oxygen delivered via reinforced nasal cannula at flow rates &gt;20L/min with fraction of delivered oxygen ≥0.5)&#xD;
+Noninvasive positive pressure ventilation,&#xD;
+Extracorporeal membrane oxygenation</description>
+        <time_frame>Baseline to Day 28</time_frame>
+        <population>The number of subjects alive and free of respiratory failure up to Day 28/Early Termination (ET). The study was designed with broad eligibility criteria allowing patients who received high-flow oxygen or positive-pressure oxygen prior to dosing to be enrolled. As overlap was expected patients who were in respiratory failure before dosing or who required elevation in their ventilation support were excluded from the primary analysis (N=20, 9 CERC-002 patients and 11 placebo patients).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CERC-002</title>
+            <description>CERC-002: Administered once subcutaneously at 16 mg/kg dose up to a maximum dose of 1200 mg.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo: Administered once subcutaneously</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Alive and Free of Respiratory Failure</title>
+          <description>Respiratory failure defined based on resource utilization requiring at least one of the following:&#xD;
+Endotracheal intubation and mechanical ventilation&#xD;
+Oxygen delivered by high-flow nasal cannula (heated, humidified oxygen delivered via reinforced nasal cannula at flow rates &gt;20L/min with fraction of delivered oxygen ≥0.5)&#xD;
+Noninvasive positive pressure ventilation,&#xD;
+Extracorporeal membrane oxygenation</description>
+          <population>The number of subjects alive and free of respiratory failure up to Day 28/Early Termination (ET). The study was designed with broad eligibility criteria allowing patients who received high-flow oxygen or positive-pressure oxygen prior to dosing to be enrolled. As overlap was expected patients who were in respiratory failure before dosing or who required elevation in their ventilation support were excluded from the primary analysis (N=20, 9 CERC-002 patients and 11 placebo patients).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                    <measurement group_id="O2" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The sample size provided greater than 80% power to detect a difference of 0.25 in the proportion of subjects alive and free of respiratory failure using a Chi-square exact test at a one-sided significance level of 0.05. This calculation assumed that the proportion alive and free of respiratory failure will be 0.60 in the placebo group and 0.85 in the CERC-002 group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.0440</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>2.86</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.04</ci_lower_limit>
+            <ci_upper_limit>7.88</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Who Are Alive at Day 28</title>
+        <description>1-month mortality defined as the number of subjects who are alive at the Day 28/ET visit</description>
+        <time_frame>Baseline to Day 28</time_frame>
+        <population>The Full Analysis Set included all subjects who received at least one dose of investigational product and had a baseline and at least one post-baseline efficacy assessment. There was 1 subject who did not have a survival status at Day 28 so is therefore excluded from the secondary analysis of the number of subjects who were alive at Day 28.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CERC-002</title>
+            <description>CERC-002: Administered once subcutaneously at 16 mg/kg dose up to a maximum dose of 1200 mg.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo: Administered once subcutaneously</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Who Are Alive at Day 28</title>
+          <description>1-month mortality defined as the number of subjects who are alive at the Day 28/ET visit</description>
+          <population>The Full Analysis Set included all subjects who received at least one dose of investigational product and had a baseline and at least one post-baseline efficacy assessment. There was 1 subject who did not have a survival status at Day 28 so is therefore excluded from the secondary analysis of the number of subjects who were alive at Day 28.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="39"/>
+                <count group_id="O2" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36"/>
+                    <measurement group_id="O2" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The proportion of subjects alive at Day 28/ET in the CERC-002 group was compared to that in the placebo group using logistic regression methods. The logistic regression model included terms for treatment group. Model based point estimate (i.e., odds ratio [OR]), 90% confidence interval [CI], and one-sided p-value were reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1762</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>2.00</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.59</ci_lower_limit>
+            <ci_upper_limit>6.82</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>All adverse events were collected from the time of the informed consent until the end of study (Day 60). Therefore all serious and non-serious events are included regardless of meeting or not meeting the study definition of treatment emergent (eg, pre-treatment events are included).</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>CERC-002</title>
+          <description>CERC-002: Administered once subcutaneously at 16 mg/kg dose up to a maximum dose of 1200 mg.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo: Administered once subcutaneously</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA Version 23.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute myocardial infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="40"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Ventricular Fibrillation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Pulseless electrical activity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Adverse event</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebral infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Pneumomediastinum</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="40"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA Version 23.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="4" subjects_at_risk="40"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="42"/>
+              </event>
+              <event>
+                <sub_title>Leukocytosis</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="6" subjects_at_risk="40"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatic Enzyme Increased</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="4" subjects_at_risk="40"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="40"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study was designed to use broad eligibility criteria including patients who received high-flow oxygen or positive-pressure oxygen prior to randomization. Some overlap was expected between the entry criteria and the primary endpoint. Therefore patients who were in respiratory failure before dosing or who required an elevation in their ventilation support were excluded (N=20). In addition, to increase statistical power, a 1-sided χ2 test was used.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Scott White, MD</name_or_title>
+      <organization>Avalo Therapeutics, Inc.</organization>
+      <phone>484-763-3080</phone>
+      <email>swhite@avalotx.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

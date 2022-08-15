@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="161">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525079</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-P59 1.1</org_study_id>
+    <secondary_id>2020-003065-19</secondary_id>
+    <nct_id>NCT04525079</nct_id>
+  </id_info>
+  <brief_title>To Evaluate the Safety, Tolerability and Pharmacokinetics of CT-P59 in Healthy Subjects</brief_title>
+  <official_title>A Phase 1, Randomized, Double-blind, Placebo-controlled, Parallel Group, Single Ascending Dose Study to Evaluate the Safety, Tolerability and Pharmacokinetics of CT-P59 in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celltrion</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celltrion</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I study that randomized, double-blind, Placebo-controlled, Parallel Group,&#xD;
+      Single Ascending Dose Study to evaluate Safety, Tolerability and Pharmacokinetics of CT-P59&#xD;
+      in Healthy Subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CT-P59 is a monoclonal antibody targeted against SARS-CoV-2 spike RBD as a treatment for SARS&#xD;
+      CoV 2 infection. CT-P59 is currently being developed by the Sponsor as a potential treatment&#xD;
+      for SARS-CoV-2 infection. In this study, safety, tolerability, and pharmacokinetics of CT-P59&#xD;
+      will be evaluated in healthy subjects.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 18, 2020</start_date>
+  <completion_date type="Actual">November 5, 2020</completion_date>
+  <primary_completion_date type="Actual">August 7, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Preliminary Safety and Tolerability of CT-P59</measure>
+    <time_frame>Up to Day 14 after the subject administered with the study drug (Day 1)</time_frame>
+    <description>A TEAE includes any untoward medical occurrence in a subject after administration of a study drug, which does not necessarily have to have a causal relationship with this the study drug.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Additional Safety of CT-P59 Including Immunogenicity</measure>
+    <time_frame>Up to 90 Days</time_frame>
+    <description>A TEAE includes any untoward medical occurrence in a subject after administration of a study drug, which does not necessarily have to have a causal relationship with this the study drug.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameters: AUC0-inf and AUC0-last</measure>
+    <time_frame>Up to 90 Days</time_frame>
+    <description>Data contain Area under the serum concentration-time curve (AUC) from time zero to infinity (AUC0-inf) and Area under the serum concentration-time curve from time zero to the last quantifiable concentration (AUC0-last) of CT-P59.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameters: AUC0-inf/Dose and AUC0-last/Dose</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contain Dose normalized AUC0-inf (AUC0-inf/Dose) and Dose normalized AUC0-last (AUC0-last/Dose)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: Cmax</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Maximum observed serum concentration(Cmax) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: Cmax/Dose</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Dose normalized Cmax(normalized to total body dose)(Cmax/Dose) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: Tmax</measure>
+    <time_frame>Up to 90 Days</time_frame>
+    <description>Data indicates Time to Cmax(Tmax) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: t1/2</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Terminal half-life (t1/2) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: %AUCext</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Percentage of AUC0-inf obtained by extrapolation (%AUCext) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: λz</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Terminal elimination rate constant (λz) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: CL</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Total body clearance (CL) of CT-P59</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: Vz</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Data contains Volume of distribution during the elimination phase (Vz) of CT-P59</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">32</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 will receive a dose of CT-P59 or matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 2 will receive a dose of CT-P59 or matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 3 will receive a dose of CT-P59 or matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 4 will receive a dose of CT-P59 or matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CT-P59</intervention_name>
+    <description>CT-P59 will be administered</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo-matching CT-P59</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Each subject must meet all of the following criteria to be randomized in this study:&#xD;
+&#xD;
+          1. Subject is a healthy male or female subject, aged between 19 to 55 years (both&#xD;
+             inclusive). Health is defined as no clinically relevant abnormalities identified by&#xD;
+             Investigator's decision based on a detailed medical history, full physical&#xD;
+             examination, including blood pressure, heart rate, respiratory rate, and body&#xD;
+             temperature measurements, 12-lead electrocardiogram (ECG) and clinical laboratory&#xD;
+             tests prior to the study drug administration.&#xD;
+&#xD;
+          2. Subject is confirmed as negative in SARS-CoV-2 infection test on screening and Day -1&#xD;
+             visits.&#xD;
+&#xD;
+          3. Subject with a body weight of ≥ 50 kg and a body mass index between 18.0 and 29.9&#xD;
+             kg/m2 (both inclusive).&#xD;
+&#xD;
+          4. Subject is able to understand and to comply with protocol requirements, instructions,&#xD;
+             and restrictions.&#xD;
+&#xD;
+          5. Subject voluntarily agrees to participate in this study and has given a written&#xD;
+             informed consent prior to undergoing any of the screening procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subject meeting any of the following criteria will be excluded from the study:&#xD;
+&#xD;
+          1. Subject has a medical history or current presence of disease including one or more of&#xD;
+             the following(s):&#xD;
+&#xD;
+               1. History of or current allergic reaction such as asthma, urticaria, angioedema,&#xD;
+                  and eczematous dermatitis considered as clinically significant in the&#xD;
+                  Investigator's opinion or hypersensitivity including known or suspected&#xD;
+                  clinically relevant drug hypersensitivity to any monoclonal antibody or any&#xD;
+                  component of study drug&#xD;
+&#xD;
+               2. History of or current medical condition including gastrointestinal, renal,&#xD;
+                  endocrine, neurologic, autoimmune, hepatic, hematological metabolic (including&#xD;
+                  known diabetes mellitus), cardiovascular, or psychiatric condition classed as&#xD;
+                  clinically significant by the Investigator&#xD;
+&#xD;
+               3. History of or any concomitant active malignancy&#xD;
+&#xD;
+               4. History of or current infection with human immunodeficiency, syphilis, hepatitis&#xD;
+                  B or hepatitis C&#xD;
+&#xD;
+               5. History of or current infection requiring a course of systemic anti-infective&#xD;
+                  that was completed within 28 days prior to the study drug administration or a&#xD;
+                  serious infection (associated with hospitalization or which required IV&#xD;
+                  antibiotics) within 6 months before the study drug administration&#xD;
+&#xD;
+               6. History of an illness within 28 days prior to the study drug administration that&#xD;
+                  is identified as clinically significant by the Investigator or requires&#xD;
+                  hospitalization&#xD;
+&#xD;
+               7. History of surgical intervention or an operation within 28 days prior to the&#xD;
+                  study drug administration or plans to have a surgical procedure during the study&#xD;
+                  period&#xD;
+&#xD;
+          2. Subject had a history of or concurrent use of medications including any prior therapy&#xD;
+             of following(s):&#xD;
+&#xD;
+               1. Prescription medication (excluding hormonal birth control), over-the-counter&#xD;
+                  drug, dietary supplements or herbal remedies within 7 days or 5 half-lives&#xD;
+                  (whichever is longer) prior to the study drug administration&#xD;
+&#xD;
+               2. Any vaccination within 4 weeks prior to the study drug administration&#xD;
+&#xD;
+               3. Treatment with any monoclonal antibody, fusion protein, or blood transfusion&#xD;
+                  within 6 months or 5 half lives (which is longer) prior to the study drug&#xD;
+                  administration or current use of biologics&#xD;
+&#xD;
+               4. Treatment with any other investigational drug within 6 months or 5 half lives&#xD;
+                  (which is longer) prior to the study drug administration&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Chungnam National University Hospital</name>
+      <address>
+        <city>Daejeon</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>July 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <results_first_submitted>October 28, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 11, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 16, 2021</results_first_posted>
+  <last_update_submitted>November 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 3, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/79/NCT04525079/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/79/NCT04525079/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>CT-P59 10 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="P2">
+          <title>CT-P59 20 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="P3">
+          <title>CT-P59 40 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="P4">
+          <title>CT-P59 80 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="P5">
+          <title>Placebo</title>
+          <description>Healthy volunteers were administered Placebo by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="6"/>
+                <participants group_id="P5" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="6"/>
+                <participants group_id="P5" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>CT-P59 10 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="B2">
+          <title>CT-P59 20 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="B3">
+          <title>CT-P59 40 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="B4">
+          <title>CT-P59 80 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="B5">
+          <title>Placebo</title>
+          <description>Healthy volunteers were administered Placebo by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="B6">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="6"/>
+            <count group_id="B2" value="6"/>
+            <count group_id="B3" value="6"/>
+            <count group_id="B4" value="6"/>
+            <count group_id="B5" value="8"/>
+            <count group_id="B6" value="32"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33.5" lower_limit="21" upper_limit="43"/>
+                    <measurement group_id="B2" value="23.5" lower_limit="22" upper_limit="38"/>
+                    <measurement group_id="B3" value="28.5" lower_limit="20" upper_limit="34"/>
+                    <measurement group_id="B4" value="21.5" lower_limit="19" upper_limit="28"/>
+                    <measurement group_id="B5" value="25" lower_limit="19" upper_limit="43"/>
+                    <measurement group_id="B6" value="24" lower_limit="19" upper_limit="43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>South Korea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Preliminary Safety and Tolerability of CT-P59</title>
+        <description>A TEAE includes any untoward medical occurrence in a subject after administration of a study drug, which does not necessarily have to have a causal relationship with this the study drug.</description>
+        <time_frame>Up to Day 14 after the subject administered with the study drug (Day 1)</time_frame>
+        <population>Safety set: All subjects who receive a full or partial dose of the study drugs</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O5">
+            <title>Placebo</title>
+            <description>Healthy volunteers were administered Placebo by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Preliminary Safety and Tolerability of CT-P59</title>
+          <description>A TEAE includes any untoward medical occurrence in a subject after administration of a study drug, which does not necessarily have to have a causal relationship with this the study drug.</description>
+          <population>Safety set: All subjects who receive a full or partial dose of the study drugs</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number of Participants with Treatment-Emergent Adverse Events (TEAEs)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Participants with Treatment-Emergent Serious Adverse Events (TESAEs)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Participants with Treatment-Emergent Adverse Events of Special Interest (TEAESI)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Additional Safety of CT-P59 Including Immunogenicity</title>
+        <description>A TEAE includes any untoward medical occurrence in a subject after administration of a study drug, which does not necessarily have to have a causal relationship with this the study drug.</description>
+        <time_frame>Up to 90 Days</time_frame>
+        <population>Safety set: All subjects who receive a full or partial dose of the study drugs.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O5">
+            <title>Placebo</title>
+            <description>Healthy volunteers were administered Placebo by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Additional Safety of CT-P59 Including Immunogenicity</title>
+          <description>A TEAE includes any untoward medical occurrence in a subject after administration of a study drug, which does not necessarily have to have a causal relationship with this the study drug.</description>
+          <population>Safety set: All subjects who receive a full or partial dose of the study drugs.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number of Participants with Treatment-Emergent Adverse Events (TEAEs)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="3"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Participants with Treatment-Emergent Serious Adverse Events (TESAEs)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Participants with Treatment-Emergent Adverse Events of Special Interest (TEAESI)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of Participants with Anti-Drug Antibody (ADA) positive to CT-P59</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameters: AUC0-inf and AUC0-last</title>
+        <description>Data contain Area under the serum concentration-time curve (AUC) from time zero to infinity (AUC0-inf) and Area under the serum concentration-time curve from time zero to the last quantifiable concentration (AUC0-last) of CT-P59.</description>
+        <time_frame>Up to 90 Days</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameters: AUC0-inf and AUC0-last</title>
+          <description>Data contain Area under the serum concentration-time curve (AUC) from time zero to infinity (AUC0-inf) and Area under the serum concentration-time curve from time zero to the last quantifiable concentration (AUC0-last) of CT-P59.</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>hr*ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Area under the concentration-time curve from time zero to infinity (AUC0-inf) of CT-P59</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52469185.0" spread="20377788.54"/>
+                    <measurement group_id="O2" value="88353384.1" spread="17775504.91"/>
+                    <measurement group_id="O3" value="167086786.9" spread="21899708.77"/>
+                    <measurement group_id="O4" value="335692549.3" spread="58444099.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Area under the concentration-time curve from time 0 to the last measured concentration (AUC0-last)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49593090.2" spread="15304853.54"/>
+                    <measurement group_id="O2" value="86246911.1" spread="15738302.53"/>
+                    <measurement group_id="O3" value="164581603.9" spread="21359705.90"/>
+                    <measurement group_id="O4" value="321167775.4" spread="47167390.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameters: AUC0-inf/Dose and AUC0-last/Dose</title>
+        <description>Data contain Dose normalized AUC0-inf (AUC0-inf/Dose) and Dose normalized AUC0-last (AUC0-last/Dose)</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameters: AUC0-inf/Dose and AUC0-last/Dose</title>
+          <description>Data contain Dose normalized AUC0-inf (AUC0-inf/Dose) and Dose normalized AUC0-last (AUC0-last/Dose)</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>hr*ng/mL/mg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Dose normalized AUC0-inf (AUC0-inf/Dose) of CT-P59 (normalized to total body dose)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68774.1" spread="22010.25"/>
+                    <measurement group_id="O2" value="70620.6" spread="20122.52"/>
+                    <measurement group_id="O3" value="54763.5" spread="6031.16"/>
+                    <measurement group_id="O4" value="58981.8" spread="7971.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dose normalized AUC0-last (AUC0-last/Dose) of CT-P59 (normalized to total body dose)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65200.8" spread="15941.77"/>
+                    <measurement group_id="O2" value="68847.6" spread="18138.86"/>
+                    <measurement group_id="O3" value="53932.1" spread="5721.21"/>
+                    <measurement group_id="O4" value="56474.7" spread="6274.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: Cmax</title>
+        <description>Data contains Maximum observed serum concentration(Cmax) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: Cmax</title>
+          <description>Data contains Maximum observed serum concentration(Cmax) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="233166.7" spread="37796.38"/>
+                    <measurement group_id="O2" value="406333.3" spread="43647.07"/>
+                    <measurement group_id="O3" value="1020000.0" spread="240084.15"/>
+                    <measurement group_id="O4" value="1941666.7" spread="267538.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: Cmax/Dose</title>
+        <description>Data contains Dose normalized Cmax(normalized to total body dose)(Cmax/Dose) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: Cmax/Dose</title>
+          <description>Data contains Dose normalized Cmax(normalized to total body dose)(Cmax/Dose) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>ng/mL/mg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="307.1" spread="27.11"/>
+                    <measurement group_id="O2" value="321.5" spread="45.42"/>
+                    <measurement group_id="O3" value="337.0" spread="91.60"/>
+                    <measurement group_id="O4" value="342.0" spread="44.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: Tmax</title>
+        <description>Data indicates Time to Cmax(Tmax) of CT-P59</description>
+        <time_frame>Up to 90 Days</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: Tmax</title>
+          <description>Data indicates Time to Cmax(Tmax) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>hr</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.080" lower_limit="1.57" upper_limit="2.6"/>
+                    <measurement group_id="O2" value="1.575" lower_limit="1.48" upper_limit="5.48"/>
+                    <measurement group_id="O3" value="2.070" lower_limit="1.5" upper_limit="2.67"/>
+                    <measurement group_id="O4" value="2.430" lower_limit="1.53" upper_limit="13.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: t1/2</title>
+        <description>Data contains Terminal half-life (t1/2) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: t1/2</title>
+          <description>Data contains Terminal half-life (t1/2) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>hr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="473.3" spread="181.26"/>
+                    <measurement group_id="O2" value="426.4" spread="84.52"/>
+                    <measurement group_id="O3" value="398.6" spread="36.30"/>
+                    <measurement group_id="O4" value="526.8" spread="106.62"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: %AUCext</title>
+        <description>Data contains Percentage of AUC0-inf obtained by extrapolation (%AUCext) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: %AUCext</title>
+          <description>Data contains Percentage of AUC0-inf obtained by extrapolation (%AUCext) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>Percentage of AUC0-inf</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.834" spread="5.2035"/>
+                    <measurement group_id="O2" value="2.120" spread="1.6724"/>
+                    <measurement group_id="O3" value="1.478" spread="0.59770"/>
+                    <measurement group_id="O4" value="4.005" spread="2.3526"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: λz</title>
+        <description>Data contains Terminal elimination rate constant (λz) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: λz</title>
+          <description>Data contains Terminal elimination rate constant (λz) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>1/hr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.001586" spread="0.00038316"/>
+                    <measurement group_id="O2" value="0.001673" spread="0.00028913"/>
+                    <measurement group_id="O3" value="0.001751" spread="0.00016119"/>
+                    <measurement group_id="O4" value="0.001356" spread="0.00024242"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: CL</title>
+        <description>Data contains Total body clearance (CL) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: CL</title>
+          <description>Data contains Total body clearance (CL) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>mL/hr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.46" spread="3.5045"/>
+                    <measurement group_id="O2" value="14.98" spread="3.6165"/>
+                    <measurement group_id="O3" value="18.46" spread="2.1285"/>
+                    <measurement group_id="O4" value="17.20" spread="2.2033"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetic (PK) Parameter: Vz</title>
+        <description>Data contains Volume of distribution during the elimination phase (Vz) of CT-P59</description>
+        <time_frame>Up to Day 90</time_frame>
+        <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CT-P59 10 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O2">
+            <title>CT-P59 20 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O3">
+            <title>CT-P59 40 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+          <group group_id="O4">
+            <title>CT-P59 80 mg/kg</title>
+            <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic (PK) Parameter: Vz</title>
+          <description>Data contains Volume of distribution during the elimination phase (Vz) of CT-P59</description>
+          <population>Pharmacokinetic (PK) set: All subjects who receive a full dose of CT-P59 and have at least 1 evaluable post-treatment PK concentration result</population>
+          <units>mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9848.9" spread="950.01"/>
+                    <measurement group_id="O2" value="8880.3" spread="907.10"/>
+                    <measurement group_id="O3" value="10532.2" spread="580.96"/>
+                    <measurement group_id="O4" value="12805.5" spread="937.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were assessed from the date the patient signed the ICF until end of study visit (up to Day 90).</time_frame>
+      <desc>From ICF signed date to end of study visit</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>CT-P59 10 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (10 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="E2">
+          <title>CT-P59 20 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (20 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="E3">
+          <title>CT-P59 40 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (40 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="E4">
+          <title>CT-P59 80 mg/kg</title>
+          <description>Healthy volunteers were administered CT-P59 (80 mg/kg) by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+        <group group_id="E5">
+          <title>Placebo</title>
+          <description>Healthy volunteers were administered Placebo by intravenously on Day 1. Single-dose was administered to the subjects and monitor up to Day 90.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Limb injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>3</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Infusion related reaction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood creatine phosphokinase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>C-reactive protein increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>White blood cells urine positive</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urticaria</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>JiWoong Lim</name_or_title>
+      <organization>Celltrion Inc</organization>
+      <phone>82-32-850-5806</phone>
+      <email>jiwoong.lim@celltrion.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

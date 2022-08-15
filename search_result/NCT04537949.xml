@@ -1,0 +1,2847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="59">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537949</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BNT162-04</org_study_id>
+    <secondary_id>2020-003267-26</secondary_id>
+    <secondary_id>U1111-1254-4840</secondary_id>
+    <nct_id>NCT04537949</nct_id>
+  </id_info>
+  <brief_title>A Trial Investigating the Safety and Effects of One BNT162 Vaccine Against COVID-19 in Healthy Adults</brief_title>
+  <official_title>A Multi-site, Phase I/II, 2-Part, Dose-Escalation Trial Investigating the Safety and Immunogenicity of a Prophylactic SARS-CoV-2 RNA Vaccine (BNT162b3) Against COVID-19 Using Different Dosing Regimens in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Originally, the study was planned to include two parts, i.e., Part A and Part B, however Part&#xD;
+      B was skipped due to changes in the overall clinical development plan. The conducted Part A&#xD;
+      was a dose-finding part to investigate the optimal dose, allowing dose adjustments upwards&#xD;
+      and downwards in younger participants. Doses tested in older participants were chosen based&#xD;
+      on acceptability of dosing in younger participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study was a multi-site, Phase I/II, open-label, dose-escalation study. The study&#xD;
+      included the first in human dose and dose ranging groups in healthy younger participants&#xD;
+      (aged 18 to 55 years [yrs]) and older participants (aged 56 to 85 yrs). The conducted Part A&#xD;
+      followed a dose escalation design. Discretionary dose de-escalation and refinement was also&#xD;
+      planned. Study participants with the first-in-human [FIH] immunization and any subsequent&#xD;
+      dose escalation cohorts were immunized using a sentinel dosing/subject staggering. For any&#xD;
+      dose de-escalation or dose-refinement cohorts in younger adults, i.e., cohorts with doses&#xD;
+      lower than previously tested, participants were dosed using a subject staggering process.&#xD;
+      Cohorts in older participants were optional and dependent on acceptability of dosing in&#xD;
+      younger participants. Part A consisted of a treatment phase (screening to Visit 7) and a&#xD;
+      follow-up phase (Visits 8 to 10).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 9, 2020</start_date>
+  <completion_date type="Actual">February 7, 2022</completion_date>
+  <primary_completion_date type="Actual">March 12, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Solicited Local Reactions at the Injection Site (Pain, Tenderness, Erythema/Redness, Induration/Swelling) Recorded up to 7 Days After Each IMP Dose</measure>
+    <time_frame>From Day 1 to Day 8 for Prime Immunization and from Day 22 to Day 29 for Boost Immunization</time_frame>
+    <description>Solicited local reactions at the injection site (pain, tenderness, erythema/redness, and induration/swelling) were monitored and graded using criteria based on the guidance given in US FDA Guidance for Industry &quot;Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials&quot;. The reporting of local reactions was based on the participant's assessments via daily solicited reports in the participant diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Solicited Systemic Reactions (Nausea, Vomiting, Diarrhea, Headache, Fatigue, Myalgia, Arthralgia, Chills, Loss of Appetite, Malaise, and Fever) Recorded up to 7 Days After Each IMP Dose</measure>
+    <time_frame>From Day 1 to Day 8 for Prime Immunization and from Day 22 to Day 29 for Boost Immunization</time_frame>
+    <description>Solicited systemic reactions (nausea, vomiting, diarrhea, headache, fatigue, myalgia, arthralgia, chills, loss of appetite, malaise, and fever) were monitored and graded using criteria based on the guidance given in US FDA Guidance for Industry &quot;Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials&quot;. The reporting of systemic reactions was based on the participant's assessments via daily solicited reports in the participant diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Percentage of Participants With at Least 1 Unsolicited Treatment Emergent Adverse Event (TEAE) Occurring After Prime Immunization up to Boost Immunization or 28 Days After Prime Immunization</measure>
+    <time_frame>28 days following first IMP dose or up to second IMP dose (whichever was first)</time_frame>
+    <description>Treatment emergent adverse events (TEAEs) were analyzed by age group, dose level, and for each IMP dose. The number and percentage of participants reporting at least one TEAE was summarized by adverse event types (any TEAE and any grade &gt;=3 TEAE) using the Safety Set.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Percentage of Participants With at Least 1 Unsolicited TEAE Occurring up to 28 Days After Boost Immunization or After Prime Immunization (if no Boost Immunization)</measure>
+    <time_frame>28 days following second IMP dose or first IMP dose (if no second IMP dose as given)</time_frame>
+    <description>Treatment emergent adverse events (TEAEs) were analyzed by age group, dose level, and for each IMP dose. The percentage of participants reporting at least one TEAE was summarized by adverse event types (any TEAE and any grade &gt;=3 TEAE) using the Safety Set.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Functional Antibody Responses</measure>
+    <time_frame>up to 50 days following first IMP dose</time_frame>
+    <description>At 7 and 21 days after primary immunization and at 7, 14, 21, 28 days after boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold Increase in Functional Antibody Titers</measure>
+    <time_frame>up to 50 days following first IMP dose</time_frame>
+    <description>At 7 and 21 days after primary immunization and at 7, 14, 21, and 28 days after the boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects With Seroconversion Defined as a Minimum of 4-fold Increase of Functional Antibody Titers as Compared to Baseline</measure>
+    <time_frame>up to 50 days following first IMP dose</time_frame>
+    <description>At 7 and 21 days after primary immunization and at 7, 14, 21, and 28 days after the boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Antibody Responses</measure>
+    <time_frame>From 51 to up to 365 days following first IMP dose</time_frame>
+    <description>At 63, 162, 365 days after boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold Increase in Functional Antibody Titers</measure>
+    <time_frame>From 51 to up to 365 days following first IMP dose</time_frame>
+    <description>At 63, 162, 365 days after boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects With Seroconversion Defined as a Minimum of 4-fold Increase of Functional Antibody Titers as Compared to Baseline</measure>
+    <time_frame>From 51 to up to 365 days following first IMP dose</time_frame>
+    <description>At 63, 162, 365 days after boost immunization.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">96</enrollment>
+  <condition>Covid-19</condition>
+  <condition>Protection Against COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Part A participants aged 18 to 55 years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A participants aged 56 to 85 years (optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b3</intervention_name>
+    <description>Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost (P/B) regimen).</description>
+    <arm_group_label>Part A participants aged 18 to 55 years</arm_group_label>
+    <arm_group_label>Part A participants aged 56 to 85 years (optional)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have given informed consent by signing the informed consent form (ICF) before&#xD;
+             initiation of any trial-specific procedures.&#xD;
+&#xD;
+          -  They must be willing and able to comply with scheduled visits, treatment schedule,&#xD;
+             laboratory tests, lifestyle restrictions (e.g., to practice social distancing and to&#xD;
+             follow good practices to reduce their chances of being infected or spreading&#xD;
+             COVID-19), and other requirements of the trial.&#xD;
+&#xD;
+          -  They must be able to understand and follow trial-related instructions.&#xD;
+&#xD;
+          -  For younger adult cohorts, volunteers must be aged 18 to 55 years, have a body mass&#xD;
+             index over 19 kg/m^2 and under 30 kg/m^2 (i.e., be neither underweight nor obese), and&#xD;
+             weigh at least 50 kg at Visit 0.&#xD;
+&#xD;
+        OR For older adult cohorts, volunteers must be aged 56 to 85 years, have a body mass index&#xD;
+        over 19 kg/m^2 and under 30 kg/m^2 (i.e., be neither underweight nor obese), and weigh at&#xD;
+        least 50 kg at Visit 0.&#xD;
+&#xD;
+          -  They must be healthy, in the clinical judgment of the investigator, based on medical&#xD;
+             history, physical examination, 12-lead electrocardiogram (ECG), vital signs&#xD;
+             (systolic/diastolic blood pressure, pulse rate, body temperature, respiratory rate),&#xD;
+             and clinical laboratory tests (blood chemistry, hematology, and urine chemistry) at&#xD;
+             Visit 0.&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) must have a negative beta-human chorionic&#xD;
+             gonadotropin urine test at Visit 0 and Visit 1. Women that are postmenopausal or&#xD;
+             permanently sterilized will be considered as not having reproductive potential.&#xD;
+&#xD;
+          -  WOCBP must agree to practice a highly effective form of contraception during the&#xD;
+             trial, starting after Visit 0 and continuously until 60 days after receiving the last&#xD;
+             immunization. WOCBP must agree to require their male partners to use condoms during&#xD;
+             sexual contact (unless male partners are sterilized or infertile).&#xD;
+&#xD;
+          -  WOCBP must confirm that they practiced at least one highly effective form of&#xD;
+             contraception for the 14 days prior to Visit 0.&#xD;
+&#xD;
+          -  WOCBP must agree not to donate eggs (ova, oocytes) for the purposes of assisted&#xD;
+             reproduction during trial, starting after Visit 0 and continuously until 60 days after&#xD;
+             receiving the last immunization.&#xD;
+&#xD;
+          -  Men who are sexually active with a WOCBP and have not had a vasectomy must agree to&#xD;
+             practice a highly effective form of contraception with their female partner of&#xD;
+             childbearing potential during the trial, starting after Visit 0 and continuously until&#xD;
+             60 days after receiving the last immunization.&#xD;
+&#xD;
+          -  Men must be willing to refrain from sperm donation, starting after Visit 0 and&#xD;
+             continuously until 60 days after receiving the last immunization.&#xD;
+&#xD;
+          -  They must have confirmation of their health insurance coverage prior to Visit 0.&#xD;
+&#xD;
+          -  They must agree to not be vaccinated during the trial, starting after Visit 0 and&#xD;
+             continuously until 28 days after receiving the last immunization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have had any acute illness, as determined by the investigator, with or without fever,&#xD;
+             within 72 hours prior to the first immunization. An acute illness which is nearly&#xD;
+             resolved with only minor residual symptoms remaining is allowable if, in the opinion&#xD;
+             of the investigator, the residual symptoms will not compromise their well-being if&#xD;
+             they participate as trial subjects in the trial, or that could prevent, limit, or&#xD;
+             confound the protocol-specified assessments.&#xD;
+&#xD;
+          -  Are breastfeeding on the day of Visit 0 or who plan to breastfeed during the trial,&#xD;
+             starting after Visit 0 and continuously until at least 90 days after receiving the&#xD;
+             last immunization.&#xD;
+&#xD;
+          -  Have a known allergy, hypersensitivity, or intolerance to the planned investigational&#xD;
+             medicinal product (IMP) including any excipients of the IMP.&#xD;
+&#xD;
+          -  Had any medical condition or any major surgery (e.g., requiring general anesthesia)&#xD;
+             within the past 5 years which, in the opinion of the investigator, could compromise&#xD;
+             their well-being if they participate as trial subjects in the trial, or that could&#xD;
+             prevent, limit, or confound the protocol-specified assessments.&#xD;
+&#xD;
+          -  Have any surgery planned during the trial, starting after Visit 0 and continuously&#xD;
+             until at least 90 days after receiving the last immunization.&#xD;
+&#xD;
+          -  Had any chronic use (more than 21 continuous days) of any systemic medications,&#xD;
+             including immunosuppressants or other immune-modifying drugs, within the 6 months&#xD;
+             prior to Visit 0 unless in the opinion of the investigator, the medication would not&#xD;
+             prevent, limit, or confound the protocol-specified assessments or could compromise&#xD;
+             subject safety.&#xD;
+&#xD;
+          -  Received any vaccination within the 28 days prior to Visit 0.&#xD;
+&#xD;
+          -  Had administration of any immunoglobulins and/or any blood products within the 3&#xD;
+             months prior to Visit 0.&#xD;
+&#xD;
+          -  Had administration of another IMP including vaccines within 60 days or 5 half-lives&#xD;
+             (whichever is longer), prior to Visit 0.&#xD;
+&#xD;
+          -  Have a known history or a positive test of any of human immunodeficiency virus (HIV) 1&#xD;
+             or 2, Hepatitis B, or Hepatitis C, within the 30 days prior to Visit 0.&#xD;
+&#xD;
+          -  Have a positive polymerase chain reaction (PCR)-based test for severe acute&#xD;
+             respiratory syndrome coronavirus 2 (SARS-CoV-2) within the 30 days prior to Visit 1.&#xD;
+&#xD;
+          -  Have a positive drugs of abuse (for amphetamines, benzodiazepines, barbiturates,&#xD;
+             cocaine, cannabinoids, opiates, methadone, methamphetamines, phencyclidine, and&#xD;
+             tricyclic antidepressants) result at Visit 0 or Visit 1.&#xD;
+&#xD;
+          -  Have a positive breath alcohol test at Visit 0 or Visit 1.&#xD;
+&#xD;
+          -  Previously participated in an investigational trial involving lipid nanoparticles.&#xD;
+&#xD;
+          -  Are subject to exclusion periods from other investigational trials or simultaneous&#xD;
+             participation in another clinical trial.&#xD;
+&#xD;
+          -  Have any affiliation with the trial site (e.g., are close relative of the investigator&#xD;
+             or dependent person, such as an employee or student of the trial site).&#xD;
+&#xD;
+          -  Have a history (within the past 5 years) of substance abuse or known medical,&#xD;
+             psychological, or social conditions which, in the opinion of the investigator, could&#xD;
+             compromise their well-being if they participate as trial subjects in the trial, or&#xD;
+             that could prevent, limit, or confound the protocol-specified assessments.&#xD;
+&#xD;
+          -  Have a history of hypersensitivity or serious reactions to previous vaccinations.&#xD;
+&#xD;
+          -  Have a history of Guillain-Barré Syndrome within 6 weeks following a previous&#xD;
+             vaccination.&#xD;
+&#xD;
+          -  Have a history of narcolepsy.&#xD;
+&#xD;
+          -  Have history of alcohol abuse or drug addiction within 1 year before Visit 0.&#xD;
+&#xD;
+          -  Have a history of or suspected immunosuppressive condition, acquired or congenital, as&#xD;
+             determined by medical history and/or physical examination at Visit 0.&#xD;
+&#xD;
+          -  Have any abnormality or permanent body art (e.g., tattoo) that, in the opinion of the&#xD;
+             investigator, would obstruct the ability to observe local reactions at the injection&#xD;
+             site.&#xD;
+&#xD;
+          -  Have had any blood loss &gt;450 mL, e.g., due to donation of blood or blood products or&#xD;
+             injury, within the 7 days prior to Visit 0 or plan to donate blood during the trial,&#xD;
+             starting after Visit 0 and continuously until at least 7 days after receiving the last&#xD;
+             immunization.&#xD;
+&#xD;
+          -  Symptoms of COVID-19, e.g., respiratory symptoms, fever, cough, shortness of breath&#xD;
+             and breathing difficulties.&#xD;
+&#xD;
+          -  Have had contact with persons diagnosed with COVID-19 or who tested positive for&#xD;
+             SARS-CoV-2 by any diagnostic test within the 30 days prior to Visit 1.&#xD;
+&#xD;
+          -  Are soldiers, subjects in detention, contract research organization (CRO) or sponsor&#xD;
+             staff or their family members.&#xD;
+&#xD;
+          -  Regular receipt of inhaled/nebulized corticosteroids.&#xD;
+&#xD;
+          -  Have a condition known to put them at high risk for severe COVID-19, including those&#xD;
+             with any of the following risk factors:&#xD;
+&#xD;
+               -  Cancer&#xD;
+&#xD;
+               -  COPD (chronic obstructive pulmonary disease)&#xD;
+&#xD;
+               -  Immunocompromised state (weakened immune system) from solid organ transplant&#xD;
+&#xD;
+               -  Obesity (BMI of 30 or higher)&#xD;
+&#xD;
+               -  Serious heart conditions, such as heart failure, coronary artery disease, or&#xD;
+                  cardiomyopathies&#xD;
+&#xD;
+               -  Sickle cell disease&#xD;
+&#xD;
+               -  Diabetes mellitus&#xD;
+&#xD;
+               -  Hypertension&#xD;
+&#xD;
+               -  Asthma&#xD;
+&#xD;
+               -  Chronic liver disease&#xD;
+&#xD;
+               -  Known Stage 3 or worse chronic kidney disease (glomerular filtration rate &lt;60&#xD;
+                  mL/min/1.73 m^2)&#xD;
+&#xD;
+               -  Anticipating the need for immunosuppressive treatment within the next 6 months&#xD;
+&#xD;
+               -  Resident in a long-term facility&#xD;
+&#xD;
+               -  Current vaping or smoking (occasional smoking is acceptable)&#xD;
+&#xD;
+               -  History of chronic smoking within the prior year&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>BioNTech Responsible Person</last_name>
+    <role>Study Director</role>
+    <affiliation>BioNTech SE</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Contract Research Organization</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Contract Research Organization</name>
+      <address>
+        <city>Mannheim</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 3, 2020</study_first_posted>
+  <results_first_submitted>February 14, 2022</results_first_submitted>
+  <results_first_submitted_qc>March 22, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 24, 2022</results_first_posted>
+  <last_update_submitted>June 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 13, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Protection against COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Coronavirus Disease 2019</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Coronavirus infection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 2, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/49/NCT04537949/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 12, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/49/NCT04537949/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Study participants were selected from the volunteer panel at the clinical CRO, volunteers who responded to either generic or study-specific advertisements in social media, or volunteers who contacted the clinical CRO via a web-based study participant recruitment portal. Study participants were selected from this pool of volunteers according to inclusion and exclusion criteria. The first participant was enrolled on 09 Sep 2020. The last visit of the last participant was on 07 Feb 2022.</recruitment_details>
+      <pre_assignment_details>All enrolled participants were allocated to treatment.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="P2">
+          <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="P3">
+          <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="P4">
+          <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee).</description>
+        </group>
+        <group group_id="P5">
+          <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="P6">
+          <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="P7">
+          <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="P8">
+          <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="12"/>
+                <participants group_id="P4" count="12"/>
+                <participants group_id="P5" count="12"/>
+                <participants group_id="P6" count="12"/>
+                <participants group_id="P7" count="12"/>
+                <participants group_id="P8" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="12"/>
+                <participants group_id="P4" count="12"/>
+                <participants group_id="P5" count="12"/>
+                <participants group_id="P6" count="12"/>
+                <participants group_id="P7" count="12"/>
+                <participants group_id="P8" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>personal reasons not related to the IMP</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B2">
+          <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B3">
+          <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B4">
+          <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+        </group>
+        <group group_id="B5">
+          <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B6">
+          <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B7">
+          <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B8">
+          <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="B9">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="12"/>
+            <count group_id="B2" value="12"/>
+            <count group_id="B3" value="12"/>
+            <count group_id="B4" value="12"/>
+            <count group_id="B5" value="12"/>
+            <count group_id="B6" value="12"/>
+            <count group_id="B7" value="12"/>
+            <count group_id="B8" value="12"/>
+            <count group_id="B9" value="96"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39.32" spread="9.79"/>
+                    <measurement group_id="B2" value="31.20" spread="9.11"/>
+                    <measurement group_id="B3" value="31.89" spread="13.51"/>
+                    <measurement group_id="B4" value="37.28" spread="6.40"/>
+                    <measurement group_id="B5" value="66.08" spread="7.16"/>
+                    <measurement group_id="B6" value="69.32" spread="8.74"/>
+                    <measurement group_id="B7" value="64.93" spread="6.63"/>
+                    <measurement group_id="B8" value="66.42" spread="6.82"/>
+                    <measurement group_id="B9" value="50.80" spread="18.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="8"/>
+                    <measurement group_id="B5" value="9"/>
+                    <measurement group_id="B6" value="8"/>
+                    <measurement group_id="B7" value="9"/>
+                    <measurement group_id="B8" value="6"/>
+                    <measurement group_id="B9" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="4"/>
+                    <measurement group_id="B7" value="3"/>
+                    <measurement group_id="B8" value="6"/>
+                    <measurement group_id="B9" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="12"/>
+                    <measurement group_id="B5" value="12"/>
+                    <measurement group_id="B6" value="12"/>
+                    <measurement group_id="B7" value="12"/>
+                    <measurement group_id="B8" value="12"/>
+                    <measurement group_id="B9" value="96"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="11"/>
+                    <measurement group_id="B4" value="12"/>
+                    <measurement group_id="B5" value="12"/>
+                    <measurement group_id="B6" value="12"/>
+                    <measurement group_id="B7" value="12"/>
+                    <measurement group_id="B8" value="12"/>
+                    <measurement group_id="B9" value="95"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Germany</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="12"/>
+                    <measurement group_id="B5" value="12"/>
+                    <measurement group_id="B6" value="12"/>
+                    <measurement group_id="B7" value="12"/>
+                    <measurement group_id="B8" value="12"/>
+                    <measurement group_id="B9" value="96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72.74" spread="11.43"/>
+                    <measurement group_id="B2" value="71.68" spread="11.67"/>
+                    <measurement group_id="B3" value="71.40" spread="14.40"/>
+                    <measurement group_id="B4" value="71.02" spread="13.80"/>
+                    <measurement group_id="B5" value="76.05" spread="11.88"/>
+                    <measurement group_id="B6" value="70.90" spread="10.69"/>
+                    <measurement group_id="B7" value="69.06" spread="14.25"/>
+                    <measurement group_id="B8" value="84.43" spread="17.53"/>
+                    <measurement group_id="B9" value="73.41" spread="13.66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body mass index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23.89" spread="2.92"/>
+                    <measurement group_id="B2" value="24.23" spread="3.68"/>
+                    <measurement group_id="B3" value="23.80" spread="2.74"/>
+                    <measurement group_id="B4" value="23.69" spread="2.03"/>
+                    <measurement group_id="B5" value="25.92" spread="1.66"/>
+                    <measurement group_id="B6" value="24.69" spread="3.09"/>
+                    <measurement group_id="B7" value="24.03" spread="3.17"/>
+                    <measurement group_id="B8" value="26.73" spread="2.75"/>
+                    <measurement group_id="B9" value="24.62" spread="2.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Solicited Local Reactions at the Injection Site (Pain, Tenderness, Erythema/Redness, Induration/Swelling) Recorded up to 7 Days After Each IMP Dose</title>
+        <description>Solicited local reactions at the injection site (pain, tenderness, erythema/redness, and induration/swelling) were monitored and graded using criteria based on the guidance given in US FDA Guidance for Industry &quot;Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials&quot;. The reporting of local reactions was based on the participant's assessments via daily solicited reports in the participant diaries.</description>
+        <time_frame>From Day 1 to Day 8 for Prime Immunization and from Day 22 to Day 29 for Boost Immunization</time_frame>
+        <population>Safety Set - All subjects who received at least one dose of the IMP.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Solicited Local Reactions at the Injection Site (Pain, Tenderness, Erythema/Redness, Induration/Swelling) Recorded up to 7 Days After Each IMP Dose</title>
+          <description>Solicited local reactions at the injection site (pain, tenderness, erythema/redness, and induration/swelling) were monitored and graded using criteria based on the guidance given in US FDA Guidance for Industry &quot;Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials&quot;. The reporting of local reactions was based on the participant's assessments via daily solicited reports in the participant diaries.</description>
+          <population>Safety Set - All subjects who received at least one dose of the IMP.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Prime up to Day 7 after Prime: Number of participants with any local reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="9"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="12"/>
+                    <measurement group_id="O5" value="4"/>
+                    <measurement group_id="O6" value="10"/>
+                    <measurement group_id="O7" value="10"/>
+                    <measurement group_id="O8" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Prime up to Day 7 after Prime: Number of participants with any grade &gt;= 3 local reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="2"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                    <measurement group_id="O7" value="0"/>
+                    <measurement group_id="O8" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Boost up to Day 7 after Boost: Number of participants with any local reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="11"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="9"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O5" value="2"/>
+                    <measurement group_id="O6" value="9"/>
+                    <measurement group_id="O7" value="8"/>
+                    <measurement group_id="O8" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Boost up to Day 7 after Boost: Number of participants with any grade &gt;= 3 local reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="11"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                    <measurement group_id="O7" value="0"/>
+                    <measurement group_id="O8" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Solicited Systemic Reactions (Nausea, Vomiting, Diarrhea, Headache, Fatigue, Myalgia, Arthralgia, Chills, Loss of Appetite, Malaise, and Fever) Recorded up to 7 Days After Each IMP Dose</title>
+        <description>Solicited systemic reactions (nausea, vomiting, diarrhea, headache, fatigue, myalgia, arthralgia, chills, loss of appetite, malaise, and fever) were monitored and graded using criteria based on the guidance given in US FDA Guidance for Industry &quot;Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials&quot;. The reporting of systemic reactions was based on the participant's assessments via daily solicited reports in the participant diaries.</description>
+        <time_frame>From Day 1 to Day 8 for Prime Immunization and from Day 22 to Day 29 for Boost Immunization</time_frame>
+        <population>Safety Set - All subjects who received at least one dose of the IMP.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Solicited Systemic Reactions (Nausea, Vomiting, Diarrhea, Headache, Fatigue, Myalgia, Arthralgia, Chills, Loss of Appetite, Malaise, and Fever) Recorded up to 7 Days After Each IMP Dose</title>
+          <description>Solicited systemic reactions (nausea, vomiting, diarrhea, headache, fatigue, myalgia, arthralgia, chills, loss of appetite, malaise, and fever) were monitored and graded using criteria based on the guidance given in US FDA Guidance for Industry &quot;Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials&quot;. The reporting of systemic reactions was based on the participant's assessments via daily solicited reports in the participant diaries.</description>
+          <population>Safety Set - All subjects who received at least one dose of the IMP.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Prime up to Day 7 after Prime: Number of participants with any systemic reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="10"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="12"/>
+                    <measurement group_id="O5" value="3"/>
+                    <measurement group_id="O6" value="9"/>
+                    <measurement group_id="O7" value="9"/>
+                    <measurement group_id="O8" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Prime up to Day 7 after Prime: Number of participants with any grade &gt;= 3 systemic reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="3"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="3"/>
+                    <measurement group_id="O7" value="0"/>
+                    <measurement group_id="O8" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Boost up to Day 7 after Boost: Number of participants with any systemic reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="11"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="9"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O5" value="2"/>
+                    <measurement group_id="O6" value="10"/>
+                    <measurement group_id="O7" value="9"/>
+                    <measurement group_id="O8" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Boost up to Day 7 after Boost: Number of participants with any grade &gt;= 3 systemic reaction</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="11"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="4"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="2"/>
+                    <measurement group_id="O7" value="2"/>
+                    <measurement group_id="O8" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>The Percentage of Participants With at Least 1 Unsolicited Treatment Emergent Adverse Event (TEAE) Occurring After Prime Immunization up to Boost Immunization or 28 Days After Prime Immunization</title>
+        <description>Treatment emergent adverse events (TEAEs) were analyzed by age group, dose level, and for each IMP dose. The number and percentage of participants reporting at least one TEAE was summarized by adverse event types (any TEAE and any grade &gt;=3 TEAE) using the Safety Set.</description>
+        <time_frame>28 days following first IMP dose or up to second IMP dose (whichever was first)</time_frame>
+        <population>Safety Set - All participants who received at least one dose of the IMP.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Percentage of Participants With at Least 1 Unsolicited Treatment Emergent Adverse Event (TEAE) Occurring After Prime Immunization up to Boost Immunization or 28 Days After Prime Immunization</title>
+          <description>Treatment emergent adverse events (TEAEs) were analyzed by age group, dose level, and for each IMP dose. The number and percentage of participants reporting at least one TEAE was summarized by adverse event types (any TEAE and any grade &gt;=3 TEAE) using the Safety Set.</description>
+          <population>Safety Set - All participants who received at least one dose of the IMP.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Any TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42"/>
+                    <measurement group_id="O2" value="25"/>
+                    <measurement group_id="O3" value="25"/>
+                    <measurement group_id="O4" value="50"/>
+                    <measurement group_id="O5" value="17"/>
+                    <measurement group_id="O6" value="17"/>
+                    <measurement group_id="O7" value="25"/>
+                    <measurement group_id="O8" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any grade &gt;=3 TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                    <measurement group_id="O7" value="0"/>
+                    <measurement group_id="O8" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>The Percentage of Participants With at Least 1 Unsolicited TEAE Occurring up to 28 Days After Boost Immunization or After Prime Immunization (if no Boost Immunization)</title>
+        <description>Treatment emergent adverse events (TEAEs) were analyzed by age group, dose level, and for each IMP dose. The percentage of participants reporting at least one TEAE was summarized by adverse event types (any TEAE and any grade &gt;=3 TEAE) using the Safety Set.</description>
+        <time_frame>28 days following second IMP dose or first IMP dose (if no second IMP dose as given)</time_frame>
+        <population>Safety Set - All participants who received at least one dose of the IMP.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Percentage of Participants With at Least 1 Unsolicited TEAE Occurring up to 28 Days After Boost Immunization or After Prime Immunization (if no Boost Immunization)</title>
+          <description>Treatment emergent adverse events (TEAEs) were analyzed by age group, dose level, and for each IMP dose. The percentage of participants reporting at least one TEAE was summarized by adverse event types (any TEAE and any grade &gt;=3 TEAE) using the Safety Set.</description>
+          <population>Safety Set - All participants who received at least one dose of the IMP.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Any TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50"/>
+                    <measurement group_id="O2" value="33"/>
+                    <measurement group_id="O3" value="42"/>
+                    <measurement group_id="O4" value="50"/>
+                    <measurement group_id="O5" value="58"/>
+                    <measurement group_id="O6" value="25"/>
+                    <measurement group_id="O7" value="42"/>
+                    <measurement group_id="O8" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any grade &gt;=3 TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                    <measurement group_id="O7" value="0"/>
+                    <measurement group_id="O8" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Functional Antibody Responses</title>
+        <description>At 7 and 21 days after primary immunization and at 7, 14, 21, 28 days after boost immunization.</description>
+        <time_frame>up to 50 days following first IMP dose</time_frame>
+        <population>Immunogenicity set - all participants who received at least one dose of IMP and had at least one post-baseline functional antibody titer immunogenicity assessment.&#xD;
+Boost immunization withheld for 30 μg younger cohort following Safety Review Committee decision.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Functional Antibody Responses</title>
+          <description>At 7 and 21 days after primary immunization and at 7, 14, 21, 28 days after boost immunization.</description>
+          <population>Immunogenicity set - all participants who received at least one dose of IMP and had at least one post-baseline functional antibody titer immunogenicity assessment.&#xD;
+Boost immunization withheld for 30 μg younger cohort following Safety Review Committee decision.</population>
+          <units>titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>7 days after Prime Immunization (Day 8)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" lower_limit="5.0" upper_limit="5.0"/>
+                    <measurement group_id="O2" value="5.1" lower_limit="4.8" upper_limit="5.5"/>
+                    <measurement group_id="O3" value="5.0" lower_limit="5.0" upper_limit="5.0"/>
+                    <measurement group_id="O4" value="5.0" lower_limit="5.0" upper_limit="5.0"/>
+                    <measurement group_id="O5" value="5.0" lower_limit="5.0" upper_limit="5.0"/>
+                    <measurement group_id="O6" value="5.0" lower_limit="5.0" upper_limit="5.0"/>
+                    <measurement group_id="O7" value="7.3" lower_limit="3.2" upper_limit="16.6"/>
+                    <measurement group_id="O8" value="5.0" lower_limit="5.0" upper_limit="5.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>21 days after Prime Immunization (Day 22)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.1" lower_limit="4.5" upper_limit="8.4"/>
+                    <measurement group_id="O2" value="25.9" lower_limit="13.8" upper_limit="48.7"/>
+                    <measurement group_id="O3" value="8.9" lower_limit="6.0" upper_limit="13.3"/>
+                    <measurement group_id="O4" value="12.2" lower_limit="7.5" upper_limit="20.0"/>
+                    <measurement group_id="O5" value="6.3" lower_limit="4.8" upper_limit="8.3"/>
+                    <measurement group_id="O6" value="5.3" lower_limit="4.9" upper_limit="5.8"/>
+                    <measurement group_id="O7" value="15.0" lower_limit="5.9" upper_limit="37.9"/>
+                    <measurement group_id="O8" value="9.4" lower_limit="5.4" upper_limit="16.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 days after Boost Immunization (Day 29)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="51.5" lower_limit="26.4" upper_limit="100.3"/>
+                    <measurement group_id="O2" value="479.5" lower_limit="300.3" upper_limit="765.5"/>
+                    <measurement group_id="O3" value="106.8" lower_limit="58.2" upper_limit="196.0"/>
+                    <measurement group_id="O4" value="10.0" lower_limit="6.5" upper_limit="15.4"/>
+                    <measurement group_id="O5" value="53.4" lower_limit="25.1" upper_limit="113.7"/>
+                    <measurement group_id="O6" value="51.9" lower_limit="25.0" upper_limit="107.4"/>
+                    <measurement group_id="O7" value="320.0" lower_limit="189.7" upper_limit="539.7"/>
+                    <measurement group_id="O8" value="207.5" lower_limit="118.0" upper_limit="364.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>14 days after Boost Immunization (Day 36)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60.6" lower_limit="33.5" upper_limit="109.8"/>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">Missing Day 36 data of 10 μg younger cohort as they have only re-consented to Clinical Trial Protocol 7.0 (introducing visit 5a/Day 36) on/after their Day 43.</measurement>
+                    <measurement group_id="O3" value="NA" lower_limit="NA" upper_limit="NA">Missing Day 36 data of 20 μg younger cohort as they have only re-consented to Clinical Trial Protocol 7.0 (introducing visit 5a/Day 36) on/after their Day 43.</measurement>
+                    <measurement group_id="O4" value="10.3" lower_limit="6.9" upper_limit="15.4"/>
+                    <measurement group_id="O5" value="77.7" lower_limit="40.4" upper_limit="149.4"/>
+                    <measurement group_id="O6" value="219.8" lower_limit="148.5" upper_limit="325.4"/>
+                    <measurement group_id="O7" value="320.0" lower_limit="169.3" upper_limit="604.9"/>
+                    <measurement group_id="O8" value="359.2" lower_limit="204.0" upper_limit="632.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>21 days after Boost Immunization (Day 43)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36.4" lower_limit="20.0" upper_limit="66.2"/>
+                    <measurement group_id="O2" value="116.5" lower_limit="79.6" upper_limit="170.4"/>
+                    <measurement group_id="O3" value="201.6" lower_limit="104.9" upper_limit="387.2"/>
+                    <measurement group_id="O4" value="9.7" lower_limit="5.7" upper_limit="16.5"/>
+                    <measurement group_id="O5" value="53.4" lower_limit="27.5" upper_limit="103.6"/>
+                    <measurement group_id="O6" value="155.4" lower_limit="105.0" upper_limit="230.1"/>
+                    <measurement group_id="O7" value="285.1" lower_limit="152.6" upper_limit="532.7"/>
+                    <measurement group_id="O8" value="261.4" lower_limit="136.0" upper_limit="502.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>28 days after Boost Immunization (Day 50)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31.7" lower_limit="18.5" upper_limit="54.6"/>
+                    <measurement group_id="O2" value="80.0" lower_limit="49.1" upper_limit="130.4"/>
+                    <measurement group_id="O3" value="219.8" lower_limit="117.5" upper_limit="411.1"/>
+                    <measurement group_id="O4" value="7.9" lower_limit="5.0" upper_limit="12.5"/>
+                    <measurement group_id="O5" value="41.2" lower_limit="20.5" upper_limit="82.8"/>
+                    <measurement group_id="O6" value="138.5" lower_limit="87.9" upper_limit="218.2"/>
+                    <measurement group_id="O7" value="232.9" lower_limit="131.1" upper_limit="413.8"/>
+                    <measurement group_id="O8" value="195.8" lower_limit="109.4" upper_limit="350.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Fold Increase in Functional Antibody Titers</title>
+        <description>At 7 and 21 days after primary immunization and at 7, 14, 21, and 28 days after the boost immunization.</description>
+        <time_frame>up to 50 days following first IMP dose</time_frame>
+        <population>Immunogenicity set - all participants who received at least one dose of IMP and had at least one post-baseline functional antibody titer immunogenicity assessment.&#xD;
+Boost immunization withheld for 30 μg younger cohort following Safety Review Committee decision.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Fold Increase in Functional Antibody Titers</title>
+          <description>At 7 and 21 days after primary immunization and at 7, 14, 21, and 28 days after the boost immunization.</description>
+          <population>Immunogenicity set - all participants who received at least one dose of IMP and had at least one post-baseline functional antibody titer immunogenicity assessment.&#xD;
+Boost immunization withheld for 30 μg younger cohort following Safety Review Committee decision.</population>
+          <units>Fold rise</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>7 days after Prime Immunization (Day 8)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                    <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="1.1"/>
+                    <measurement group_id="O3" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                    <measurement group_id="O4" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                    <measurement group_id="O5" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                    <measurement group_id="O6" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                    <measurement group_id="O7" value="1.3" lower_limit="0.8" upper_limit="2.1"/>
+                    <measurement group_id="O8" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>21 days after Prime Immunization (Day 22)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.2" lower_limit="0.9" upper_limit="1.7"/>
+                    <measurement group_id="O2" value="5.2" lower_limit="2.8" upper_limit="9.7"/>
+                    <measurement group_id="O3" value="1.8" lower_limit="1.2" upper_limit="2.7"/>
+                    <measurement group_id="O4" value="2.4" lower_limit="1.5" upper_limit="4.0"/>
+                    <measurement group_id="O5" value="1.3" lower_limit="1.0" upper_limit="1.7"/>
+                    <measurement group_id="O6" value="1.1" lower_limit="1.0" upper_limit="1.2"/>
+                    <measurement group_id="O7" value="2.6" lower_limit="1.3" upper_limit="5.0"/>
+                    <measurement group_id="O8" value="1.9" lower_limit="1.1" upper_limit="3.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 days after Boost Immunization (Day 29)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.3" lower_limit="5.3" upper_limit="20.1"/>
+                    <measurement group_id="O2" value="95.9" lower_limit="60.1" upper_limit="153.1"/>
+                    <measurement group_id="O3" value="21.4" lower_limit="11.6" upper_limit="39.2"/>
+                    <measurement group_id="O4" value="2.0" lower_limit="1.3" upper_limit="3.1"/>
+                    <measurement group_id="O5" value="10.7" lower_limit="5.0" upper_limit="22.7"/>
+                    <measurement group_id="O6" value="10.4" lower_limit="5.0" upper_limit="21.5"/>
+                    <measurement group_id="O7" value="55.4" lower_limit="35.5" upper_limit="86.4"/>
+                    <measurement group_id="O8" value="41.5" lower_limit="23.6" upper_limit="73.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>14 days after Boost Immunization (Day 36)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="0"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.1" lower_limit="6.7" upper_limit="22.0"/>
+                    <measurement group_id="O4" value="2.1" lower_limit="1.4" upper_limit="3.1"/>
+                    <measurement group_id="O5" value="15.5" lower_limit="8.1" upper_limit="29.9"/>
+                    <measurement group_id="O6" value="44.0" lower_limit="29.7" upper_limit="65.1"/>
+                    <measurement group_id="O7" value="55.4" lower_limit="31.2" upper_limit="98.4"/>
+                    <measurement group_id="O8" value="71.8" lower_limit="40.8" upper_limit="126.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>21 days after Boost Immunization (Day 43)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.3" lower_limit="4.0" upper_limit="13.2"/>
+                    <measurement group_id="O2" value="23.3" lower_limit="15.9" upper_limit="34.1"/>
+                    <measurement group_id="O3" value="40.3" lower_limit="21.0" upper_limit="77.4"/>
+                    <measurement group_id="O4" value="1.9" lower_limit="1.1" upper_limit="3.3"/>
+                    <measurement group_id="O5" value="10.7" lower_limit="5.5" upper_limit="20.7"/>
+                    <measurement group_id="O6" value="31.1" lower_limit="21.0" upper_limit="46.0"/>
+                    <measurement group_id="O7" value="49.4" lower_limit="29.7" upper_limit="81.9"/>
+                    <measurement group_id="O8" value="52.3" lower_limit="27.2" upper_limit="100.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>28 days after Boost Immunization (Day 50)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.3" lower_limit="3.7" upper_limit="10.9"/>
+                    <measurement group_id="O2" value="16.0" lower_limit="9.8" upper_limit="26.1"/>
+                    <measurement group_id="O3" value="44.0" lower_limit="23.5" upper_limit="82.2"/>
+                    <measurement group_id="O4" value="1.6" lower_limit="1.0" upper_limit="2.5"/>
+                    <measurement group_id="O5" value="8.2" lower_limit="4.1" upper_limit="16.6"/>
+                    <measurement group_id="O6" value="27.7" lower_limit="17.6" upper_limit="43.6"/>
+                    <measurement group_id="O7" value="40.3" lower_limit="26.7" upper_limit="60.9"/>
+                    <measurement group_id="O8" value="39.2" lower_limit="21.9" upper_limit="70.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects With Seroconversion Defined as a Minimum of 4-fold Increase of Functional Antibody Titers as Compared to Baseline</title>
+        <description>At 7 and 21 days after primary immunization and at 7, 14, 21, and 28 days after the boost immunization.</description>
+        <time_frame>up to 50 days following first IMP dose</time_frame>
+        <population>Immunogenicity set - all subjects who received at least one dose of IMP and had at least one post-baseline functional antibody titer immunogenicity assessment.&#xD;
+Boost immunization withheld for 30 μg younger cohort following Safety Review Committee decision.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O2">
+            <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O3">
+            <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O4">
+            <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+          </group>
+          <group group_id="O5">
+            <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O6">
+            <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O7">
+            <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+          <group group_id="O8">
+            <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+            <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects With Seroconversion Defined as a Minimum of 4-fold Increase of Functional Antibody Titers as Compared to Baseline</title>
+          <description>At 7 and 21 days after primary immunization and at 7, 14, 21, and 28 days after the boost immunization.</description>
+          <population>Immunogenicity set - all subjects who received at least one dose of IMP and had at least one post-baseline functional antibody titer immunogenicity assessment.&#xD;
+Boost immunization withheld for 30 μg younger cohort following Safety Review Committee decision.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="12"/>
+                <count group_id="O4" value="12"/>
+                <count group_id="O5" value="12"/>
+                <count group_id="O6" value="12"/>
+                <count group_id="O7" value="12"/>
+                <count group_id="O8" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>7 days after Prime Immunization (Day 8)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                    <measurement group_id="O7" value="1"/>
+                    <measurement group_id="O8" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>21 days after Prime Immunization (Day 22)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="9"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="5"/>
+                    <measurement group_id="O5" value="1"/>
+                    <measurement group_id="O6" value="0"/>
+                    <measurement group_id="O7" value="4"/>
+                    <measurement group_id="O8" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 days after Boost Immunization (Day 29)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="12"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="3"/>
+                    <measurement group_id="O5" value="10"/>
+                    <measurement group_id="O6" value="10"/>
+                    <measurement group_id="O7" value="12"/>
+                    <measurement group_id="O8" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>14 days after Boost Immunization (Day 36)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="0"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O4" value="4"/>
+                    <measurement group_id="O5" value="11"/>
+                    <measurement group_id="O6" value="12"/>
+                    <measurement group_id="O7" value="12"/>
+                    <measurement group_id="O8" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>21 days after Boost Immunization (Day 43)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="12"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="12"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="3"/>
+                    <measurement group_id="O5" value="9"/>
+                    <measurement group_id="O6" value="12"/>
+                    <measurement group_id="O7" value="12"/>
+                    <measurement group_id="O8" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>28 days after Boost Immunization (Day 50)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                    <count group_id="O4" value="12"/>
+                    <count group_id="O5" value="12"/>
+                    <count group_id="O6" value="12"/>
+                    <count group_id="O7" value="12"/>
+                    <count group_id="O8" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="11"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="1"/>
+                    <measurement group_id="O5" value="9"/>
+                    <measurement group_id="O6" value="12"/>
+                    <measurement group_id="O7" value="12"/>
+                    <measurement group_id="O8" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Functional Antibody Responses</title>
+        <description>At 63, 162, 365 days after boost immunization.</description>
+        <time_frame>From 51 to up to 365 days following first IMP dose</time_frame>
+        <posting_date>02/2023</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Fold Increase in Functional Antibody Titers</title>
+        <description>At 63, 162, 365 days after boost immunization.</description>
+        <time_frame>From 51 to up to 365 days following first IMP dose</time_frame>
+        <posting_date>02/2023</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects With Seroconversion Defined as a Minimum of 4-fold Increase of Functional Antibody Titers as Compared to Baseline</title>
+        <description>At 63, 162, 365 days after boost immunization.</description>
+        <time_frame>From 51 to up to 365 days following first IMP dose</time_frame>
+        <posting_date>02/2023</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From Day 1 (Prime Immunization) up to Day 50 (with or without Boost Immunization)</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Part A Participants Aged 18 to 55 Years - 3 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="E2">
+          <title>Part A Participants Aged 18 to 55 Years - 10 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="E3">
+          <title>Part A Participants Aged 18 to 55 Years - 20 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="E4">
+          <title>Part A Participants Aged 18 to 55 Years - 30 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime regimen only, as decided by the Safety Review Committee)</description>
+        </group>
+        <group group_id="E5">
+          <title>Part A Participants Aged 56 to 85 Years - 3 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="E6">
+          <title>Part A Participants Aged 56 to 85 Years - 10 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="E7">
+          <title>Part A Participants Aged 56 to 85 Years - 20 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+        <group group_id="E8">
+          <title>Part A Participants Aged 56 to 85 Years - 30 μg</title>
+          <description>BNT162b3: Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection (Prime/Boost [P/B] regimen)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (23.1)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="6" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="7" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="6" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Palpitations</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Meibomian gland dysfunction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia oral</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Influenza like illness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Injection site reaction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Tenderness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Seasonal allergy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Oral herpes</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Pulpitis dental</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Skin laceration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Lipase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Myofascial pain syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="3" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Hyperaesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Sciatica</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Restlessness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Sleep disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dysmenorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="2" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Nasal discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Rhinorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Dental care</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>PIs respectively trial sites shall not publish or refer to in writing or orally, in whole or in part, any data, information or materials generated from the study and the services, without the prior written consent of the sponsor.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>BioNTech clinical trials patient information</name_or_title>
+      <organization>BioNTech SE</organization>
+      <phone>+49 6131 9084 ext 0</phone>
+      <email>patients@biontech.de</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

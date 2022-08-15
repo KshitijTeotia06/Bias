@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="195">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04160975</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB19-1424</org_study_id>
+    <nct_id>NCT04160975</nct_id>
+  </id_info>
+  <brief_title>Persuasion in Medicine: Experimental Evidence on Sender and Signal Effects</brief_title>
+  <official_title>Persuasion in Medicine: Experimental Evidence on Sender and Signal Effects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Harvard University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ludwig-Maximilians - University of Munich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Harvard University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to identify what sender/signal combinations are most persuasive in&#xD;
+      encouraging low socioeconomic males living in the U.S. to take-up seasonal flu vaccination.&#xD;
+      The investigators plan to recruit male subjects and randomly assign them to four persuasion&#xD;
+      treatments: three of which vary dimensions of the sender of a medical recommendation (racial&#xD;
+      concordance and authority treatments) and one which varies the signal (standard vs.&#xD;
+      empathetic). Specifically, the investigators will show subjects videos of either Black or&#xD;
+      white actors/actresses providing scripted information on the flu vaccination. The&#xD;
+      investigators will randomize the race of the sender and if the subject is Black, also&#xD;
+      randomize the authority of the sender, with the actor portraying either a doctor or a&#xD;
+      layperson. In addition, the investigators will vary the script used in the experiment between&#xD;
+      one that acknowledges past injustices (indicated as an empathetic script hereafter) and one&#xD;
+      that does not (indicated as a standard script hereafter). The investigators will provide&#xD;
+      subjects a free flu shot coupon and elicit the price at which subjects would be willing to&#xD;
+      give up this coupon for a cash reward. Lastly, in light of the relevance of vaccination&#xD;
+      take-up in combating COVID-19 pandemic, the investigators will assess demand for information&#xD;
+      about a COVID-19 vaccine, with subjects invited to receive results of a safety and efficacy&#xD;
+      review from a trusted or standard source. The design requires the collection of baseline and&#xD;
+      endline surveys combined with administrative data from pharmacies about coupon redemption.&#xD;
+      The primary outcomes of interest are posterior beliefs about seasonal flu vaccination, demand&#xD;
+      and willingness-to-pay (WTP) for a free flu shot coupon, redemption of the coupon, and demand&#xD;
+      for information about a COVID-19 vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will recruit approximately 3350 African-American or Caucasian adult males&#xD;
+      with a high-school diploma or less. A pilot study, which ran during the 2019-20 flu season,&#xD;
+      recruited approximately 850 subjects, and a planned scale-up will recruit an additional 2500&#xD;
+      subjects during the 2020-21 flu season. The investigators will oversample African American&#xD;
+      individuals, emphasizing low-income and minority men because these characteristics are&#xD;
+      correlated with lower relative take-up of flu vaccination. After informed consent is&#xD;
+      obtained, subjects will be asked about sociodemographic information (age, education, income&#xD;
+      and marital status), healthcare experience and past medical history, knowledge and beliefs&#xD;
+      about flu vaccination, and location of the nearest pharmacy. The investigators will then&#xD;
+      randomly assign the adult male subjects to videos which contain one of Black or white actors&#xD;
+      playing the role of either a doctor or a layperson as well as different scripts. The content&#xD;
+      of the infomercial will be the safety and effectiveness of adult seasonal flu vaccination.&#xD;
+      After the video, the investigators will obtain information on beliefs regarding vaccination,&#xD;
+      feedback on the video, attention to the video and willingness-to-pay for a flu shot coupon.&#xD;
+      The final baseline module will consist of a randomly assigned invitation to receive the&#xD;
+      results of an upcoming review of a COVID-19 vaccine, with subjects assigned to receive&#xD;
+      information from a trusted or standard source. The investigators will track flu coupon&#xD;
+      redemption, which is redeemable at most pharmacies nationwide.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 20, 2019</start_date>
+  <completion_date type="Actual">February 19, 2021</completion_date>
+  <primary_completion_date type="Actual">February 19, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rating of Sender</measure>
+    <time_frame>This outcome was assessed during Baseline survey, which took approximately 20 minutes.</time_frame>
+    <description>This is an inverse-covariance-weighted index comprised of responses to survey questions regarding:&#xD;
+whether the respondent was interested in further medical advice from the given sender (measured as a binary outcome);&#xD;
+whether the respondent trusted advice from the sender measured on a scale of 1 to 5;&#xD;
+and whether the respondent's assessment of the sender's qualification to provide medical advice measured on a scale of 1 to 5.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. Scores less than 0 indicate lower ratings of the sender rated by participants in Arm A (described in each arm/group description) compared to the rating rated by participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate higher ratings of the sender by Arm A compared to by Arm B. For example, an index score of .18 indicates that participants in Arm A rate the sender 0.18 index (in standard deviation units) higher than those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rating of Signal</measure>
+    <time_frame>This outcome was assessed during Baseline survey, which took approximately 20 minutes.</time_frame>
+    <description>This is an inverse-covariance-weighted index comprised of responses to survey questions on:&#xD;
+recommending the video to friends and family measured on a scale of 0 to 10;&#xD;
+recommending the flu shot to friends and family measured on a scale of 0 to 10;&#xD;
+and the respondent's assessment of the extent to which the information contained in the video was useful measured on a scale of 1 to 5.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate lower ratings of the signal rated by participants in Arm A (described in each arm/group description) compared to the rating rated by participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate higher ratings of the signal by Arm A compared to by Arm B. For example, an index score of 0.14 indicates that participants in Arm A rate the signal 0.14 index (in standard deviation units) higher than those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Signal Content Recall</measure>
+    <time_frame>This outcome will be assessed during Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>This is an inverse-covariance-weighted index comprised of responses to survey questions on:&#xD;
+whether age group for whom the flu vaccine is recommended (measured as a binary outcome); and&#xD;
+whether the flu shot contains the flu virus (recall of information discussed in the video) (measured as a binary outcome).&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate lower level of recalling signal content among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of recalling signal content among participants in Arm A compared to those in Arm B. For example, an index score of 0.02 indicates that participants in Arm A recall signal content 0.02 index (in standard deviation units) higher than those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Beliefs</measure>
+    <time_frame>This outcome will be assessed during Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>This is an inverse-covariance-weighted index comprised of:&#xD;
+the point belief on the likelihood to contract the flu from the flu shot measured by a Likert scale and rescaled to have a support of -1 to 1.&#xD;
+the certainty measured with a balls and bins method and rescaled to have a support of -1 to 1.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate a lower level of beliefs in the safety of flu vaccine among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of beliefs among participants in Arm A compared to those in Arm B. For example, an index score of -0.1 indicates that participants in Arm A hold such beliefs 0.1 index (in standard deviation units) lower than those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Coupon Interest</measure>
+    <time_frame>This outcome was assessed during Baseline survey, which took approximately 20 minutes.</time_frame>
+    <description>This is an inverse-covariance-weighted index comprised of revealed preference measures of demand for a free flu shot coupon:&#xD;
+Willingness to pay (WTP) for the coupon measured as $0, $1, $2, $5, or $10&#xD;
+demand for information regarding locations to redeem the coupon measured as a binary outcome&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate a lower level of interest in a free flu shot coupon distributed after survey completion among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of interest among participants in Arm A compared to those in Arm B. For example, an index score of -0.01 indicates that participants in Arm A hold such interest -0.01 index (in standard deviation units) higher than those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>(Posterior) Flu Vaccine Intent</measure>
+    <time_frame>This outcome was assessed after the video treatment during Baseline survey, which took approximately 20 minutes.</time_frame>
+    <description>This is the respondent's likelihood to receive the flu vaccine before the end of the flu season. This was elicited on an 11-point Likert scale (0 extremely unwilling, 10 extremely willing) after the video message treatment. We re-scaled this outcome to have a scale of 0 to 1. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, an intent of 0.03 indicates that participants in Arm A are 0.03 units on a scale more likely to intent to take up the flu vaccine compared to those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Vaccine Intent</measure>
+    <time_frame>This outcome was assessed after the video treatment during Baseline survey, which took approximately 20 minutes.</time_frame>
+    <description>This is the respondent's likelihood to take up the COVID-19 vaccine if made available free of charge. This was elicited on an 11-point Likert scale (0 extremely unwilling, 10 extremely willing) after the video message treatment. We re-scaled this outcome to have a scale of 0 to 1. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, an intent of 0.04 indicates that participants in Arm A are 0.04 units on a scale more likely to intent to take up the COVID-19 vaccine compared to those in Arm B.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Flu Vaccine Take-up</measure>
+    <time_frame>This outcome was assessed during the follow-up survey which was conducted at least two weeks after the initial baseline survey.</time_frame>
+    <description>This is respondents' self-report in the follow-up survey on whether they or their family members had received the flu shot or redeemed the coupon since the intervention. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, 15.0 percentage points indicate that participants in Arm A are more likely to report that they and/or another household member received the flu vaccine by 15.p percentage points compared to those in Arm B.</description>
+  </primary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">3245</enrollment>
+  <condition>Flu, Human</condition>
+  <condition>Influenza, Human</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Black R/Race C/Doctor/Standard Script</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Video which contains a racially concordant actor playing a doctor and reading a standard script. The receiver of the message will be Black.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Black R/Race C/Layperson/Standard Script</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Video which contains a racially concordant actor playing a layperson and reading a standard script. The receiver of the message will be Black.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Black R/Race D/Doctor/Standard Script</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Video which contains a racially discordant actor playing a doctor and reading a standard script. The receiver of the message will be Black.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Black R/Race D/Doctor/Acknowledgement Script</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Video which contains a racially discordant actor playing a doctor and reading an acknowledgement script. The receiver of the message will be Black.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>White R/Race C/Doctor/Standard Script</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Video which contains a racially concordant actor playing a doctor and reading a standard script. The receiver of the message will be White.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>White R/Race D/Doctor/Standard Script</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Video which contains a racially discordant actor playing a doctor and reading a standard script. The receiver of the message will be White.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Video about safety and effectiveness of adult seasonal flu vaccination</intervention_name>
+    <description>The investigators will show subjects videos of either Black or white male actors providing scripted information on the flu vaccination. The content of the video will be the safety and effectiveness of adult seasonal flu vaccination. The videos contain one of Black or white actors playing the role of either a doctor or a layperson as well as different scripts.</description>
+    <arm_group_label>Black R/Race C/Doctor/Standard Script</arm_group_label>
+    <arm_group_label>Black R/Race C/Layperson/Standard Script</arm_group_label>
+    <arm_group_label>Black R/Race D/Doctor/Acknowledgement Script</arm_group_label>
+    <arm_group_label>Black R/Race D/Doctor/Standard Script</arm_group_label>
+    <arm_group_label>White R/Race C/Doctor/Standard Script</arm_group_label>
+    <arm_group_label>White R/Race D/Doctor/Standard Script</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: See above.&#xD;
+&#xD;
+          -  Education: Less than a college degree.&#xD;
+&#xD;
+          -  Gender: Male.&#xD;
+&#xD;
+          -  Race: Caucasian or African American.&#xD;
+&#xD;
+          -  Miscellaneous: Has not received the flu shot in the current flu season yet.&#xD;
+&#xD;
+          -  Miscellaneous: Has sound on his device turned on.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Fast survey-taking: subjects who are among the 5% fastest in terms of total time spent&#xD;
+             on survey within race and treatment group.&#xD;
+&#xD;
+          -  Nonsense answers (those that do not have decipherable English) in the open text&#xD;
+             sections that suggest low effort.&#xD;
+&#xD;
+          -  Inconsistent responses to questions (such as being willing to give up $10 to receive a&#xD;
+             flu coupon but not $1).&#xD;
+&#xD;
+          -  Repeat survey takers as indicated by duplicate emails or IP addresses in survey data.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>The investigators will only recruit male subjects.</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>51 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Harvard University</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Massachusetts</state>
+        <zip>02138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>November 8, 2019</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 13, 2019</study_first_posted>
+  <results_first_submitted>May 28, 2021</results_first_submitted>
+  <results_first_submitted_qc>June 26, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 29, 2021</results_first_posted>
+  <last_update_submitted>June 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Harvard University</investigator_affiliation>
+    <investigator_full_name>Marcella Alsan</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Belief Updating</keyword>
+  <keyword>Preventive Care</keyword>
+  <keyword>Racial Disparity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 12, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/75/NCT04160975/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Black Participant-Concordant Sender-Expert Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a concordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="P2">
+          <title>Black Participant-Concordant Sender-Lay Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a concordant-lay sender delivering a standard signal.</description>
+        </group>
+        <group group_id="P3">
+          <title>Black Participant-Discordant Sender-Expert Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a discordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="P4">
+          <title>Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal</title>
+          <description>Black participants who are assigned to a discordant-exper sender delivering a acknowledgement signal.</description>
+        </group>
+        <group group_id="P5">
+          <title>White Participant-Concordant Sender-Expert Sender-Standard Signal</title>
+          <description>White participants who are assigned to a concordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="P6">
+          <title>White Participant-Discordant Sender-Expert Sender-Standard Signal</title>
+          <description>White participants who are assigned to a discordant-exper sender delivering a standard signal.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="479"/>
+                <participants group_id="P2" count="496"/>
+                <participants group_id="P3" count="478"/>
+                <participants group_id="P4" count="485"/>
+                <participants group_id="P5" count="649"/>
+                <participants group_id="P6" count="658"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="415"/>
+                <participants group_id="P2" count="430"/>
+                <participants group_id="P3" count="417"/>
+                <participants group_id="P4" count="410"/>
+                <participants group_id="P5" count="614"/>
+                <participants group_id="P6" count="607"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="64"/>
+                <participants group_id="P2" count="66"/>
+                <participants group_id="P3" count="61"/>
+                <participants group_id="P4" count="75"/>
+                <participants group_id="P5" count="35"/>
+                <participants group_id="P6" count="51"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants who were eligible to participate in and completed the baseline survey.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Black Participant-Concordant Sender-Expert Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a concordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="B2">
+          <title>Black Participant-Concordant Sender-Lay Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a concordant-lay sender delivering a standard signal.</description>
+        </group>
+        <group group_id="B3">
+          <title>Black Participant-Discordant Sender-Expert Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a discordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="B4">
+          <title>Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal</title>
+          <description>Black participants who are assigned to a discordant-exper sender delivering a acknowledgement signal.</description>
+        </group>
+        <group group_id="B5">
+          <title>White Participant-Concordant Sender-Expert Sender-Standard Signal</title>
+          <description>White participants who are assigned to a concordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="B6">
+          <title>White Participant-Discordant Sender-Expert Sender-Standard Signal</title>
+          <description>White participants who are assigned to a discordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="415"/>
+            <count group_id="B2" value="430"/>
+            <count group_id="B3" value="417"/>
+            <count group_id="B4" value="410"/>
+            <count group_id="B5" value="614"/>
+            <count group_id="B6" value="607"/>
+            <count group_id="B7" value="2893"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35.92048" spread="6.717987"/>
+                    <measurement group_id="B2" value="35.53023" spread="6.219959"/>
+                    <measurement group_id="B3" value="36.1247" spread="6.46877"/>
+                    <measurement group_id="B4" value="35.90488" spread="6.857133"/>
+                    <measurement group_id="B5" value="38.11401" spread="6.773668"/>
+                    <measurement group_id="B6" value="38.16474" spread="6.760583"/>
+                    <measurement group_id="B7" value="36.82613" spread="6.742281"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="415"/>
+                    <measurement group_id="B2" value="430"/>
+                    <measurement group_id="B3" value="417"/>
+                    <measurement group_id="B4" value="410"/>
+                    <measurement group_id="B5" value="614"/>
+                    <measurement group_id="B6" value="607"/>
+                    <measurement group_id="B7" value="2893"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="415"/>
+                    <measurement group_id="B2" value="430"/>
+                    <measurement group_id="B3" value="417"/>
+                    <measurement group_id="B4" value="410"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="1672"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="614"/>
+                    <measurement group_id="B6" value="607"/>
+                    <measurement group_id="B7" value="1221"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="415"/>
+                    <measurement group_id="B2" value="430"/>
+                    <measurement group_id="B3" value="417"/>
+                    <measurement group_id="B4" value="410"/>
+                    <measurement group_id="B5" value="614"/>
+                    <measurement group_id="B6" value="607"/>
+                    <measurement group_id="B7" value="2893"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>High School</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Completed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="359"/>
+                    <measurement group_id="B2" value="380"/>
+                    <measurement group_id="B3" value="374"/>
+                    <measurement group_id="B4" value="355"/>
+                    <measurement group_id="B5" value="554"/>
+                    <measurement group_id="B6" value="533"/>
+                    <measurement group_id="B7" value="2555"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not completed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56"/>
+                    <measurement group_id="B2" value="50"/>
+                    <measurement group_id="B3" value="43"/>
+                    <measurement group_id="B4" value="55"/>
+                    <measurement group_id="B5" value="60"/>
+                    <measurement group_id="B6" value="74"/>
+                    <measurement group_id="B7" value="338"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Married</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71"/>
+                    <measurement group_id="B2" value="86"/>
+                    <measurement group_id="B3" value="89"/>
+                    <measurement group_id="B4" value="77"/>
+                    <measurement group_id="B5" value="202"/>
+                    <measurement group_id="B6" value="186"/>
+                    <measurement group_id="B7" value="711"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Insured</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="234"/>
+                    <measurement group_id="B2" value="251"/>
+                    <measurement group_id="B3" value="245"/>
+                    <measurement group_id="B4" value="239"/>
+                    <measurement group_id="B5" value="403"/>
+                    <measurement group_id="B6" value="391"/>
+                    <measurement group_id="B7" value="1763"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Subjective Health Status</title>
+          <description>Subjective Health Status is measured on a 5-point Likert scale (where 1 is poor and 5 is excellent).</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3.522892" spread="1.009056"/>
+                    <measurement group_id="B2" value="3.751163" spread="1.003925"/>
+                    <measurement group_id="B3" value="3.642686" spread="1.0069"/>
+                    <measurement group_id="B4" value="3.653659" spread="1.056843"/>
+                    <measurement group_id="B5" value="3.21987" spread=".992071"/>
+                    <measurement group_id="B6" value="3.237232" spread=".9965605"/>
+                    <measurement group_id="B7" value="3.468372" spread="1.030375"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Subjective Flu Shot Cost</title>
+          <units>dollar</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43.91588" spread="91.2157"/>
+                    <measurement group_id="B2" value="42.74393" spread="85.77928"/>
+                    <measurement group_id="B3" value="38.14388" spread="79.24301"/>
+                    <measurement group_id="B4" value="33.8441" spread="72.69948"/>
+                    <measurement group_id="B5" value="25.28546" spread="50.80593"/>
+                    <measurement group_id="B6" value="25.02221" spread="48.44235"/>
+                    <measurement group_id="B7" value="33.56405" spread="70.94346"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Has Primary Care Provider</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="189"/>
+                    <measurement group_id="B2" value="178"/>
+                    <measurement group_id="B3" value="192"/>
+                    <measurement group_id="B4" value="171"/>
+                    <measurement group_id="B5" value="321"/>
+                    <measurement group_id="B6" value="323"/>
+                    <measurement group_id="B7" value="1374"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>(Prior) Flu Vaccine Intent</title>
+          <description>Flu vaccine intent is measured on a scale of 0 (extremely unwilling) to 10 (extremely willing).</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.554217" spread="3.243176"/>
+                    <measurement group_id="B2" value="2.786047" spread="3.324808"/>
+                    <measurement group_id="B3" value="2.446043" spread="3.307566"/>
+                    <measurement group_id="B4" value="2.485366" spread="3.147713"/>
+                    <measurement group_id="B5" value="2.596091" spread="3.146201"/>
+                    <measurement group_id="B6" value="2.52883" spread="3.237376"/>
+                    <measurement group_id="B7" value="2.566886" spread="3.228842"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>(Prior) Likelihood of Contracting Flu</title>
+          <description>Likelihood of contracting flu is measured on a scale of 0 (extremely unlikely) to 10 (extremely likely).</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.342169" spread="2.853683"/>
+                    <measurement group_id="B2" value="2.072093" spread="2.791414"/>
+                    <measurement group_id="B3" value="2.143885" spread="2.823905"/>
+                    <measurement group_id="B4" value="2.304878" spread="2.86659"/>
+                    <measurement group_id="B5" value="2.760586" spread="2.603112"/>
+                    <measurement group_id="B6" value="2.912685" spread="2.701415"/>
+                    <measurement group_id="B7" value="2.476668" spread="2.774967"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Rating of Sender</title>
+        <description>This is an inverse-covariance-weighted index comprised of responses to survey questions regarding:&#xD;
+whether the respondent was interested in further medical advice from the given sender (measured as a binary outcome);&#xD;
+whether the respondent trusted advice from the sender measured on a scale of 1 to 5;&#xD;
+and whether the respondent's assessment of the sender's qualification to provide medical advice measured on a scale of 1 to 5.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. Scores less than 0 indicate lower ratings of the sender rated by participants in Arm A (described in each arm/group description) compared to the rating rated by participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate higher ratings of the sender by Arm A compared to by Arm B. For example, an index score of .18 indicates that participants in Arm A rate the sender 0.18 index (in standard deviation units) higher than those in Arm B.</description>
+        <time_frame>This outcome was assessed during Baseline survey, which took approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rating of Sender</title>
+          <description>This is an inverse-covariance-weighted index comprised of responses to survey questions regarding:&#xD;
+whether the respondent was interested in further medical advice from the given sender (measured as a binary outcome);&#xD;
+whether the respondent trusted advice from the sender measured on a scale of 1 to 5;&#xD;
+and whether the respondent's assessment of the sender's qualification to provide medical advice measured on a scale of 1 to 5.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. Scores less than 0 indicate lower ratings of the sender rated by participants in Arm A (described in each arm/group description) compared to the rating rated by participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate higher ratings of the sender by Arm A compared to by Arm B. For example, an index score of .18 indicates that participants in Arm A rate the sender 0.18 index (in standard deviation units) higher than those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>index</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="832"/>
+                <count group_id="O2" value="430"/>
+                <count group_id="O3" value="827"/>
+                <count group_id="O4" value="845"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".1828917" lower_limit=".0506082" upper_limit=".3151752"/>
+                    <measurement group_id="O2" value="-.0750636" lower_limit="-.1870341" upper_limit=".0369069"/>
+                    <measurement group_id="O3" value=".0997998" lower_limit="-.0345829" upper_limit=".2341826"/>
+                    <measurement group_id="O4" value="-.5397662" lower_limit="-.6789624" upper_limit="-.4005701"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Rating of Signal</title>
+        <description>This is an inverse-covariance-weighted index comprised of responses to survey questions on:&#xD;
+recommending the video to friends and family measured on a scale of 0 to 10;&#xD;
+recommending the flu shot to friends and family measured on a scale of 0 to 10;&#xD;
+and the respondent's assessment of the extent to which the information contained in the video was useful measured on a scale of 1 to 5.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate lower ratings of the signal rated by participants in Arm A (described in each arm/group description) compared to the rating rated by participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate higher ratings of the signal by Arm A compared to by Arm B. For example, an index score of 0.14 indicates that participants in Arm A rate the signal 0.14 index (in standard deviation units) higher than those in Arm B.</description>
+        <time_frame>This outcome was assessed during Baseline survey, which took approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rating of Signal</title>
+          <description>This is an inverse-covariance-weighted index comprised of responses to survey questions on:&#xD;
+recommending the video to friends and family measured on a scale of 0 to 10;&#xD;
+recommending the flu shot to friends and family measured on a scale of 0 to 10;&#xD;
+and the respondent's assessment of the extent to which the information contained in the video was useful measured on a scale of 1 to 5.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate lower ratings of the signal rated by participants in Arm A (described in each arm/group description) compared to the rating rated by participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate higher ratings of the signal by Arm A compared to by Arm B. For example, an index score of 0.14 indicates that participants in Arm A rate the signal 0.14 index (in standard deviation units) higher than those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>index</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="832"/>
+                <count group_id="O2" value="1221"/>
+                <count group_id="O3" value="827"/>
+                <count group_id="O4" value="845"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".1387205" lower_limit=".0003558" upper_limit=".2770851"/>
+                    <measurement group_id="O2" value="-.0088105" lower_limit="-.1199617" upper_limit=".1023406"/>
+                    <measurement group_id="O3" value=".1423725" lower_limit=".0062946" upper_limit=".2784504"/>
+                    <measurement group_id="O4" value="-.0806321" lower_limit="-.2126516" upper_limit=".0513873"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Signal Content Recall</title>
+        <description>This is an inverse-covariance-weighted index comprised of responses to survey questions on:&#xD;
+whether age group for whom the flu vaccine is recommended (measured as a binary outcome); and&#xD;
+whether the flu shot contains the flu virus (recall of information discussed in the video) (measured as a binary outcome).&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate lower level of recalling signal content among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of recalling signal content among participants in Arm A compared to those in Arm B. For example, an index score of 0.02 indicates that participants in Arm A recall signal content 0.02 index (in standard deviation units) higher than those in Arm B.</description>
+        <time_frame>This outcome will be assessed during Baseline survey, which takes approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Signal Content Recall</title>
+          <description>This is an inverse-covariance-weighted index comprised of responses to survey questions on:&#xD;
+whether age group for whom the flu vaccine is recommended (measured as a binary outcome); and&#xD;
+whether the flu shot contains the flu virus (recall of information discussed in the video) (measured as a binary outcome).&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate lower level of recalling signal content among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of recalling signal content among participants in Arm A compared to those in Arm B. For example, an index score of 0.02 indicates that participants in Arm A recall signal content 0.02 index (in standard deviation units) higher than those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>index</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="832"/>
+                <count group_id="O2" value="1221"/>
+                <count group_id="O3" value="827"/>
+                <count group_id="O4" value="845"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-.0062555" lower_limit="-.1415234" upper_limit=".1290124"/>
+                    <measurement group_id="O2" value=".0193832" lower_limit="-.0926014" upper_limit=".1313679"/>
+                    <measurement group_id="O3" value=".0041984" lower_limit="-.131372" upper_limit=".1397687"/>
+                    <measurement group_id="O4" value=".1166304" lower_limit="-.0149457" upper_limit=".2482066"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety Beliefs</title>
+        <description>This is an inverse-covariance-weighted index comprised of:&#xD;
+the point belief on the likelihood to contract the flu from the flu shot measured by a Likert scale and rescaled to have a support of -1 to 1.&#xD;
+the certainty measured with a balls and bins method and rescaled to have a support of -1 to 1.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate a lower level of beliefs in the safety of flu vaccine among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of beliefs among participants in Arm A compared to those in Arm B. For example, an index score of -0.1 indicates that participants in Arm A hold such beliefs 0.1 index (in standard deviation units) lower than those in Arm B.</description>
+        <time_frame>This outcome will be assessed during Baseline survey, which takes approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety Beliefs</title>
+          <description>This is an inverse-covariance-weighted index comprised of:&#xD;
+the point belief on the likelihood to contract the flu from the flu shot measured by a Likert scale and rescaled to have a support of -1 to 1.&#xD;
+the certainty measured with a balls and bins method and rescaled to have a support of -1 to 1.&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate a lower level of beliefs in the safety of flu vaccine among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of beliefs among participants in Arm A compared to those in Arm B. For example, an index score of -0.1 indicates that participants in Arm A hold such beliefs 0.1 index (in standard deviation units) lower than those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>index</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="832"/>
+                <count group_id="O2" value="1221"/>
+                <count group_id="O3" value="827"/>
+                <count group_id="O4" value="845"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-.0979564" lower_limit="-.2331252" upper_limit=".0372124"/>
+                    <measurement group_id="O2" value="-.027714" lower_limit="-.1410194" upper_limit=".0855914"/>
+                    <measurement group_id="O3" value="-.1065867" lower_limit="-.2425802" upper_limit=".0294069"/>
+                    <measurement group_id="O4" value="-.0242752" lower_limit="-.1580924" upper_limit=".109542"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Coupon Interest</title>
+        <description>This is an inverse-covariance-weighted index comprised of revealed preference measures of demand for a free flu shot coupon:&#xD;
+Willingness to pay (WTP) for the coupon measured as $0, $1, $2, $5, or $10&#xD;
+demand for information regarding locations to redeem the coupon measured as a binary outcome&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate a lower level of interest in a free flu shot coupon distributed after survey completion among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of interest among participants in Arm A compared to those in Arm B. For example, an index score of -0.01 indicates that participants in Arm A hold such interest -0.01 index (in standard deviation units) higher than those in Arm B.</description>
+        <time_frame>This outcome was assessed during Baseline survey, which took approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Coupon Interest</title>
+          <description>This is an inverse-covariance-weighted index comprised of revealed preference measures of demand for a free flu shot coupon:&#xD;
+Willingness to pay (WTP) for the coupon measured as $0, $1, $2, $5, or $10&#xD;
+demand for information regarding locations to redeem the coupon measured as a binary outcome&#xD;
+It is standardized to a mean of 0 and standard deviation of 1. An index score of 0 is equal to the mean. Scores less than 0 indicate a lower level of interest in a free flu shot coupon distributed after survey completion among participants in Arm A (described in each arm/group description) compared to the level among participants in Arm B (also described in each arm/group description). Scores greater than 0 indicate a higher level of interest among participants in Arm A compared to those in Arm B. For example, an index score of -0.01 indicates that participants in Arm A hold such interest -0.01 index (in standard deviation units) higher than those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>index</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="832"/>
+                <count group_id="O2" value="1221"/>
+                <count group_id="O3" value="827"/>
+                <count group_id="O4" value="845"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-.0078177" lower_limit="-.1389825" upper_limit=".123347"/>
+                    <measurement group_id="O2" value="-.0827849" lower_limit="-.1924382" upper_limit=".0268684"/>
+                    <measurement group_id="O3" value=".0280955" lower_limit="-.1069421" upper_limit=".1631332"/>
+                    <measurement group_id="O4" value="-.0162865" lower_limit="-.1513941" upper_limit=".1188211"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>(Posterior) Flu Vaccine Intent</title>
+        <description>This is the respondent's likelihood to receive the flu vaccine before the end of the flu season. This was elicited on an 11-point Likert scale (0 extremely unwilling, 10 extremely willing) after the video message treatment. We re-scaled this outcome to have a scale of 0 to 1. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, an intent of 0.03 indicates that participants in Arm A are 0.03 units on a scale more likely to intent to take up the flu vaccine compared to those in Arm B.</description>
+        <time_frame>This outcome was assessed after the video treatment during Baseline survey, which took approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>(Posterior) Flu Vaccine Intent</title>
+          <description>This is the respondent's likelihood to receive the flu vaccine before the end of the flu season. This was elicited on an 11-point Likert scale (0 extremely unwilling, 10 extremely willing) after the video message treatment. We re-scaled this outcome to have a scale of 0 to 1. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, an intent of 0.03 indicates that participants in Arm A are 0.03 units on a scale more likely to intent to take up the flu vaccine compared to those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>units on a scale</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="832"/>
+                <count group_id="O2" value="1221"/>
+                <count group_id="O3" value="827"/>
+                <count group_id="O4" value="845"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".0263281" lower_limit="-.0236633" upper_limit=".0763195"/>
+                    <measurement group_id="O2" value=".0034755" lower_limit="-.037638" upper_limit=".044589"/>
+                    <measurement group_id="O3" value=".0268659" lower_limit="-.0226463" upper_limit=".0763781"/>
+                    <measurement group_id="O4" value=".0187403" lower_limit="-.0305011" upper_limit=".0679817"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>COVID-19 Vaccine Intent</title>
+        <description>This is the respondent's likelihood to take up the COVID-19 vaccine if made available free of charge. This was elicited on an 11-point Likert scale (0 extremely unwilling, 10 extremely willing) after the video message treatment. We re-scaled this outcome to have a scale of 0 to 1. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, an intent of 0.04 indicates that participants in Arm A are 0.04 units on a scale more likely to intent to take up the COVID-19 vaccine compared to those in Arm B.</description>
+        <time_frame>This outcome was assessed after the video treatment during Baseline survey, which took approximately 20 minutes.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>COVID-19 Vaccine Intent</title>
+          <description>This is the respondent's likelihood to take up the COVID-19 vaccine if made available free of charge. This was elicited on an 11-point Likert scale (0 extremely unwilling, 10 extremely willing) after the video message treatment. We re-scaled this outcome to have a scale of 0 to 1. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, an intent of 0.04 indicates that participants in Arm A are 0.04 units on a scale more likely to intent to take up the COVID-19 vaccine compared to those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>units on a scale</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="587"/>
+                <count group_id="O2" value="866"/>
+                <count group_id="O3" value="581"/>
+                <count group_id="O4" value="592"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".0350147" lower_limit="-.0251663" upper_limit=".0951958"/>
+                    <measurement group_id="O2" value=".009072" lower_limit="-.0404259" upper_limit=".0585699"/>
+                    <measurement group_id="O3" value=".0544277" lower_limit="-.0064546" upper_limit=".11531"/>
+                    <measurement group_id="O4" value=".0881949" lower_limit=".0291914" upper_limit=".1471983"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Flu Vaccine Take-up</title>
+        <description>This is respondents' self-report in the follow-up survey on whether they or their family members had received the flu shot or redeemed the coupon since the intervention. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, 15.0 percentage points indicate that participants in Arm A are more likely to report that they and/or another household member received the flu vaccine by 15.p percentage points compared to those in Arm B.</description>
+        <time_frame>This outcome was assessed during the follow-up survey which was conducted at least two weeks after the initial baseline survey.</time_frame>
+        <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)</description>
+          </group>
+          <group group_id="O2">
+            <title>Concordant (Arm A) vs. Discordant Expert Sender (Arm B) - White Participants</title>
+            <description>This group combines the following arms to measure the effect of racial concordance between sender and receiver (i.e. intervention) among White Participants:&#xD;
+White Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm A)&#xD;
+White Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 1 prespecified in the analysis plan. The hypothesis tests how racial concordance between an expert sender and receiver affects the outcome among participants assigned to Arm A compared to those who are assigned to Arm B.</description>
+          </group>
+          <group group_id="O3">
+            <title>Acknowledgement (Arm A) vs. Standard Signal (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of an acknowledgement signal (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal (i.e. Arm A)&#xD;
+Black Participant-Discordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 4 prespecified in the analysis plan. The hypothesis tests how a signal that acknowledges past injustices affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+          <group group_id="O4">
+            <title>Layperson Sender (Arm A) vs. Expert Sender (Arm B) - Black Participants</title>
+            <description>This group combines the following arms to measure the effect of a layperson sender (i.e. intervention) among Black Participants:&#xD;
+Black Participant-Concordant Sender-Lay Sender-Standard Signal (i.e. Arm A)&#xD;
+Black Participant-Concordant Sender-Expert Sender-Standard Signal (i.e. Arm B)&#xD;
+The arms are combined to test Hypothesis 3 prespecified in the analysis plan. The hypothesis tests how a layperson sender affects the outcome among participants assigned to Arm A compared to those assigned to Arm B.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flu Vaccine Take-up</title>
+          <description>This is respondents' self-report in the follow-up survey on whether they or their family members had received the flu shot or redeemed the coupon since the intervention. The reported results of the outcome compare participants in Arm A and Arm B (described in each arm/group description). For example, 15.0 percentage points indicate that participants in Arm A are more likely to report that they and/or another household member received the flu vaccine by 15.p percentage points compared to those in Arm B.</description>
+          <population>Arms/Groups are combined as described in each arm/group description in order to test hypotheses prespecified in the analysis plan as well as to measure the effect of the given intervention on the outcome among the group of participants in Arm A compared to Arm B. The intervention and Arms A and B are described in each arm/group description.</population>
+          <units>percentage points</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="139"/>
+                <count group_id="O2" value="377"/>
+                <count group_id="O3" value="137"/>
+                <count group_id="O4" value="151"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-7.70997" lower_limit="-24.9643" upper_limit="9.54435"/>
+                    <measurement group_id="O2" value="-01.39307" lower_limit="-11.01382" upper_limit="8.22767"/>
+                    <measurement group_id="O3" value="-12.00413" lower_limit="-28.76783" upper_limit="4.75957"/>
+                    <measurement group_id="O4" value="14.96955" lower_limit="-1.50779" upper_limit="31.44689"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6.5 months (3 months during the 2019 to 2020 flu season and 3.5 months during the 2020-2021 flu season)</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Black Participant-Concordant Sender-Expert Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a concordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="E2">
+          <title>Black Participant-Concordant Sender-Lay Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a concordant-lay sender delivering a standard signal.</description>
+        </group>
+        <group group_id="E3">
+          <title>Black Participant-Discordant Sender-Expert Sender-Standard Signal</title>
+          <description>Black participants who are assigned to a discordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="E4">
+          <title>Black Participant-Discordant Sender-Expert Sender-Acknowledgement Signal</title>
+          <description>Black participants who are assigned to a discordant-exper sender delivering a acknowledgement signal.</description>
+        </group>
+        <group group_id="E5">
+          <title>White Participant-Concordant Sender-Expert Sender-Standard Signal</title>
+          <description>White participants who are assigned to a concordant-exper sender delivering a standard signal.</description>
+        </group>
+        <group group_id="E6">
+          <title>White Participant-Discordant Sender-Expert Sender-Standard Signal</title>
+          <description>White participants who are assigned to a discordant-exper sender delivering a standard signal.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="479"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="496"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="478"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="485"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="649"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="658"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="479"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="496"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="478"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="485"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="649"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="658"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="479"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="496"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="478"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="485"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="649"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="658"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Marcella Alsan</name_or_title>
+      <organization>Harvard University</organization>
+      <phone>617-496-1770</phone>
+      <email>marcella_alsan@hks.harvard.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

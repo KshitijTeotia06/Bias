@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="190">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04388826</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V0211901</org_study_id>
+    <nct_id>NCT04388826</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Treatment of Severe Acute Respiratory Syndrome With Veru-111</brief_title>
+  <official_title>Randomized, Placebo-Controlled, Phase 2 Study of VERU-111 for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Patients at High Risk for Acute Respiratory Distress Syndrome (ARDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Veru Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Veru Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate the efficacy of VERU-111 in the treatment of SARS-Cov-2 Infection by assessing&#xD;
+      its effect on the proportion of subjects that are alive without respiratory failure at Day&#xD;
+      22. Respiratory failure is defined as non-invasive ventilation or high-flow oxygen,&#xD;
+      intubation and mechanical ventilation, or ventilation with additional organ support (e.g.,&#xD;
+      pressors, RRT, ECMO).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a multicenter, randomized, placebo-control, efficacy and safety study of&#xD;
+      VERU-111 for the treatment of COVID-19. Subjects will receive either 18 mg of VERU-111 or&#xD;
+      matching placebo orally or through nasogastric tube daily for to 21 days or until the subject&#xD;
+      is discharged from the hospital, whichever comes first.&#xD;
+&#xD;
+      The primary efficacy endpoint of the study will be the proportion of subjects that are alive&#xD;
+      without respiratory failure at Day 22. Respiratory failure is defined as non-invasive&#xD;
+      ventilation or high-flow oxygen, intubation and mechanical ventilation, or ventilation with&#xD;
+      additional organ support (e.g., pressors, RRT, ECMO).&#xD;
+&#xD;
+      The total study duration for a subject from screening to follow up visit is planned to be 62&#xD;
+      days.&#xD;
+&#xD;
+      An evaluation of the effect of VERU-111 on SARS-CoV-2 (COVID-19) compared to the placebo&#xD;
+      control will be evaluated after the last subject has completed Day 22. This will allow for&#xD;
+      the decision to move to Phase 3 more quickly if the Phase 2 portion of the study shows a&#xD;
+      clinically relevant difference in the proportion of subjects that are alive without&#xD;
+      respiratory failure at Day 22 in the VERU-111 treated groups compared to the Placebo&#xD;
+      treatment group and VERU-111 is well tolerated in the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 18, 2020</start_date>
+  <completion_date type="Actual">August 13, 2021</completion_date>
+  <primary_completion_date type="Actual">December 18, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized Placebo-Controlled</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blind Randomized Placebo-Controlled</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Subjects That Are Alive Without Respiratory Failure at Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+    <description>To demonstrate the efficacy of VERU-111 in the treatment of SARS-Cov-2 Infection by assessing its effect on the proportion of subjects that are alive without respiratory failure at Day 29. Respiratory failure is defined as endotracheal intubation and mechanical ventilation, extracorporeal membrane oxygenation, high-flow nasal cannula oxygen delivery, noninvasive positive pressure ventilation, clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision making is driven solely by resource limitation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>World Health Organization Ordinal Scale Clinical Improvement</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Improvement on the World Health Organization Ordinal Scale for Clinical Improvement. 8-point ordinal scale (WHO scale from 0 to 8). Lower value equals better while higher value equals worse&#xD;
+Score of 0 Uninfected No clinical or virologic evidence of infection Score of 1 Ambulatory No limitation of activities Score of 2 Limitation of activities Score of 3 Hospitalized, no oxygen therapy Score of 4 Oxygen by mask or nasal prongs Score of 5 Non-invasive ventilation or high-flow oxygen Score of 6 Intubation and mechanical ventilation Score of 7 Ventilation + additional organ support - pressors, RRT, ECMO Score of 8 Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Normalization of Fever and Oxygen</measure>
+    <time_frame>Day 15, Day 22, and Day 29</time_frame>
+    <description>Proportion of subjects with normalization of fever and oxygen saturation through</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge From Hospital</measure>
+    <time_frame>Day 15 and Day 22</time_frame>
+    <description>Percentage of subjects discharged from hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients Alive and Free of Respiratory Failure</measure>
+    <time_frame>Day 15, and Day 22</time_frame>
+    <description>Proportion of patients alive and free of respiratory failure</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">39</enrollment>
+  <condition>Respiratory Distress Syndrome, Adult</condition>
+  <arm_group>
+    <arm_group_label>Veru-111 18 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Veru-111 18mg capsules</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo capsules</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Veru-111</intervention_name>
+    <description>Respiratory Distress Syndrome, Adult</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Veru-111 18 mg</arm_group_label>
+    <other_name>Bisindole</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provide informed consent&#xD;
+&#xD;
+          2. Be able to communicate effectively with the study personnel&#xD;
+&#xD;
+          3. Aged ≥18 years&#xD;
+&#xD;
+          4. Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) infection confirmed by&#xD;
+             polymerase chain reaction (PCR) test&#xD;
+&#xD;
+          5. Patients at high risk for ARDS, with known comorbidities for being at high risk, such&#xD;
+             as, Asthma (moderate to severe), Chronic Lung Disease, Diabetes, Chronic Kidney&#xD;
+             Disease being treated with dialysis, Severe Obesity (BMI ≥40), 65 years of age or&#xD;
+             older, primarily reside in a nursing home or long-term care facility,&#xD;
+             immunocompromised&#xD;
+&#xD;
+          6. Peripheral capillary oxygen saturation (SpO2) ≤ 94% on room air at screening&#xD;
+&#xD;
+          7. Subjects must agree to use acceptable methods of contraception&#xD;
+&#xD;
+               -  If subject is female or the male subject's partner could become pregnant, use&#xD;
+                  acceptable methods of contraception from the time of the first administration of&#xD;
+                  study medication until 6 months following administration of the last dose of&#xD;
+                  study medication. Acceptable methods of contraception are as follows: Condom with&#xD;
+                  spermicidal foam/gel/film/cream/suppository [i.e., barrier method of&#xD;
+                  contraception], surgical sterilization (vasectomy with documentation of&#xD;
+                  azospermia) and a barrier method {condom used with spermicidal&#xD;
+                  foam/gel/film/cream/suppository}, the female partner uses oral contraceptives&#xD;
+                  (combination estrogen/progesterone pills), injectable progesterone or subdermal&#xD;
+                  implants and a barrier method (condom used with spermicidal&#xD;
+                  foam/gel/film/cream/suppository)&#xD;
+&#xD;
+               -  If female subject or the female partner of a male subject has undergone&#xD;
+                  documented tubal ligation (female sterilization), a barrier method (condom used&#xD;
+                  with spermicidal foam/gel/film/cream/suppository) should also be used&#xD;
+&#xD;
+               -  If female subject or the female partner of a male subject has undergone&#xD;
+                  documented placement of an intrauterine device (IUD) or intrauterine system&#xD;
+                  (IUS), a barrier method (condom with spermicidal foam/gel/film/cream/suppository)&#xD;
+                  should also be used&#xD;
+&#xD;
+          8. Subject is willing to comply with the requirements of the protocol through the end of&#xD;
+             the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known hypersensitivity or allergy to colchicine&#xD;
+&#xD;
+          2. Participation in any other clinical trial of an experimental treatment for COVID-19&#xD;
+&#xD;
+          3. Concurrent treatment with other experimental agents with actual or possible direct&#xD;
+             acting antiviral activity against COVID-19 is prohibited &lt; 24 hours prior to study&#xD;
+             drug dosing (except standard of care) Remdesivir and convalescent plasma is allowed as&#xD;
+             standard of care.&#xD;
+&#xD;
+          4. Requiring mechanical ventilation at screening&#xD;
+&#xD;
+          5. Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) &gt;2 X upper limit of&#xD;
+             normal (ULN)&#xD;
+&#xD;
+          6. Total bilirubin &gt; ULN&#xD;
+&#xD;
+          7. Creatinine clearance &lt; 60 mL/min&#xD;
+&#xD;
+          8. Documented medical history of liver disease, including but not limited to, prior&#xD;
+             diagnosis of hepatitis of any etiology, cirrhosis, portal hypertension, or confirmed&#xD;
+             or suspected esophageal varices&#xD;
+&#xD;
+          9. Moderate to severe renal impairment&#xD;
+&#xD;
+         10. Hepatic impairment&#xD;
+&#xD;
+         11. Positive for HbsAg, or HCV antibodies at screening&#xD;
+&#xD;
+         12. Any comorbid disease or condition (medical or surgical) which might compromise the&#xD;
+             hematologic, cardiovascular, endocrine, pulmonary, renal, gastrointestinal, hepatic,&#xD;
+             or central nervous system; or other conditions that may interfere with the absorption,&#xD;
+             distribution, metabolism or excretion of study drug, or would place the subject at&#xD;
+             increased risk&#xD;
+&#xD;
+         13. Participants must agree to refrain from prolonged exposure to the sun or agree to use&#xD;
+             at least SPF 50 on all exposed skin and protective clothing during prolonged sun&#xD;
+             exposure throughout participation in this study and/or treatment with VERU-111.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barnette</last_name>
+    <role>Study Director</role>
+    <affiliation>Veru Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>HonorHealth</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Hospital</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inspira Medical Center</name>
+      <address>
+        <city>Vineland</city>
+        <state>New Jersey</state>
+        <zip>08360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann Memorial City Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>May 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 14, 2020</study_first_posted>
+  <results_first_submitted>October 20, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 22, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 24, 2021</results_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 25, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/26/NCT04388826/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 9, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/26/NCT04388826/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Veru-111 18 mg QD</title>
+          <description>Veru-111 18mg capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo QD</title>
+          <description>Placebo capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Number of Patients Exposed to Veru-111 18 mg</title>
+          <description>Veru-111 18mg capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+        </group>
+        <group group_id="B2">
+          <title>Number of Patients Exposed to Placebo</title>
+          <description>Placebo capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="19"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="39"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59.3" spread="11.40"/>
+                    <measurement group_id="B2" value="57.8" spread="13.32"/>
+                    <measurement group_id="B3" value="58.5" spread="12.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects That Are Alive Without Respiratory Failure at Day 29.</title>
+        <description>To demonstrate the efficacy of VERU-111 in the treatment of SARS-Cov-2 Infection by assessing its effect on the proportion of subjects that are alive without respiratory failure at Day 29. Respiratory failure is defined as endotracheal intubation and mechanical ventilation, extracorporeal membrane oxygenation, high-flow nasal cannula oxygen delivery, noninvasive positive pressure ventilation, clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision making is driven solely by resource limitation</description>
+        <time_frame>Day 29</time_frame>
+        <population>Responders</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Veru-111 18 mg</title>
+            <description>Veru-111 18mg capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects That Are Alive Without Respiratory Failure at Day 29.</title>
+          <description>To demonstrate the efficacy of VERU-111 in the treatment of SARS-Cov-2 Infection by assessing its effect on the proportion of subjects that are alive without respiratory failure at Day 29. Respiratory failure is defined as endotracheal intubation and mechanical ventilation, extracorporeal membrane oxygenation, high-flow nasal cannula oxygen delivery, noninvasive positive pressure ventilation, clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision making is driven solely by resource limitation</description>
+          <population>Responders</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>World Health Organization Ordinal Scale Clinical Improvement</title>
+        <description>Improvement on the World Health Organization Ordinal Scale for Clinical Improvement. 8-point ordinal scale (WHO scale from 0 to 8). Lower value equals better while higher value equals worse&#xD;
+Score of 0 Uninfected No clinical or virologic evidence of infection Score of 1 Ambulatory No limitation of activities Score of 2 Limitation of activities Score of 3 Hospitalized, no oxygen therapy Score of 4 Oxygen by mask or nasal prongs Score of 5 Non-invasive ventilation or high-flow oxygen Score of 6 Intubation and mechanical ventilation Score of 7 Ventilation + additional organ support - pressors, RRT, ECMO Score of 8 Death</description>
+        <time_frame>Day 29</time_frame>
+        <population>World Health Organization Ordinal Scale for clinical improvement (Eight Point Ordinal Scale)-With Last Observation Carried Forward Values</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Veru-111 18 mg</title>
+            <description>Veru-111 18mg capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>World Health Organization Ordinal Scale Clinical Improvement</title>
+          <description>Improvement on the World Health Organization Ordinal Scale for Clinical Improvement. 8-point ordinal scale (WHO scale from 0 to 8). Lower value equals better while higher value equals worse&#xD;
+Score of 0 Uninfected No clinical or virologic evidence of infection Score of 1 Ambulatory No limitation of activities Score of 2 Limitation of activities Score of 3 Hospitalized, no oxygen therapy Score of 4 Oxygen by mask or nasal prongs Score of 5 Non-invasive ventilation or high-flow oxygen Score of 6 Intubation and mechanical ventilation Score of 7 Ventilation + additional organ support - pressors, RRT, ECMO Score of 8 Death</description>
+          <population>World Health Organization Ordinal Scale for clinical improvement (Eight Point Ordinal Scale)-With Last Observation Carried Forward Values</population>
+          <units>Units on WHO COVID Scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.7" spread="1.49"/>
+                    <measurement group_id="O2" value="-1.1" spread="2.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Normalization of Fever and Oxygen</title>
+        <description>Proportion of subjects with normalization of fever and oxygen saturation through</description>
+        <time_frame>Day 15, Day 22, and Day 29</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Discharge From Hospital</title>
+        <description>Percentage of subjects discharged from hospital</description>
+        <time_frame>Day 15 and Day 22</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Patients Alive and Free of Respiratory Failure</title>
+        <description>Proportion of patients alive and free of respiratory failure</description>
+        <time_frame>Day 15, and Day 22</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>62 Days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Veru-111 18 mg</title>
+          <description>Veru-111 18mg capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo capsules&#xD;
+Veru-111: Respiratory Distress Syndrome, Adult</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA Version 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac Arrest</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Septic Sock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_vocab>MedDRA Version 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="19"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Septic Shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="19"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="19"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumomediastinum</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Respiratory Failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Gary Barnette PhD CSO</name_or_title>
+      <organization>Veru</organization>
+      <phone>9194263611</phone>
+      <email>gbarnette@verupharma.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

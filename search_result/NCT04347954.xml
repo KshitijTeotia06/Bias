@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="64">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04347954</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-56134</org_study_id>
+    <nct_id>NCT04347954</nct_id>
+  </id_info>
+  <brief_title>PVP-I Nasal Sprays and SARS-CoV-2 Nasopharyngeal Titers (for COVID-19)</brief_title>
+  <official_title>Effect of PVP-I Nasal Sprays vs Normal Saline Nasal Sprays on SARS-CoV-2 Nasopharyngeal Titers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to determine the safety and efficacy of povidone-iodine (PVP-I) containing&#xD;
+      nasal sprays as compared to isotonic saline nasal sprays in COVID-19 positive patients. The&#xD;
+      primary outcome measure is SARS-CoV-2 viral titers in the nasal cavity and nasopharynx. In&#xD;
+      vitro studies have shown PVP-I to be highly virucidal against the viruses which cause SARS&#xD;
+      and MERS. Additionally, clinical studies have shown PVP-I saline sprays to be well tolerated&#xD;
+      in human subjects. PVP-I oral rinses and sprays have been trialed as methods to reduce the&#xD;
+      incidence and symptoms of viruses which cause the &quot;common cold.&quot;&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 15, 2020</start_date>
+  <completion_date type="Actual">December 13, 2020</completion_date>
+  <primary_completion_date type="Actual">December 13, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean Cycle Threshold (Ct) Values Through Day 3 as a Measure of Change in Viral Titers of SARS-CoV-2</measure>
+    <time_frame>Day 1 (baseline), Day 1 (1 hour), Day 3</time_frame>
+    <description>Nasopharyngeal swabs were obtained and quantitative reverse transcription-polymerase chain reaction (RT-PCR) testing was performed to determine the viral load in the nasopharynx.&#xD;
+Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Adverse Events of Interest After Nasal Sprays</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Participants were asked on day 3 whether they experienced the adverse event since baseline, then asked on day 5 whether they experienced the adverse event since day 3 (collected by questionnaire). Adverse events of interest include: Nasal burning/pain, headaches, ear pain, sneezing, and nose bleeds.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Fevers as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced fevers at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Chills as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced chills at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Fatigue as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced fatigue at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Loss of Sense of Smell as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced loss of sense of smell at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Loss of Sense of Taste as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced loss of sense of taste at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Nasal Congestion as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced nasal congestion at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Experiencing Sore Throat as a Measure of Frequency of Symptoms Related to SARS-CoV-2</measure>
+    <time_frame>Assessed on days 3 and 5</time_frame>
+    <description>Count of participants that experienced sore throat at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance With Study Drug Administration</measure>
+    <time_frame>5 days</time_frame>
+    <description>Participants were asked to estimated doses completed at day 5 (0-25%, 26-50%, 51-75%, or 76-100%). The count of participants who estimated their compliance to be within each range is reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Normosmia, Microsmia, or Anosmia as a Measure of Change in the University of Pennsylvania Smell Identification Test (UPSIT)</measure>
+    <time_frame>Day 1 (baseline), Day 30</time_frame>
+    <description>Participants scratch test cards and attempt to identify the smell from a multiple choice set of options. Their scores are then computed and categorized as normosmia (normal), mild, moderate, or severe microsmia (loss of smell), or anosmia (total loss of smell).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">47</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Povidone-Iodine 2%</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will administer PVP-I 2% nasal spray for 5 days. Nasopharyngeal swabs will be taken on Day 1 at baseline, Day 1 at four hours post-first dose, and Day 5.&#xD;
+Participants will complete a daily symptom journal from Day 1 through Day 5.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Povidone-Iodine 0.5%</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will administer PVP-I 0.5% nasal spray for 5 days. Nasopharyngeal swabs will be taken on Day 1 at baseline, Day 1 at four hours post-first dose, and Day 5.&#xD;
+Participants will complete a daily symptom journal from Day 1 through Day 5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Isotonic saline 0.9%</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will administer two sprays of isotonic saline nasal spray for 5 days. Nasopharyngeal swabs will be taken on Day 1 at baseline, Day 1 at four hours post-first dose, and Day 5.&#xD;
+Participants will complete a daily symptom journal from Day 1 through Day 5.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Povidone-Iodine 2%</intervention_name>
+    <description>Two sprays to each nare of PVP-I 2% via nasal spray bottle, four times a day</description>
+    <arm_group_label>Povidone-Iodine 2%</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Povidone-Iodine 0.5%</intervention_name>
+    <description>Two sprays to each nare of PVP-I 0.5% via nasal spray bottle, four times a day</description>
+    <arm_group_label>Povidone-Iodine 0.5%</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Isotonic saline 0.9%</intervention_name>
+    <description>Two sprays to each nare of isotonic saline (0.9% NaCl) via nasal spray bottle, four times a day</description>
+    <arm_group_label>Isotonic saline 0.9%</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of COVID-19 by lab test within 5 days of study participation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Allergy to &quot;iodine,&quot; shellfish, or food dye&#xD;
+&#xD;
+          -  Receiving intranasal steroids&#xD;
+&#xD;
+          -  Sinus surgery within 30 days of beginning the study&#xD;
+&#xD;
+          -  Intubated at the time of enrollment&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Participation in other COVID-19 studies - to be determined on a case by case basis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jayakar V. Nayak, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Neelaysh Vukkadala, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford Health Care</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>April 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2020</study_first_posted>
+  <results_first_submitted>October 15, 2021</results_first_submitted>
+  <results_first_submitted_qc>October 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 21, 2021</results_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nasal spray</keyword>
+  <keyword>PVP-I</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Iodine</mesh_term>
+    <mesh_term>Cadexomer iodine</mesh_term>
+    <mesh_term>Povidone-Iodine</mesh_term>
+    <mesh_term>Povidone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 10, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/54/NCT04347954/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>265 patients were assessed for eligibility; 47 patients were randomized into the study,</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Isotonic Saline 0.9%</title>
+          <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="P2">
+          <title>Povidone-Iodine 0.5%</title>
+          <description>Participants administer 2 sprays of povidone-iodine (PVP-I) 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="P3">
+          <title>Povidone-Iodine 2%</title>
+          <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Received Allocated Intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Negative PCR Swab at Baseline</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="14"/>
+                <participants group_id="P3" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Did not present to study site for allocated intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Isotonic Saline 0.9%</title>
+          <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="B2">
+          <title>Povidone-Iodine 0.5%</title>
+          <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="B3">
+          <title>Povidone-Iodine 2%</title>
+          <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="11"/>
+            <count group_id="B2" value="11"/>
+            <count group_id="B3" value="13"/>
+            <count group_id="B4" value="35"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44.2" spread="15.6"/>
+                    <measurement group_id="B2" value="45.2" spread="12.2"/>
+                    <measurement group_id="B3" value="40.7" spread="19.9"/>
+                    <measurement group_id="B4" value="43.2" spread="18.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="13"/>
+                    <measurement group_id="B4" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Days since positive COVID test to enrollment</title>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3.9" spread="2.8"/>
+                    <measurement group_id="B2" value="3.7" spread="1.5"/>
+                    <measurement group_id="B3" value="3.0" spread="1.1"/>
+                    <measurement group_id="B4" value="3.5" spread="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Days since symptoms to enrollment</title>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.8" spread="2.2"/>
+                    <measurement group_id="B2" value="7.2" spread="2.6"/>
+                    <measurement group_id="B3" value="7.1" spread="3.2"/>
+                    <measurement group_id="B4" value="6.3" spread="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Active tobacco use</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbidities</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Sinusitis/allergy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Respiratory disease/Asthma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cardiac disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurodegenerative disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Prior Treatment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Saline nasal irrigations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Tylenol/NSAIDs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>None</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Noted change to taste or smell at enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Risk factors for smell loss</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>History of head trauma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>History of sinus surgery</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mean Cycle Threshold (Ct) Values Through Day 3 as a Measure of Change in Viral Titers of SARS-CoV-2</title>
+        <description>Nasopharyngeal swabs were obtained and quantitative reverse transcription-polymerase chain reaction (RT-PCR) testing was performed to determine the viral load in the nasopharynx.&#xD;
+Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+        <time_frame>Day 1 (baseline), Day 1 (1 hour), Day 3</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean Cycle Threshold (Ct) Values Through Day 3 as a Measure of Change in Viral Titers of SARS-CoV-2</title>
+          <description>Nasopharyngeal swabs were obtained and quantitative reverse transcription-polymerase chain reaction (RT-PCR) testing was performed to determine the viral load in the nasopharynx.&#xD;
+Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>cycles</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.36" spread="6.83"/>
+                    <measurement group_id="O2" value="26.03" spread="4.86"/>
+                    <measurement group_id="O3" value="28.42" spread="6.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hour 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.71" spread="6.87"/>
+                    <measurement group_id="O2" value="26.46" spread="5.36"/>
+                    <measurement group_id="O3" value="27.45" spread="8.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.20" spread="6.82"/>
+                    <measurement group_id="O2" value="36.26" spread="21.56"/>
+                    <measurement group_id="O3" value="31.01" spread="7.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of change in mean Ct values incorporating baseline, hour 1, and day 3 values.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>-0.349</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.584</ci_lower_limit>
+            <ci_upper_limit>0.886</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of change in mean Ct values incorporating baseline, hour 1, and day 3 values.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>-1.059</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.318</ci_lower_limit>
+            <ci_upper_limit>0.201</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Adverse Events of Interest After Nasal Sprays</title>
+        <description>Participants were asked on day 3 whether they experienced the adverse event since baseline, then asked on day 5 whether they experienced the adverse event since day 3 (collected by questionnaire). Adverse events of interest include: Nasal burning/pain, headaches, ear pain, sneezing, and nose bleeds.</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Adverse Events of Interest After Nasal Sprays</title>
+          <description>Participants were asked on day 3 whether they experienced the adverse event since baseline, then asked on day 5 whether they experienced the adverse event since day 3 (collected by questionnaire). Adverse events of interest include: Nasal burning/pain, headaches, ear pain, sneezing, and nose bleeds.</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Nasal burning or pain - Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nasal burning or pain - Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headaches - Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headaches - Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ear pain - Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ear pain - Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sneezing - Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sneezing - Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nose bleeds - Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nose bleeds - Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Fevers as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced fevers at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Fevers as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced fevers at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Chills as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced chills at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Chills as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced chills at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Fatigue as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced fatigue at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Fatigue as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced fatigue at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Loss of Sense of Smell as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced loss of sense of smell at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Loss of Sense of Smell as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced loss of sense of smell at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Loss of Sense of Taste as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced loss of sense of taste at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Loss of Sense of Taste as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced loss of sense of taste at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Nasal Congestion as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced nasal congestion at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Nasal Congestion as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced nasal congestion at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Experiencing Sore Throat as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+        <description>Count of participants that experienced sore throat at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+        <time_frame>Assessed on days 3 and 5</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Experiencing Sore Throat as a Measure of Frequency of Symptoms Related to SARS-CoV-2</title>
+          <description>Count of participants that experienced sore throat at either mild, moderate, or severe intensity. Participants were asked on day 3 whether they experienced the symptom since baseline, then asked on day 5 whether they experienced the symptom since day 3. Participants rated the severity of their symptoms on a 4-point Likert scale with &quot;1&quot; representing 'not experiencing that symptom,' &quot;2&quot; representing mild symptoms, &quot;3&quot; representing 'moderate symptoms,' and &quot;4&quot; representing 'severe symptoms.'</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5 - Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Compliance With Study Drug Administration</title>
+        <description>Participants were asked to estimated doses completed at day 5 (0-25%, 26-50%, 51-75%, or 76-100%). The count of participants who estimated their compliance to be within each range is reported.</description>
+        <time_frame>5 days</time_frame>
+        <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Compliance With Study Drug Administration</title>
+          <description>Participants were asked to estimated doses completed at day 5 (0-25%, 26-50%, 51-75%, or 76-100%). The count of participants who estimated their compliance to be within each range is reported.</description>
+          <population>Participants who received the allocated intervention and completed the study; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>76-100% compliant</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="11"/>
+                    <measurement group_id="O3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>51-75% compliant</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>26-50% compliant</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>0-25% compliant</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Normosmia, Microsmia, or Anosmia as a Measure of Change in the University of Pennsylvania Smell Identification Test (UPSIT)</title>
+        <description>Participants scratch test cards and attempt to identify the smell from a multiple choice set of options. Their scores are then computed and categorized as normosmia (normal), mild, moderate, or severe microsmia (loss of smell), or anosmia (total loss of smell).</description>
+        <time_frame>Day 1 (baseline), Day 30</time_frame>
+        <population>Participants who received the allocated intervention and completed the study and with data available for the respective time point; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Isotonic Saline 0.9%</title>
+            <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Povidone-Iodine 0.5%</title>
+            <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Povidone-Iodine 2%</title>
+            <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Normosmia, Microsmia, or Anosmia as a Measure of Change in the University of Pennsylvania Smell Identification Test (UPSIT)</title>
+          <description>Participants scratch test cards and attempt to identify the smell from a multiple choice set of options. Their scores are then computed and categorized as normosmia (normal), mild, moderate, or severe microsmia (loss of smell), or anosmia (total loss of smell).</description>
+          <population>Participants who received the allocated intervention and completed the study and with data available for the respective time point; participants with negative PCR nasal swab results at baseline or incomplete data were excluded.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Anosmia - Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="10"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anosmia - day 30</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severe microsmia - baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="10"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severe microsmia - day 30</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Moderate microsmia - baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="10"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Moderate microsmia - day 30</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mild microsmia - baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="10"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mild microsmia - day 30</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Normosmia - baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="10"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Normosmia - day 30</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="11"/>
+                    <count group_id="O3" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="8"/>
+                    <measurement group_id="O3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Isotonic Saline 0.9%</title>
+          <description>Participants administer 2 sprays of isotonic saline (0.9% NaCl) to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="E2">
+          <title>Povidone-Iodine 0.5%</title>
+          <description>Participants administer 2 sprays of PVP-I 0.5% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+        <group group_id="E3">
+          <title>Povidone-Iodine 2%</title>
+          <description>Participants administer 2 sprays of PVP-I 2% to each nare via nasal spray bottle, four times a day for 5 days.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="13" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headaches</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="7" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nasal burning</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="13" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Sneezing</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="11" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Nosebleeds</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study did not meet its accrual goal of 45 participants with analyzable data.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Jayakar Nayak, MD, PhD</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>(650) 723-5281</phone>
+      <email>jnayak@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

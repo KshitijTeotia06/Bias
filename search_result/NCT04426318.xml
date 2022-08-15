@@ -1,0 +1,2577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="164">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04426318</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0533</org_study_id>
+    <secondary_id>A171600</secondary_id>
+    <secondary_id>EDUC/COUNSELING PSYCH</secondary_id>
+    <secondary_id>Protocol Approval 10/15/2020</secondary_id>
+    <nct_id>NCT04426318</nct_id>
+  </id_info>
+  <brief_title>COVID-19 and the Healthy Minds Program for Educators</brief_title>
+  <acronym>CAHMP-ED</acronym>
+  <official_title>COVID-19 and the Healthy Minds Program for Educators</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Chan Zuckerberg Initiative</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Healthy Minds Innovations</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Center for Healthy Minds</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized controlled trial (RCT) of the four-week Healthy Minds Program&#xD;
+      (HMP) app Foundations training in employees of a mid-size urban school district in the United&#xD;
+      States during the summer of 2020, in the midst of the novel coronavirus pandemic. A 3-month&#xD;
+      follow-up in the fall of 2020 will also be conducted.&#xD;
+&#xD;
+      Participants will be recruited via email and mailed postcards, and will first complete an&#xD;
+      online screen. Eligible participants will then enter a waiting zone for between 2-days and&#xD;
+      2-weeks before they are sent the online pre-test. Upon completion of the pre-test,&#xD;
+      participants will be assigned to condition via a simple random number generator. If assigned&#xD;
+      to the intervention (i.e., the Healthy Minds Program App), participants will receive&#xD;
+      instructions and support in downloading and activating the app. Every 7-days over the 4-week&#xD;
+      intervention period participants in both conditions will complete the same set of measures. A&#xD;
+      full battery of measures will be administered a second time post-test, following the 4-week&#xD;
+      intervention period. Three-months after post-test, a follow-up assessment will be conducted.&#xD;
+&#xD;
+      The investigators predict that participants assigned to the intervention will demonstrate&#xD;
+      significantly reduced psychological distress after the intervention, and these decreases will&#xD;
+      persist at the 3-month follow-up. Further, it is hypothesized that baseline participant&#xD;
+      characteristics and early experience of the intervention will predict treatment adherence,&#xD;
+      study drop-out and outcomes, and that treatment engagement will moderate outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 14, 2020</start_date>
+  <completion_date type="Actual">January 12, 2021</completion_date>
+  <primary_completion_date type="Actual">January 12, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Random parallel assignment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>There is no outcome assessor - all assessments will be conducted online by participants. Investigators will be blind to group assignment during data analysis. Analysis of hypotheses related to baseline characteristics, adherence and dosage cannot be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline on an Aggregate Measure of Psychological Distress That Averages the Patient-Reported Outcomes Measurement Information System (PROMIS) Anxiety and Depressive Measures and the NIH Perceived Stress Scale</measure>
+    <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>Psychological distress will be assessed by aggregating 3 measures: PROMIS anxiety and PROMIS depression, and the NIH Toolbox Perceived Stress Scale. Averages will be z-scored with a mean of 0 and a standard deviation 1. Higher scores indicate increased psychological distress.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the Five Facet Mindfulness Questionnaire Act With Awareness Subscale</measure>
+    <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>A measure of acting with mindful awareness. The total possible range in scores is 8-40, with higher scores indicating greater levels of this facet of mindfulness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the Drexel Defusion Scale (DDS)</measure>
+    <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>Psychological distancing (i.e., defusion) will be assessed with the 10-item Drexel Defusion Scale (DDS). The total possible range in scores is 0-50, with higher scores indicating greater levels of psychological distancing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the Meaning in Life Questionnaire</measure>
+    <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>The Meaning in Life Questionnaire Presence subscale will be used to measure perceptions of meaning and purpose in life. The total possible range in scores is 5 - 35 with higher scores indicating greater levels of meaning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the NIH Toolbox Loneliness Scale</measure>
+    <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>A measure of loneliness (i.e, lack of social connectedness). The total possible range in scores is 1-5, representing the average across all items; higher scores indicate greater levels of loneliness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Conway COVID Questionnaire Subscale Scores</measure>
+    <time_frame>baseline</time_frame>
+    <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Conway COVID Questionnaire Subscale Scores</measure>
+    <time_frame>4 weeks (post intervention)</time_frame>
+    <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Conway COVID Questionnaire Subscale Scores</measure>
+    <time_frame>16 weeks (3 months post-intervention)</time_frame>
+    <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-Compassion Scale Short Form Score</measure>
+    <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>The Self-Compassion Scale Short Form will be used to measure self-compassion. The total possible range in scores is 12-60, with higher scores indicating greater levels of self-compassion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the Perseverative Thought Questionnaire</measure>
+    <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>Negative ruminative thinking will be measured with the Perseverative Thought Questionnaire. The total possible range in scores is 0-60, with higher scores indicating greater levels negative ruminative thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the World Health Organization 5-item (WHO-5) Well-being Scale</measure>
+    <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>Well-being will be measured using the WHO-5. The total possible range in scores is 0-25, with higher scores indicating greater levels of well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the Neutral Face Rating Task</measure>
+    <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+    <description>The Neutral Face Rating task is a novel measure of prosocial construal (average likability ratings) and race bias (average liking of white faces minus the average liking of black faces). Total score for both prosocial construal and bias range from 1 to 7, with higher scores representing greater prosocial construal and bias favoring white faces (negative scores on the bias measure indicate bias for liking black faces more than white faces).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline on the Growth Mindset Scale for Well-Being</measure>
+    <time_frame>baseline, 4 weeks (post intervention)</time_frame>
+    <description>A measure of fixed versus incremental mindset regarding well-being. The average across items for a possible range in scores from 1-6 will be measured, with higher scores indicating greater levels of incremental views on well-being (i.e., it can be learned).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Slope Across Time on Practice Quality and Mood Items</measure>
+    <time_frame>Every other day when participant completes a practice (up to 4 weeks)</time_frame>
+    <description>4-tems following each app-based practice for treatment participants that ask about perceive quality of the practice, (1 poor, 9 very good), and mood (1 poor, 5 good).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Digital Working Alliance</measure>
+    <time_frame>After weeks 1, 2, and 3 during the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention) - Intervention group only</time_frame>
+    <description>A measure of working alliance in a digital environment that will be averaged across all items for a score range from 1 to 7, with higher scores reflecting higher levels of alliance.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">698</enrollment>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Psychological Stress</condition>
+  <condition>Psychological Distress</condition>
+  <condition>Well-being</condition>
+  <arm_group>
+    <arm_group_label>Healthy Minds Program Foundations Training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy Minds Program (HMP) Description:&#xD;
+The HMP app was developed by Healthy Minds Innovations at the UW Center for Healthy Minds, and is based on the work of Richard Davidson, PhD. HMP is designed to promote and protect psychological well-being through sustainable skills training. The program is grounded in constituents of psychological well-being identified in empirical literature. HMP provides core content, with instruction administered through a curriculum of high-quality guided practices. HMP is based on research on eudaimonic well-being (e.g., environmental mastery, purpose) and brain-based skills that underlie these qualities (e.g., regulation of attention, mental flexibility). HMP has &gt;100 guided audio practices that address 4 constituents of well-being: awareness, connection, insight, and purpose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Wait-list control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Healthy Minds Program Foundations Training</intervention_name>
+    <description>The HMP is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. The program is unique in several ways. First, all program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). Second, in addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+    <arm_group_label>Healthy Minds Program Foundations Training</arm_group_label>
+    <other_name>meditation</other_name>
+    <other_name>mindfulness</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages 18 years old and up&#xD;
+&#xD;
+          -  Employees of a K-12 school district in Wisconsin&#xD;
+&#xD;
+          -  Smartphone or device that can download apps from Google Play or the iTunes app store&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals under 18 years old&#xD;
+&#xD;
+          -  Significant meditation experience:&#xD;
+&#xD;
+               1. Meditation retreat experience (meditation retreat or yoga/body practice retreat&#xD;
+                  with significant meditation component),&#xD;
+&#xD;
+               2. Regular meditation practice weekly for over 1 year OR daily practice within the&#xD;
+                  previous 6 months; or&#xD;
+&#xD;
+               3. Previous use of the HMP app.&#xD;
+&#xD;
+          -  Patient-Reported Outcomes Measurement Information System (PROMIS) depression score &gt;&#xD;
+             70&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Wisconsin</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Goldberg SB, Baldwin SA, Riordan KM, Torous J, Dahl CJ, Davidson RJ, Hirshberg MJ. Alliance With an Unguided Smartphone App: Validation of the Digital Working Alliance Inventory. Assessment. 2021 May 18:10731911211015310. doi: 10.1177/10731911211015310. [Epub ahead of print]</citation>
+    <PMID>34000843</PMID>
+  </results_reference>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>June 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 11, 2020</study_first_posted>
+  <results_first_submitted>January 26, 2022</results_first_submitted>
+  <results_first_submitted_qc>February 8, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 10, 2022</results_first_posted>
+  <last_update_submitted>February 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be de-identified and listed in public data registries (i.e., osf) based on the publication of preregistered study hypotheses on a manuscript by manuscript basis.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will be de-identified and made publicly available based on the publication of preregistered study hypotheses following peer review.</ipd_time_frame>
+    <ipd_access_criteria>Researcher consent. Any reasonable request will be granted.</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 26, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT04426318/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>8321 Wisconsin school system employees invited, 1136 self-screened for eligibility, 353 ineligible (for prior medication, prior HMP app use, or depression t-score greater than 70), 698 consented, 32 did not complete a pre-test, 666 assigned to an arm.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Healthy Minds Program Foundations Training</title>
+          <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+        </group>
+        <group group_id="P2">
+          <title>Wait-list Control</title>
+          <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="346"/>
+                <participants group_id="P2" count="320"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Failed Attention Checks</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Downloaded HMP App</title>
+              <participants_list>
+                <participants group_id="P1" count="329"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed T2 Assessment</title>
+              <participants_list>
+                <participants group_id="P1" count="281"/>
+                <participants group_id="P2" count="280"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed T3 Assessment</title>
+              <participants_list>
+                <participants group_id="P1" count="261"/>
+                <participants group_id="P2" count="274"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed T4 Assessment</title>
+              <participants_list>
+                <participants group_id="P1" count="261"/>
+                <participants group_id="P2" count="275"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed T5 Assessment</title>
+              <participants_list>
+                <participants group_id="P1" count="284"/>
+                <participants group_id="P2" count="293"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed T6 Assessment</title>
+              <participants_list>
+                <participants group_id="P1" count="286"/>
+                <participants group_id="P2" count="293"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Final Intent to Treat Sample</title>
+              <participants_list>
+                <participants group_id="P1" count="344"/>
+                <participants group_id="P2" count="318"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="344"/>
+                <participants group_id="P2" count="318"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>failed attention checks and had their data removed from analyses</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Healthy Minds Program Foundations Training</title>
+          <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+        </group>
+        <group group_id="B2">
+          <title>Wait-list Control</title>
+          <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="344"/>
+            <count group_id="B2" value="318"/>
+            <count group_id="B3" value="662"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>under 20 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>20-30 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="46"/>
+                    <measurement group_id="B3" value="101"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>30-40 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="105"/>
+                    <measurement group_id="B2" value="90"/>
+                    <measurement group_id="B3" value="195"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>40-50 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="103"/>
+                    <measurement group_id="B2" value="93"/>
+                    <measurement group_id="B3" value="196"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>50-60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61"/>
+                    <measurement group_id="B2" value="79"/>
+                    <measurement group_id="B3" value="140"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>over 60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex/Gender, Customized</title>
+          <description>Participants were permitted to select more than one category.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="302"/>
+                    <measurement group_id="B2" value="281"/>
+                    <measurement group_id="B3" value="583"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Non-Binary</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>American Indian / Alaskan Native</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian / Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black / African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic / Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White / Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="315"/>
+                    <measurement group_id="B2" value="287"/>
+                    <measurement group_id="B3" value="602"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="344"/>
+                    <measurement group_id="B2" value="318"/>
+                    <measurement group_id="B3" value="662"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Highest Level of Education</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>less than 7 years formal education</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Graduated High School</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Some College</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Graduated College</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="100"/>
+                    <measurement group_id="B2" value="103"/>
+                    <measurement group_id="B3" value="203"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Advanced Degree</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="208"/>
+                    <measurement group_id="B2" value="178"/>
+                    <measurement group_id="B3" value="386"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>NA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Household Income</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Less than $20,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$20,000 - $40,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="41"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$40,000 - $70,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="80"/>
+                    <measurement group_id="B2" value="82"/>
+                    <measurement group_id="B3" value="162"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$70,000 - $100,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="87"/>
+                    <measurement group_id="B2" value="74"/>
+                    <measurement group_id="B3" value="161"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$100,000 - $200,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="135"/>
+                    <measurement group_id="B2" value="121"/>
+                    <measurement group_id="B3" value="256"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>greater than $200,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Employment Category</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Classroom Teacher</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="144"/>
+                    <measurement group_id="B2" value="134"/>
+                    <measurement group_id="B3" value="278"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Classroom Support</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="47"/>
+                    <measurement group_id="B2" value="44"/>
+                    <measurement group_id="B3" value="91"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Special Education Teacher</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="60"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>School Support</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="35"/>
+                    <measurement group_id="B3" value="73"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>School Administrator</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>System Staff</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="47"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other / Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58"/>
+                    <measurement group_id="B2" value="43"/>
+                    <measurement group_id="B3" value="101"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline on an Aggregate Measure of Psychological Distress That Averages the Patient-Reported Outcomes Measurement Information System (PROMIS) Anxiety and Depressive Measures and the NIH Perceived Stress Scale</title>
+        <description>Psychological distress will be assessed by aggregating 3 measures: PROMIS anxiety and PROMIS depression, and the NIH Toolbox Perceived Stress Scale. Averages will be z-scored with a mean of 0 and a standard deviation 1. Higher scores indicate increased psychological distress.</description>
+        <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on an Aggregate Measure of Psychological Distress That Averages the Patient-Reported Outcomes Measurement Information System (PROMIS) Anxiety and Depressive Measures and the NIH Perceived Stress Scale</title>
+          <description>Psychological distress will be assessed by aggregating 3 measures: PROMIS anxiety and PROMIS depression, and the NIH Toolbox Perceived Stress Scale. Averages will be z-scored with a mean of 0 and a standard deviation 1. Higher scores indicate increased psychological distress.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>z-score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00" spread="0.88"/>
+                    <measurement group_id="O2" value="0.00" spread="0.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="277"/>
+                    <count group_id="O2" value="276"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.29" spread="0.89"/>
+                    <measurement group_id="O2" value="-0.10" spread="0.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="257"/>
+                    <count group_id="O2" value="270"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.40" spread="0.85"/>
+                    <measurement group_id="O2" value="-0.10" spread="1.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="257"/>
+                    <count group_id="O2" value="271"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.55" spread="0.88"/>
+                    <measurement group_id="O2" value="-0.14" spread="1.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.67" spread="0.89"/>
+                    <measurement group_id="O2" value="-0.20" spread="1.03"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="282"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.55" spread="0.87"/>
+                    <measurement group_id="O2" value="-0.24" spread="1.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the Five Facet Mindfulness Questionnaire Act With Awareness Subscale</title>
+        <description>A measure of acting with mindful awareness. The total possible range in scores is 8-40, with higher scores indicating greater levels of this facet of mindfulness.</description>
+        <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on the Five Facet Mindfulness Questionnaire Act With Awareness Subscale</title>
+          <description>A measure of acting with mindful awareness. The total possible range in scores is 8-40, with higher scores indicating greater levels of this facet of mindfulness.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.80" spread="5.93"/>
+                    <measurement group_id="O2" value="24.56" spread="6.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="277"/>
+                    <count group_id="O2" value="276"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.19" spread="5.62"/>
+                    <measurement group_id="O2" value="25.57" spread="6.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="259"/>
+                    <count group_id="O2" value="270"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.71" spread="5.47"/>
+                    <measurement group_id="O2" value="25.69" spread="6.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="258"/>
+                    <count group_id="O2" value="271"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.45" spread="5.61"/>
+                    <measurement group_id="O2" value="26.15" spread="6.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.12" spread="5.67"/>
+                    <measurement group_id="O2" value="26.12" spread="6.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="282"/>
+                    <count group_id="O2" value="290"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.1" spread="5.32"/>
+                    <measurement group_id="O2" value="26.02" spread="6.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the Drexel Defusion Scale (DDS)</title>
+        <description>Psychological distancing (i.e., defusion) will be assessed with the 10-item Drexel Defusion Scale (DDS). The total possible range in scores is 0-50, with higher scores indicating greater levels of psychological distancing.</description>
+        <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on the Drexel Defusion Scale (DDS)</title>
+          <description>Psychological distancing (i.e., defusion) will be assessed with the 10-item Drexel Defusion Scale (DDS). The total possible range in scores is 0-50, with higher scores indicating greater levels of psychological distancing.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.83" spread="7.89"/>
+                    <measurement group_id="O2" value="24.45" spread="8.23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="276"/>
+                    <count group_id="O2" value="275"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.14" spread="8.72"/>
+                    <measurement group_id="O2" value="26.26" spread="8.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="257"/>
+                    <count group_id="O2" value="270"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.45" spread="8.42"/>
+                    <measurement group_id="O2" value="26.96" spread="8.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="255"/>
+                    <count group_id="O2" value="270"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.61" spread="8.73"/>
+                    <measurement group_id="O2" value="27.52" spread="9.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31.43" spread="8.54"/>
+                    <measurement group_id="O2" value="27.92" spread="8.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="281"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30.93" spread="8.69"/>
+                    <measurement group_id="O2" value="28.23" spread="8.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the Meaning in Life Questionnaire</title>
+        <description>The Meaning in Life Questionnaire Presence subscale will be used to measure perceptions of meaning and purpose in life. The total possible range in scores is 5 - 35 with higher scores indicating greater levels of meaning.</description>
+        <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on the Meaning in Life Questionnaire</title>
+          <description>The Meaning in Life Questionnaire Presence subscale will be used to measure perceptions of meaning and purpose in life. The total possible range in scores is 5 - 35 with higher scores indicating greater levels of meaning.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.20" spread="5.44"/>
+                    <measurement group_id="O2" value="25.81" spread="5.46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="278"/>
+                    <count group_id="O2" value="276"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.83" spread="5.13"/>
+                    <measurement group_id="O2" value="26.02" spread="5.38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="259"/>
+                    <count group_id="O2" value="270"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.15" spread="5.14"/>
+                    <measurement group_id="O2" value="25.85" spread="5.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="258"/>
+                    <count group_id="O2" value="271"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.62" spread="4.92"/>
+                    <measurement group_id="O2" value="26.13" spread="5.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.85" spread="5.35"/>
+                    <measurement group_id="O2" value="26.02" spread="6.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="282"/>
+                    <count group_id="O2" value="290"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.91" spread="5.14"/>
+                    <measurement group_id="O2" value="26.29" spread="5.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the NIH Toolbox Loneliness Scale</title>
+        <description>A measure of loneliness (i.e, lack of social connectedness). The total possible range in scores is 1-5, representing the average across all items; higher scores indicate greater levels of loneliness.</description>
+        <time_frame>baseline, after weeks 1, 2, and 3 of the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on the NIH Toolbox Loneliness Scale</title>
+          <description>A measure of loneliness (i.e, lack of social connectedness). The total possible range in scores is 1-5, representing the average across all items; higher scores indicate greater levels of loneliness.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.53" spread="0.77"/>
+                    <measurement group_id="O2" value="2.58" spread="0.77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="278"/>
+                    <count group_id="O2" value="276"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.34" spread="0.75"/>
+                    <measurement group_id="O2" value="2.49" spread="0.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="260"/>
+                    <count group_id="O2" value="272"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.16" spread="0.72"/>
+                    <measurement group_id="O2" value="2.38" spread="0.72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="259"/>
+                    <count group_id="O2" value="271"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.02" spread="0.68"/>
+                    <measurement group_id="O2" value="2.37" spread="0.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="279"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.07" spread="0.71"/>
+                    <measurement group_id="O2" value="2.33" spread="0.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="283"/>
+                    <count group_id="O2" value="291"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.13" spread="0.75"/>
+                    <measurement group_id="O2" value="2.38" spread="0.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Conway COVID Questionnaire Subscale Scores</title>
+        <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+        <time_frame>baseline</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Conway COVID Questionnaire Subscale Scores</title>
+          <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="342"/>
+                <count group_id="O2" value="315"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Financial Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.09" spread="2.08"/>
+                    <measurement group_id="O2" value="3.00" spread="2.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>News Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.03" spread="1.65"/>
+                    <measurement group_id="O2" value="4.10" spread="1.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Proximity Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.16" spread="1.70"/>
+                    <measurement group_id="O2" value="2.99" spread="1.66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Psychological Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.45" spread="1.45"/>
+                    <measurement group_id="O2" value="4.39" spread="1.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Resource Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.13" spread="1.85"/>
+                    <measurement group_id="O2" value="2.00" spread="1.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Symptoms Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.65" spread="1.10"/>
+                    <measurement group_id="O2" value="1.70" spread="1.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Threat Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.05" spread="1.35"/>
+                    <measurement group_id="O2" value="5.03" spread="1.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Conway COVID Questionnaire Subscale Scores</title>
+        <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+        <time_frame>4 weeks (post intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Conway COVID Questionnaire Subscale Scores</title>
+          <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="280"/>
+                <count group_id="O2" value="289"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Financial Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="279"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.10" spread="2.08"/>
+                    <measurement group_id="O2" value="2.93" spread="2.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>News Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.67" spread="1.55"/>
+                    <measurement group_id="O2" value="3.66" spread="1.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Proximity Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.36" spread="1.67"/>
+                    <measurement group_id="O2" value="3.41" spread="1.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Psychological Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.96" spread="1.55"/>
+                    <measurement group_id="O2" value="4.13" spread="1.54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Resource Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="279"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.85" spread="1.17"/>
+                    <measurement group_id="O2" value="1.97" spread="1.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Symptoms Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.57" spread="1.06"/>
+                    <measurement group_id="O2" value="1.82" spread="1.24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Threat Subscale</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="279"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.64" spread="1.38"/>
+                    <measurement group_id="O2" value="4.74" spread="1.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Conway COVID Questionnaire Subscale Scores</title>
+        <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+        <time_frame>16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Conway COVID Questionnaire Subscale Scores</title>
+          <description>The Conway COVID Questionnaire is a new, 16-tem measure of coronavirus related distress and related experiences. Subscales include: perceived threat, financial scale, resource scale, psychological scale, symptoms scale, proximity to others scale, and news scale. Ratings from 1 to 7 with 1 = &quot;not true of me at all&quot; and 7 = &quot;very true of me&quot; with higher scores representing greater perceived threat. Mean for each subscale reported.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="280"/>
+                <count group_id="O2" value="289"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Financial Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.91" spread="1.97"/>
+                    <measurement group_id="O2" value="3.01" spread="2.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>News Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.50" spread="1.58"/>
+                    <measurement group_id="O2" value="3.67" spread="1.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Proximity Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.45" spread="1.63"/>
+                    <measurement group_id="O2" value="4.56" spread="1.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Psychological Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.98" spread="1.46"/>
+                    <measurement group_id="O2" value="4.18" spread="1.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Resource Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.81" spread="1.20"/>
+                    <measurement group_id="O2" value="1.90" spread="1.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Symptoms Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.89" spread="1.38"/>
+                    <measurement group_id="O2" value="2.13" spread="1.48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Threat Subscale</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.81" spread="1.36"/>
+                    <measurement group_id="O2" value="4.90" spread="1.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Self-Compassion Scale Short Form Score</title>
+        <description>The Self-Compassion Scale Short Form will be used to measure self-compassion. The total possible range in scores is 12-60, with higher scores indicating greater levels of self-compassion.</description>
+        <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Self-Compassion Scale Short Form Score</title>
+          <description>The Self-Compassion Scale Short Form will be used to measure self-compassion. The total possible range in scores is 12-60, with higher scores indicating greater levels of self-compassion.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="35.7" spread="8.25"/>
+                    <measurement group_id="O2" value="35.2" spread="8.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="290"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.1" spread="8.75"/>
+                    <measurement group_id="O2" value="36.4" spread="9.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.3" spread="7.62"/>
+                    <measurement group_id="O2" value="38.0" spread="9.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the Perseverative Thought Questionnaire</title>
+        <description>Negative ruminative thinking will be measured with the Perseverative Thought Questionnaire. The total possible range in scores is 0-60, with higher scores indicating greater levels negative ruminative thinking.</description>
+        <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on the Perseverative Thought Questionnaire</title>
+          <description>Negative ruminative thinking will be measured with the Perseverative Thought Questionnaire. The total possible range in scores is 0-60, with higher scores indicating greater levels negative ruminative thinking.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="342"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.89" spread="10.43"/>
+                    <measurement group_id="O2" value="29.62" spread="11.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.75" spread="10.71"/>
+                    <measurement group_id="O2" value="28.19" spread="12.37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.47" spread="10.74"/>
+                    <measurement group_id="O2" value="25.91" spread="12.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the World Health Organization 5-item (WHO-5) Well-being Scale</title>
+        <description>Well-being will be measured using the WHO-5. The total possible range in scores is 0-25, with higher scores indicating greater levels of well-being.</description>
+        <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <population>not all participants returned surveys for each time point</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Minds Program Foundations Training</title>
+            <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Wait-list Control</title>
+            <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on the World Health Organization 5-item (WHO-5) Well-being Scale</title>
+          <description>Well-being will be measured using the WHO-5. The total possible range in scores is 0-25, with higher scores indicating greater levels of well-being.</description>
+          <population>not all participants returned surveys for each time point</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="344"/>
+                <count group_id="O2" value="318"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="341"/>
+                    <count group_id="O2" value="315"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.76" spread="4.71"/>
+                    <measurement group_id="O2" value="12.47" spread="4.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.07" spread="4.33"/>
+                    <measurement group_id="O2" value="12.83" spread="4.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 16</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="279"/>
+                    <count group_id="O2" value="289"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.07" spread="4.64"/>
+                    <measurement group_id="O2" value="12.59" spread="4.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the Neutral Face Rating Task</title>
+        <description>The Neutral Face Rating task is a novel measure of prosocial construal (average likability ratings) and race bias (average liking of white faces minus the average liking of black faces). Total score for both prosocial construal and bias range from 1 to 7, with higher scores representing greater prosocial construal and bias favoring white faces (negative scores on the bias measure indicate bias for liking black faces more than white faces).</description>
+        <time_frame>baseline, 4 weeks (post intervention), 16 weeks (3 months post-intervention)</time_frame>
+        <posting_date>06/2022</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline on the Growth Mindset Scale for Well-Being</title>
+        <description>A measure of fixed versus incremental mindset regarding well-being. The average across items for a possible range in scores from 1-6 will be measured, with higher scores indicating greater levels of incremental views on well-being (i.e., it can be learned).</description>
+        <time_frame>baseline, 4 weeks (post intervention)</time_frame>
+        <posting_date>01/2023</posting_date>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Slope Across Time on Practice Quality and Mood Items</title>
+        <description>4-tems following each app-based practice for treatment participants that ask about perceive quality of the practice, (1 poor, 9 very good), and mood (1 poor, 5 good).</description>
+        <time_frame>Every other day when participant completes a practice (up to 4 weeks)</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Digital Working Alliance</title>
+        <description>A measure of working alliance in a digital environment that will be averaged across all items for a score range from 1 to 7, with higher scores reflecting higher levels of alliance.</description>
+        <time_frame>After weeks 1, 2, and 3 during the intervention, 4 weeks (post intervention), 16 weeks (3 months post-intervention) - Intervention group only</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>up to 16 weeks</time_frame>
+      <desc>Anxiety and depression scores were characterized separately at T1 (baseline), T5 (4 weeks), and T6 (16 weeks) based on normative none-to-slight, mild, moderate, and severe symptoms from PROMIS anxiety and PROMIS depression scores (i.e., T-score &lt;55, 55≥ &lt;60, 60≥ &lt;70, and ≥70; Pilkonis et al., 2011).</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Healthy Minds Program Foundations Training</title>
+          <description>Healthy Minds Program (HMP) is a novel, smartphone-based app that provides a series of guided meditation practices on four primary constituents of well-being: Awareness, Connection, Insight, and Purpose. All program elements are introduced with a summary of the scientific evidence supporting its constituent elements (e.g., Awareness and well-being). In addition to standard sitting meditation practices found in many meditation-based behavioral interventions, the HMP offers active practices in which participants can develop the same skills but while embedding practice into activities they already do in their normal daily routine.</description>
+        </group>
+        <group group_id="E2">
+          <title>Wait-list Control</title>
+          <description>Participants assigned to the wait-list control will not receive treatment for the intervention and follow-up period. They will be provided access to the HMP Foundations training after completing follow-up testing.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="318"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="344" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="318" subjects_at_risk="318"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>None to Slight Depression at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="175" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="160" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Mild Depression at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="80" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="65" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Moderate Depression at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="87" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="87" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Severe Depression at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>None to Slight Depression at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="218" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="172" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Mild Depression at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="36" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="51" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Moderate Depression at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="61" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Severe Depression at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>None to Slight Depression at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="205" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="171" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Mild Depression at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="57" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Moderate Depression at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="61" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Severe Depression at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>None to Slight Anxiety at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="77" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="69" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Mild Anxiety at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="98" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="99" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Moderate Anxiety at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="154" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="130" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Severe Anxiety at Baseline</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>None to Slight Anxiety at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="133" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="91" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Mild Anxiety at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="75" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="80" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Moderate Anxiety at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="69" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="105" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Severe Anxiety at 4 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>None to Slight Anxiety at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="113" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="100" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Mild Anxiety at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="89" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="80" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Moderate Anxiety at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="79" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="96" subjects_at_risk="318"/>
+              </event>
+              <event>
+                <sub_title>Severe Anxiety at 16 weeks</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="344"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="318"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Matthew Hirshberg</name_or_title>
+      <organization>Center for Healthy Minds</organization>
+      <phone>608-262-0035</phone>
+      <email>hirshberg@wisc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

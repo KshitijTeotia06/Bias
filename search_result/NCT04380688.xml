@@ -1,0 +1,2961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="14">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04380688</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D822FC00003</org_study_id>
+    <nct_id>NCT04380688</nct_id>
+  </id_info>
+  <brief_title>Acalabrutinib Study With Best Supportive Care Versus Best Supportive Care in Subjects Hospitalized With COVID-19.</brief_title>
+  <acronym>CALAVI US</acronym>
+  <official_title>A Phase 2, Open Label, Randomized Study of the Efficacy and Safety of Acalabrutinib With Best Supportive Care Versus Best Supportive Care in Subjects Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Acerta Pharma BV</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CALAVI US will investigate the safety, efficacy and pharmacokinetics of acalabrutinib&#xD;
+      together with Best Supportive Care in the treatment of COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 13, 2020</start_date>
+  <completion_date type="Actual">November 16, 2020</completion_date>
+  <primary_completion_date type="Actual">November 16, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study will consist of two arms Arm 1 is acalabrutinib + best supportive care or Arm 2 is best supportive care alone</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events and Serious Adverse Events</measure>
+    <time_frame>Screening to 28 (+3) days after last dose of acalabrutinib (for acalabrutinib + BSC participants) or to 38 (+3) days after randomization (for BSC alone participants)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants Alive and Free of Respiratory Failure at Day 28</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Alive and Free of Respiratory Failure at Day 14</measure>
+    <time_frame>At Day 14</time_frame>
+    <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in C-reactive Protein.</measure>
+    <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+    <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Ferritin</measure>
+    <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+    <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Absolute Lymphocyte Count</measure>
+    <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+    <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From randomization until 90 days after randomization.</time_frame>
+    <description>Median overall survival, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Alive and Discharged From ICU</measure>
+    <time_frame>At Day 14 and at Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time From Randomization to First Occurrence of Respiratory Failure or Death on Study Due to Any Cause</measure>
+    <time_frame>From randomization to 28 days after randomization.</time_frame>
+    <description>Median time to first occurrence of respiratory failure or death, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days Alive and Free of Respiratory Failure</measure>
+    <time_frame>From randomization to 28 days after randomization.</time_frame>
+    <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days With Respiratory Failure</measure>
+    <time_frame>From randomization to 28 days after randomization.</time_frame>
+    <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation For participants who die (due to any cause) prior to Day 28, days from death to Day 28 are counted as days with respiratory failure. For participants in hospital and experiencing respiratory failure at the time they withdraw from the study, days from last known status to Day 28 are counted as days with respiratory failure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days Hospitalized</measure>
+    <time_frame>From randomization to 28 days after randomization.</time_frame>
+    <description>For this summary, the hospitalization must be considered clinically indicated to count as a day hospitalized.&#xD;
+For participants who die (due to any cause) prior to Day 28, days from death to Day 28 are counted as days hospitalized.&#xD;
+For participants in hospital at the time they withdraw from the study, days from last known status to Day 28 are counted as days hospitalized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days in ICU</measure>
+    <time_frame>From randomization to 90 days after randomization.</time_frame>
+    <description>For this summary, the ICU stay must be considered clinically indicated to count as a day in ICU.&#xD;
+For participants who die (due to any cause) prior to Day 90, days from death to Day 90 are counted as days in ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days Alive Outside of Hospital</measure>
+    <time_frame>From randomization to 28 days after randomization.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days Alive Outside of Hospital</measure>
+    <time_frame>From randomization to 90 days after randomization.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Oxygenation Index</measure>
+    <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+    <description>Baseline is defined as the result obtained on the date of randomization.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time From Randomization to Clinical Improvement of at Least 2 Points on a 9-point Category Ordinal Scale</measure>
+    <time_frame>From randomization to 28 days after randomization.</time_frame>
+    <description>9-point category ordinal scale: 0. * Uninfected, no clinical or virological evidence of infection&#xD;
+Ambulatory, no limitation of activities&#xD;
+Ambulatory, limitation of activities&#xD;
+Hospitalized - mild disease, no oxygen therapy&#xD;
+Hospitalized - mild disease, oxygen by mask or nasal prongs&#xD;
+Hospitalized - severe disease, non-invasive ventilation or high flow oxygen&#xD;
+Hospitalised - severe disease, intubation and mechanical ventilation&#xD;
+Hospitalized - severe disease, ventilation and additional organ support, such as pressors, renal replacement therapy, extracorporeal membrane oxygenation&#xD;
+Death&#xD;
+Median time to first occurrence of respiratory failure or death, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of Acalabrutinib</measure>
+    <time_frame>Day 3 and Day 7</time_frame>
+    <description>Summary of plasma concentrations (ng/mL) of acalabrutinib</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of ACP-5862</measure>
+    <time_frame>Day 3 and Day 7</time_frame>
+    <description>Summary of plasma concentrations (ng/mL) of ACP-5862</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">62</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acalabrutinib+ Best Supportive Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Best Supportive Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib</intervention_name>
+    <description>Acalabrutinib administered orally</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Ability to understand the purpose and risks of the study and provide signed and dated&#xD;
+             informed consent or have a legal representative provide consent and authorization to&#xD;
+             use protected health information (in accordance with national and local patient&#xD;
+             privacy regulations)&#xD;
+&#xD;
+          2. Men and women ≥18 years of age at the time of signing the informed consent form&#xD;
+&#xD;
+          3. Confirmed infection with SARS-CoV-2 confirmed per World Health Organization criteria&#xD;
+             (including positive RT-PCR nucleic acid test)&#xD;
+&#xD;
+          4. COVID-19 pneumonia (documented radiographically) requiring hospitalization and oxygen&#xD;
+             saturation &lt;94% on room air or requires supplemental oxygen&#xD;
+&#xD;
+          5. Able to swallow pills&#xD;
+&#xD;
+          6. Willing to follow contraception guidelines&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Respiratory failure at the time of screening due to COVID-19 pneumonia that impedes&#xD;
+             the ability to swallow pills, or in the opinion of the treating physician, the subject&#xD;
+             is likely to require mechanical ventilation within the immediate 24 hours and&#xD;
+             therefore unable to swallow pills.&#xD;
+&#xD;
+          2. Known medical resuscitation within 14 days of randomization&#xD;
+&#xD;
+          3. Pregnant or breast feeding&#xD;
+&#xD;
+          4. Suspected uncontrolled active bacterial, fungal, viral, or other infection (besides&#xD;
+             infection with SARS-CoV-2)&#xD;
+&#xD;
+          5. Alanine aminotransferase (ALT), and/or aspartate aminotransferase (AST) and/or&#xD;
+             bilirubin ≥ 3x upper limit of normal (ULN) and/or severe hepatic impairment detected&#xD;
+             during the screening period (per local lab) Exception: AST and/or ALT ≤5 × ULN if&#xD;
+             considered due to underlying COVID-19 disease, but cannot be associated with&#xD;
+             concurrent elevated bilirubin (≤2 × ULN).&#xD;
+&#xD;
+          6. Uncontrolled or untreated symptomatic arrhythmias, myocardial infarction within the&#xD;
+             last 6 weeks, or congestive heart failure (NYHA Grade 3 or 4). Exception: Subjects&#xD;
+             with controlled, asymptomatic atrial fibrillation during screening are allowed to&#xD;
+             enroll&#xD;
+&#xD;
+          7. Treatment with a strong cytochrome P450 (CYP)3A inhibitor (within 7 days before first&#xD;
+             dose of study drug) or inducer (within 14 days before first dose of study drug).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>130 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Anniston</city>
+        <state>Alabama</state>
+        <zip>36207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Escondido</city>
+        <state>California</state>
+        <zip>92029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Loxahatchee Groves</city>
+        <state>Florida</state>
+        <zip>33470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20889</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>38120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <zip>98055</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;amp;parentIdentifier=D822FC00003&amp;amp;attachmentIdentifier=2e2e7dff-ea3b-4994-b0b5-18b8ddb61ccb&amp;amp;fileName=D822FC00003_CSP_redacted.pdf&amp;amp;versionIdentifier=</url>
+    <description>Redacted CSP</description>
+  </link>
+  <link>
+    <url>https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;amp;parentIdentifier=D822FC00003&amp;amp;attachmentIdentifier=78253301-fe32-48e6-9d6a-56c0d83a543f&amp;amp;fileName=d822fc00003_SAP_redacted.pdf&amp;amp;versionIdentifier=</url>
+    <description>Related Info</description>
+  </link>
+  <link>
+    <url>https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;amp;parentIdentifier=D822FC00003&amp;amp;attachmentIdentifier=fc178d1a-11fc-4fab-a215-d5459a97728f&amp;amp;fileName=D822FC00003_CSR_Synopsis_redacted.pdf&amp;amp;versionIdentifier=</url>
+    <description>CSR Synopsis</description>
+  </link>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>May 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 8, 2020</study_first_posted>
+  <results_first_submitted>August 19, 2021</results_first_submitted>
+  <results_first_submitted_qc>September 8, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 13, 2021</results_first_posted>
+  <last_update_submitted>September 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>2019 novel coronavirus disease</keyword>
+  <keyword>Acalabrutinib</keyword>
+  <keyword>Btk inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acalabrutinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.&#xD;
+All request will be evaluated as per the AZ disclosure commitment: https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/88/NCT04380688/Prot_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/88/NCT04380688/SAP_003.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>All participants were recruited from the United States and had COVID-19 pneumonia (documented radiographically) requiring hospitalization. The first participant was randomized on 13 June 2020 and the last participant was randomized on 20 August 2020.</recruitment_details>
+      <pre_assignment_details>Screening assessments were performed within the 3 days prior to randomization. Of 70 screened participants, 62 were enrolled. Of the 8 participants that were not enrolled, 7 were screen failures (did not meet eligibility criteria) and 1 withdrew consent.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Acalabrutinib + BSC</title>
+          <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+        </group>
+        <group group_id="P2">
+          <title>BSC Alone</title>
+          <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="31"/>
+                <participants group_id="P2" count="31"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Acalabrutinib + BSC</title>
+          <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+        </group>
+        <group group_id="B2">
+          <title>BSC Alone</title>
+          <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="31"/>
+            <count group_id="B2" value="31"/>
+            <count group_id="B3" value="62"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52.5" spread="13.3"/>
+                    <measurement group_id="B2" value="51.9" spread="14.3"/>
+                    <measurement group_id="B3" value="52.2" spread="13.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>&lt; 65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;= 65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>HISPANIC OR LATINO</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>NOT HISPANIC OR LATINO</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>NOT REPORTED</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MISSING</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>WHITE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BLACK OR AFRICAN AMERICAN</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>AMERICAN INDIAN OR ALASKA NATIVE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ASIAN</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>OTHER</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>NOT REPORTED</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MISSING</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Adverse Events and Serious Adverse Events</title>
+        <time_frame>Screening to 28 (+3) days after last dose of acalabrutinib (for acalabrutinib + BSC participants) or to 38 (+3) days after randomization (for BSC alone participants)</time_frame>
+        <population>Safety analysis set: If the participant receives at least 1 dose of acalabrutinib, they are summarized in the Acalabrutinib + BSC group. Otherwise, they are summarized in the BSC alone group.&#xD;
+The number of participants in the BSC alone group (32) is greater than the number of participants randomized to this group (31) because one participant randomized to Acalabrutinib + BSC did not receive any acalabrutinib and therefore is included in the BSC alone group for the safety analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events and Serious Adverse Events</title>
+          <population>Safety analysis set: If the participant receives at least 1 dose of acalabrutinib, they are summarized in the Acalabrutinib + BSC group. Otherwise, they are summarized in the BSC alone group.&#xD;
+The number of participants in the BSC alone group (32) is greater than the number of participants randomized to this group (31) because one participant randomized to Acalabrutinib + BSC did not receive any acalabrutinib and therefore is included in the BSC alone group for the safety analysis set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="32"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Any Adverse Event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any Serious Adverse Event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants Alive and Free of Respiratory Failure at Day 28</title>
+        <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+        <time_frame>At Day 28</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Alive and Free of Respiratory Failure at Day 28</title>
+          <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80.6" lower_limit="67.4" upper_limit="93.9"/>
+                    <measurement group_id="O2" value="83.9" lower_limit="71.4" upper_limit="96.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants Alive and Free of Respiratory Failure at Day 14</title>
+        <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+        <time_frame>At Day 14</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Alive and Free of Respiratory Failure at Day 14</title>
+          <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80.6" lower_limit="67.4" upper_limit="93.9"/>
+                    <measurement group_id="O2" value="87.1" lower_limit="75.6" upper_limit="98.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percent Change From Baseline in C-reactive Protein.</title>
+        <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+        <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+        <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent Change From Baseline in C-reactive Protein.</title>
+          <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+          <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+          <units>Percent change</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="27"/>
+                    <count group_id="O2" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-41.08" spread="71.27"/>
+                    <measurement group_id="O2" value="-26.74" spread="69.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-72.05" spread="26.29"/>
+                    <measurement group_id="O2" value="-49.55" spread="54.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-75.72" spread="29.48"/>
+                    <measurement group_id="O2" value="-40.53" spread="75.99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10/ Discharge (last post-baseline assessment if discharged from hospital prior to Day 10)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="29"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-73.85" spread="27.92"/>
+                    <measurement group_id="O2" value="9.23" spread="354.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-73.23" spread="29.34"/>
+                    <measurement group_id="O2" value="212.22" spread="710.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="19"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-56.62" spread="97.54"/>
+                    <measurement group_id="O2" value="-56.61" spread="59.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                    <count group_id="O2" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-66.89" spread="73.45"/>
+                    <measurement group_id="O2" value="-39.63" spread="161.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percent Change From Baseline in Ferritin</title>
+        <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+        <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+        <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent Change From Baseline in Ferritin</title>
+          <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+          <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+          <units>Percent change</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="25"/>
+                    <count group_id="O2" value="19"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-15.25" spread="21.87"/>
+                    <measurement group_id="O2" value="-7.38" spread="31.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-29.67" spread="25.79"/>
+                    <measurement group_id="O2" value="-17.93" spread="36.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-36.59" spread="22.78"/>
+                    <measurement group_id="O2" value="-9.67" spread="45.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10/ Discharge (last post-baseline assessment if discharged from hospital prior to Day 10)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="29"/>
+                    <count group_id="O2" value="25"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-24.48" spread="31.30"/>
+                    <measurement group_id="O2" value="-20.38" spread="28.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-47.58" spread="31.60"/>
+                    <measurement group_id="O2" value="-1.24" spread="34.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-45.25" spread="23.09"/>
+                    <measurement group_id="O2" value="-40.20" spread="26.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                    <count group_id="O2" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-62.28" spread="37.27"/>
+                    <measurement group_id="O2" value="-63.69" spread="16.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percent Change From Baseline in Absolute Lymphocyte Count</title>
+        <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+        <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+        <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent Change From Baseline in Absolute Lymphocyte Count</title>
+          <description>Baseline is defined as the result obtained on the date of randomization. If no result was obtained on the date of randomization, the last result prior to the date of randomization is used.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+          <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+          <units>Percent change</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                    <count group_id="O2" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54.75" spread="92.83"/>
+                    <measurement group_id="O2" value="34.66" spread="61.47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.18" spread="64.35"/>
+                    <measurement group_id="O2" value="76.86" spread="63.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.22" spread="72.11"/>
+                    <measurement group_id="O2" value="102.80" spread="107.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10/ Discharge (last post-baseline assessment if discharged from hospital prior to Day 10)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.79" spread="142.10"/>
+                    <measurement group_id="O2" value="97.45" spread="92.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67.41" spread="73.04"/>
+                    <measurement group_id="O2" value="118.26" spread="66.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                    <count group_id="O2" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="108.55" spread="110.73"/>
+                    <measurement group_id="O2" value="106.85" spread="103.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="135.30" spread="88.00"/>
+                    <measurement group_id="O2" value="127.09" spread="136.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival</title>
+        <description>Median overall survival, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+        <time_frame>From randomization until 90 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <description>Median overall survival, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" lower_limit="NA" upper_limit="NA">The median and lower and upper limit of the 95% confidence interval (CI) could not be calculated as there were an insufficient number of participants with events.</measurement>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">The median and lower and upper limit of the 95% confidence interval (CI) could not be calculated as there were an insufficient number of participants with events.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants Alive and Discharged From ICU</title>
+        <time_frame>At Day 14 and at Day 28</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Alive and Discharged From ICU</title>
+          <population>Full analysis set (as randomized).</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>At Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83.9"/>
+                    <measurement group_id="O2" value="87.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83.9"/>
+                    <measurement group_id="O2" value="87.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time From Randomization to First Occurrence of Respiratory Failure or Death on Study Due to Any Cause</title>
+        <description>Median time to first occurrence of respiratory failure or death, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+        <time_frame>From randomization to 28 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time From Randomization to First Occurrence of Respiratory Failure or Death on Study Due to Any Cause</title>
+          <description>Median time to first occurrence of respiratory failure or death, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" lower_limit="NA" upper_limit="NA">The median and lower and upper limit of the 95% confidence interval (CI) could not be calculated as there were an insufficient number of participants with events.</measurement>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">The median and lower and upper limit of the 95% confidence interval (CI) could not be calculated as there were an insufficient number of participants with events.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>No formal hypothesis testing for this endpoint.</non_inferiority_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.553</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.145</ci_lower_limit>
+            <ci_upper_limit>1.952</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days Alive and Free of Respiratory Failure</title>
+        <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+        <time_frame>From randomization to 28 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days Alive and Free of Respiratory Failure</title>
+          <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.2" spread="6.7"/>
+                    <measurement group_id="O2" value="24.6" spread="7.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days With Respiratory Failure</title>
+        <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation For participants who die (due to any cause) prior to Day 28, days from death to Day 28 are counted as days with respiratory failure. For participants in hospital and experiencing respiratory failure at the time they withdraw from the study, days from last known status to Day 28 are counted as days with respiratory failure.</description>
+        <time_frame>From randomization to 28 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days With Respiratory Failure</title>
+          <description>Respiratory failure, is defined based on resource utilization of any of the following modalities: a) Endotracheal intubation and mechanical ventilation b) Oxygen delivered by highflow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥0.5) c) Noninvasive positive pressure ventilation or continuous positive airway pressure d) Extracorporeal membrane oxygenation For participants who die (due to any cause) prior to Day 28, days from death to Day 28 are counted as days with respiratory failure. For participants in hospital and experiencing respiratory failure at the time they withdraw from the study, days from last known status to Day 28 are counted as days with respiratory failure.</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.8" spread="6.7"/>
+                    <measurement group_id="O2" value="3.4" spread="7.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days Hospitalized</title>
+        <description>For this summary, the hospitalization must be considered clinically indicated to count as a day hospitalized.&#xD;
+For participants who die (due to any cause) prior to Day 28, days from death to Day 28 are counted as days hospitalized.&#xD;
+For participants in hospital at the time they withdraw from the study, days from last known status to Day 28 are counted as days hospitalized.</description>
+        <time_frame>From randomization to 28 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days Hospitalized</title>
+          <description>For this summary, the hospitalization must be considered clinically indicated to count as a day hospitalized.&#xD;
+For participants who die (due to any cause) prior to Day 28, days from death to Day 28 are counted as days hospitalized.&#xD;
+For participants in hospital at the time they withdraw from the study, days from last known status to Day 28 are counted as days hospitalized.</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.6" spread="7.3"/>
+                    <measurement group_id="O2" value="9.0" spread="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days in ICU</title>
+        <description>For this summary, the ICU stay must be considered clinically indicated to count as a day in ICU.&#xD;
+For participants who die (due to any cause) prior to Day 90, days from death to Day 90 are counted as days in ICU.</description>
+        <time_frame>From randomization to 90 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days in ICU</title>
+          <description>For this summary, the ICU stay must be considered clinically indicated to count as a day in ICU.&#xD;
+For participants who die (due to any cause) prior to Day 90, days from death to Day 90 are counted as days in ICU.</description>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.4" spread="17.1"/>
+                    <measurement group_id="O2" value="7.0" spread="20.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days Alive Outside of Hospital</title>
+        <time_frame>From randomization to 28 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days Alive Outside of Hospital</title>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.2" spread="7.3"/>
+                    <measurement group_id="O2" value="18.9" spread="8.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days Alive Outside of Hospital</title>
+        <time_frame>From randomization to 90 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days Alive Outside of Hospital</title>
+          <population>Full analysis set (as randomized).</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="75.3" spread="25.2"/>
+                    <measurement group_id="O2" value="72.7" spread="25.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percent Change From Baseline in Oxygenation Index</title>
+        <description>Baseline is defined as the result obtained on the date of randomization.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+        <time_frame>Days 3, 5, 7, 10, 14, 28</time_frame>
+        <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent Change From Baseline in Oxygenation Index</title>
+          <description>Baseline is defined as the result obtained on the date of randomization.&#xD;
+Percent change from baseline at Day X is calculated by multiplying the following result by 100%: (Day X value - Baseline value)/Baseline value.&#xD;
+The mean of this result for all analyzed patients is taken to get the mean percent change from baseline.</description>
+          <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and post-baseline result at the given timepoint to be included in the number analyzed for that timepoint.</population>
+          <units>Percent change</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="28"/>
+                    <count group_id="O2" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.24" spread="43.64"/>
+                    <measurement group_id="O2" value="13.51" spread="30.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.25" spread="74.37"/>
+                    <measurement group_id="O2" value="18.71" spread="32.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.41" spread="26.19"/>
+                    <measurement group_id="O2" value="28.73" spread="31.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10/ Discharge (last post-baseline assessment if discharged from hospital prior to Day 10)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32.37" spread="66.33"/>
+                    <measurement group_id="O2" value="36.67" spread="39.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-23.81" spread="27.53"/>
+                    <measurement group_id="O2" value="33.09" spread="50.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54.87" spread="84.54"/>
+                    <measurement group_id="O2" value="59.22" spread="43.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48.87" spread="51.77"/>
+                    <measurement group_id="O2" value="65.59" spread="50.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time From Randomization to Clinical Improvement of at Least 2 Points on a 9-point Category Ordinal Scale</title>
+        <description>9-point category ordinal scale: 0. * Uninfected, no clinical or virological evidence of infection&#xD;
+Ambulatory, no limitation of activities&#xD;
+Ambulatory, limitation of activities&#xD;
+Hospitalized - mild disease, no oxygen therapy&#xD;
+Hospitalized - mild disease, oxygen by mask or nasal prongs&#xD;
+Hospitalized - severe disease, non-invasive ventilation or high flow oxygen&#xD;
+Hospitalised - severe disease, intubation and mechanical ventilation&#xD;
+Hospitalized - severe disease, ventilation and additional organ support, such as pressors, renal replacement therapy, extracorporeal membrane oxygenation&#xD;
+Death&#xD;
+Median time to first occurrence of respiratory failure or death, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+        <time_frame>From randomization to 28 days after randomization.</time_frame>
+        <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and at least one post-baseline result to be included in the number analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+          <group group_id="O2">
+            <title>BSC Alone</title>
+            <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time From Randomization to Clinical Improvement of at Least 2 Points on a 9-point Category Ordinal Scale</title>
+          <description>9-point category ordinal scale: 0. * Uninfected, no clinical or virological evidence of infection&#xD;
+Ambulatory, no limitation of activities&#xD;
+Ambulatory, limitation of activities&#xD;
+Hospitalized - mild disease, no oxygen therapy&#xD;
+Hospitalized - mild disease, oxygen by mask or nasal prongs&#xD;
+Hospitalized - severe disease, non-invasive ventilation or high flow oxygen&#xD;
+Hospitalised - severe disease, intubation and mechanical ventilation&#xD;
+Hospitalized - severe disease, ventilation and additional organ support, such as pressors, renal replacement therapy, extracorporeal membrane oxygenation&#xD;
+Death&#xD;
+Median time to first occurrence of respiratory failure or death, calculated using the Kaplan-Meier technique. Confidence interval for median overall survival (days) is derived based on Brookmeyer-Crowley method with log-log transformation.</description>
+          <population>Full analysis set (as randomized).&#xD;
+Participants require a baseline and at least one post-baseline result to be included in the number analyzed.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.00" lower_limit="5.00" upper_limit="7.00"/>
+                    <measurement group_id="O2" value="7.00" lower_limit="5.00" upper_limit="11.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>No formal hypothesis testing for this endpoint.</non_inferiority_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.314</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.794</ci_lower_limit>
+            <ci_upper_limit>2.183</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetics of Acalabrutinib</title>
+        <description>Summary of plasma concentrations (ng/mL) of acalabrutinib</description>
+        <time_frame>Day 3 and Day 7</time_frame>
+        <population>PK analysis set: all participants who received at least 1 dose of acalabrutinib and had at least 1 post-dose evaluable pharmacokinetic (PK) data point for acalabrutinib or ACP-5862.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics of Acalabrutinib</title>
+          <description>Summary of plasma concentrations (ng/mL) of acalabrutinib</description>
+          <population>PK analysis set: all participants who received at least 1 dose of acalabrutinib and had at least 1 post-dose evaluable pharmacokinetic (PK) data point for acalabrutinib or ACP-5862.</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3, Pre-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.258" spread="248"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 0.5 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.683" spread="173"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 1 hour post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="210.858" spread="71.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 2 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="124.143" spread="89.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 4 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33.714" spread="93.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7, 1 hour post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="165.080" spread="NA">Only 1 participant had a result for this timepoint.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7, 2 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+            <class>
+              <title>Day 7, 4 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.320" spread="NA">Only 1 participant had a result for this timepoint.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetics of ACP-5862</title>
+        <description>Summary of plasma concentrations (ng/mL) of ACP-5862</description>
+        <time_frame>Day 3 and Day 7</time_frame>
+        <population>PK analysis set: all participants who received at least 1 dose of acalabrutinib and had at least 1 post-dose evaluable pharmacokinetic (PK) data point for acalabrutinib or ACP-5862.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Acalabrutinib + BSC</title>
+            <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics of ACP-5862</title>
+          <description>Summary of plasma concentrations (ng/mL) of ACP-5862</description>
+          <population>PK analysis set: all participants who received at least 1 dose of acalabrutinib and had at least 1 post-dose evaluable pharmacokinetic (PK) data point for acalabrutinib or ACP-5862.</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3, Pre-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.818" spread="140"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 0.5 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.959" spread="129"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 1 hour post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="293.606" spread="68.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 2 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="273.528" spread="50.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3, 4 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="178.575" spread="44.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7, 1 hour post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="582.180" spread="NA">Only 1 participant had a result for this timepoint.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7, 2 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+            <class>
+              <title>Day 7, 4 hours post-dose</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="139.560" spread="NA">Only 1 participant had a result for this timepoint.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Screening to 28 (+3) days after last dose of acalabrutinib (for acalabrutinib + BSC treated participants) or to 38 (+3) days after randomization (for BSC alone treated participants)</time_frame>
+      <desc>Population summarized is the safety analysis set (treatment actually received): All participants who received at least 1 dose of acalabrutinib were included in Acalabrutinib + BSC arm, and patients who did not receive any acalabrutinib were included in BSC alone arm.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Acalabrutinib + BSC</title>
+          <description>Participants received acalabrutinib 100mg tablet orally twice daily for 10 days, plus best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+        </group>
+        <group group_id="E2">
+          <title>BSC Alone</title>
+          <description>Participants received best supportive care per the discretion of the Investigator and institutional guidelines.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rectal haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Retroperitoneal haematoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatotoxicity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Portal vein thrombosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia cytomegaloviral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal sepsis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Haemoglobin decreased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chronic kidney disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>PI shall provide copies of any materials relating to the Study, or the Developed Technologies that either intends to publish or make any presentations relating to, at least 30 days in advance of publication, submission or presentation.&#xD;
+PI shall not include in or shall remove from any proposed publication of any Confidential Information, errors or inaccuracies; and shall withhold publication, submission for publication or presentation for 90 days from the date the Company receives the material.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Improvements in BSC (use of corticosteroids and antivirals) have led to a substantial reduction in mortality and morbidity in patients hospitalized with COVID-19, which, in turn, minimizes the impact that additional treatment regimens can have on patient prognosis and recovery. In addition, variability in patient population and the performance of BSC across the globe poses challenges to demonstrate benefit.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Study Information Center</name_or_title>
+      <organization>AstraZeneca</organization>
+      <phone>1-877-240-9479</phone>
+      <email>information.center@astrazeneca.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

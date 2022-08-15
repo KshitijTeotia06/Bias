@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="83">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04346628</url>
+  </required_header>
+  <id_info>
+    <org_study_id>56032</org_study_id>
+    <nct_id>NCT04346628</nct_id>
+  </id_info>
+  <brief_title>Oral Favipiravir Compared to Placebo in Subjects With Mild COVID-19</brief_title>
+  <official_title>A Phase 2 Randomized, Double Blinded, Placebo Controlled Study of Oral Favipiravir Compared to Standard Supportive Care in Subjects With Mild or Asymptomatic COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the efficacy of oral favipiravir plus standard of&#xD;
+      care treatment (SOC) compared with placebo plus SOC in reducing the duration of shedding of&#xD;
+      SARS-CoV2 virus in patients with mild or asymptomatic COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 12, 2020</start_date>
+  <completion_date type="Actual">April 16, 2021</completion_date>
+  <primary_completion_date type="Actual">April 16, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time Until Cessation of Oral Shedding of SARS-CoV-2 Virus</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Time in days from randomization to the first two negative results of nasal and/or oropharyngeal swab.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sars-CoV-2 Viral Load</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Viral load (nucleic acid) will be assessed by RT-PCR Ct over time. Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Clinical Worsening of COVID-19 Disease</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Clinical worsening is reported as the number of participants with hospitalization or emergency department (ED) visits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Development of SARS-CoV-2 Antibodies</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Until Cessation of Symptoms</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Time until cessation of symptoms is reported as days until initial resolution and sustained resolution of symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participant With Absence of Development of Any Symptoms</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>This outcome will be assessed in patient who are asymptomatic of COVID-19 infection at the time of enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of Favipiravir</measure>
+    <time_frame>Days 1 and 10 (samples taken 30 minutes prior to and 1 hour following favipiravir administration)</time_frame>
+    <description>Cmax is a pharmacokinetic parameter that measures the maximum concentration of drug in plasma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin of Favipiravir</measure>
+    <time_frame>Days 1 and 10 (samples taken 30 minutes prior to and 1 hour following favipiravir administration)</time_frame>
+    <description>Cmin is a pharmacokinetic parameter that measures the minimum concentration of drug in plasma.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">149</enrollment>
+  <condition>Sars-CoV2</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Favipiravir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to SOC, participants will receive favipiravir for 10 days, and be evaluated for health outcomes through day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In addition to SOC, participants will receive placebo to match favipiravir for 10 days, and be evaluated for health outcomes through day 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>Favipiravir administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+    <arm_group_label>Favipiravir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo to match favipiravir administered orally through day 10.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care treatment</intervention_name>
+    <description>Standard of care treatment for COVID-19 infection</description>
+    <arm_group_label>Favipiravir</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of COVID-19 disease:&#xD;
+&#xD;
+               -  If symptomatic, presence of mild to moderate symptoms without signs of&#xD;
+                  respiratory distress, with positive for SARS-CoV-2 diagnostic assay within 72&#xD;
+                  hours prior to.informed consent.&#xD;
+&#xD;
+               -  If asymptomatic, initial diagnosis obtained no more than 72 hours prior to&#xD;
+                  informed consent&#xD;
+&#xD;
+          -  Subject agrees to maintain home or other quarantine as recommended by the study&#xD;
+             physician, except to visit the study site as required by the protocol&#xD;
+&#xD;
+          -  Members of the same household may participate in the study as long as the inclusion&#xD;
+             and exclusion criteria are met&#xD;
+&#xD;
+          -  Males must be sterile, OR agree not to donate semen AND agree to strictly adhere to&#xD;
+             contraceptive measures during the study and for seven days following the last dose of&#xD;
+             study medication&#xD;
+&#xD;
+          -  Females must be unable to bear children, OR ensure that their male partner is&#xD;
+             incapable of fathering a child, OR, if of childbearing potential will strictly adhere&#xD;
+             to contraceptive measures during the study and for seven days following the last dose&#xD;
+             of study medication&#xD;
+&#xD;
+          -  Females must agree to stop breast-feeding prior to first dose of study drug and&#xD;
+             through seven days after completing therapy&#xD;
+&#xD;
+          -  Females must have a negative pregnancy test at screening&#xD;
+&#xD;
+          -  Participant agrees to maintain home or other quarantine as recommended by the study&#xD;
+             physician, except to visit the study site as required by the protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Concomitant bacterial respiratory infection documented by respiratory culture. NOTE:&#xD;
+             Subjects on empirical antibiotic treatment for possible but unproven bacterial&#xD;
+             pneumonia, but who are positive for SARS-CoV-2, are allowed in the study (will be&#xD;
+             randomized to the same treatment to maintain blinding).&#xD;
+&#xD;
+          -  History of abnormal uric acid metabolism.&#xD;
+&#xD;
+          -  History of hypersensitivity to an anti-viral nucleoside-analog drug targeting a viral&#xD;
+             RNA polymerase.&#xD;
+&#xD;
+          -  Abnormal laboratory test results at screening:&#xD;
+&#xD;
+          -  Use of adrenocorticosteroids (except topical or inhaled preparations or oral&#xD;
+             preparations equivalent to or less than 10 mg of oral prednisone) or immunosuppressive&#xD;
+             or immunomodulatory drugs (e.g., immunosuppressants, anticancer drugs, interleukins,&#xD;
+             interleukin antagonists or interleukin receptor blockers). NOTE: Treatment of study&#xD;
+             participants following institutional COVID-19 treatment policies or guidelines,&#xD;
+             including the use of immunomodulatory medications, is permitted. This excludes&#xD;
+             treatment with agents that have the potential for direct antiviral activity, including&#xD;
+             convalescent plasma and NO, and co-enrollment into other clinical studies that&#xD;
+             evaluate investigational agents for COVID-19.&#xD;
+&#xD;
+          -  Serious chronic disease (e.g., human immunodeficiency virus [HIV], cancer requiring&#xD;
+             chemotherapy within the preceding 6 months, and/or moderate or severe hepatic&#xD;
+             insufficiency).&#xD;
+&#xD;
+          -  Previously received favipiravir within the past 30 days.&#xD;
+&#xD;
+          -  Advanced kidney disease&#xD;
+&#xD;
+          -  Advanced liver disease&#xD;
+&#xD;
+          -  History of alcohol or drug abuse in the previous two years.&#xD;
+&#xD;
+          -  Psychiatric illness that is not well controlled (defined as stable on a regimen for&#xD;
+             more than one year).&#xD;
+&#xD;
+          -  Taken another investigational drug within the past 30 days.&#xD;
+&#xD;
+          -  Seemed by the Investigator to be ineligible for any reason.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yvonne (Bonnie) A Maldonado, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Holubar M, Subramanian A, Purington N, Hedlin H, Bunning B, Walter KS, Bonilla H, Boumis A, Chen M, Clinton K, Dewhurst L, Epstein C, Jagannathan P, Kaszynski RH, Panu L, Parsonnet J, Ponder EL, Quintero O, Sefton E, Singh U, Soberanis L, Truong H, Andrews JR, Desai M, Khosla C, Maldonado Y. Favipiravir for treatment of outpatients with asymptomatic or uncomplicated COVID-19: a double-blind randomized, placebo-controlled, phase 2 trial. Clin Infect Dis. 2022 Apr 21. pii: ciac312. doi: 10.1093/cid/ciac312. [Epub ahead of print]</citation>
+    <PMID>35446944</PMID>
+  </results_reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>April 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2020</study_first_posted>
+  <results_first_submitted>April 14, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 14, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 21, 2022</results_first_posted>
+  <last_update_submitted>July 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 13, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Favipiravir</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No current plan to share individual participant data (IPD).</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 18, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/28/NCT04346628/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>385 participants were assessed for eligibility; 149 participants were enrolled and randomized.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+        </group>
+        <group group_id="P2">
+          <title>Favipiravir</title>
+          <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="74"/>
+                <participants group_id="P2" count="75"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Intention-to-treat (ITT) Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="74"/>
+                <participants group_id="P2" count="75"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Symptomatic Modified ITT (smITT) Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="70"/>
+                <participants group_id="P2" count="65"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Modified ITT (mITT) Analysis</title>
+              <participants_list>
+                <participants group_id="P1" count="57"/>
+                <participants group_id="P2" count="59"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="68"/>
+                <participants group_id="P2" count="62"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrew (had personal reasons)</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrew (medication intolerant)</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrew (declined intervention)</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Baseline characteristics were assessed for the symptomatic modified ITT (smITT) Analysis Set (participants who reported at least one symptom other than mild cough, mild fatigue, or decreased taste/smell at baseline), and for the modified ITT (mITT) Analysis Set (participants who were symptomatic with positive RT-PCR result at baseline).</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+        </group>
+        <group group_id="B2">
+          <title>Favipiravir</title>
+          <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="70"/>
+            <count group_id="B2" value="65"/>
+            <count group_id="B3" value="135"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>smITT analysis set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42.8" spread="12.6"/>
+                    <measurement group_id="B2" value="42.5" spread="12.0"/>
+                    <measurement group_id="B3" value="42.6" spread="12.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT analysis set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43.4" spread="12.8"/>
+                    <measurement group_id="B2" value="42.9" spread="12.3"/>
+                    <measurement group_id="B3" value="43.1" spread="12.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="69"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="33"/>
+                    <measurement group_id="B3" value="66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Latinx - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Latinx - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian/ Pacific Islander - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian/ Pacific Islander - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other/Unknown - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other/Unknown - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <description>Participants in the smITT Analysis Set.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70"/>
+                    <measurement group_id="B2" value="65"/>
+                    <measurement group_id="B3" value="135"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28.9" spread="5.9"/>
+                    <measurement group_id="B2" value="28.0" spread="5.8"/>
+                    <measurement group_id="B3" value="28.4" spread="5.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29.3" spread="6.0"/>
+                    <measurement group_id="B2" value="27.8" spread="5.7"/>
+                    <measurement group_id="B3" value="28.5" spread="5.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbid Conditions</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set with available data.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>None - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="63"/>
+                    <count group_id="B2" value="63"/>
+                    <count group_id="B3" value="126"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>None - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="50"/>
+                    <count group_id="B2" value="55"/>
+                    <count group_id="B3" value="105"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39"/>
+                    <measurement group_id="B2" value="41"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetes mellitus - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="63"/>
+                    <count group_id="B2" value="63"/>
+                    <count group_id="B3" value="126"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetes mellitus - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="50"/>
+                    <count group_id="B2" value="55"/>
+                    <count group_id="B3" value="105"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="63"/>
+                    <count group_id="B2" value="63"/>
+                    <count group_id="B3" value="126"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="50"/>
+                    <count group_id="B2" value="55"/>
+                    <count group_id="B3" value="105"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic lung disease - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="63"/>
+                    <count group_id="B2" value="63"/>
+                    <count group_id="B3" value="126"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic lung disease - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="50"/>
+                    <count group_id="B2" value="55"/>
+                    <count group_id="B3" value="105"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Asymptomatic</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Days from symptom onset to randomization</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5" lower_limit="4" upper_limit="7"/>
+                    <measurement group_id="B2" value="5" lower_limit="3" upper_limit="7"/>
+                    <measurement group_id="B3" value="5" lower_limit="4" upper_limit="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5" lower_limit="4" upper_limit="6"/>
+                    <measurement group_id="B2" value="5" lower_limit="3" upper_limit="7"/>
+                    <measurement group_id="B3" value="5" lower_limit="4" upper_limit="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of symptoms reported at randomization</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>symptoms</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6" lower_limit="4" upper_limit="9"/>
+                    <measurement group_id="B2" value="6" lower_limit="4" upper_limit="8"/>
+                    <measurement group_id="B3" value="6" lower_limit="4" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6" lower_limit="4" upper_limit="9"/>
+                    <measurement group_id="B2" value="6" lower_limit="4" upper_limit="8.5"/>
+                    <measurement group_id="B3" value="6" lower_limit="4" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Symptoms at randomization</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Fever - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough/dyspnea - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough/dyspnea - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Joint pain - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Joint pain - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgias - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgias - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache - smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="43"/>
+                    <measurement group_id="B3" value="88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache - mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Received at least one dose of COVID-19 vaccine</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Seropositive</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Anterior nares RT-PCR Ct</title>
+          <description>Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2. RT-PCR: reverse transcription-polymerase chain reaction.</description>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>cycles</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28.3" lower_limit="23.2" upper_limit="38.4"/>
+                    <measurement group_id="B2" value="24.3" lower_limit="20.7" upper_limit="31.9"/>
+                    <measurement group_id="B3" value="26.2" lower_limit="21.6" upper_limit="34.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.1" lower_limit="22.2" upper_limit="28.9"/>
+                    <measurement group_id="B2" value="22.2" lower_limit="19.7" upper_limit="27.2"/>
+                    <measurement group_id="B3" value="24.0" lower_limit="21.0" upper_limit="27.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Oropharyngeal RT-PCR positivity</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52"/>
+                    <measurement group_id="B2" value="53"/>
+                    <measurement group_id="B3" value="105"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="104"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aspartate aminotransferase (AST)</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>units/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29.5" lower_limit="25.8" upper_limit="39.3"/>
+                    <measurement group_id="B2" value="29.0" lower_limit="25.0" upper_limit="34.0"/>
+                    <measurement group_id="B3" value="29.0" lower_limit="25.0" upper_limit="36.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32.0" lower_limit="26.0" upper_limit="42.5"/>
+                    <measurement group_id="B2" value="29.0" lower_limit="25.0" upper_limit="34.0"/>
+                    <measurement group_id="B3" value="29.0" lower_limit="25.0" upper_limit="36.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Alanine Aminotransferase (ALT)</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>units/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24.5" lower_limit="18.8" upper_limit="46.5"/>
+                    <measurement group_id="B2" value="25.0" lower_limit="19.0" upper_limit="37.0"/>
+                    <measurement group_id="B3" value="25.0" lower_limit="19.0" upper_limit="40.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29.0" lower_limit="20.0" upper_limit="48.0"/>
+                    <measurement group_id="B2" value="25.0" lower_limit="19.5" upper_limit="38.0"/>
+                    <measurement group_id="B3" value="25.5" lower_limit="20.0" upper_limit="40.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Creatinine</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.8" lower_limit="0.7" upper_limit="1.0"/>
+                    <measurement group_id="B2" value="0.8" lower_limit="0.6" upper_limit="1.0"/>
+                    <measurement group_id="B3" value="0.8" lower_limit="0.64" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.8" lower_limit="0.6" upper_limit="1.0"/>
+                    <measurement group_id="B2" value="0.8" lower_limit="0.6" upper_limit="1.0"/>
+                    <measurement group_id="B3" value="0.8" lower_limit="0.61" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Uric acid</title>
+          <population>Participants in the smITT Analysis Set and the mITT Analysis Set.</population>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>smITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="70"/>
+                    <count group_id="B2" value="65"/>
+                    <count group_id="B3" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.5" lower_limit="3.5" upper_limit="5.6"/>
+                    <measurement group_id="B2" value="4.4" lower_limit="3.9" upper_limit="5.3"/>
+                    <measurement group_id="B3" value="4.5" lower_limit="3.6" upper_limit="5.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>mITT Analysis Set</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="57"/>
+                    <count group_id="B2" value="59"/>
+                    <count group_id="B3" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.5" lower_limit="3.5" upper_limit="5.8"/>
+                    <measurement group_id="B2" value="4.4" lower_limit="3.9" upper_limit="5.3"/>
+                    <measurement group_id="B3" value="4.5" lower_limit="3.7" upper_limit="5.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Time Until Cessation of Oral Shedding of SARS-CoV-2 Virus</title>
+        <description>Time in days from randomization to the first two negative results of nasal and/or oropharyngeal swab.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>Modified intention-to-treat (mITT) Analysis Set (participants who were symptomatic with positive RT-PCR result at baseline)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time Until Cessation of Oral Shedding of SARS-CoV-2 Virus</title>
+          <description>Time in days from randomization to the first two negative results of nasal and/or oropharyngeal swab.</description>
+          <population>Modified intention-to-treat (mITT) Analysis Set (participants who were symptomatic with positive RT-PCR result at baseline)</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="57"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13" lower_limit="9" upper_limit="14"/>
+                    <measurement group_id="O2" value="14" lower_limit="9" upper_limit="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.24</p_value>
+            <p_value_desc>The final test was performed at the alpha = 0.04999 level of significance, adjusted for age group and sex.</p_value_desc>
+            <method>Cox proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.76</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.48</ci_lower_limit>
+            <ci_upper_limit>1.20</ci_upper_limit>
+            <estimate_desc>Hazard ratio adjusted for age and sex</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sars-CoV-2 Viral Load</title>
+        <description>Viral load (nucleic acid) will be assessed by RT-PCR Ct over time. Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>mITT Analysis Set (participants who were symptomatic with positive RT-PCR result at baseline)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Sars-CoV-2 Viral Load</title>
+          <description>Viral load (nucleic acid) will be assessed by RT-PCR Ct over time. Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+          <population>mITT Analysis Set (participants who were symptomatic with positive RT-PCR result at baseline)</population>
+          <units>cycles</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="57"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.1" lower_limit="22.2" upper_limit="28.9"/>
+                    <measurement group_id="O2" value="22.2" lower_limit="19.7" upper_limit="27.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.3" lower_limit="25.2" upper_limit="33.5"/>
+                    <measurement group_id="O2" value="27.9" lower_limit="24.7" upper_limit="31.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.3" lower_limit="33.1" upper_limit="40.0"/>
+                    <measurement group_id="O2" value="40.0" lower_limit="33.1" upper_limit="40.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.0" lower_limit="40.0" upper_limit="40.0"/>
+                    <measurement group_id="O2" value="40.0" lower_limit="40.0" upper_limit="40.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Clinical Worsening of COVID-19 Disease</title>
+        <description>Clinical worsening is reported as the number of participants with hospitalization or emergency department (ED) visits.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>Intention-to-treat (ITT) analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Clinical Worsening of COVID-19 Disease</title>
+          <description>Clinical worsening is reported as the number of participants with hospitalization or emergency department (ED) visits.</description>
+          <population>Intention-to-treat (ITT) analysis set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="74"/>
+                <count group_id="O2" value="75"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Hospitalization</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ED visit</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Difference in hospitalizations</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.06</p_value>
+            <p_value_desc>A p-value of 0.05 would have been considered statistically significant.</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Difference in ED visits</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.56</p_value>
+            <p_value_desc>A p-value of 0.05 would have been considered statistically significant.</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Development of SARS-CoV-2 Antibodies</title>
+        <time_frame>Up to 28 days</time_frame>
+        <population>ITT analysis set; participants with available data at each time point are included in the analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Development of SARS-CoV-2 Antibodies</title>
+          <population>ITT analysis set; participants with available data at each time point are included in the analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="74"/>
+                <count group_id="O2" value="75"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="63"/>
+                    <count group_id="O2" value="65"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="55"/>
+                    <count group_id="O2" value="50"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47"/>
+                    <measurement group_id="O2" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time Until Cessation of Symptoms</title>
+        <description>Time until cessation of symptoms is reported as days until initial resolution and sustained resolution of symptoms.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>Symptomatic Modified Intention-to-treat (smITT) Analysis Set (participants reported at least one symptom other than mild cough, mild fatigue, or decreased taste/smell at baseline)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time Until Cessation of Symptoms</title>
+          <description>Time until cessation of symptoms is reported as days until initial resolution and sustained resolution of symptoms.</description>
+          <population>Symptomatic Modified Intention-to-treat (smITT) Analysis Set (participants reported at least one symptom other than mild cough, mild fatigue, or decreased taste/smell at baseline)</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="65"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Initial resolution of symptoms</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14" lower_limit="11" upper_limit="18"/>
+                    <measurement group_id="O2" value="15" lower_limit="12" upper_limit="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sustained resolution of symptoms</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24" lower_limit="21" upper_limit="NA">Not estimable (curve did not reach the 75th percentile)</measurement>
+                    <measurement group_id="O2" value="NA" lower_limit="26" upper_limit="NA">Not estimable (curve did not reach either the median or the 75th percentile)</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Difference in days until initial resolution of symptoms</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.43</p_value>
+            <p_value_desc>A p-value of 0.05 would have been considered statistically significant.</p_value_desc>
+            <method>Cox proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.84</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.54</ci_lower_limit>
+            <ci_upper_limit>1.29</ci_upper_limit>
+            <estimate_desc>Hazard ratio adjusted for age and sex</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Difference in days until sustained resolution of symptoms</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.59</p_value>
+            <p_value_desc>A p-value of 0.05 would have been considered statistically significant.</p_value_desc>
+            <method>Cox proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.87</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.52</ci_lower_limit>
+            <ci_upper_limit>1.45</ci_upper_limit>
+            <estimate_desc>Hazard ratio adjusted for age and sex</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participant With Absence of Development of Any Symptoms</title>
+        <description>This outcome will be assessed in patient who are asymptomatic of COVID-19 infection at the time of enrollment</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>smITT Analysis Set (participants reported at least one symptom other than mild cough, mild fatigue, or decreased taste/smell at baseline)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participant With Absence of Development of Any Symptoms</title>
+          <description>This outcome will be assessed in patient who are asymptomatic of COVID-19 infection at the time of enrollment</description>
+          <population>smITT Analysis Set (participants reported at least one symptom other than mild cough, mild fatigue, or decreased taste/smell at baseline)</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="65"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cmax of Favipiravir</title>
+        <description>Cmax is a pharmacokinetic parameter that measures the maximum concentration of drug in plasma.</description>
+        <time_frame>Days 1 and 10 (samples taken 30 minutes prior to and 1 hour following favipiravir administration)</time_frame>
+        <population>Data were not collected for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cmax of Favipiravir</title>
+          <description>Cmax is a pharmacokinetic parameter that measures the maximum concentration of drug in plasma.</description>
+          <population>Data were not collected for this outcome measure.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cmin of Favipiravir</title>
+        <description>Cmin is a pharmacokinetic parameter that measures the minimum concentration of drug in plasma.</description>
+        <time_frame>Days 1 and 10 (samples taken 30 minutes prior to and 1 hour following favipiravir administration)</time_frame>
+        <population>Data were not collected for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+          </group>
+          <group group_id="O2">
+            <title>Favipiravir</title>
+            <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cmin of Favipiravir</title>
+          <description>Cmin is a pharmacokinetic parameter that measures the minimum concentration of drug in plasma.</description>
+          <population>Data were not collected for this outcome measure.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>In addition to standard of care (SOC) treatment for COVID-19 infection, participants were randomized to receive placebo to match favipiravir for 10 days, and to be evaluated for health outcomes through day 28.</description>
+        </group>
+        <group group_id="E2">
+          <title>Favipiravir</title>
+          <description>In addition to SOC treatment for COVID-19 infection, participants were randomized to receive favipiravir for 10 days, and to be evaluated for health outcomes through day 28. Favipiravir was administered orally, 1800 mg on the first dose (day 1) followed by 800 mg twice daily for the next 9 days (days 2-10).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="75"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="75"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Respiratory Distress Syndrome (ARDS)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="75"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="75"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Yvonne A. Maldonado, MD</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>(650) 723-5682</phone>
+      <email>bonniem@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

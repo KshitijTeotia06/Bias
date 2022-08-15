@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="84">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04382053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDFV890D12201</org_study_id>
+    <secondary_id>2020-001870-32</secondary_id>
+    <nct_id>NCT04382053</nct_id>
+  </id_info>
+  <brief_title>Study of Efficacy and Safety of DV890 in Patients With COVID-19 Pneumonia</brief_title>
+  <official_title>Phase 2, Randomized, Controlled, Open Label Multi-center Study to Assess Efficacy and Safety of DFV890 for the Treatment of SARS-CoV-2 Infected Patients With COVID-19 Pneumonia and Impaired Respiratory Function</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical study was designed to assess the efficacy and safety of DFV890 for the&#xD;
+      treatment of severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2) infected patients&#xD;
+      with coronavirus disease 2019 (COVID-19) pneumonia and impaired respiratory function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a Phase II, randomized, controlled, open label multi-center study to assess the&#xD;
+      efficacy and safety of DFV890 for the treatment of SARS-CoV-2 infected patients with COVID-19&#xD;
+      pneumonia and impaired respiratory function.&#xD;
+&#xD;
+      The study consisted of four distinct study periods:&#xD;
+&#xD;
+      Screening / Baseline visit (Day -1 to 1): lasted up to a maximum of 24 hours and comprised a&#xD;
+      screening / baseline assessment. This visit was used to confirm that the study inclusion and&#xD;
+      exclusion criteria were met and served as baseline assessment prior to randomization.&#xD;
+&#xD;
+      Treatment period (Day 1-15): Participants were randomized as soon as possible, but within a&#xD;
+      maximum of 24 hours after screening in a 1:1 ratio receiving either DFV890 in addition to&#xD;
+      standard of care (SoC) or SoC alone. Participants in the investigational treatment arm&#xD;
+      received DFV890 administered for a total of 14 days in addition to SoC. Participants in the&#xD;
+      control arm received SoC alone. Study assessments were conducted every 2 days for&#xD;
+      hospitalized participants.&#xD;
+&#xD;
+      The End of Treatment (EOT) visit took place on Day 15. If participants were discharged from&#xD;
+      the hospital prior to Day 15, assessments on the day of discharge were performed according to&#xD;
+      the schedule listed under Day 15; participants continued to take the investigational&#xD;
+      treatment at home to complete the 14-day treatment period and the participants returned to&#xD;
+      the site for the Day 15/EOT assessment. If a hospital visit was not possible at Day 15, then&#xD;
+      home nursing services were used to support the last visit.&#xD;
+&#xD;
+      Follow-up (Day 16-29): After completion of the treatment period, participants were observed&#xD;
+      until Day 29 or discharged from hospital, whichever was sooner. Study assessments were&#xD;
+      conducted every 2 days for hospitalized participants. If participants were discharged from&#xD;
+      hospital prior to Day 29, a study visit conducted by telephone was performed on Day 29.&#xD;
+&#xD;
+      30-day safety follow-up assessment (Day 45): A follow-up visit for safety was conducted by&#xD;
+      telephone.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 27, 2020</start_date>
+  <completion_date type="Actual">December 24, 2020</completion_date>
+  <primary_completion_date type="Actual">December 10, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>APACHE II Severity of Disease Score on Day 15 or on the Day of Discharge (Whichever is Earlier)</measure>
+    <time_frame>up to Day 15</time_frame>
+    <description>The APACHE II (&quot;Acute Physiology And Chronic Health Evaluation II&quot;) is a severity-of-disease classification system. An integer score from 0 to 71 is computed based on several measurements; higher scores correspond to more severe disease and a higher risk of death. In practice, it is rare for any participant to accumulate more than 55 points.&#xD;
+APACHE II score was measured on Day 15 or on the day of discharge (whichever was earlier). Participants who died on Day 15 or earlier were assigned the highest observed APACHE II score of any of the participants at any time during the trial (worst case imputation for deaths). Missing data values of the parameters required for the derivation of the APACHE II score were replaced by the last available assessment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum C-reactive Protein (CRP) Levels</measure>
+    <time_frame>Days 2, 4, 6, 8, 10, 12, 14 and 15</time_frame>
+    <description>C-reactive protein (CRP) is a blood test marker for inflammation in the body. It was analyzed on a log-scale fitting a repeated measures mixed model including treatment group, study day, the three stratification factors and log transformed baseline CRP as a covariate. Values reported were back-transformed to original scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status Over Time</measure>
+    <time_frame>Baseline, days 2, 4, 6, 8, 10, 12, 14, 15, 17, 19, 21, 23, 25, 27 and 29</time_frame>
+    <description>Clinical status was measured with World Health Organization (WHO) 9-point ordinal scale.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support - pressors, renal replacement therapy, extracorporeal membrane oxygenation). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Not Requiring Mechanical Ventilation for Survival</measure>
+    <time_frame>Until Day 15 (Assessments on Days 2, 4, 6, 8, 10, 12, 14 and 15) and until Day 29 (Assessments on Days 17, 19, 21, 23, 25, 27 and 29)</time_frame>
+    <description>Number of participants not requiring mechanical ventilation for survival until Day 15 and Day 29: defined by WHO 9-point ordinal scale score of &lt; 6 points at all time points assessments.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With at Least One-point Improvement From Baseline in Clinical Status</measure>
+    <time_frame>Baseline, Day 15 and Day 29</time_frame>
+    <description>Number of participants with at least one-point improvement from baseline in clinical status, which was measured with WHO 9-point ordinal scale.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">143</enrollment>
+  <condition>COVID-19 Pneumonia, Impaired Respiratory Function</condition>
+  <arm_group>
+    <arm_group_label>DFV890 + SoC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care (SoC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SoC was used as an active comparator arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DFV890</intervention_name>
+    <description>DFV890 25 mg tablets orally/nasogastrically administered 50 mg b.i.d for 14 days in addition to SoC.</description>
+    <arm_group_label>DFV890 + SoC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of Care (SoC)</intervention_name>
+    <description>SoC included a variety of supportive therapies that ranged from the administration of supplementary oxygen to full intensive care support, alongside the use of antiviral treatment, convalescent plasma, corticosteroids, antibiotics or other agents.</description>
+    <arm_group_label>DFV890 + SoC</arm_group_label>
+    <arm_group_label>Standard of Care (SoC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female patients aged 18-80 years inclusive at screening.&#xD;
+&#xD;
+          -  Clinically diagnosed with the SARS-CoV-2 virus by polymerase chain reaction (PCR) or&#xD;
+             by other approved diagnostic methodology within 7 days prior to randomization.&#xD;
+&#xD;
+          -  Hospitalized with COVID-19-induced pneumonia evidenced by chest X-ray, computed&#xD;
+             tomography scan (CT scan) or magnetic resonance scan (MR scan), taken within 5 days&#xD;
+             prior to randomization (within 24 hours in patients in the Netherlands).&#xD;
+&#xD;
+          -  Impaired respiratory function, defined as peripheral oxygen saturation (SpO2) ≤93% on&#xD;
+             room air or partial pressure of oxygen (PaO2) / fraction of inspired oxygen (FiO2)&#xD;
+             &lt;300 millimeter of mercury (mmHg) at screening. For cities located at altitudes&#xD;
+             greater than 2500 m above sea level, these will be substituted with SpO2 &lt;90% and&#xD;
+             PaO2/FiO2 &lt;250 mmHg.&#xD;
+&#xD;
+          -  APACHE II score of ≥10 at screening.&#xD;
+&#xD;
+          -  C-reactive protein (CRP) ≥20 mg/L and/or ferritin level ≥600 μg/L at screening.&#xD;
+&#xD;
+          -  Body mass index of ≥18 to &lt;40kg/m2 at screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Suspected active or chronic bacterial (including Mycobacterium tuberculosis), fungal,&#xD;
+             viral, or other infection (besides SARS-CoV-2).&#xD;
+&#xD;
+          -  In the opinion of the investigator, progression to death is imminent and inevitable&#xD;
+             within the next 24 hours, irrespective of the provision of treatment.&#xD;
+&#xD;
+          -  Intubated prior to randomization.&#xD;
+&#xD;
+          -  Previous treatment with anti-rejection and immunomodulatory drugs within the past 2&#xD;
+             weeks, or within the past 30 days or 5 half-lives (whichever is the longer) for&#xD;
+             immunomodulatory therapeutic antibodies or prohibited drugs, with the exception of&#xD;
+             hydroxychloroquine, chloroquine or corticosteroids:&#xD;
+&#xD;
+        For COVID-19 infection, ongoing corticosteroid treatment is permitted at doses as per local&#xD;
+        SoC.For non-COVID-19 disorders, ongoing corticosteroid treatment is permitted at doses up&#xD;
+        to and including prednisolone 10 mg daily or equivalent.&#xD;
+&#xD;
+        In patients in the Netherlands only, the use of hydroxychloroquine and/or chloroquine in&#xD;
+        the past 2 weeks are exclusionary.&#xD;
+&#xD;
+          -  Serum alanine transaminase (ALT) or aspartate transaminase (AST) &gt;5 times upper limit&#xD;
+             of normal detected within 24 hours at screening or at baseline (according to local&#xD;
+             laboratory reference ranges) or other evidence if severe hepatic impairment&#xD;
+             (Child-Pugh Class C).&#xD;
+&#xD;
+          -  Absolute peripheral blood neutrophil count of ≤1000/mm3.&#xD;
+&#xD;
+          -  Estimated GFR (eGFR) ≤30 mL/min/1.73m2 (based on CKD-EPI formula).&#xD;
+&#xD;
+          -  Patients currently being treated with drugs known to be strong or moderate inducers of&#xD;
+             isoenzyme CYP2C9 and/or strong inhibitors of CYP2C9 and/or strong inducers of&#xD;
+             cytochrome P450, family 3, subfamily A (CYP3A) and the treatment cannot be&#xD;
+             discontinued or switched to a different medication prior to starting study treatment.&#xD;
+&#xD;
+          -  Patients with innate or acquired immunodeficiencies.&#xD;
+&#xD;
+          -  Patients who have undergone solid organ or stem cell transplantation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Caba</city>
+        <state>Buenos Aires</state>
+        <zip>C1180AAX</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>B1846BMF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>04029-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hvidovre</city>
+        <zip>2650</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Regensburg</city>
+        <state>Bavaria</state>
+        <zip>93053</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wuerzburg</city>
+        <zip>97080</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Coimbatore</city>
+        <state>Tamil Nadu</state>
+        <zip>641028</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kolkata</city>
+        <state>West Bengal</state>
+        <zip>700099</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>New Delhi</city>
+        <zip>110029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>New Delhi</city>
+        <zip>110075</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ciudad de Mexico</city>
+        <state>Mexico CP</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo Leon</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Harderwijk</city>
+        <zip>3840 AC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Martin de Porres</city>
+        <state>Lima</state>
+        <zip>31</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Miguel</city>
+        <state>Lima</state>
+        <zip>32</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barnaul</city>
+        <zip>656045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454021</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <zip>620035</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Krasnoyarsk</city>
+        <zip>660049</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119991</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ryazan</city>
+        <zip>390039</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>193079</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>St Petersburg</city>
+        <zip>199106</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>George</city>
+        <state>Western Cape</state>
+        <zip>6529</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalunya</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Denmark</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>Peru</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>May 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 11, 2020</study_first_posted>
+  <results_first_submitted>November 15, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 25, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 30, 2021</results_first_posted>
+  <last_update_submitted>June 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 pneumonia</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>APACHE II</keyword>
+  <keyword>DFV890</keyword>
+  <keyword>inflammasome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.&#xD;
+This trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 22, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT04382053/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 17, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT04382053/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants were recruited from 30 sites in 12 countries.</recruitment_details>
+      <pre_assignment_details>Participants underwent a Screening period of up to 24 hours which included screening and baseline assessments.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>DFV890 + SoC</title>
+          <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard of Care (SoC)</title>
+          <description>SoC was used as an active comparator arm.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="71"/>
+                <participants group_id="P2" count="72"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Safety Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="70">One participant that was randomized to the DFV890 + SoC arm did not attend any post-baseline visit</participants>
+                <participants group_id="P2" count="72"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>PD Analysis Set</title>
+              <participants_list>
+                <participants group_id="P1" count="62"/>
+                <participants group_id="P2" count="68"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="62"/>
+                <participants group_id="P2" count="59"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Deviation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>DFV890 + SoC</title>
+          <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+        </group>
+        <group group_id="B2">
+          <title>Standard of Care (SoC)</title>
+          <description>SoC was used as an active comparator arm.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="71"/>
+            <count group_id="B2" value="72"/>
+            <count group_id="B3" value="143"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60.0" spread="13.31"/>
+                    <measurement group_id="B2" value="61.5" spread="10.38"/>
+                    <measurement group_id="B3" value="60.8" spread="11.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="48"/>
+                    <measurement group_id="B3" value="97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="57"/>
+                    <measurement group_id="B3" value="112"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>APACHE II Severity of Disease Score on Day 15 or on the Day of Discharge (Whichever is Earlier)</title>
+        <description>The APACHE II (&quot;Acute Physiology And Chronic Health Evaluation II&quot;) is a severity-of-disease classification system. An integer score from 0 to 71 is computed based on several measurements; higher scores correspond to more severe disease and a higher risk of death. In practice, it is rare for any participant to accumulate more than 55 points.&#xD;
+APACHE II score was measured on Day 15 or on the day of discharge (whichever was earlier). Participants who died on Day 15 or earlier were assigned the highest observed APACHE II score of any of the participants at any time during the trial (worst case imputation for deaths). Missing data values of the parameters required for the derivation of the APACHE II score were replaced by the last available assessment.</description>
+        <time_frame>up to Day 15</time_frame>
+        <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DFV890 + SoC</title>
+            <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>SoC was used as an active comparator arm.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>APACHE II Severity of Disease Score on Day 15 or on the Day of Discharge (Whichever is Earlier)</title>
+          <description>The APACHE II (&quot;Acute Physiology And Chronic Health Evaluation II&quot;) is a severity-of-disease classification system. An integer score from 0 to 71 is computed based on several measurements; higher scores correspond to more severe disease and a higher risk of death. In practice, it is rare for any participant to accumulate more than 55 points.&#xD;
+APACHE II score was measured on Day 15 or on the day of discharge (whichever was earlier). Participants who died on Day 15 or earlier were assigned the highest observed APACHE II score of any of the participants at any time during the trial (worst case imputation for deaths). Missing data values of the parameters required for the derivation of the APACHE II score were replaced by the last available assessment.</description>
+          <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+          <units>Score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="72"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.7" spread="1.06"/>
+                    <measurement group_id="O2" value="8.6" spread="1.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.467</p_value>
+            <method>ANCOVA</method>
+            <param_type>Least squares mean difference</param_type>
+            <param_value>0.11</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>1.297</dispersion_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.0</ci_lower_limit>
+            <ci_upper_limit>2.3</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum C-reactive Protein (CRP) Levels</title>
+        <description>C-reactive protein (CRP) is a blood test marker for inflammation in the body. It was analyzed on a log-scale fitting a repeated measures mixed model including treatment group, study day, the three stratification factors and log transformed baseline CRP as a covariate. Values reported were back-transformed to original scale.</description>
+        <time_frame>Days 2, 4, 6, 8, 10, 12, 14 and 15</time_frame>
+        <population>PD analysis set: All randomized participants with no protocol deviations with relevant impact on PD data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DFV890 + SoC</title>
+            <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>SoC was used as an active comparator arm.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum C-reactive Protein (CRP) Levels</title>
+          <description>C-reactive protein (CRP) is a blood test marker for inflammation in the body. It was analyzed on a log-scale fitting a repeated measures mixed model including treatment group, study day, the three stratification factors and log transformed baseline CRP as a covariate. Values reported were back-transformed to original scale.</description>
+          <population>PD analysis set: All randomized participants with no protocol deviations with relevant impact on PD data.</population>
+          <units>Milligram / Liter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="62"/>
+                <count group_id="O2" value="68"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="60"/>
+                    <count group_id="O2" value="66"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31.4" spread="1.14"/>
+                    <measurement group_id="O2" value="46.6" spread="1.13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="57"/>
+                    <count group_id="O2" value="61"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22.2" spread="1.19"/>
+                    <measurement group_id="O2" value="26.5" spread="1.18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="52"/>
+                    <count group_id="O2" value="60"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.5" spread="1.2"/>
+                    <measurement group_id="O2" value="15.1" spread="1.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="50"/>
+                    <count group_id="O2" value="55"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.7" spread="1.25"/>
+                    <measurement group_id="O2" value="10.9" spread="1.24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="41"/>
+                    <count group_id="O2" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.0" spread="1.27"/>
+                    <measurement group_id="O2" value="8.0" spread="1.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="28"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.5" spread="1.30"/>
+                    <measurement group_id="O2" value="7.1" spread="1.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="34"/>
+                    <count group_id="O2" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.1" spread="1.31"/>
+                    <measurement group_id="O2" value="6.3" spread="1.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15 / end of study</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="49"/>
+                    <count group_id="O2" value="51"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.9" spread="1.27"/>
+                    <measurement group_id="O2" value="8.2" spread="1.26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.237</p_value>
+            <p_value_desc>One-sided</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <method_desc>p-value reported is for the treatment factor across all time points</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Status Over Time</title>
+        <description>Clinical status was measured with World Health Organization (WHO) 9-point ordinal scale.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support - pressors, renal replacement therapy, extracorporeal membrane oxygenation). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+        <time_frame>Baseline, days 2, 4, 6, 8, 10, 12, 14, 15, 17, 19, 21, 23, 25, 27 and 29</time_frame>
+        <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DFV890 + SoC</title>
+            <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>SoC was used as an active comparator arm.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Status Over Time</title>
+          <description>Clinical status was measured with World Health Organization (WHO) 9-point ordinal scale.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support - pressors, renal replacement therapy, extracorporeal membrane oxygenation). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+          <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+          <units>Score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="72"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.3" spread="0.49"/>
+                    <measurement group_id="O2" value="4.3" spread="0.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.3" spread="0.58"/>
+                    <measurement group_id="O2" value="4.3" spread="0.80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.3" spread="0.83"/>
+                    <measurement group_id="O2" value="4.3" spread="0.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.9" spread="1.11"/>
+                    <measurement group_id="O2" value="4.2" spread="1.13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8" spread="1.31"/>
+                    <measurement group_id="O2" value="3.8" spread="1.50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.6" spread="1.48"/>
+                    <measurement group_id="O2" value="3.6" spread="1.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.4" spread="1.66"/>
+                    <measurement group_id="O2" value="3.3" spread="1.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.3" spread="1.75"/>
+                    <measurement group_id="O2" value="3.1" spread="2.03"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.8" spread="2.02"/>
+                    <measurement group_id="O2" value="2.6" spread="2.24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 17</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.7" spread="2.01"/>
+                    <measurement group_id="O2" value="2.5" spread="2.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 19</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.6" spread="2.01"/>
+                    <measurement group_id="O2" value="2.5" spread="2.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.6" spread="2.01"/>
+                    <measurement group_id="O2" value="2.5" spread="2.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 23</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.6" spread="2.03"/>
+                    <measurement group_id="O2" value="2.4" spread="2.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 25</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.6" spread="2.07"/>
+                    <measurement group_id="O2" value="2.4" spread="2.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dy 27</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.6" spread="2.10"/>
+                    <measurement group_id="O2" value="2.4" spread="2.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.9" spread="2.34"/>
+                    <measurement group_id="O2" value="1.9" spread="2.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Not Requiring Mechanical Ventilation for Survival</title>
+        <description>Number of participants not requiring mechanical ventilation for survival until Day 15 and Day 29: defined by WHO 9-point ordinal scale score of &lt; 6 points at all time points assessments.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+        <time_frame>Until Day 15 (Assessments on Days 2, 4, 6, 8, 10, 12, 14 and 15) and until Day 29 (Assessments on Days 17, 19, 21, 23, 25, 27 and 29)</time_frame>
+        <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DFV890 + SoC</title>
+            <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>SoC was used as an active comparator arm.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Not Requiring Mechanical Ventilation for Survival</title>
+          <description>Number of participants not requiring mechanical ventilation for survival until Day 15 and Day 29: defined by WHO 9-point ordinal scale score of &lt; 6 points at all time points assessments.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+          <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="72"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Until Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Until Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With at Least One-point Improvement From Baseline in Clinical Status</title>
+        <description>Number of participants with at least one-point improvement from baseline in clinical status, which was measured with WHO 9-point ordinal scale.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+        <time_frame>Baseline, Day 15 and Day 29</time_frame>
+        <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DFV890 + SoC</title>
+            <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care (SoC)</title>
+            <description>SoC was used as an active comparator arm.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With at Least One-point Improvement From Baseline in Clinical Status</title>
+          <description>Number of participants with at least one-point improvement from baseline in clinical status, which was measured with WHO 9-point ordinal scale.&#xD;
+The scoring is - Uninfected patients have a score 0. - Ambulatory patients can have a score 1 (no limitation of activities) or 2 (limitation of activities). - Hospitalized patients with mild disease can have score 3 (no oxygen therapy) or 4 (oxygen by mask or nasal prongs). - Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support). - Patients who die have a score 8.&#xD;
+Missing data values were handled as follows: For participants who died prior to Day 29, the score for death was imputed for all following visits up to and including day 29. For all the other participants, last observation carried forward was applied up to and including Day 29.</description>
+          <population>Safety analysis set: All randomized participants, who attended at least one post-baseline visit.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="72"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59"/>
+                    <measurement group_id="O2" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="61"/>
+                    <measurement group_id="O2" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were reported from the start of treatment to 30 days after end of treatment, assessed up to maximum duration of 45 days.</time_frame>
+      <desc>Any sign or symptom that occurs during the study treatment plus the 30 days post treatment</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>DFV890 + SoC</title>
+          <description>DFV890 50 mg was administered orally or nasogastrically twice per day (b.i.d) approximately 12 hours apart (morning and evening) for 14 days in addition to SoC.</description>
+        </group>
+        <group group_id="E2">
+          <title>Standard of Care (SoC)</title>
+          <description>SoC was used as an active comparator arm.</description>
+        </group>
+        <group group_id="E3">
+          <title>Total</title>
+          <description>Total</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (23.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="16" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="27" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Cardiogenic shock</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Condition aggravated</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Multiple organ dysfunction syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Amylase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Polyneuropathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="8" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arterial haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Haemodynamic instability</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Peripheral artery thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Shock haemorrhagic</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (23.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="18" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="10" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diabetes mellitus</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="142"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="72"/>
+                <counts group_id="E3" subjects_affected="6" subjects_at_risk="142"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Study Director</name_or_title>
+      <organization>Novartis Pharmaceuticals</organization>
+      <phone>862 778 8300</phone>
+      <email>Novartis.email@novartis.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

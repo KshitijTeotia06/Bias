@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="96">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05017493</url>
+  </required_header>
+  <id_info>
+    <org_study_id>02-032021-SULXAG/NO</org_study_id>
+    <nct_id>NCT05017493</nct_id>
+  </id_info>
+  <brief_title>Treatment of Covid-19 With a Herbal Compound, Xagrotin</brief_title>
+  <official_title>Treatment of Early-Stage Covid-19 With a Herbal Compound, Xagrotin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biomad AS</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Directorate of health of Sulaimani, Iraq -KRG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Biomad AS</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an interventional, multi-center, randomized study. Adults with confirmed covid-19&#xD;
+      disease not more than 10 days before enrollment date were recruited (n=361). Patients in same&#xD;
+      condition who had treated with standard of care were randomly assigned to the control group&#xD;
+      (n=178). The investigators analyzed the effect of a herbal compound, Xagrotin, and also&#xD;
+      investigated impact of different characteristics for instance gender, age, duration of&#xD;
+      disease, smoking habits and concomitant diseases on the outcome.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an interventional, multi-center, randomized study that has been performed in an&#xD;
+      outpatient setting (n=361). Adults with confirmed covid-19 disease not more than 10 days&#xD;
+      before enrollment date were recruited. Patients in same condition who had treated with&#xD;
+      standard of care were randomly assigned to the control group (n=178). The investigators&#xD;
+      analyzed the effect of a herbal compound, Xagrotin, and also investigated impact of different&#xD;
+      characteristics for instance gender, age, duration of disease, smoking habits and concomitant&#xD;
+      diseases on the outcome. Adverse events were registered.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Actual">February 8, 2021</completion_date>
+  <primary_completion_date type="Actual">December 7, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of Participants who died by day 30 after the enrollment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Disease From Beginning of Treatment</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days the patient has experienced the symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of participants who have been hospitalized for Covid-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization When Occurred</measure>
+    <time_frame>30 days</time_frame>
+    <description>Days the participants were hospitalized</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">661</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Treatment arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in the Control arm received the standard of care for Covid19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Xagrotin</intervention_name>
+    <description>A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+    <arm_group_label>Treatment arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 or higher&#xD;
+&#xD;
+          -  Newly diagnosed (no longer than 10 days)&#xD;
+&#xD;
+          -  PCR or clinically confirmed Covid-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe pulmonary disease&#xD;
+&#xD;
+          -  Severe cardiovascular disease&#xD;
+&#xD;
+          -  Severe hepatic disease&#xD;
+&#xD;
+          -  Severe renal disease&#xD;
+&#xD;
+          -  Diabetes mellitus type one&#xD;
+&#xD;
+          -  Metabolic acidosis&#xD;
+&#xD;
+          -  Oxygen saturation &lt;70%&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Breast feeding&#xD;
+&#xD;
+          -  Concomitant treatment with anticoagulation drugs&#xD;
+&#xD;
+          -  Concomitant treatment with CYP3A4 medicines with narrow therapeutic window&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Directorate of health of Sulaimani, Iraq -KRG</name>
+      <address>
+        <city>Sulaymaniyah</city>
+        <country>Iraq</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Iraq</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>April 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2021</study_first_posted>
+  <results_first_submitted>September 21, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 30, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 2, 2021</results_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 30, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/93/NCT05017493/Prot_003.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 30, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/93/NCT05017493/SAP_004.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>All adult patients in an outpatient setting who were confirmed as coronavirus patients were eligible to be included in the study.</recruitment_details>
+      <pre_assignment_details>Age 18 or higher, Newly diagnosed (no longer than 10 days), PCR or clinically confirmed Covid-19</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Treatment Arm</title>
+          <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+        </group>
+        <group group_id="P2">
+          <title>Control Arm</title>
+          <description>Patients in the Control arm received the standard of care for Covid19.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="483"/>
+                <participants group_id="P2" count="178"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Treatment &amp; Care</title>
+              <participants_list>
+                <participants group_id="P1" count="483"/>
+                <participants group_id="P2" count="178"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Follow up</title>
+              <participants_list>
+                <participants group_id="P1" count="483"/>
+                <participants group_id="P2" count="178"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Mortality Check</title>
+              <participants_list>
+                <participants group_id="P1" count="483"/>
+                <participants group_id="P2" count="178"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="361"/>
+                <participants group_id="P2" count="178"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="122"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Both paitients who received and NOT received Xagrotin</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Treatment Arm</title>
+          <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+        </group>
+        <group group_id="B2">
+          <title>Control Arm</title>
+          <description>Patients in the Control arm received the standard of care for Covid19.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="483"/>
+            <count group_id="B2" value="178"/>
+            <count group_id="B3" value="661"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="397"/>
+                    <measurement group_id="B2" value="150"/>
+                    <measurement group_id="B3" value="547"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="63"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43.9" spread="17.16"/>
+                    <measurement group_id="B2" value="44.297" spread="17.16"/>
+                    <measurement group_id="B3" value="44.1" spread="17.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="212"/>
+                    <measurement group_id="B2" value="91"/>
+                    <measurement group_id="B3" value="303"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="271"/>
+                    <measurement group_id="B2" value="87"/>
+                    <measurement group_id="B3" value="358"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="483"/>
+                    <measurement group_id="B2" value="178"/>
+                    <measurement group_id="B3" value="661"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Iraq</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="483"/>
+                    <measurement group_id="B2" value="178"/>
+                    <measurement group_id="B3" value="661"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mortality</title>
+        <description>Number of Participants who died by day 30 after the enrollment</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Arm</title>
+            <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Arm</title>
+            <description>Patients in the Control arm received the standard of care for Covid19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>Number of Participants who died by day 30 after the enrollment</description>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="361"/>
+                <count group_id="O2" value="178"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Disease From Beginning of Treatment</title>
+        <description>Number of days the patient has experienced the symptoms</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Arm</title>
+            <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Arm</title>
+            <description>Patients in the Control arm received the standard of care for Covid19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Disease From Beginning of Treatment</title>
+          <description>Number of days the patient has experienced the symptoms</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="361"/>
+                <count group_id="O2" value="178"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.9" spread="5.5"/>
+                    <measurement group_id="O2" value="18.1" spread="9.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospitalization</title>
+        <description>Number of participants who have been hospitalized for Covid-19</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Arm</title>
+            <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Arm</title>
+            <description>Patients in the Control arm received the standard of care for Covid19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospitalization</title>
+          <description>Number of participants who have been hospitalized for Covid-19</description>
+          <units>Participatnts</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="361"/>
+                <count group_id="O2" value="178"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Hospitalization When Occurred</title>
+        <description>Days the participants were hospitalized</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Arm</title>
+            <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Arm</title>
+            <description>Patients in the Control arm received the standard of care for Covid19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Hospitalization When Occurred</title>
+          <description>Days the participants were hospitalized</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="361"/>
+                <count group_id="O2" value="178"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.56" spread="4.94"/>
+                    <measurement group_id="O2" value="5.5" spread="3.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 Days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Treatment Arm</title>
+          <description>Patients in the Treatment arm received Xagrotin in combination to the standard of care for Covid19.&#xD;
+Xagrotin: A group of patients were treated with Xagrotin with or without standard of care, the control group received stadard of care</description>
+        </group>
+        <group group_id="E2">
+          <title>Control Arm</title>
+          <description>Patients in the Control arm received the standard of care for Covid19.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="483"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="178"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="483"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="178"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Xagrotin</sub_title>
+                <description>Xagrotin is a herbal compound, and it contains flavonoids, phenols, etc., which dilate blood vessels. Therefore, the risk of internal bleeding is higher in people who take high-dose vasodilators and high-dose Xagrotin at the same time.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="483"/>
+                <counts group_id="E2" events="10" subjects_affected="10" subjects_at_risk="178"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2.3</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="113" subjects_at_risk="483"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="178"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <description>Participants got Diarrhea</description>
+                <counts group_id="E1" events="113" subjects_affected="113" subjects_at_risk="483"/>
+                <counts group_id="E2" events="15" subjects_affected="15" subjects_at_risk="178"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <description>Participants got flatulence</description>
+                <counts group_id="E1" events="113" subjects_affected="113" subjects_at_risk="483"/>
+                <counts group_id="E2" events="15" subjects_affected="15" subjects_at_risk="178"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>All PIs discuss or publish the results only according to a prior agreement with the sponsor.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Dara Omer</name_or_title>
+      <organization>Hiwa Hospital - KRG</organization>
+      <phone>+9647701586707</phone>
+      <email>mailto:danaomar1979@gmail.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="45">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04331899</url>
+  </required_header>
+  <id_info>
+    <org_study_id>55619</org_study_id>
+    <nct_id>NCT04331899</nct_id>
+  </id_info>
+  <brief_title>Single-Blind Study of a Single Dose of Peginterferon Lambda-1a Compared With Placebo in Outpatients With Mild COVID-19</brief_title>
+  <acronym>COVID-Lambda</acronym>
+  <official_title>A Phase 2 Randomized, Single-Blind Study of a Single Dose of Peginterferon Lambda-1a (Lambda) Compared With Placebo in Outpatients With Mild COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the efficacy of a single dose of subcutaneous injections of 180 ug of&#xD;
+      Peginterferon Lambda-1a, compared with placebo in reducing the duration of viral shedding of&#xD;
+      SARS-CoV-2 virus in patients with uncomplicated COVID-19 disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients will attend up to 9 study visits over a period of up to 28 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 25, 2020</start_date>
+  <completion_date type="Actual">May 6, 2021</completion_date>
+  <primary_completion_date type="Actual">August 14, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>An open-label, single-blind randomized controlled trial. Study participants will be randomly assigned 1:1 to a single subcutaneous dose of Peginterferon Lambda-1a or placebo along with the standard of care.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Single-blind study in which only patients are blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration Until Viral Shedding Cessation</measure>
+    <time_frame>Assessed for up to 28 days</time_frame>
+    <description>Time to first of two consecutive negative respiratory secretions obtained by oropharyngeal and/or anterior nare swabs for SARS-CoV-2 by qRT-PCR.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Sars-CoV-2 Viral Load</measure>
+    <time_frame>baseline, day 14</time_frame>
+    <description>Log10 Oropharyngeal viral load over time, mean change at day 14 (SD). Sars-CoV-2 RNA level in oropharyngeal and/or anterior nare swabs collected daily.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve of SARS-COV-2 Viral Load</measure>
+    <time_frame>baseline through day 14</time_frame>
+    <description>Log10 viral load area under the curve through day 14, median (IQR). Area under the curve of SARS-CoV-2 viral load in oropharyngeal and/or anterior nare swabs collected daily.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration Until Resolution of Symptoms</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Duration until resolution of symptoms in days, median (95% CI). Time to alleviation of all symptoms (fever, chills, cough, nasal congestion, muscle pains), defined as the time from initiation of treatment until all symptoms are rated as absent or mild in symptomatic patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants Requiring Emergency Department Visits or Hospitalizations Within 28 Days of Initiation of Treatment</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">120</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Study drug Peginterferon Lambda-1a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study participants assigned to study drug will receive a single subcutaneous dose of Peginterferon Lambda-1a in addition to standard of care treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo injection</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Study participants will receive a placebo along with the standard of care treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Peginterferon Lambda-1a</intervention_name>
+    <description>Peginterferon Lambda-1a (180 ug subcutaneous injection) single dose along with Standard of Care</description>
+    <arm_group_label>Study drug Peginterferon Lambda-1a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo subcutaneous injection along with Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Placebo injection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years and ≤ 75 years at the time of the assessment&#xD;
+&#xD;
+          2. Able and willing to understand the study, adhere to all study procedures, and provide&#xD;
+             written informed consent&#xD;
+&#xD;
+          3. Diagnosis of COVID-19 disease:&#xD;
+&#xD;
+               1. If symptomatic, the presence of mild to moderate symptoms without signs of&#xD;
+                  respiratory distress, with FDA-cleared molecular diagnostic assay positive for&#xD;
+                  SARS-CoV-2 within 72 hours from swab to the time of commencing informed consent:&#xD;
+&#xD;
+               2. If asymptomatic, initial diagnosis of SARS-CoV-2 infection with positive&#xD;
+                  FDA-cleared molecular diagnostic assay obtained no more than 72 hours from&#xD;
+                  initial swab to the time of commencing informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients who are hospitalized for inpatient treatment or currently being evaluated for&#xD;
+             potential hospitalization at the time of initiation of informed consent&#xD;
+&#xD;
+          2. Patients with a known allergy to Peginterferon Lambda-1a or any component thereof&#xD;
+&#xD;
+          3. Display symptoms of respiratory distress (Respiratory rate &gt;20, room air oxygen&#xD;
+             saturation of &lt;94%.)&#xD;
+&#xD;
+          4. Participation in a clinical trial with or use of any investigational agent within 30&#xD;
+             days before screening&#xD;
+&#xD;
+          5. Treatment with interferons (IFN) within 12 months before screening&#xD;
+&#xD;
+          6. Previous use of Peginterferon Lambda-1a&#xD;
+&#xD;
+          7. History or evidence of any intolerance or hypersensitivity to IFNs or other substances&#xD;
+             contained in the study medication.&#xD;
+&#xD;
+          8. Female patients who are pregnant or breastfeeding. Male patients must confirm that&#xD;
+             their female sexual partners are not pregnant.&#xD;
+&#xD;
+          9. Current or previous history of decompensated liver disease (Child-Pugh Class B or C)&#xD;
+             or hepatocellular carcinoma&#xD;
+&#xD;
+         10. Co-infected with human immunodeficiency virus (HIV)&#xD;
+&#xD;
+         11. Significant abnormal laboratory test results at screening.&#xD;
+&#xD;
+         12. Other significant medical condition that may require intervention during the study&#xD;
+&#xD;
+         13. Concurrent use of any of the following medications:&#xD;
+&#xD;
+               1. Therapy with an immunomodulatory agent&#xD;
+&#xD;
+               2. Current use of heparin or Coumadin&#xD;
+&#xD;
+               3. Received blood products within 30 days before study randomization&#xD;
+&#xD;
+               4. Use of hematologic growth factors within 30 days before study randomization&#xD;
+&#xD;
+               5. Systemic antibiotics, antifungals, or antivirals for treatment of active&#xD;
+                  infection within 24 hours before study randomization&#xD;
+&#xD;
+               6. Any prescription or herbal product that is not approved by the investigator&#xD;
+&#xD;
+               7. Long-term treatment (&gt; 2 weeks) with agents that have a high risk for&#xD;
+                  nephrotoxicity or hepatotoxicity unless it is approved by the medical monitor&#xD;
+&#xD;
+               8. Receipt of systemic immunosuppressive therapy within 3 months before screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Upinder Singh</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor (Medicine-Infectious Diseases)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Jagannathan P, Andrews JR, Bonilla H, Hedlin H, Jacobson KB, Balasubramanian V, Purington N, Kamble S, de Vries CR, Quintero O, Feng K, Ley C, Winslow D, Newberry J, Edwards K, Hislop C, Choong I, Maldonado Y, Glenn J, Bhatt A, Blish C, Wang T, Khosla C, Pinsky BA, Desai M, Parsonnet J, Singh U. Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial. Nat Commun. 2021 Mar 30;12(1):1967. doi: 10.1038/s41467-021-22177-1.</citation>
+    <PMID>33785743</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>March 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2020</study_first_posted>
+  <results_first_submitted>April 8, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 22, 2021</results_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Sharing of generated and analyzed datasets.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>The datasets generated and analyzed during the current study are permanently available in the Stanford Digital Repository</ipd_time_frame>
+    <ipd_access_criteria>Full access</ipd_access_criteria>
+    <ipd_url>https://purl.stanford.edu/hc972ys6733</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 10, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT04331899/Prot_ICF_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 14, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT04331899/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Enrollment opened on April 24, 2020. The first patient was enrolled on April 25, 2020, and the last patient was enrolled on July 17, 2020.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Lambda</title>
+          <description>Peginterferon Lambda-1a (Lambda) single dose administered subcutaneously in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Trial Period (28 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="58"/>
+                <participants group_id="P2" count="58"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Follow-up Period (10 Months)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="42">16 participants who completed the trial period did not continue in the follow-up period.</participants>
+                <participants group_id="P2" count="43">15 participants who completed the trial period did not continue in the follow-up period.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="42"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Lambda</title>
+          <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="60"/>
+            <count group_id="B2" value="60"/>
+            <count group_id="B3" value="120"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37" lower_limit="18" upper_limit="66"/>
+                    <measurement group_id="B2" value="34" lower_limit="20" upper_limit="71"/>
+                    <measurement group_id="B3" value="36" lower_limit="18" upper_limit="71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Latinx</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="41"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or other Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>More than one race</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="60"/>
+                    <measurement group_id="B3" value="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Duration of symptoms prior to randomization</title>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4" lower_limit="3" upper_limit="6"/>
+                    <measurement group_id="B2" value="5" lower_limit="3" upper_limit="5"/>
+                    <measurement group_id="B3" value="5" lower_limit="3" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Asymptomatic at baseline</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Symptoms at baseline</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Fatigue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgias</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Decreased taste or smell</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chills</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sore throat</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Joint pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Shortness of breath</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chest pain/pressure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Runny nose</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Abdominal pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rash</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vomiting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body temperature ≥99.5°F</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Oxygen saturation</title>
+          <units>percentage of peripheral capillary O2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="98" lower_limit="97" upper_limit="100"/>
+                    <measurement group_id="B2" value="99" lower_limit="97" upper_limit="99.5"/>
+                    <measurement group_id="B3" value="98" lower_limit="97" upper_limit="100"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>White blood cell count</title>
+          <units>cells/μl</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.5" lower_limit="4.3" upper_limit="6.8"/>
+                    <measurement group_id="B2" value="5.6" lower_limit="4.0" upper_limit="7.5"/>
+                    <measurement group_id="B3" value="5.5" lower_limit="4.1" upper_limit="7.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Absolute lymphocyte count</title>
+          <units>cells/μl</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1.5" lower_limit="1.2" upper_limit="1.9"/>
+                    <measurement group_id="B2" value="1.5" lower_limit="1.2" upper_limit="2.3"/>
+                    <measurement group_id="B3" value="1.5" lower_limit="1.2" upper_limit="2.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Duration Until Viral Shedding Cessation</title>
+        <description>Time to first of two consecutive negative respiratory secretions obtained by oropharyngeal and/or anterior nare swabs for SARS-CoV-2 by qRT-PCR.</description>
+        <time_frame>Assessed for up to 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lambda</title>
+            <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration Until Viral Shedding Cessation</title>
+          <description>Time to first of two consecutive negative respiratory secretions obtained by oropharyngeal and/or anterior nare swabs for SARS-CoV-2 by qRT-PCR.</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7" lower_limit="5" upper_limit="13"/>
+                    <measurement group_id="O2" value="7" lower_limit="5" upper_limit="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.29</p_value>
+            <p_value_desc>Tests were conducted at the 0.05 level of significance.</p_value_desc>
+            <method>Regression, Cox</method>
+            <param_type>Cox Proportional Hazard</param_type>
+            <param_value>0.81</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.56</ci_lower_limit>
+            <ci_upper_limit>1.19</ci_upper_limit>
+            <estimate_desc>Cox proportional hazards model covariate-adjusted for age 50+ and sex.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Sars-CoV-2 Viral Load</title>
+        <description>Log10 Oropharyngeal viral load over time, mean change at day 14 (SD). Sars-CoV-2 RNA level in oropharyngeal and/or anterior nare swabs collected daily.</description>
+        <time_frame>baseline, day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lambda</title>
+            <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Sars-CoV-2 Viral Load</title>
+          <description>Log10 Oropharyngeal viral load over time, mean change at day 14 (SD). Sars-CoV-2 RNA level in oropharyngeal and/or anterior nare swabs collected daily.</description>
+          <units>Log10 copies per mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.3" spread="1.3"/>
+                    <measurement group_id="O2" value="-4.9" spread="4.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.91</p_value>
+            <p_value_desc>Tests were conducted at the 0.05 level of significance.</p_value_desc>
+            <method>Regression, Linear</method>
+            <param_type>Cox Proportional Hazard</param_type>
+            <param_value>-0.06</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.23</ci_lower_limit>
+            <ci_upper_limit>1.11</ci_upper_limit>
+            <estimate_desc>Log change at Day 14. Cox proportional hazards model covariate-adjusted for age 50+ and sex.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Curve of SARS-COV-2 Viral Load</title>
+        <description>Log10 viral load area under the curve through day 14, median (IQR). Area under the curve of SARS-CoV-2 viral load in oropharyngeal and/or anterior nare swabs collected daily.</description>
+        <time_frame>baseline through day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lambda</title>
+            <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Curve of SARS-COV-2 Viral Load</title>
+          <description>Log10 viral load area under the curve through day 14, median (IQR). Area under the curve of SARS-CoV-2 viral load in oropharyngeal and/or anterior nare swabs collected daily.</description>
+          <units>Log10 copies*days/ml</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.5" lower_limit="18.6" upper_limit="39.1"/>
+                    <measurement group_id="O2" value="29.6" lower_limit="19.6" upper_limit="38.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.95</p_value>
+            <p_value_desc>Tests were conducted at the 0.05 level of significance.</p_value_desc>
+            <method>Regression, Linear</method>
+            <param_type>Cox Proportional Hazard</param_type>
+            <param_value>1.01</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.85</ci_lower_limit>
+            <ci_upper_limit>1.16</ci_upper_limit>
+            <estimate_desc>Cox proportional hazards model covariate-adjusted for age 50+ and sex.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration Until Resolution of Symptoms</title>
+        <description>Duration until resolution of symptoms in days, median (95% CI). Time to alleviation of all symptoms (fever, chills, cough, nasal congestion, muscle pains), defined as the time from initiation of treatment until all symptoms are rated as absent or mild in symptomatic patients.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lambda</title>
+            <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration Until Resolution of Symptoms</title>
+          <description>Duration until resolution of symptoms in days, median (95% CI). Time to alleviation of all symptoms (fever, chills, cough, nasal congestion, muscle pains), defined as the time from initiation of treatment until all symptoms are rated as absent or mild in symptomatic patients.</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8" lower_limit="6" upper_limit="11"/>
+                    <measurement group_id="O2" value="9" lower_limit="5" upper_limit="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.76</p_value>
+            <p_value_desc>Tests were conducted at the 0.05 level of significance.</p_value_desc>
+            <method>Regression, Cox</method>
+            <param_type>Cox Proportional Hazard</param_type>
+            <param_value>0.94</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.60</ci_lower_limit>
+            <ci_upper_limit>1.41</ci_upper_limit>
+            <estimate_desc>Cox proportional hazards model covariate-adjusted for age 50+ and sex.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants Requiring Emergency Department Visits or Hospitalizations Within 28 Days of Initiation of Treatment</title>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lambda</title>
+            <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants Requiring Emergency Department Visits or Hospitalizations Within 28 Days of Initiation of Treatment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Hospitalizations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Emergency Department Visits</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>11 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Lambda</title>
+          <description>Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo to match Lambda single dose administered subcutaneously in addition to standard of care treatment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="60"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoxia (hospital admission)</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated liver function test</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Prasanna Jagannathan, MD</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>1-650-724-5343</phone>
+      <email>prasj@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

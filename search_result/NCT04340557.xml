@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="185">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04340557</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-ARB</org_study_id>
+    <secondary_id>2003902</secondary_id>
+    <nct_id>NCT04340557</nct_id>
+  </id_info>
+  <brief_title>Do Angiotensin Receptor Blockers Mitigate Progression to Acute Respiratory Distress Syndrome With SARS-CoV-2 Infection</brief_title>
+  <official_title>Randomized Open Label Study of Standard of Care Plus an Angiotensin II Receptor Blocker Compared to Standard of Care Alone to Minimize the Progression to Respiratory Failure in SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sharp HealthCare</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sharp HealthCare</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to identify whether or not Angiotensin Receptor Blockers&#xD;
+      (ARB) can halt the progression to respiratory failure requiring transfer into the intensive&#xD;
+      care unit (ICU), as well as halt mechanical ventilation in subjects with mild to moderate&#xD;
+      hypoxia due to the corona virus that causes COVID-19. Based on previous animal studies, the&#xD;
+      researchers hypothesize that the addition of an ARB is beneficial in abating acute lung&#xD;
+      injury in subjects in early stages of SARS-CoV-2 viral induced hypoxia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an investigator initiated, open label, multicenter, two arm, randomized study to&#xD;
+      compare the impact of adding an ARB to the Standard of Care (SOC) to the SOC without an ARB.&#xD;
+      Randomization ratio will be 1:1. The goal of this study is to identify whether or not ARBs&#xD;
+      have an impact on inhibiting the progression to respiratory failure requiring mechanical&#xD;
+      ventilation in patients with mild to moderate hypoxia in the setting of COVID-19. The&#xD;
+      addition of an ARB to the standard of care treatment for these patients may be beneficial in&#xD;
+      abating acute lung injury in patients in early stages of SARS-CoV-2 induced hypoxia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 27, 2020</start_date>
+  <completion_date type="Actual">June 13, 2020</completion_date>
+  <primary_completion_date type="Actual">June 13, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subjects will be randomized into one of two groups: Standard of Care or Standard of Care plus an ARB.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mechanical Ventilation</measure>
+    <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+    <description>Number of subjects requiring transfer into ICU for mechanical ventilation due to respiratory failure</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU Transfer</measure>
+    <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+    <description>Number of subjects transferred from non-ICU bed to an ICU bed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen Therapy</measure>
+    <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+    <description>Mean number of liters of oxygen consumed</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Length of Hospital Stay</measure>
+    <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+    <description>Length of hospital stay from admission to discharge</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>In Hospital Mortality</measure>
+    <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+    <description>Number of subjects who expired while hospitalized</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">31</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Group A (Study drug+SOC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B (SOC)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Losartan</intervention_name>
+    <description>Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days. Upon the treating clinician's discretion, losartan may be continued beyond 10 days for non-COVID-19 indications.</description>
+    <arm_group_label>Group A (Study drug+SOC)</arm_group_label>
+    <other_name>Losartan + Standard of Care</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed COVID-19 positive test result&#xD;
+&#xD;
+          -  Mild to moderate respiratory symptoms of COVID-19.&#xD;
+&#xD;
+          -  Systolic blood pressure ≥ 105 mmHg.&#xD;
+&#xD;
+          -  Screen within 3 days of a positive COVID-19 test.&#xD;
+&#xD;
+          -  Age ≥18 years old.&#xD;
+&#xD;
+          -  Access to a phone in the hospital room or an electronic device that is capable of&#xD;
+             receiving phone or video calls.&#xD;
+&#xD;
+          -  Able to read/write/speak English or Spanish fluently.&#xD;
+&#xD;
+          -  Subjects must have the capacity to provide consent or an appropriate LAR to provide&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Negative pregnancy test for women of childbearing potential and subject is randomized&#xD;
+             to the study arm.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe allergy to any ARB or ACE-inhibitor, including angioedema&#xD;
+&#xD;
+          -  In the intensive care unit at screening.&#xD;
+&#xD;
+          -  Home meds include any kind of ACE inhibitor or ARB&#xD;
+&#xD;
+          -  Acute Kidney Injury (50% reduction in GFR from baseline at admission to any time&#xD;
+             during treatment in the study treatment arm)&#xD;
+&#xD;
+          -  Hyperkalemia &gt;5.0 mmol/L at baseline or any time during treatment in the study&#xD;
+             treatment arm&#xD;
+&#xD;
+          -  Creatinine Clearance &lt; 30 ml/min at baseline or any time during treatment in the study&#xD;
+             treatment arm&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew Geriak, PharmD</last_name>
+    <role>Study Director</role>
+    <affiliation>Sharp HealthCare</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Sharp Grossmont Hospital</name>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Chula Vista Medical Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>91911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Memorial Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>April 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2020</study_first_posted>
+  <results_first_submitted>May 20, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 24, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 26, 2021</results_first_posted>
+  <last_update_submitted>May 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sharp HealthCare</investigator_affiliation>
+    <investigator_full_name>Matthew Geriak</investigator_full_name>
+    <investigator_title>Investigational Pharmacist</investigator_title>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <keyword>Angiotensin receptor blocker</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Losartan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 20, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT04340557/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Losartan + Standard of Care</title>
+          <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard of Care</title>
+          <description>Patient will receive the hospital Standard of Care for their condition</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Transferred to ICU and/or death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Group A (Study Drug+SOC)</title>
+          <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+        </group>
+        <group group_id="B2">
+          <title>Group B (SOC)</title>
+          <description>Standard of Care</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+            <count group_id="B2" value="15"/>
+            <count group_id="B3" value="31"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59.3" lower_limit="33" upper_limit="95"/>
+                    <measurement group_id="B2" value="54.9" lower_limit="23" upper_limit="91"/>
+                    <measurement group_id="B3" value="57.1" lower_limit="23" upper_limit="95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54" lower_limit="33" upper_limit="95"/>
+                    <measurement group_id="B2" value="53" lower_limit="23" upper_limit="91"/>
+                    <measurement group_id="B3" value="53" lower_limit="23" upper_limit="95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black/African America</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Days from Hospital Admission to Enrollment</title>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2" lower_limit="1" upper_limit="6"/>
+                    <measurement group_id="B2" value="2" lower_limit="1" upper_limit="5"/>
+                    <measurement group_id="B3" value="2" lower_limit="1" upper_limit="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Charlson Comorbidity Index</title>
+          <description>The revised Charlson Comorbidity Index is a weighted index to predict risk of death within 10 yrs for patients with specific comorbid conditions. 17 conditions were included in the revised index. Each condition was assigned from 0 to 6 and were summed to produce the score (https://www.mdcalc.com/charlson-comorbidity-index-cci) The lowest to highest possible score is 0 to 102. The higher the score indicates the higher probability of mortality. This scale was utilized to illustrate the clinical similarity between the two groups at baseline.</description>
+          <units>scores on a scale</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.06" lower_limit="0" upper_limit="6"/>
+                    <measurement group_id="B2" value="1.87" lower_limit="0" upper_limit="5"/>
+                    <measurement group_id="B3" value="1.97" lower_limit="0" upper_limit="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbidities</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Diabetes mellitus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Obesity (BMI &gt;/= 30 kg/m^2)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Tobacco Use</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cardiovascular Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Receipt of Concomitant SARS-CoV-2 Medications</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Remdesivir</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Glucocorticoids &gt; 2 doses</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Azithromycin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hydroxychloroquine</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Convalescent Plasma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anti-thrombotics</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mechanical Ventilation</title>
+        <description>Number of subjects requiring transfer into ICU for mechanical ventilation due to respiratory failure</description>
+        <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group A (Study Drug+SOC)</title>
+            <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group B (SOC)</title>
+            <description>Standard of Care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mechanical Ventilation</title>
+          <description>Number of subjects requiring transfer into ICU for mechanical ventilation due to respiratory failure</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU Transfer</title>
+        <description>Number of subjects transferred from non-ICU bed to an ICU bed</description>
+        <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group A (Study Drug+SOC)</title>
+            <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group B (SOC)</title>
+            <description>Standard of Care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU Transfer</title>
+          <description>Number of subjects transferred from non-ICU bed to an ICU bed</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Oxygen Therapy</title>
+        <description>Mean number of liters of oxygen consumed</description>
+        <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group A (Study Drug+SOC)</title>
+            <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group B (SOC)</title>
+            <description>Standard of Care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Oxygen Therapy</title>
+          <description>Mean number of liters of oxygen consumed</description>
+          <units>liters</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10,469" lower_limit="0" upper_limit="49,968"/>
+                    <measurement group_id="O2" value="82,734" lower_limit="0" upper_limit="748,984"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Length of Hospital Stay</title>
+        <description>Length of hospital stay from admission to discharge</description>
+        <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group A (Study Drug+SOC)</title>
+            <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group B (SOC)</title>
+            <description>Standard of Care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Length of Hospital Stay</title>
+          <description>Length of hospital stay from admission to discharge</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9" lower_limit="3" upper_limit="30"/>
+                    <measurement group_id="O2" value="10" lower_limit="3" upper_limit="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>In Hospital Mortality</title>
+        <description>Number of subjects who expired while hospitalized</description>
+        <time_frame>from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group A (Study Drug+SOC)</title>
+            <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group B (SOC)</title>
+            <description>Standard of Care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>In Hospital Mortality</title>
+          <description>Number of subjects who expired while hospitalized</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From enrollment into the study until hospital discharge or death, assessed up to 45 days.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Group A (Study Drug+SOC)</title>
+          <description>Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate.&#xD;
+Losartan: Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.</description>
+        </group>
+        <group group_id="E2">
+          <title>Group B (SOC)</title>
+          <description>Standard of Care</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Body aches</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Transaminitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Malnutrition</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension (SBP&lt;100)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="16"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The generalizability is limited by small size of the study population, unblinded design, and all the subjects being screened from three hospitals in close proximity in one geographic area in Southern California.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Matthew Geriak, PharmD</name_or_title>
+      <organization>Sharp HealthCare</organization>
+      <phone>858-939-3717</phone>
+      <email>matthew.geriak@sharp.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

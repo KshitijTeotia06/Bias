@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="39">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04329832</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1051355</org_study_id>
+    <nct_id>NCT04329832</nct_id>
+  </id_info>
+  <brief_title>Hydroxychloroquine vs. Azithromycin for Hospitalized Patients With Suspected or Confirmed COVID-19</brief_title>
+  <acronym>HAHPS</acronym>
+  <official_title>Hydroxychloroquine vs. Azithromycin for Hospitalized Patients With Suspected or Confirmed COVID-19 (HAHPS): A Prospective Pragmatic Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Intermountain Health Care, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Intermountain Health Care, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will compare two drugs (hydroxychloroquine and azithromycin) to see if&#xD;
+      hydroxychloroquine is better than azithromycin in treating hospitalized patients with&#xD;
+      suspected or confirmed COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 30, 2020</start_date>
+  <completion_date type="Actual">January 1, 2021</completion_date>
+  <primary_completion_date type="Actual">July 1, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID Ordinal Outcomes Scale at 14 Days</measure>
+    <time_frame>Assessed once on day 14 after enrollment (enrollment is day 0)</time_frame>
+    <description>Improvement of clinical condition of the patient defined by the COVID-19 WHO ordinal Outcomes score. This scale reflects a range from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free Days at 28 Days</measure>
+    <time_frame>Admission (day 1) to 28 days after admission (day 28)</time_frame>
+    <description>Calculated as number of days patient not in hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free Days at 28 Days (Number of Days Patient Not on a Ventilator)</measure>
+    <time_frame>Admission (day 1) to 28 days after admission (day 28)</time_frame>
+    <description>Calculated as number of days that patient is not on a ventilator up to day 28 days after admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free Days at 28 Days</measure>
+    <time_frame>Admission (day 1) to 28 days after admission (day 28)</time_frame>
+    <description>Calculated as number of days patient not in an ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to a 1-point Decrease in the WHO Ordinal Recovery Score</measure>
+    <time_frame>Admission (day 1) to 14 days after admission (day 14)</time_frame>
+    <description>Time to 1-point decrease in the WHO ordinal recovery score is defined as the number of days until the ordinal outcome score drops by 1 relative to baseline on the 8-point WHO COVID Ordinal Outcomes scale, which reflects a range from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">85</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Azithromycin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Patients in the hydroxychloroquine arm will receive hydroxychloroquine 400 mg by mouth twice daily for 1 day, then 200 mg by mouth twice daily for 4 days (dose reductions for weight &lt; 45 kg or GFR (glomerular filtration rate)&lt;50ml/min). For patients &lt; 45kg, doses will be halved. For patients with GFR&lt;50ml/min, the final dose of hydroxychloroquine will not be administered. If the patient has already received hydroxychloroquine prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin</intervention_name>
+    <description>Patients in the azithromycin arm will receive azithromycin 500 mg on day 1 plus 250 mg daily on days 2-5 (may be administered intravenously per clinician preference). If the patient has already received azithromycin prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+    <arm_group_label>Azithromycin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult (age ≥ 18 years)&#xD;
+&#xD;
+          -  Confirmed OR suspected COVID-19,&#xD;
+&#xD;
+               -  Confirmed: Positive assay for COVID-19 within the last 10 days&#xD;
+&#xD;
+               -  Suspected: Pending assay for COVID-19 WITH high clinical suspicion&#xD;
+&#xD;
+          -  Scheduled for admission or already admitted to an inpatient bed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Allergy to hydroxychloroquine or azithromycin&#xD;
+&#xD;
+          -  History of bone marrow transplant&#xD;
+&#xD;
+          -  Known G6PD deficiency&#xD;
+&#xD;
+          -  Chronic hemodialysis or Glomerular Filtration Rate &lt; 20ml/min&#xD;
+&#xD;
+          -  Psoriasis&#xD;
+&#xD;
+          -  Porphyria&#xD;
+&#xD;
+          -  Concomitant use of digitalis, flecainide, amiodarone, procainamide, propafenone,&#xD;
+             cimetidine, dofetilide, phenobarbital, phenytoin, or sotalol&#xD;
+&#xD;
+          -  Known history of long QT syndrome&#xD;
+&#xD;
+          -  Current known QTc&gt;500 msec&#xD;
+&#xD;
+          -  Pregnant or nursing&#xD;
+&#xD;
+          -  Prisoner&#xD;
+&#xD;
+          -  Weight &lt; 35kg&#xD;
+&#xD;
+          -  Seizure disorder&#xD;
+&#xD;
+          -  Severe liver disease&#xD;
+&#xD;
+          -  Outpatient use of hydroxychloroquine for treatment of a disease other than COVID-19 OR&#xD;
+             has received more than 2 days of hydroxychloroquine or azithromycin for suspected or&#xD;
+             confirmed COVID-19&#xD;
+&#xD;
+          -  Patient has recovered from COVID-19 and/or is being discharged from the hospital on&#xD;
+             day of enrollment.&#xD;
+&#xD;
+          -  Treating physician refuses to allow patient participation in the study&#xD;
+&#xD;
+          -  Unable to obtain informed consent&#xD;
+&#xD;
+          -  Prior enrollment in this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Samuel M Brown, MD MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Intermountain Health Care, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Intermountain Medical Center</name>
+      <address>
+        <city>Murray</city>
+        <state>Utah</state>
+        <zip>84107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.who.int/publications/i/item/covid-19-therapeutic-trial-synopsis</url>
+    <description>Source for WHO COVID Ordinal Outcomes Scale</description>
+  </link>
+  <reference>
+    <citation>WHO, 2020. WHO R&amp;D Blueprint, novel Coronavirus, COVID-19 Therapeutic Trial Synopsis. https://www.who.int/publications/i/item/covid-19-therapeutic-trial-synopsis</citation>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>March 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2020</study_first_posted>
+  <results_first_submitted>March 14, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 18, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 20, 2022</results_first_posted>
+  <last_update_submitted>April 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Intermountain Health Care, Inc.</investigator_affiliation>
+    <investigator_full_name>Samuel Brown</investigator_full_name>
+    <investigator_title>Director, Critical Care Research</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>Azithromycin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>In order to protect patient privacy and comply with relevant regulations, identified data are unavailable. Requests for deidentified data from qualified researchers with appropriate ethics board approvals and relevant data use agreements will be processed by the Intermountain Office of Research, officeofresearch@imail.org.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 25, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/32/NCT04329832/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 29, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/32/NCT04329832/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Hydroxychloroquine</title>
+          <description>Hydroxychloroquine: Patients in the hydroxychloroquine arm will receive hydroxychloroquine 400 mg by mouth twice daily for 1 day, then 200 mg by mouth twice daily for 4 days (dose reductions for weight &lt; 45 kg or GFR (glomerular filtration rate)&lt;50ml/min). For patients &lt; 45kg, doses will be halved. For patients with GFR&lt;50ml/min, the final dose of hydroxychloroquine will not be administered. If the patient has already received hydroxychloroquine prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+        </group>
+        <group group_id="P2">
+          <title>Azithromycin</title>
+          <description>Azithromycin: Patients in the azithromycin arm will receive azithromycin 500 mg on day 1 plus 250 mg daily on days 2-5 (may be administered intravenously per clinician preference). If the patient has already received azithromycin prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="42"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="42"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Hydroxychloroquine</title>
+          <description>Hydroxychloroquine: Patients in the hydroxychloroquine arm will receive hydroxychloroquine 400 mg by mouth twice daily for 1 day, then 200 mg by mouth twice daily for 4 days (dose reductions for weight &lt; 45 kg or GFR (glomerular filtration rate)&lt;50ml/min). For patients &lt; 45kg, doses will be halved. For patients with GFR&lt;50ml/min, the final dose of hydroxychloroquine will not be administered. If the patient has already received hydroxychloroquine prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+        </group>
+        <group group_id="B2">
+          <title>Azithromycin</title>
+          <description>Azithromycin: Patients in the azithromycin arm will receive azithromycin 500 mg on day 1 plus 250 mg daily on days 2-5 (may be administered intravenously per clinician preference). If the patient has already received azithromycin prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="42"/>
+            <count group_id="B2" value="43"/>
+            <count group_id="B3" value="85"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51" lower_limit="42" upper_limit="60"/>
+                    <measurement group_id="B2" value="58" lower_limit="43" upper_limit="68"/>
+                    <measurement group_id="B3" value="55" lower_limit="42" upper_limit="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="53"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="43"/>
+                    <measurement group_id="B3" value="85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbidities</title>
+          <description>The Charlson Comorbidity Index is a method of categorizing comorbidities of patients based on the International Classification of Diseases (ICD) diagnosis codes found in administrative data, such as hospital abstracts data. Each comorbidity category has an associated weight (from 1 to 6), based on the adjusted risk of mortality or resource use, and the sum of all the weights results in a single comorbidity score for a patient. A score of 0 indicates no comorbidities were found. The higher the score (max 24) the more likely the predicted outcome will result in mortality or higher resource use.</description>
+          <units>Scores on a scale</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1" lower_limit="0" upper_limit="2"/>
+                    <measurement group_id="B2" value="0" lower_limit="0" upper_limit="2"/>
+                    <measurement group_id="B3" value="1" lower_limit="0" upper_limit="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>COVID Ordinal Outcomes Scale at 14 Days</title>
+        <description>Improvement of clinical condition of the patient defined by the COVID-19 WHO ordinal Outcomes score. This scale reflects a range from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+        <time_frame>Assessed once on day 14 after enrollment (enrollment is day 0)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Day 14 WHO COVID Score: Hydroxychloroquine</title>
+            <description>The median WHO COVID Score at Day 14 for patients in the hydroxychloroquine arm</description>
+          </group>
+          <group group_id="O2">
+            <title>Day 14 WHO COVID Score: Azithromycin</title>
+            <description>The median WHO COVID Score at Day 14 for patients in the azithromycin arm</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>COVID Ordinal Outcomes Scale at 14 Days</title>
+          <description>Improvement of clinical condition of the patient defined by the COVID-19 WHO ordinal Outcomes score. This scale reflects a range from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="43"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.0" lower_limit="2.0" upper_limit="3.75"/>
+                    <measurement group_id="O2" value="2.0" lower_limit="1.5" upper_limit="3.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospital-free Days at 28 Days</title>
+        <description>Calculated as number of days patient not in hospital</description>
+        <time_frame>Admission (day 1) to 28 days after admission (day 28)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Hydroxychloroquine</title>
+            <description>The median number of hospital-free days for hydroxychloroquine (Interquartile range)</description>
+          </group>
+          <group group_id="O2">
+            <title>Azithromycin</title>
+            <description>The median number of hospital-free days for azithromycin (Interquartile range)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospital-free Days at 28 Days</title>
+          <description>Calculated as number of days patient not in hospital</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="43"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.5" lower_limit="7.25" upper_limit="24.75"/>
+                    <measurement group_id="O2" value="21" lower_limit="7.5" upper_limit="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ventilator-free Days at 28 Days (Number of Days Patient Not on a Ventilator)</title>
+        <description>Calculated as number of days that patient is not on a ventilator up to day 28 days after admission</description>
+        <time_frame>Admission (day 1) to 28 days after admission (day 28)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Ventilator-Free Days at Day 28 for Hydroxychloroquine Arm</title>
+            <description>Number of days that the patient is not on a ventilator up to 28 days following admission for patients in the Hydroxychloroquine Arm</description>
+          </group>
+          <group group_id="O2">
+            <title>Ventilator-Free Days at Day 28 for Azithromycin Arm</title>
+            <description>Number of days that the patient is not on a ventilator up to 28 days following admission for patients in the Azithromycin Arm</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ventilator-free Days at 28 Days (Number of Days Patient Not on a Ventilator)</title>
+          <description>Calculated as number of days that patient is not on a ventilator up to day 28 days after admission</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="43"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18" lower_limit="10.75" upper_limit="18"/>
+                    <measurement group_id="O2" value="18" lower_limit="12" upper_limit="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU-free Days at 28 Days</title>
+        <description>Calculated as number of days patient not in an ICU</description>
+        <time_frame>Admission (day 1) to 28 days after admission (day 28)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Hydroxychloroquine</title>
+            <description>The median ICU-free days for hydroxychloroquine (Interquartile Range)</description>
+          </group>
+          <group group_id="O2">
+            <title>Azithromycin</title>
+            <description>The median ICU-free days for azithromycin (Interquartile Range)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU-free Days at 28 Days</title>
+          <description>Calculated as number of days patient not in an ICU</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="43"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18" lower_limit="8" upper_limit="22"/>
+                    <measurement group_id="O2" value="19" lower_limit="8.5" upper_limit="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to a 1-point Decrease in the WHO Ordinal Recovery Score</title>
+        <description>Time to 1-point decrease in the WHO ordinal recovery score is defined as the number of days until the ordinal outcome score drops by 1 relative to baseline on the 8-point WHO COVID Ordinal Outcomes scale, which reflects a range from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+        <time_frame>Admission (day 1) to 14 days after admission (day 14)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Days to a 1-point Decrease in WHO COVID Scale in Hydroxychloroquine Arm</title>
+            <description>Time (in days) until the ordinal outcome score drops by 1 relative to baseline on the 8-point WHO COVID Ordinal Outcomes scale for patients in the Hydroxychloroquine Arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Days to a 1-point Decrease in WHO COVID Scale in Azithromycin Arm</title>
+            <description>Time (in days) until the ordinal outcome score drops by 1 relative to baseline on the 8-point WHO COVID Ordinal Outcomes scale for patients in the Azithromycin Arm.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to a 1-point Decrease in the WHO Ordinal Recovery Score</title>
+          <description>Time to 1-point decrease in the WHO ordinal recovery score is defined as the number of days until the ordinal outcome score drops by 1 relative to baseline on the 8-point WHO COVID Ordinal Outcomes scale, which reflects a range from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="43"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7" lower_limit="3" upper_limit="13"/>
+                    <measurement group_id="O2" value="6" lower_limit="2.5" upper_limit="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Hospital discharge of the specific subject. Median length of stay for patients in both arms is 7.8 days. Upper bound of IQR for Hydroxychloroquine arm is 15.55 days and upper bound of IQR for Azithromycin arm is 20.85 days.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Hydroxychloroquine</title>
+          <description>Hydroxychloroquine: Patients in the hydroxychloroquine arm will receive hydroxychloroquine 400 mg by mouth twice daily for 1 day, then 200 mg by mouth twice daily for 4 days (dose reductions for weight &lt; 45 kg or GFR (glomerular filtration rate)&lt;50ml/min). For patients &lt; 45kg, doses will be halved. For patients with GFR&lt;50ml/min, the final dose of hydroxychloroquine will not be administered. If the patient has already received hydroxychloroquine prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+        </group>
+        <group group_id="E2">
+          <title>Azithromycin</title>
+          <description>Azithromycin: Patients in the azithromycin arm will receive azithromycin 500 mg on day 1 plus 250 mg daily on days 2-5 (may be administered intravenously per clinician preference). If the patient has already received azithromycin prior to randomization (no more than 2 days), the prior doses will count toward the 5-day total.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="42"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (Unspecified)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="42"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>QT Prolongation</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="42"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Naresh Kumar</name_or_title>
+      <organization>Intermountain Healthcare</organization>
+      <phone>8013827483</phone>
+      <email>naresh.kumar@imail.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

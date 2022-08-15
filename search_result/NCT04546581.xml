@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="119">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04546581</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INSIGHT 013</org_study_id>
+    <nct_id>NCT04546581</nct_id>
+  </id_info>
+  <brief_title>Inpatient Treatment of COVID-19 With Anti-Coronavirus Immunoglobulin (ITAC)</brief_title>
+  <official_title>An International Multicenter, Adaptive, Randomized Double-Blind, Placebo-Controlled Trial of the Safety, Tolerability and Efficacy of Anti-Coronavirus Hyperimmune Intravenous Immunoglobulin for the Treatment of Adult Hospitalized Patients at Onset of Clinical Progression of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>International Network for Strategic Initiatives in Global HIV Trials (INSIGHT)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol will serve as a platform for assessing treatments for adult patients&#xD;
+      hospitalized for medical management of COVID-19 without related serious end-organ failure.&#xD;
+      Trials will involve sites around the world strategically chosen to ensure rapid enrollment.&#xD;
+      This trial will compare hyperimmune intravenous immunoglobulin (hIVIG) with matched placebo,&#xD;
+      when added to standard of care (SOC), for preventing further disease progression and&#xD;
+      mortality related to COVID-19. SOC will include remdesivir unless it is contraindicated for&#xD;
+      an individual patient.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary endpoint of this trial in hospitalized patients is an ordinal outcome based on&#xD;
+      the patient's clinical status on Day 7. It includes 7 mutually exclusive categories capturing&#xD;
+      the range of organ dysfunction that may be associated with progression of COVID-19, such as&#xD;
+      respiratory dysfunction and coagulation-related complications. The ordinal endpoint is&#xD;
+      defined as follows:&#xD;
+&#xD;
+      7. Death&#xD;
+&#xD;
+      6. End-organ failure&#xD;
+&#xD;
+      5. Life-threatening end-organ dysfunction&#xD;
+&#xD;
+      4. Serious end-organ dysfunction&#xD;
+&#xD;
+      3. Moderate end-organ dysfunction&#xD;
+&#xD;
+      2. Limiting symptoms due to COVID-19&#xD;
+&#xD;
+      1. No limiting symptoms due to COVID-19&#xD;
+&#xD;
+      Secondary endpoints include time to the 3 least favorable categories, time to the 2 most&#xD;
+      favorable categories, and the pulmonary only and thrombotic only components of the primary&#xD;
+      ordinal outcome. Mortality, adverse events (AEs), including infusion reactions, and&#xD;
+      biological correlates of therapeutic activity are also assessed. Because there is no&#xD;
+      established endpoint for evaluating the clinical efficacy of treatments for COVID-19, other&#xD;
+      clinically relevant outcomes, including outcomes used in other COVID-19 treatment trials,&#xD;
+      will be recorded. Thus, the randomized groups (hIVIG + SOC versus placebo + SOC ) can be&#xD;
+      compared for multiple outcomes, and results can be compared or combined with other trials.&#xD;
+&#xD;
+      Participants will be randomized (1:1) to a single infusion of hIVIG + SOC or placebo + SOC on&#xD;
+      the day of randomization (Day 0). Participants taking remdesivir prior to randomization may&#xD;
+      be enrolled if eligibility criteria are met. Randomized participants who were not taking&#xD;
+      remdesivir before randomization will start taking remdesivir immediately following the&#xD;
+      infusion of hIVIG or placebo unless remdesivir is contraindicated. Participants will be&#xD;
+      followed for 28 days and, if the trial goes to completion, the primary analysis will be&#xD;
+      completed after all participants are followed for 28 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 8, 2020</start_date>
+  <completion_date type="Actual">May 21, 2021</completion_date>
+  <primary_completion_date type="Actual">May 21, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ordinal Outcome Scale - Day 7</measure>
+    <time_frame>7 days</time_frame>
+    <description>The primary objective is to compare the clinical status of patients in each group on day 7 of follow-up using the primary ordinal outcome with 7 mutually exclusive categories:&#xD;
+7. Death 6. End-organ failure 5. Life-threatening end-organ dysfunction 4. Serious end-organ dysfunction 3. Moderate end-organ dysfunction 2. Limiting symptoms due to COVID-19&#xD;
+1. No limiting symptoms due to COVID-19&#xD;
+Outcome is reported as the percent of participants in each of 7 categories. Primary ordinal outcome based on the patient's clinical status on Day 7. It includes 7 mutually exclusive categories capturing the range of organ dysfunction that may be associated with progression of COVID-19, such as respiratory dysfunction and coagulation-related complications.&#xD;
+Minimum value = 1, Maximum value = 7 Higher scores mean a worse outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Safety Outcome - Death, SAE or Grade 3 or 4 Events Through Day 7</measure>
+    <time_frame>Through Day 7</time_frame>
+    <description>Number of participants with death, SAE or Grade 3 or 4 event through Day 7</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>N Reaching 3 Least Favorable Categories</measure>
+    <time_frame>All of follow-up (through Day 28)</time_frame>
+    <description>N Reaching 3 least favorable categories of ordinal outcome (Categories 5, 6, 7: life-threatening end organ dysfunction, end organ failure, or death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>N Reaching 2 Most Favorable Categories</measure>
+    <time_frame>All of follow-up (through Day 28)</time_frame>
+    <description>N Reaching 2 most favorable categories of ordinal outcome (Categories 1 and 2: not requiring oxygen with or without limiting symptoms due to COVID-19)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>N Discharged or in Most Favorable Category</measure>
+    <time_frame>All of follow-up (through Day 28)</time_frame>
+    <description>N discharged from hospital or reaching most favorable ordinal category (category 1: not requiring oxygen and no limiting symptoms due to COVID-19)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">593</enrollment>
+  <condition>COVID</condition>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this group will receive the investigational product and standard of care (SOC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this group will receive a placebo and standard of care (SOC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG)</intervention_name>
+    <description>Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive a single infusion of the placebo (saline).</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 infection documented by polymerase chain reaction (PCR) or other nucleic&#xD;
+             acid test (NAT) within 3 days prior to randomization OR documented by NAT more than 3&#xD;
+             days prior to randomization AND progressive disease suggestive of ongoing SARS-CoV-2&#xD;
+             infection&#xD;
+&#xD;
+          -  Symptomatic COVID-19 disease&#xD;
+&#xD;
+          -  Duration of symptoms attributable to COVID-19 ≤ 12 days&#xD;
+&#xD;
+          -  Requiring inpatient hospital medical care for clinical manifestations of COVID-19&#xD;
+             (admission for public health or quarantine only is not included)&#xD;
+&#xD;
+          -  Willingness to abstain from participation in other COVID-19 treatment trials until&#xD;
+             after study Day 7&#xD;
+&#xD;
+          -  Provision of informed consent by participant or legally authorized representative&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior receipt of SARS-CoV-2 hIVIG or convalescent plasma from a person who recovered&#xD;
+             from COVID-19 at any time&#xD;
+&#xD;
+          -  Prior receipt of standard IVIG (not hyperimmune to SARS-CoV-2) within 45 days&#xD;
+&#xD;
+          -  Current or predicted imminent (within 24 hours) requirement for any of the following:&#xD;
+&#xD;
+               1. Invasive ventilation&#xD;
+&#xD;
+               2. Non-invasive ventilation&#xD;
+&#xD;
+               3. Extracorporeal membrane oxygenation&#xD;
+&#xD;
+               4. Mechanical circulatory support&#xD;
+&#xD;
+               5. Continuous vasopressor therapy&#xD;
+&#xD;
+          -  History of allergy to IVIG or plasma products&#xD;
+&#xD;
+          -  History of selective IgA deficiency with documented presence of anti-IgA antibodies&#xD;
+&#xD;
+          -  Any medical conditions for which receipt of the required volume of intravenous fluid&#xD;
+             may be dangerous to the patient (includes New York Association Class III or IV stage&#xD;
+             heart failure)&#xD;
+&#xD;
+          -  Any of the following thrombotic or procoagulant disorders:&#xD;
+&#xD;
+               1. Acute coronary syndromes, cerebrovascular syndromes and pulmonary or deep venous&#xD;
+                  thrombosis within 28 days of randomization&#xD;
+&#xD;
+               2. History of prothrombin gene mutation 20210, homozygous Factor V Leiden mutations,&#xD;
+                  antithrombin III deficiency, protein C deficiency, protein S deficiency or&#xD;
+                  antiphospholipid syndrome&#xD;
+&#xD;
+          -  Any condition for which, in the opinion of the investigator, participation would not&#xD;
+             be in the best interest of the subject or that could prevent, limit, or confound the&#xD;
+             protocol-specified assessments&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Neaton, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mark Polizzotto, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Kirby Institute, University of New South Wales</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Penrose Hospital</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Francis Health Services</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Anthony Hospital</name>
+      <address>
+        <city>Lakewood</city>
+        <state>Colorado</state>
+        <zip>80228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Anthony North Health Campus</name>
+      <address>
+        <city>Westminster</city>
+        <state>Colorado</state>
+        <zip>80023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington VA Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Redmond Regional Medical Center</name>
+      <address>
+        <city>Rome</city>
+        <state>Georgia</state>
+        <zip>30165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01665</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin Healthcare Research Institute/HCMC</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Missouri</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cox Medical Centers</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>FirstHealth Moore Regional Hospital</name>
+      <address>
+        <city>Pinehurst</city>
+        <state>North Carolina</state>
+        <zip>28394</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio Health Research Institute</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hendrick Medical Center</name>
+      <address>
+        <city>Abilene</city>
+        <state>Texas</state>
+        <zip>79601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRISTUS Spohn Shoreline Hospital</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CJW Chippenham Medical Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henrico Doctors' Hospital (HCA)</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aarhus Universitetshospital, Skejby</name>
+      <address>
+        <city>Aarhus</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bispebjerg Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHIP, Department of Infectious Diseases, Section 2100</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Herlev-Gentofte Hospital</name>
+      <address>
+        <city>Hellerup</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nordsjællands Hospital, Hillerød</name>
+      <address>
+        <city>Hillerød</city>
+        <zip>3400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hvidovre University Hospital, Department of Infectious Diseases</name>
+      <address>
+        <city>Hvidovre</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kolding Sygehus</name>
+      <address>
+        <city>Kolding</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Odense University Hospital</name>
+      <address>
+        <city>Odense</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Democritus University of Thrace</name>
+      <address>
+        <city>Alexandroupoli</city>
+        <state>Thrace</state>
+        <zip>68131</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>3rd Dept of Medicine, Medical School, NKUA</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>1st Respiratory Medicine Dept, Athens University Medical School</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Attikon University General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dept. of Critical Care &amp; Pulmonary Medicine, Evangelismos General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NCGM</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fujita Health University Hospital</name>
+      <address>
+        <city>Toyoake</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Human Virology-Nigeria (IHVN)</name>
+      <address>
+        <city>Abuja</city>
+        <country>Nigeria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalonia</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+    <country>Greece</country>
+    <country>Japan</country>
+    <country>Nigeria</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Argentina</country>
+  </removed_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2020</study_first_posted>
+  <results_first_submitted>March 28, 2022</results_first_submitted>
+  <results_first_submitted_qc>March 31, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 4, 2022</results_first_posted>
+  <last_update_submitted>March 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Remdesivir</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A public data set will be made available at the end of the trial</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 20, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/81/NCT04546581/Prot_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 27, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/81/NCT04546581/SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 14, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/81/NCT04546581/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Intervention Group</title>
+          <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+        </group>
+        <group group_id="P2">
+          <title>Control Group</title>
+          <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="301"/>
+                <participants group_id="P2" count="292"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="288"/>
+                <participants group_id="P2" count="279"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Intervention Group</title>
+          <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+        </group>
+        <group group_id="B2">
+          <title>Control Group</title>
+          <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="301"/>
+            <count group_id="B2" value="292"/>
+            <count group_id="B3" value="593"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58.4" lower_limit="43.3" upper_limit="73.5"/>
+                    <measurement group_id="B2" value="59.7" lower_limit="45.9" upper_limit="73.5"/>
+                    <measurement group_id="B3" value="59.0" lower_limit="44.5" upper_limit="73.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="149"/>
+                    <measurement group_id="B2" value="108"/>
+                    <measurement group_id="B3" value="257"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="152"/>
+                    <measurement group_id="B2" value="184"/>
+                    <measurement group_id="B3" value="336"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="70"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="87"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="174"/>
+                    <measurement group_id="B2" value="160"/>
+                    <measurement group_id="B3" value="334"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Ordinal Outcome Scale - Day 7</title>
+        <description>The primary objective is to compare the clinical status of patients in each group on day 7 of follow-up using the primary ordinal outcome with 7 mutually exclusive categories:&#xD;
+7. Death 6. End-organ failure 5. Life-threatening end-organ dysfunction 4. Serious end-organ dysfunction 3. Moderate end-organ dysfunction 2. Limiting symptoms due to COVID-19&#xD;
+1. No limiting symptoms due to COVID-19&#xD;
+Outcome is reported as the percent of participants in each of 7 categories. Primary ordinal outcome based on the patient's clinical status on Day 7. It includes 7 mutually exclusive categories capturing the range of organ dysfunction that may be associated with progression of COVID-19, such as respiratory dysfunction and coagulation-related complications.&#xD;
+Minimum value = 1, Maximum value = 7 Higher scores mean a worse outcome</description>
+        <time_frame>7 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ordinal Outcome Scale - Day 7</title>
+          <description>The primary objective is to compare the clinical status of patients in each group on day 7 of follow-up using the primary ordinal outcome with 7 mutually exclusive categories:&#xD;
+7. Death 6. End-organ failure 5. Life-threatening end-organ dysfunction 4. Serious end-organ dysfunction 3. Moderate end-organ dysfunction 2. Limiting symptoms due to COVID-19&#xD;
+1. No limiting symptoms due to COVID-19&#xD;
+Outcome is reported as the percent of participants in each of 7 categories. Primary ordinal outcome based on the patient's clinical status on Day 7. It includes 7 mutually exclusive categories capturing the range of organ dysfunction that may be associated with progression of COVID-19, such as respiratory dysfunction and coagulation-related complications.&#xD;
+Minimum value = 1, Maximum value = 7 Higher scores mean a worse outcome</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="295"/>
+                <count group_id="O2" value="284"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Category 7 - Died</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Category 6 - End organ failure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Category 5 - Life threatening end organ dysfunction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Category 4 - Serious end organ dysfunction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Category 3 - Moderate end organ dysfunction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Category 2 - Limiting symptoms due to COVID-19</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67"/>
+                    <measurement group_id="O2" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Category 1 - No limiting symptoms due to COVID-19</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="129"/>
+                    <measurement group_id="O2" value="116"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Missing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Primary Safety Outcome - Death, SAE or Grade 3 or 4 Events Through Day 7</title>
+        <description>Number of participants with death, SAE or Grade 3 or 4 event through Day 7</description>
+        <time_frame>Through Day 7</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Primary Safety Outcome - Death, SAE or Grade 3 or 4 Events Through Day 7</title>
+          <description>Number of participants with death, SAE or Grade 3 or 4 event through Day 7</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="295"/>
+                <count group_id="O2" value="284"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71"/>
+                    <measurement group_id="O2" value="70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>N Reaching 3 Least Favorable Categories</title>
+        <description>N Reaching 3 least favorable categories of ordinal outcome (Categories 5, 6, 7: life-threatening end organ dysfunction, end organ failure, or death)</description>
+        <time_frame>All of follow-up (through Day 28)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>N Reaching 3 Least Favorable Categories</title>
+          <description>N Reaching 3 least favorable categories of ordinal outcome (Categories 5, 6, 7: life-threatening end organ dysfunction, end organ failure, or death)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="295"/>
+                <count group_id="O2" value="284"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45"/>
+                    <measurement group_id="O2" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>N Reaching 2 Most Favorable Categories</title>
+        <description>N Reaching 2 most favorable categories of ordinal outcome (Categories 1 and 2: not requiring oxygen with or without limiting symptoms due to COVID-19)</description>
+        <time_frame>All of follow-up (through Day 28)</time_frame>
+        <population>Those in Category 2 at baseline are excluded from this analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>N Reaching 2 Most Favorable Categories</title>
+          <description>N Reaching 2 most favorable categories of ordinal outcome (Categories 1 and 2: not requiring oxygen with or without limiting symptoms due to COVID-19)</description>
+          <population>Those in Category 2 at baseline are excluded from this analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="219"/>
+                <count group_id="O2" value="206"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="178"/>
+                    <measurement group_id="O2" value="160"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>N Discharged or in Most Favorable Category</title>
+        <description>N discharged from hospital or reaching most favorable ordinal category (category 1: not requiring oxygen and no limiting symptoms due to COVID-19)</description>
+        <time_frame>All of follow-up (through Day 28)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>N Discharged or in Most Favorable Category</title>
+          <description>N discharged from hospital or reaching most favorable ordinal category (category 1: not requiring oxygen and no limiting symptoms due to COVID-19)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="295"/>
+                <count group_id="O2" value="284"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="268"/>
+                    <measurement group_id="O2" value="252"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Intervention Group</title>
+          <description>Participants in this group will receive the investigational product and standard of care (SOC).&#xD;
+Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG): Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+        </group>
+        <group group_id="E2">
+          <title>Control Group</title>
+          <description>Participants in this group will receive a placebo and standard of care (SOC).&#xD;
+Placebo: Participants will receive a single infusion of the placebo (saline).&#xD;
+Remdesivir: Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="301"/>
+                <counts group_id="E2" subjects_affected="22" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="301"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Acute myeloid leukaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Blood loss anaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pancytopenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Acute left ventricular failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pulseless electrical activity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Intra-abdominal haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholangitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Escherichia bacteraemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Psychotic disorder</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="79" subjects_at_risk="301"/>
+                <counts group_id="E2" subjects_affected="53" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Left ventricular failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Myocarditis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Supraventricular tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Blood glucose increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vision blurred</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="301"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Chills</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Ageusia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Anosmia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Muscle rigidity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Anuria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Oliguria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="10" subjects_at_risk="301"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Respiratory Distress</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="6" subjects_at_risk="301"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Respiratory Failure</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="301"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="301"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Bronchiectasis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Dependence on oxygen therapy</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea, exertional</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Interstitial lung disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="301"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary edema</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="301"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="292"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>James Neaton</name_or_title>
+      <organization>University of Minnesota</organization>
+      <phone>612-626-9040</phone>
+      <email>neato001@umn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

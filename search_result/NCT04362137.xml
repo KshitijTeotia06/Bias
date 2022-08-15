@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="95">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04362137</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CINC424J12301</org_study_id>
+    <secondary_id>INCB 18424-368</secondary_id>
+    <secondary_id>2020-001662-11</secondary_id>
+    <nct_id>NCT04362137</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Efficacy and Safety of Ruxolitinib in Patients With COVID-19 Associated Cytokine Storm</brief_title>
+  <acronym>RUXCOVID</acronym>
+  <official_title>Phase 3 Randomized, Double-blind, Placebo-controlled Multi-center Study to Assess the Efficacy and Safety of Ruxolitinib in Patients With COVID-19 Associated Cytokine Storm (RUXCOVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Incyte Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This was a randomized, double-blind, placebo-controlled, 29-day, multicenter study to assess&#xD;
+      the efficacy and safety of ruxolitinib + standard-of-care (SoC) therapy, compared with&#xD;
+      placebo + SoC therapy, in patients aged ≥12 years with COVID-19 disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a Phase III, multicenter, double-blind, randomized, placebo-controlled study to&#xD;
+      assess the efficacy and safety of ruxolitinib in patients aged ≥12 years with COVID-19&#xD;
+      disease. The study enrolled patients to ruxolitinib or placebo, in addition to standard of&#xD;
+      care (SoC) per local practice. Patients who meet the inclusion/exclusion criteria were&#xD;
+      randomized in a 2:1 ratio to either oral ruxolitinib 5 mg twice daily + SoC or oral&#xD;
+      matching-image placebo + SoC for a total of 14 days. An additional 14 days of study drug&#xD;
+      could be given if in the opinion of the investigator the patient's clinical signs and&#xD;
+      symptoms did not improve, or worsen, and the potential benefit outweighed the potential risk.&#xD;
+&#xD;
+      The study included:&#xD;
+&#xD;
+        -  Screening period of 0-2 days.&#xD;
+&#xD;
+        -  Study period of 29 days (treatment of 14 days with possible extension of treatment to 28&#xD;
+           days).&#xD;
+&#xD;
+      The primary objective was to evaluate the efficacy (as measured by a composite endpoint of&#xD;
+      proportion of patients who die, develop respiratory failure [require mechanical ventilation],&#xD;
+      or require intensive care unit care) of ruxolitinib + standard-of-care (SoC) therapy compared&#xD;
+      with placebo + SoC therapy, for the treatment of COVID-19 by Day 29.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2, 2020</start_date>
+  <completion_date type="Actual">October 17, 2020</completion_date>
+  <primary_completion_date type="Actual">October 17, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of Patients Who Die, Develop Respiratory Failure [Require Mechanical Ventilation] or Require Intensive Care Unit (ICU) Care</measure>
+    <time_frame>Day 1 - Day 29</time_frame>
+    <description>Efficacy is measured by a composite endpoint of proportion of patients who die, develop respiratory failure [require mechanical ventilation], or require intensive care unit [ICU] care for the treatment of COVID-19. Analyses are cumulative, thus analysis on Day 29 includes all events till that day. Patients who developed respiratory failure and/or required ICU at randomization are excluded from the analysis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status</measure>
+    <time_frame>Baseline, Day 15, Day 29</time_frame>
+    <description>Clinical status is measured with the 9-point ordinal scale.&#xD;
+The scoring is:&#xD;
+Uninfected patients have a score 0 (no clinical or virological evidence of infection).&#xD;
+Ambulatory patients (not in hospital or in hospital and ready for discharge) can have a score 1 (no limitation of activities) or 2 (limitation of activities).&#xD;
+Hospitalized patients with mild disease can have score 3 (no oxygen therapy defined as peripheral oxygen saturation (SpO2) ≥ 94% on room air) or 4 (oxygen by mask or nasal prongs).&#xD;
+Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)).&#xD;
+Patients who die have a score 8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients With at Least Two-point Improvement From Baseline in Clinical Status</measure>
+    <time_frame>Baseline, Day 15, Day 29</time_frame>
+    <description>Percentage of patients with at least two points improvement in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients With at Least One-point Improvement From Baseline in Clinical Status</measure>
+    <time_frame>Baseline, Day 15, Day 29</time_frame>
+    <description>Percentage of patients with at least one point improvement in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients With at Least One-point Deterioration From Baseline in Clinical Status</measure>
+    <time_frame>Baseline, Day 15, Day 29</time_frame>
+    <description>Percentage of patients with at least one point deterioration in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Improvement in Clinical Status</measure>
+    <time_frame>29 days</time_frame>
+    <description>Time to improvement in clinical status from baseline category to one less severe category of the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment.&#xD;
+Median time to improvement is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study. Patients who did not achieve improvement and did not die are censored at their last clinical status assessment date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline in the Clinical Status</measure>
+    <time_frame>Baseline, Day 15, Day 29</time_frame>
+    <description>Mean change from baseline in the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are excluded from the analysis.&#xD;
+A negative change from baseline in the clinical status is a favorable outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>Day 15, Day 29</time_frame>
+    <description>Mortality rate is determined as the proportion of participants who died by study Day 15 and Day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Patients Requiring Mechanical Ventilation</measure>
+    <time_frame>Day 1 - Day 29</time_frame>
+    <description>Proportion of patients requiring mechanical ventilation. Analyses are cumulative, thus analysis on Day 29 includes all events till that day. Patients who required mechanical ventilation at randomization are excluded from the analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>29 days</time_frame>
+    <description>Duration of hospitalization is defined as time to hospital discharge. Median time to hospital discharge is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study. Patients who were not discharged and did not die are censored at their last assessment date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Hospital Discharge or to a NEWS2 Score of ≤2</measure>
+    <time_frame>29 days</time_frame>
+    <description>The time to hospital discharge or to a National Early Warning Score 2 (NEWS2) of ≤2 and maintained for 24 hours whichever comes first.&#xD;
+The NEWS2 is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice presentation or when a patient is being monitored in hospital. The score ranges from 0 (best) to 23 (worst).&#xD;
+Median time is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in NEWS2 Score</measure>
+    <time_frame>Baseline, Days 3, 5, 8, 11, 15, and 29</time_frame>
+    <description>The National Early Warning Score 2 (NEWS2) is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice presentation or when a patient is being monitored in hospital. The score ranges from 0 (best) to 23 (worst). At each visit, only patients with a value at both baseline and the respective visit are included.&#xD;
+A negative change from baseline in NEWS2 score is a favorable outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in SpO2/FiO2 Ratio</measure>
+    <time_frame>Baseline, Day 15, Day 29</time_frame>
+    <description>Change from baseline in peripheral oxygen saturation / fraction of inspired oxygen ratio (SpO2/FiO2 ratio). At each visit, only patients with a value at both baseline and the respective visit are included.&#xD;
+A positive change from baseline in SpO2/FiO2 ratio is a favorable outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Patients With no Oxygen Therapy</measure>
+    <time_frame>Day 15, Day 29</time_frame>
+    <description>Proportion of patients with no oxygen therapy (defined as oxygen saturation ≥ 94% on room air) at Days 15 and 29. Analyses are cumulative, thus analysis on each day includes all events till that day.&#xD;
+Patients with missing data at Day 15 and/or Day 29 are excluded from the analysis.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">432</enrollment>
+  <condition>Cytokine Storm (Covid-19)</condition>
+  <arm_group>
+    <arm_group_label>Ruxolitinib 5 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruxolitinib</intervention_name>
+    <description>Ruxolitinib 5 mg tablets</description>
+    <arm_group_label>Ruxolitinib 5 mg</arm_group_label>
+    <other_name>INC424</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching-image placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patient or guardian/health proxy must provide informed consent (and assent if applicable)&#xD;
+        before any study assessment is performed.&#xD;
+&#xD;
+        Male and female patients aged ≥ 12 years (or ≥ the lower age limit allowed by Health&#xD;
+        Authority and/or Ethics Committee/Institutional Review Board approvals).&#xD;
+&#xD;
+        Patients with coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction&#xD;
+        (PCR) test or another rapid test from the respiratory tract prior to randomization.&#xD;
+&#xD;
+        Patients currently hospitalized or will be hospitalized prior to randomization.&#xD;
+&#xD;
+        Patients, who meet at least one of the below criteria:&#xD;
+&#xD;
+          -  Pulmonary infiltrates (chest X ray or chest CT scan);&#xD;
+&#xD;
+          -  Respiratory frequency ≥ 30/min;&#xD;
+&#xD;
+          -  Requiring supplemental oxygen;&#xD;
+&#xD;
+          -  Oxygen saturation ≤ 94% on room air;&#xD;
+&#xD;
+          -  Arterial oxygen partial pressure (PaO2)/ fraction of inspired oxygen (FiO2) &lt; 300mmHg&#xD;
+             (1mmHg=0.133kPa) (corrective formulation should be used for higher altitude regions&#xD;
+             (over 1000m).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        History of hypersensitivity to any drugs or metabolites of similar chemical classes as&#xD;
+        ruxolitinib.&#xD;
+&#xD;
+        Presence of severely impaired renal function defined by serum creatinine &gt; 2 mg/dL (&gt;176.8&#xD;
+        μmol/L), or have estimated creatinine clearance &lt; 30 ml/min measured or calculated by&#xD;
+        Cockroft Gault equation or calculated by the updated bedside Schwartz equation.&#xD;
+&#xD;
+        Suspected uncontrolled bacterial, fungal, viral, or other infection (besides COVID-19).&#xD;
+&#xD;
+        Currently intubated or intubated between screening and randomization. In intensive care&#xD;
+        unit (ICU) at time of randomization. Intubated or in ICU for COVID-19 disease prior to&#xD;
+        screening. Patients who are on anti-rejection, immunosuppressant or immunomodulatory drugs&#xD;
+        (i.e. tocilizumab, ruxolitinib, canakinumab, sarilumab, anakinra).&#xD;
+&#xD;
+        Unable to ingest tablets at randomization. Pregnant or nursing (lactating) women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53705-3611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>C A B A</city>
+        <state>Buenos Aires</state>
+        <zip>CP1405</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1426AAM</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1430BKC</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>22640-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Blumenau</city>
+        <state>Santa Catarina</state>
+        <zip>89030101</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barretos</city>
+        <state>SP</state>
+        <zip>14784 400</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>01327 001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>04502 001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sorocaba</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rionegro</city>
+        <state>Antioquia</state>
+        <zip>054047</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <zip>080005</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barranquilla</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Colombes Cedex</city>
+        <zip>92701</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Eaubonne</city>
+        <zip>95600</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nantes Cedex 1</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Pierre Benite</city>
+        <zip>69495</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lubeck</city>
+        <zip>23538</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Muenchen</city>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nuernberg</city>
+        <zip>90419</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>México</city>
+        <state>Distrito Federal</state>
+        <zip>14050</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ciudad de Mexico</city>
+        <state>Mexico CP</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Estado de Mexico</city>
+        <zip>52787</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Isidro</city>
+        <state>Lima</state>
+        <zip>27</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Miguel</city>
+        <state>Lima</state>
+        <zip>32</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>10</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>1</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barnaul</city>
+        <zip>656045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>111539</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123056</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ryazan</city>
+        <zip>390039</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>S-Petersburg</city>
+        <zip>194354</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194044</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>199106</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sestroretsk</city>
+        <zip>197706</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>St Petersburg</city>
+        <zip>193312</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Salamanca</city>
+        <state>Castilla Y Leon</state>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluna</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Badalona</city>
+        <state>Catalunya</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28031</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Istanbul</city>
+        <state>TUR</state>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Yenisehir/Izmir</city>
+        <zip>35110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Harrow</city>
+        <zip>HA1 3UJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>WC1E 6HX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M13 9PL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Colombia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Mexico</country>
+    <country>Peru</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Canada</country>
+    <country>Italy</country>
+  </removed_countries>
+  <link>
+    <url>https://www.novctrd.com/ctrdweb/patientsummary/patientsummaries?patientSummaryId=942</url>
+    <description>A Plain Language Trial Summary is available on novartisclinicaltrials.com</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>April 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <results_first_submitted>April 15, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 28, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 2, 2021</results_first_posted>
+  <last_update_submitted>October 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 pneumonia</keyword>
+  <keyword>cytokine release syndrome</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>ruxolitinib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Cytokine Release Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.&#xD;
+This trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 20, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT04362137/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT04362137/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants took part in 61 investigative sites in 12 countries.</recruitment_details>
+      <pre_assignment_details>Patients were to be randomized on the same day as screening or up to 2 days after completing the screening procedures.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Ruxolitinib 5 mg</title>
+          <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="287"/>
+                <participants group_id="P2" count="145"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Safety Set</title>
+              <participants_list>
+                <participants group_id="P1" count="281"/>
+                <participants group_id="P2" count="143"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="269"/>
+                <participants group_id="P2" count="139"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Patient decision</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol deviation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Ruxolitinib 5 mg</title>
+          <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="287"/>
+            <count group_id="B2" value="145"/>
+            <count group_id="B3" value="432"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56.4" spread="13.7"/>
+                    <measurement group_id="B2" value="56.9" spread="12.5"/>
+                    <measurement group_id="B3" value="56.5" spread="13.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="125"/>
+                    <measurement group_id="B2" value="72"/>
+                    <measurement group_id="B3" value="197"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="162"/>
+                    <measurement group_id="B2" value="73"/>
+                    <measurement group_id="B3" value="235"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="242"/>
+                    <measurement group_id="B2" value="109"/>
+                    <measurement group_id="B3" value="351"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>American Indian Or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black Or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Multiple</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Proportion of Patients Who Die, Develop Respiratory Failure [Require Mechanical Ventilation] or Require Intensive Care Unit (ICU) Care</title>
+        <description>Efficacy is measured by a composite endpoint of proportion of patients who die, develop respiratory failure [require mechanical ventilation], or require intensive care unit [ICU] care for the treatment of COVID-19. Analyses are cumulative, thus analysis on Day 29 includes all events till that day. Patients who developed respiratory failure and/or required ICU at randomization are excluded from the analysis.</description>
+        <time_frame>Day 1 - Day 29</time_frame>
+        <population>Randomized participants excluding those who developed respiratory failure and/or required ICU at randomization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Proportion of Patients Who Die, Develop Respiratory Failure [Require Mechanical Ventilation] or Require Intensive Care Unit (ICU) Care</title>
+          <description>Efficacy is measured by a composite endpoint of proportion of patients who die, develop respiratory failure [require mechanical ventilation], or require intensive care unit [ICU] care for the treatment of COVID-19. Analyses are cumulative, thus analysis on Day 29 includes all events till that day. Patients who developed respiratory failure and/or required ICU at randomization are excluded from the analysis.</description>
+          <population>Randomized participants excluding those who developed respiratory failure and/or required ICU at randomization.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="284"/>
+                <count group_id="O2" value="144"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.769</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.91</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.48</ci_lower_limit>
+            <ci_upper_limit>1.73</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &lt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Status</title>
+        <description>Clinical status is measured with the 9-point ordinal scale.&#xD;
+The scoring is:&#xD;
+Uninfected patients have a score 0 (no clinical or virological evidence of infection).&#xD;
+Ambulatory patients (not in hospital or in hospital and ready for discharge) can have a score 1 (no limitation of activities) or 2 (limitation of activities).&#xD;
+Hospitalized patients with mild disease can have score 3 (no oxygen therapy defined as peripheral oxygen saturation (SpO2) ≥ 94% on room air) or 4 (oxygen by mask or nasal prongs).&#xD;
+Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)).&#xD;
+Patients who die have a score 8.</description>
+        <time_frame>Baseline, Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Status</title>
+          <description>Clinical status is measured with the 9-point ordinal scale.&#xD;
+The scoring is:&#xD;
+Uninfected patients have a score 0 (no clinical or virological evidence of infection).&#xD;
+Ambulatory patients (not in hospital or in hospital and ready for discharge) can have a score 1 (no limitation of activities) or 2 (limitation of activities).&#xD;
+Hospitalized patients with mild disease can have score 3 (no oxygen therapy defined as peripheral oxygen saturation (SpO2) ≥ 94% on room air) or 4 (oxygen by mask or nasal prongs).&#xD;
+Hospitalized patients with severe disease can have score 5 (non-invasive ventilation or high-flow oxygen), 6 (intubation and mechanical ventilation) or 7 (ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)).&#xD;
+Patients who die have a score 8.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>score on scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="286"/>
+                    <count group_id="O2" value="145"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.7" spread="0.56"/>
+                    <measurement group_id="O2" value="3.7" spread="0.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="142"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.8" spread="1.54"/>
+                    <measurement group_id="O2" value="1.8" spread="1.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="278"/>
+                    <count group_id="O2" value="142"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.1" spread="1.61"/>
+                    <measurement group_id="O2" value="1.0" spread="1.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients With at Least Two-point Improvement From Baseline in Clinical Status</title>
+        <description>Percentage of patients with at least two points improvement in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+        <time_frame>Baseline, Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With at Least Two-point Improvement From Baseline in Clinical Status</title>
+          <description>Percentage of patients with at least two points improvement in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+          <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="206"/>
+                    <measurement group_id="O2" value="108"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="252"/>
+                    <measurement group_id="O2" value="129"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 15</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.647</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.89</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.55</ci_lower_limit>
+            <ci_upper_limit>1.46</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 29</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.997</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.00</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.52</ci_lower_limit>
+            <ci_upper_limit>1.92</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients With at Least One-point Improvement From Baseline in Clinical Status</title>
+        <description>Percentage of patients with at least one point improvement in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+        <time_frame>Baseline, Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With at Least One-point Improvement From Baseline in Clinical Status</title>
+          <description>Percentage of patients with at least one point improvement in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+          <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="250"/>
+                    <measurement group_id="O2" value="128"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="261"/>
+                    <measurement group_id="O2" value="136"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 15</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.946</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.98</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.51</ci_lower_limit>
+            <ci_upper_limit>1.87</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 29</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.573</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.79</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.35</ci_lower_limit>
+            <ci_upper_limit>1.79</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients With at Least One-point Deterioration From Baseline in Clinical Status</title>
+        <description>Percentage of patients with at least one point deterioration in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+        <time_frame>Baseline, Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With at Least One-point Deterioration From Baseline in Clinical Status</title>
+          <description>Percentage of patients with at least one point deterioration in clinical status on the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are treated as non-responders.</description>
+          <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 15</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.532</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.75</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.31</ci_lower_limit>
+            <ci_upper_limit>1.83</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &lt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 29</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.764</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.18</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.40</ci_lower_limit>
+            <ci_upper_limit>3.49</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &lt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Improvement in Clinical Status</title>
+        <description>Time to improvement in clinical status from baseline category to one less severe category of the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment.&#xD;
+Median time to improvement is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study. Patients who did not achieve improvement and did not die are censored at their last clinical status assessment date.</description>
+        <time_frame>29 days</time_frame>
+        <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Improvement in Clinical Status</title>
+          <description>Time to improvement in clinical status from baseline category to one less severe category of the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment.&#xD;
+Median time to improvement is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study. Patients who did not achieve improvement and did not die are censored at their last clinical status assessment date.</description>
+          <population>Randomized participants with a valid assessment of clinical status at baseline.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.0" lower_limit="8.0" upper_limit="10.0"/>
+                    <measurement group_id="O2" value="9.0" lower_limit="8.0" upper_limit="12.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.330</p_value>
+            <method>Proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.11</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.90</ci_lower_limit>
+            <ci_upper_limit>1.37</ci_upper_limit>
+            <estimate_desc>Between group comparison using competing risk framework. A hazard ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mean Change From Baseline in the Clinical Status</title>
+        <description>Mean change from baseline in the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are excluded from the analysis.&#xD;
+A negative change from baseline in the clinical status is a favorable outcome.</description>
+        <time_frame>Baseline, Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean Change From Baseline in the Clinical Status</title>
+          <description>Mean change from baseline in the 9-point ordinal scale. The baseline value of clinical status is defined as the last assessment prior to first dose of double-blind treatment. Patients with missing data at Day 15 and/or Day 29 are excluded from the analysis.&#xD;
+A negative change from baseline in the clinical status is a favorable outcome.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>score on scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="280"/>
+                    <count group_id="O2" value="142"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.96" spread="0.084"/>
+                    <measurement group_id="O2" value="-1.93" spread="0.118"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="278"/>
+                    <count group_id="O2" value="142"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.61" spread="0.090"/>
+                    <measurement group_id="O2" value="-2.69" spread="0.126"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 15</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.831</p_value>
+            <method>ANCOVA</method>
+            <param_type>Least squares (LS) mean</param_type>
+            <param_value>-0.03</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.144</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.31</ci_lower_limit>
+            <ci_upper_limit>0.25</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 29</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.624</p_value>
+            <method>ANCOVA</method>
+            <param_type>LS Mean</param_type>
+            <param_value>0.08</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.155</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.23</ci_lower_limit>
+            <ci_upper_limit>0.38</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality Rate</title>
+        <description>Mortality rate is determined as the proportion of participants who died by study Day 15 and Day 29</description>
+        <time_frame>Day 15, Day 29</time_frame>
+        <population>All randomized participants including those who did not receive any dose, as per intent-to-treat principle, and excluding patients lost to follow up.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality Rate</title>
+          <description>Mortality rate is determined as the proportion of participants who died by study Day 15 and Day 29</description>
+          <population>All randomized participants including those who did not receive any dose, as per intent-to-treat principle, and excluding patients lost to follow up.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="286"/>
+                    <count group_id="O2" value="145"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="286"/>
+                    <count group_id="O2" value="145"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 15</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.944</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.94</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.20</ci_lower_limit>
+            <ci_upper_limit>5.57</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &lt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 29</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.775</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.21</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.35</ci_lower_limit>
+            <ci_upper_limit>5.11</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &lt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Patients Requiring Mechanical Ventilation</title>
+        <description>Proportion of patients requiring mechanical ventilation. Analyses are cumulative, thus analysis on Day 29 includes all events till that day. Patients who required mechanical ventilation at randomization are excluded from the analysis.</description>
+        <time_frame>Day 1 - Day 29</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Proportion of Patients Requiring Mechanical Ventilation</title>
+          <description>Proportion of patients requiring mechanical ventilation. Analyses are cumulative, thus analysis on Day 29 includes all events till that day. Patients who required mechanical ventilation at randomization are excluded from the analysis.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.987</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.99</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.45</ci_lower_limit>
+            <ci_upper_limit>2.21</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &lt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Hospitalization</title>
+        <description>Duration of hospitalization is defined as time to hospital discharge. Median time to hospital discharge is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study. Patients who were not discharged and did not die are censored at their last assessment date.</description>
+        <time_frame>29 days</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Hospitalization</title>
+          <description>Duration of hospitalization is defined as time to hospital discharge. Median time to hospital discharge is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study. Patients who were not discharged and did not die are censored at their last assessment date.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.0" lower_limit="8.0" upper_limit="10.0"/>
+                    <measurement group_id="O2" value="9.0" lower_limit="8.0" upper_limit="12.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.738</p_value>
+            <method>Proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.04</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.84</ci_lower_limit>
+            <ci_upper_limit>1.28</ci_upper_limit>
+            <estimate_desc>Between group comparison using competing risk framework. A hazard ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Hospital Discharge or to a NEWS2 Score of ≤2</title>
+        <description>The time to hospital discharge or to a National Early Warning Score 2 (NEWS2) of ≤2 and maintained for 24 hours whichever comes first.&#xD;
+The NEWS2 is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice presentation or when a patient is being monitored in hospital. The score ranges from 0 (best) to 23 (worst).&#xD;
+Median time is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study.</description>
+        <time_frame>29 days</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Hospital Discharge or to a NEWS2 Score of ≤2</title>
+          <description>The time to hospital discharge or to a National Early Warning Score 2 (NEWS2) of ≤2 and maintained for 24 hours whichever comes first.&#xD;
+The NEWS2 is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice presentation or when a patient is being monitored in hospital. The score ranges from 0 (best) to 23 (worst).&#xD;
+Median time is estimated by Kaplan-Meier method, with dead patients being censored at the maximum follow-up time in the study.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="286"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.0" lower_limit="3.0" upper_limit="4.0"/>
+                    <measurement group_id="O2" value="4.0" lower_limit="3.0" upper_limit="5.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.869</p_value>
+            <method>Proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.02</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.84</ci_lower_limit>
+            <ci_upper_limit>1.23</ci_upper_limit>
+            <estimate_desc>Between group comparison using competing risk framework. A hazard ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in NEWS2 Score</title>
+        <description>The National Early Warning Score 2 (NEWS2) is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice presentation or when a patient is being monitored in hospital. The score ranges from 0 (best) to 23 (worst). At each visit, only patients with a value at both baseline and the respective visit are included.&#xD;
+A negative change from baseline in NEWS2 score is a favorable outcome.</description>
+        <time_frame>Baseline, Days 3, 5, 8, 11, 15, and 29</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in NEWS2 Score</title>
+          <description>The National Early Warning Score 2 (NEWS2) is based on a simple aggregate scoring system in which a score is allocated to physiological measurements, already recorded in routine practice presentation or when a patient is being monitored in hospital. The score ranges from 0 (best) to 23 (worst). At each visit, only patients with a value at both baseline and the respective visit are included.&#xD;
+A negative change from baseline in NEWS2 score is a favorable outcome.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>score on scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="264"/>
+                    <count group_id="O2" value="135"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.7" spread="1.91"/>
+                    <measurement group_id="O2" value="-0.6" spread="2.13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="230"/>
+                    <count group_id="O2" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.0" spread="2.02"/>
+                    <measurement group_id="O2" value="-0.8" spread="2.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="175"/>
+                    <count group_id="O2" value="91"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.3" spread="2.25"/>
+                    <measurement group_id="O2" value="-1.3" spread="2.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="113"/>
+                    <count group_id="O2" value="66"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.1" spread="2.70"/>
+                    <measurement group_id="O2" value="-1.3" spread="2.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="257"/>
+                    <count group_id="O2" value="132"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.9" spread="2.34"/>
+                    <measurement group_id="O2" value="-2.2" spread="2.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="234"/>
+                    <count group_id="O2" value="122"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.3" spread="2.37"/>
+                    <measurement group_id="O2" value="-2.5" spread="2.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in SpO2/FiO2 Ratio</title>
+        <description>Change from baseline in peripheral oxygen saturation / fraction of inspired oxygen ratio (SpO2/FiO2 ratio). At each visit, only patients with a value at both baseline and the respective visit are included.&#xD;
+A positive change from baseline in SpO2/FiO2 ratio is a favorable outcome.</description>
+        <time_frame>Baseline, Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment of the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in SpO2/FiO2 Ratio</title>
+          <description>Change from baseline in peripheral oxygen saturation / fraction of inspired oxygen ratio (SpO2/FiO2 ratio). At each visit, only patients with a value at both baseline and the respective visit are included.&#xD;
+A positive change from baseline in SpO2/FiO2 ratio is a favorable outcome.</description>
+          <population>Randomized participants with a valid assessment of the outcome measure.</population>
+          <units>no units</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="260"/>
+                    <count group_id="O2" value="132"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="90.110" spread="104.4783"/>
+                    <measurement group_id="O2" value="106.766" spread="100.9778"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="232"/>
+                    <count group_id="O2" value="124"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="105.553" spread="98.2452"/>
+                    <measurement group_id="O2" value="109.710" spread="95.4279"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Patients With no Oxygen Therapy</title>
+        <description>Proportion of patients with no oxygen therapy (defined as oxygen saturation ≥ 94% on room air) at Days 15 and 29. Analyses are cumulative, thus analysis on each day includes all events till that day.&#xD;
+Patients with missing data at Day 15 and/or Day 29 are excluded from the analysis.</description>
+        <time_frame>Day 15, Day 29</time_frame>
+        <population>Randomized participants with a valid assessment of the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Proportion of Patients With no Oxygen Therapy</title>
+          <description>Proportion of patients with no oxygen therapy (defined as oxygen saturation ≥ 94% on room air) at Days 15 and 29. Analyses are cumulative, thus analysis on each day includes all events till that day.&#xD;
+Patients with missing data at Day 15 and/or Day 29 are excluded from the analysis.</description>
+          <population>Randomized participants with a valid assessment of the outcome measure.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="274"/>
+                    <count group_id="O2" value="140"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="255"/>
+                    <measurement group_id="O2" value="133"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="269"/>
+                    <count group_id="O2" value="139"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="262"/>
+                    <measurement group_id="O2" value="136"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 15</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.325</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.61</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.23</ci_lower_limit>
+            <ci_upper_limit>1.63</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Day 29</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.22</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.25</ci_lower_limit>
+            <ci_upper_limit>5.40</ci_upper_limit>
+            <estimate_desc>Comparison is ruxolitinib 5 mg/placebo. An odds ratio &gt; 1 favors the ruxolitinib 5 mg arm</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>All Collected Deaths</title>
+        <description>Deaths in the safety population were evaluated in all participants who received at least one dose of double-blind treatment.&#xD;
+Total deaths were evaluated in all participants randomized.</description>
+        <time_frame>29 days</time_frame>
+        <population>Clinical database population - all randomized participants</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ruxolitinib 5 mg</title>
+            <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All Collected Deaths</title>
+          <description>Deaths in the safety population were evaluated in all participants who received at least one dose of double-blind treatment.&#xD;
+Total deaths were evaluated in all participants randomized.</description>
+          <population>Clinical database population - all randomized participants</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="287"/>
+                <count group_id="O2" value="145"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Deaths in the safety population</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="281"/>
+                    <count group_id="O2" value="143"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Total deaths</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="287"/>
+                    <count group_id="O2" value="145"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From first dose of double-blind treatment and up to the last study visit (Day 29).</time_frame>
+      <desc>Adverse events are considered as treatment-emergent if the event started after the first dose of double-blind treatment or the event was present prior to start of double-blind treatment but increased in severity based on preferred term and up to the last study visit (Day 29).&#xD;
+Adverse events and all-cause mortality are evaluated in the Safety Set that includes all participants who received at least one dose of double-blind treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Ruxolitinib 5 mg</title>
+          <description>Ruxolitinib 5 mg tablets twice daily (b.i.d.) for 14 days with possible extension of treatment to 28 days</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Matching-image placebo for 14 days with possible extension of treatment to 28 days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (23.1)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="31" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Disseminated intravascular coagulation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adams-Stokes syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Cardiopulmonary failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pancreatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adverse event</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>General physical health deterioration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Multiple organ dysfunction syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Performance status decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Antibiotic associated colitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Escherichia bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia fungal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Endotracheal intubation complication</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Transaminases increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebral infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Hypoglycaemic coma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Ischaemic stroke</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary fibrosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Respiratory disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Respiratory distress</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_vocab>MedDRA (23.1)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="113" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="62" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Leukocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Transaminases increased</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Hyponatraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Hypoproteinaemia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="23" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="281"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="143"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The terms and conditions of Novartis' agreements with its investigators may vary. Novartis does not prohibit any investigator from publishing. Any publications from a single site are postponed until the publication of the pooled data (ie, data from all sites) in the clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Study Director</name_or_title>
+      <organization>Novartis Pharmaceuticals</organization>
+      <phone>862-778-8300</phone>
+      <email>Novartis.email@novartis.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

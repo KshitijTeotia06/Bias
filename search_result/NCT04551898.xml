@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="82">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04551898</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BGB-DXP593-102</org_study_id>
+    <nct_id>NCT04551898</nct_id>
+  </id_info>
+  <brief_title>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Neutralizing Antibody BGB-DXP593 in Participants With Mild-to-Moderate Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <official_title>A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of SARS-CoV-2 Neutralizing Antibody BGB-DXP593 in Patients With Mild-to-Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BeiGene</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BeiGene</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the efficacy of BGB-DXP593 administered&#xD;
+      intravenously as a single dose in participants with mild to moderate COVID-19&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 2, 2020</start_date>
+  <completion_date type="Actual">May 25, 2021</completion_date>
+  <primary_completion_date type="Actual">May 25, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline to Day 8 in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Viral Shedding</measure>
+    <time_frame>Baseline and Day 8</time_frame>
+    <description>SARS-CoV-2 viral shedding was measured by reverse transcription-quantitative polymerase chain reaction (RT-qPCR) in nasopharyngeal swab samples.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time-Weighted Average Change in SARS-CoV-2 Viral Shedding From Baseline to Day 15</measure>
+    <time_frame>Baseline and Day 15</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 Viral Shedding From Baseline to Day 15</measure>
+    <time_frame>Baseline and Day 15</time_frame>
+    <description>SARS-CoV-2 viral shedding was measured by RT-qPCR in nasopharyngeal swab samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Negative RT-qPCR in All Tested Samples</measure>
+    <time_frame>From Baseline up to Day 21</time_frame>
+    <description>The negative RT-qPCR is defined as the value that is below the lower limit of detection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Required Hospitalization Due to Worsened COVID-19</measure>
+    <time_frame>Baseline up to End of Study (EOS) /174 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Resolution of All COVID-19-Related Symptoms</measure>
+    <time_frame>Baseline up to EOS /174 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality at Day 29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Number of participants that died by Day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to 174 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax) of BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to174 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Plasma Concentration-time Curve (AUC) of BGB-DXP593 From Time 0 to Day 29</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, and 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Plasma Concentration-time Curve (AUC) of BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+    <description>AUClast : AUC from time zero to the time of the last quantifiable concentration AUCinf: AUC from zero to infinite time with extrapolation of the terminal phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Cmax (Tmax) of BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal Half-Life (t1/2) of BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL) of BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Distribution During the Terminal Phase (Vz) of BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Anti-drug Antibodies (ADAs) to BGB-DXP593</measure>
+    <time_frame>Day 1 (pre-dose) Days 15, 29, and End of study visit (up to 174 days)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">181</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>BGB-DXP593 Low Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive BGB-DXP593 on Day 1, and followed up for safety for up to 85 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BGB-DXP593 Medium Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive BGB-DXP593 on Day 1, and followed up for safety for up to 85 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BGB-DXP593 High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive BGB-DXP593 on Day 1, and followed up for safety for up to 85 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo on Day 1, and followed up for safety for up to 85 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BGB-DXP593</intervention_name>
+    <description>Intravenous (IV) infusion administered over 30 to 90 minutes at a dose as specified in the treatment arm</description>
+    <arm_group_label>BGB-DXP593 High Dose</arm_group_label>
+    <arm_group_label>BGB-DXP593 Low Dose</arm_group_label>
+    <arm_group_label>BGB-DXP593 Medium Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo to match BGB-DXP593 administered as specified in the treatment arm</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          1. Laboratory-confirmed severe acute respiratory syndrome (SARS)-CoV-2 infection&#xD;
+             (positive reverse transcription-polymerase chain reaction [RT-PCR] test or other&#xD;
+             authorized antigen testing methods) in any samples following local practice ≤ 72 hours&#xD;
+             prior to screening.&#xD;
+&#xD;
+          2. Have experienced COVID-19 symptoms for ≤ 7 days prior to treatment assignment, such as&#xD;
+             fever, cough, shortness of breath, sore throat, diarrhea, vomiting, and dysgeusia&#xD;
+&#xD;
+          3. Agree to the collection of nasopharyngeal swabs, saliva, and venous blood&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe COVID-19 having oxygen saturation (SpO2) ≤ 93 % on room air at sea level or&#xD;
+             ratio of arterial oxygen partial pressure (PaO2 in millimeters of mercury) to&#xD;
+             fractional inspired oxygen (FiO2) &lt; 300, respiratory rate ≥ 30/min, heart rate ≥&#xD;
+             125/min&#xD;
+&#xD;
+          2. Requires mechanical ventilation or anticipated impending need for mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          3. Known allergies to any of the components used in the formulation of the interventions&#xD;
+&#xD;
+          4. Have received an investigational intervention for SARS-CoV-2 prophylaxis within 30&#xD;
+             days before dosing&#xD;
+&#xD;
+          5. Have received treatment with a SARS-CoV-2 specific monoclonal antibody&#xD;
+&#xD;
+        NOTE: Other protocol defined Inclusion/Exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BeiGene</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Midland Florida Clinical Research Center, LLC</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Medical Center</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>33207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Homestead Associates in Research Inc.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Research Center of Miami II, Inc.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>US Associates in Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Continental Research Network</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33187</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Omega Research Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Revival Research Institute, LLC.</name>
+      <address>
+        <city>Dearborn</city>
+        <state>Michigan</state>
+        <zip>48126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Phase Research &amp; Development</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Amarillo Center for Clinical Research</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PanAmerican Clinical Research</name>
+      <address>
+        <city>Brownsville</city>
+        <state>Texas</state>
+        <zip>78520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação Universidade de Caxias do Sul - Instituto de Pesquisas em Saúde</name>
+      <address>
+        <city>Petropolis</city>
+        <state>Caxias Do Sul</state>
+        <zip>95070</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clínicas da Faculdade de Medicina de Botucatu</name>
+      <address>
+        <city>Botucatu</city>
+        <zip>18618</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CMPC Pesquisa Clinica</name>
+      <address>
+        <city>Sorocaba</city>
+        <zip>18040</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cardiologica Aguascalientes</name>
+      <address>
+        <city>Aguascalientes</city>
+        <zip>20230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Iecsi S.C.</name>
+      <address>
+        <city>Monterrey</city>
+        <zip>58249</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>TASK</name>
+      <address>
+        <city>Cape Town</city>
+        <zip>7500</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Langeberg Clinical Trials</name>
+      <address>
+        <city>Cape Town</city>
+        <zip>7570</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>South Africa</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Australia</country>
+  </removed_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2020</study_first_posted>
+  <results_first_submitted>February 25, 2022</results_first_submitted>
+  <results_first_submitted_qc>March 15, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 17, 2022</results_first_posted>
+  <last_update_submitted>March 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 27, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/98/NCT04551898/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/98/NCT04551898/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This study was conducted in 20 centers and 181 participants were treated.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+        </group>
+        <group group_id="P2">
+          <title>BGB-DXP593 5 mg/kg</title>
+          <description>Single intravenous infusion of 5 milligrams/kilogram (mg/kg) DXP593 administered for 30 to 90 minutes</description>
+        </group>
+        <group group_id="P3">
+          <title>BGB-DXP593 15 mg/kg</title>
+          <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+        </group>
+        <group group_id="P4">
+          <title>BGB-DXP593 30 mg/kg</title>
+          <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="47"/>
+                <participants group_id="P2" count="45"/>
+                <participants group_id="P3" count="43"/>
+                <participants group_id="P4" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="39"/>
+                <participants group_id="P2" count="42"/>
+                <participants group_id="P3" count="35"/>
+                <participants group_id="P4" count="41"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="8"/>
+                <participants group_id="P4" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Participant randomized but did not receive study drug</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Incorrectly randomized and screen failed due to administrative error</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Intent to treat (ITT) analysis set includes all randomized participants.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+        </group>
+        <group group_id="B2">
+          <title>BGB-DXP593 5 mg/kg</title>
+          <description>Single intravenous infusion of 5 mg/kg DXP593 administered over 30 to 90 minutes</description>
+        </group>
+        <group group_id="B3">
+          <title>BGB-DXP593 15 mg/kg</title>
+          <description>Single intravenous infusion of 15 mg/kg DXP593 administered over 30 to 90 minutes</description>
+        </group>
+        <group group_id="B4">
+          <title>BGB-DXP593 30 mg/kg</title>
+          <description>Single intravenous infusion of 30 mg/kg DXP593 administered over 30 to 90 minutes</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="47"/>
+            <count group_id="B2" value="45"/>
+            <count group_id="B3" value="43"/>
+            <count group_id="B4" value="46"/>
+            <count group_id="B5" value="181"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44.3" spread="14.02"/>
+                    <measurement group_id="B2" value="46.2" spread="15.56"/>
+                    <measurement group_id="B3" value="43.6" spread="12.43"/>
+                    <measurement group_id="B4" value="41.1" spread="13.35"/>
+                    <measurement group_id="B5" value="43.8" spread="13.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="22"/>
+                    <measurement group_id="B4" value="27"/>
+                    <measurement group_id="B5" value="86"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="21"/>
+                    <measurement group_id="B4" value="19"/>
+                    <measurement group_id="B5" value="95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="35"/>
+                    <measurement group_id="B3" value="39"/>
+                    <measurement group_id="B4" value="33"/>
+                    <measurement group_id="B5" value="147"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline to Day 8 in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Viral Shedding</title>
+        <description>SARS-CoV-2 viral shedding was measured by reverse transcription-quantitative polymerase chain reaction (RT-qPCR) in nasopharyngeal swab samples.</description>
+        <time_frame>Baseline and Day 8</time_frame>
+        <population>Intent To Treat (ITT) analysis set. Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline to Day 8 in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Viral Shedding</title>
+          <description>SARS-CoV-2 viral shedding was measured by reverse transcription-quantitative polymerase chain reaction (RT-qPCR) in nasopharyngeal swab samples.</description>
+          <population>Intent To Treat (ITT) analysis set. Participants with available data were included in the analysis.</population>
+          <units>log10 copies/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41"/>
+                <count group_id="O2" value="42"/>
+                <count group_id="O3" value="34"/>
+                <count group_id="O4" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.88" spread="2.241"/>
+                    <measurement group_id="O2" value="-3.52" spread="2.831"/>
+                    <measurement group_id="O3" value="-3.75" spread="2.513"/>
+                    <measurement group_id="O4" value="-3.03" spread="2.239"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.4829</p_value>
+            <method>Mixed Models Analysis</method>
+            <param_type>Least square Mean</param_type>
+            <param_value>-0.25</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.84</ci_lower_limit>
+            <ci_upper_limit>0.34</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1739</p_value>
+            <method>Mixed Models Analysis</method>
+            <param_type>Least square Mean</param_type>
+            <param_value>-0.51</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.13</ci_lower_limit>
+            <ci_upper_limit>0.11</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.6006</p_value>
+            <method>Mixed Models Analysis</method>
+            <param_type>Least square Mean</param_type>
+            <param_value>0.19</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.40</ci_lower_limit>
+            <ci_upper_limit>0.77</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.4996</p_value>
+            <p_value_desc>H0: there is a flat dose response curve comparing change from baseline to Day 8 in viral load in the Placebo and other BGB-DXP593 dose groups</p_value_desc>
+            <method>t-test, 1 sided</method>
+            <method_desc>MCP Mod was used to test the primary hypothesis and provide 1-sided p-value accordingly.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time-Weighted Average Change in SARS-CoV-2 Viral Shedding From Baseline to Day 15</title>
+        <time_frame>Baseline and Day 15</time_frame>
+        <population>ITT analysis set. Participants with available samples were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time-Weighted Average Change in SARS-CoV-2 Viral Shedding From Baseline to Day 15</title>
+          <population>ITT analysis set. Participants with available samples were included in the analysis.</population>
+          <units>log10 copies/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="43"/>
+                <count group_id="O3" value="37"/>
+                <count group_id="O4" value="44"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.56" spread="1.718"/>
+                    <measurement group_id="O2" value="-2.93" spread="1.997"/>
+                    <measurement group_id="O3" value="-2.87" spread="2.049"/>
+                    <measurement group_id="O4" value="-2.55" spread="1.785"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in SARS-CoV-2 Viral Shedding From Baseline to Day 15</title>
+        <description>SARS-CoV-2 viral shedding was measured by RT-qPCR in nasopharyngeal swab samples</description>
+        <time_frame>Baseline and Day 15</time_frame>
+        <population>ITT analysis set. Participants with available samples were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered over 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in SARS-CoV-2 Viral Shedding From Baseline to Day 15</title>
+          <description>SARS-CoV-2 viral shedding was measured by RT-qPCR in nasopharyngeal swab samples</description>
+          <population>ITT analysis set. Participants with available samples were included in the analysis.</population>
+          <units>log10 copies/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41"/>
+                <count group_id="O2" value="41"/>
+                <count group_id="O3" value="32"/>
+                <count group_id="O4" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.16" spread="2.446"/>
+                    <measurement group_id="O2" value="-4.29" spread="2.675"/>
+                    <measurement group_id="O3" value="-4.31" spread="2.851"/>
+                    <measurement group_id="O4" value="-4.04" spread="2.577"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Negative RT-qPCR in All Tested Samples</title>
+        <description>The negative RT-qPCR is defined as the value that is below the lower limit of detection</description>
+        <time_frame>From Baseline up to Day 21</time_frame>
+        <population>ITT analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Negative RT-qPCR in All Tested Samples</title>
+          <description>The negative RT-qPCR is defined as the value that is below the lower limit of detection</description>
+          <population>ITT analysis set</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="45"/>
+                <count group_id="O3" value="43"/>
+                <count group_id="O4" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.00" lower_limit="15.00" upper_limit="19.00"/>
+                    <measurement group_id="O2" value="15.00" lower_limit="13.00" upper_limit="17.00"/>
+                    <measurement group_id="O3" value="10.00" lower_limit="8.00" upper_limit="16.00"/>
+                    <measurement group_id="O4" value="17.00" lower_limit="15.00" upper_limit="17.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants Who Required Hospitalization Due to Worsened COVID-19</title>
+        <time_frame>Baseline up to End of Study (EOS) /174 Days</time_frame>
+        <population>ITT analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Who Required Hospitalization Due to Worsened COVID-19</title>
+          <population>ITT analysis set</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="45"/>
+                <count group_id="O3" value="43"/>
+                <count group_id="O4" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.3"/>
+                    <measurement group_id="O2" value="2.2"/>
+                    <measurement group_id="O3" value="2.3"/>
+                    <measurement group_id="O4" value="0.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Resolution of All COVID-19-Related Symptoms</title>
+        <time_frame>Baseline up to EOS /174 Days</time_frame>
+        <population>ITT analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Resolution of All COVID-19-Related Symptoms</title>
+          <population>ITT analysis set</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="45"/>
+                <count group_id="O3" value="43"/>
+                <count group_id="O4" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.5" lower_limit="14.00" upper_limit="22.00"/>
+                    <measurement group_id="O2" value="15.0" lower_limit="14.00" upper_limit="22.00"/>
+                    <measurement group_id="O3" value="19.0" lower_limit="15.00" upper_limit="22.00"/>
+                    <measurement group_id="O4" value="14.0" lower_limit="9.00" upper_limit="16.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-Cause Mortality at Day 29</title>
+        <description>Number of participants that died by Day 29</description>
+        <time_frame>Day 29</time_frame>
+        <population>ITT analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-Cause Mortality at Day 29</title>
+          <description>Number of participants that died by Day 29</description>
+          <population>ITT analysis set</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="45"/>
+                <count group_id="O3" value="43"/>
+                <count group_id="O4" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.13"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</title>
+        <time_frame>Up to 174 days</time_frame>
+        <population>Safety analysis set includes all participants who received the study drug or placebo.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O4">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</title>
+          <population>Safety analysis set includes all participants who received the study drug or placebo.</population>
+          <units>Number of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="44"/>
+                <count group_id="O3" value="40"/>
+                <count group_id="O4" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>With at Least One TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="6"/>
+                    <measurement group_id="O3" value="4"/>
+                    <measurement group_id="O4" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 or Higher TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Serious TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Maximum Observed Plasma Concentration (Cmax) of BGB-DXP593</title>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to174 days)</time_frame>
+        <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Observed Plasma Concentration (Cmax) of BGB-DXP593</title>
+          <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>µg/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="40"/>
+                <count group_id="O3" value="44"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="132.95" spread="53.180"/>
+                    <measurement group_id="O2" value="368.22" spread="232.040"/>
+                    <measurement group_id="O3" value="714.17" spread="149.198"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Plasma Concentration-time Curve (AUC) of BGB-DXP593 From Time 0 to Day 29</title>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, and 29</time_frame>
+        <population>PK analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Plasma Concentration-time Curve (AUC) of BGB-DXP593 From Time 0 to Day 29</title>
+          <population>PK analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>day*μg/mL</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="37"/>
+                <count group_id="O3" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1188.7" lower_limit="620" upper_limit="3540"/>
+                    <measurement group_id="O2" value="3014.3" lower_limit="1198" upper_limit="4159"/>
+                    <measurement group_id="O3" value="6609.2" lower_limit="4345" upper_limit="8989"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Plasma Concentration-time Curve (AUC) of BGB-DXP593</title>
+        <description>AUClast : AUC from time zero to the time of the last quantifiable concentration AUCinf: AUC from zero to infinite time with extrapolation of the terminal phase</description>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+        <population>PK analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Plasma Concentration-time Curve (AUC) of BGB-DXP593</title>
+          <description>AUClast : AUC from time zero to the time of the last quantifiable concentration AUCinf: AUC from zero to infinite time with extrapolation of the terminal phase</description>
+          <population>PK analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>day*μg/mL</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="43"/>
+                <count group_id="O2" value="40"/>
+                <count group_id="O3" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>AUClast</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="43"/>
+                    <count group_id="O2" value="40"/>
+                    <count group_id="O3" value="45"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1829.3" lower_limit="843" upper_limit="4491"/>
+                    <measurement group_id="O2" value="4707.5" lower_limit="406" upper_limit="6883"/>
+                    <measurement group_id="O3" value="10259.5" lower_limit="5165" upper_limit="16198"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>AUCInf</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="35"/>
+                    <count group_id="O3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2098.7" lower_limit="851" upper_limit="4564"/>
+                    <measurement group_id="O2" value="4996.3" lower_limit="2065" upper_limit="7351"/>
+                    <measurement group_id="O3" value="10509.2" lower_limit="5816" upper_limit="17245"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Reach Cmax (Tmax) of BGB-DXP593</title>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+        <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Reach Cmax (Tmax) of BGB-DXP593</title>
+          <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="43"/>
+                <count group_id="O2" value="40"/>
+                <count group_id="O3" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.500" lower_limit="0.75" upper_limit="322.72"/>
+                    <measurement group_id="O2" value="1.500" lower_limit="0.73" upper_limit="35.50"/>
+                    <measurement group_id="O3" value="1.500" lower_limit="0.83" upper_limit="34.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Terminal Half-Life (t1/2) of BGB-DXP593</title>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+        <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Terminal Half-Life (t1/2) of BGB-DXP593</title>
+          <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>Day</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="35"/>
+                <count group_id="O3" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.4" lower_limit="15" upper_limit="40"/>
+                    <measurement group_id="O2" value="23.2" lower_limit="15" upper_limit="32"/>
+                    <measurement group_id="O3" value="20.8" lower_limit="14" upper_limit="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clearance (CL) of BGB-DXP593</title>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+        <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clearance (CL) of BGB-DXP593</title>
+          <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>Liters/Day</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="35"/>
+                <count group_id="O3" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.21" lower_limit="0.1" upper_limit="0.5"/>
+                    <measurement group_id="O2" value="0.25" lower_limit="0.2" upper_limit="0.5"/>
+                    <measurement group_id="O3" value="0.24" lower_limit="0.1" upper_limit="0.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Volume of Distribution During the Terminal Phase (Vz) of BGB-DXP593</title>
+        <time_frame>Day 1 (pre-dose, End of Infusion) Days 3, 8, 15, 29, and End of study visit (up to 174 days)</time_frame>
+        <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Volume of Distribution During the Terminal Phase (Vz) of BGB-DXP593</title>
+          <population>Pharmacokinetic (PK) analysis set includes all participants who have received the study drug per protocol and for whom PK data are available.</population>
+          <units>Liters</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="35"/>
+                <count group_id="O3" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.58" lower_limit="2.5" upper_limit="11.9"/>
+                    <measurement group_id="O2" value="8.07" lower_limit="5.2" upper_limit="18.9"/>
+                    <measurement group_id="O3" value="7.33" lower_limit="3.3" upper_limit="11.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Anti-drug Antibodies (ADAs) to BGB-DXP593</title>
+        <time_frame>Day 1 (pre-dose) Days 15, 29, and End of study visit (up to 174 days)</time_frame>
+        <population>The ADA Analysis Set includes all the participants who have received the study drug and in whom both baseline ADA and at least 1 postbaseline ADA results are available</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGB-DXP593 5 mg/kg</title>
+            <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>BGB-DXP593 15 mg/kg</title>
+            <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+          <group group_id="O3">
+            <title>BGB-DXP593 30 mg/kg</title>
+            <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Anti-drug Antibodies (ADAs) to BGB-DXP593</title>
+          <population>The ADA Analysis Set includes all the participants who have received the study drug and in whom both baseline ADA and at least 1 postbaseline ADA results are available</population>
+          <units>Number of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="44"/>
+                <count group_id="O2" value="37"/>
+                <count group_id="O3" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Treatment Induced</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutralizing antibody Positive</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 174 days</time_frame>
+      <desc>Safety Analysis Set included all participants who received the study drug or placebo.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>Single intravenous infusion of placebo solution administered over 30 to 90 minutes</description>
+        </group>
+        <group group_id="E2">
+          <title>BGB-DXP593 5 mg/kg</title>
+          <description>Single intravenous infusion of 5 mg/kg DXP593 administered for 30 to 90 minutes</description>
+        </group>
+        <group group_id="E3">
+          <title>BGB-DXP593 15 mg/kg</title>
+          <description>Single intravenous infusion of 15 mg/kg DXP593 administered for 30 to 90 minutes</description>
+        </group>
+        <group group_id="E4">
+          <title>BGB-DXP593 30 mg/kg</title>
+          <description>Single intravenous infusion of 30 mg/kg DXP593 administered for 30 to 90 minutes</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>meddra 24.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="47"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="47"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="47"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>meddra 24.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="47"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="44"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="40"/>
+                <counts group_id="E4" subjects_affected="7" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="47"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pruritus</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="3" subjects_affected="3" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Medical device site hypersensitivity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Toxicity to various agents</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Fibrin D dimer increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Erythema multiforme</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>BeiGene has 18 months from the end of the study at all sites to publish overall study results. After the 1st multi-site publication or the expiration of publication period, Investigators are free to publish/present the results of the study. Investigators must submit all draft publications/presentations to us for review 60 days prior to the planned publication/presentation date. BeiGene may request deletion of its confidential information &amp; may request a further delay to protect its IP rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Study Director</name_or_title>
+      <organization>BeiGene</organization>
+      <phone>+1-877-828-5568</phone>
+      <email>clinicaltrials@beigene.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

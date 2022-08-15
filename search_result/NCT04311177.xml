@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="154">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04311177</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SURG-2020-28683</org_study_id>
+    <nct_id>NCT04311177</nct_id>
+  </id_info>
+  <brief_title>Losartan for Patients With COVID-19 Not Requiring Hospitalization</brief_title>
+  <official_title>Randomized Controlled Trial of Losartan for Patients With COVID-19 Not Requiring Hospitalization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, double-blinded study of COVID-19 infected patients randomized 1:1 to&#xD;
+      daily losartan or placebo for 10 days or treatment failure (hospital admission).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 9, 2020</start_date>
+  <completion_date type="Actual">February 1, 2021</completion_date>
+  <primary_completion_date type="Actual">February 1, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Admitted to the Hospital</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the percentage of participants per arm admitted to inpatient hospital care due to COVID-19-related disease within 15 days of randomization.&#xD;
+Currently, there is a pre-planned pooled analysis with a national trial network under development.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in PROMIS Dyspnea Scale</measure>
+    <time_frame>10 days</time_frame>
+    <description>The PROMIS dyspnea scale consists of 4 subscales. 3 (1. general shortness of breath, 2. intensity, and 3. Frequency) are scored from 0 (no symptoms) to 10 (most severe). The 4th subscale is scored from 0-4 in response to the question &quot;I've been short of breath&quot; with 0 representing none and 4 the most severe, for a total range of 0-34. Results are difference between enrollment and day 10. There are no units.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SF-12 Physical Composite Score</measure>
+    <time_frame>10 days</time_frame>
+    <description>The SF-12 is a self-reported validated outcome measure assessing the impact of health on an individual's everyday life. Patients fill out a 12 question survey which is then scored by a clinician or researcher. Physical score is computed using the scores of twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health measured by the scales and 100 indicates the highest level of health. The 33-item Severity bank assesses the severity of difficulty breathing during various specific activities (the same 33 activities assessed in Dyspnea Functional Limitations). Each activity is rated in terms of degree of dyspnea (0 = no shortness of breath, 1 = mildly short of breath, 2 = moderately short of breath, 3 = severely short of breath) while engaging in the activity over the past 7 days. Total scores range from 0 to 99 with higher scores reflecting greater levels of dyspnea during daily activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SF-12 Mental Composite Score</measure>
+    <time_frame>10 days</time_frame>
+    <description>The SF-12 is a self-reported validated outcome measure assessing the impact of health on an individual's everyday life. Patients fill out a 12 question survey which is then scored by a clinician or researcher. Mental composite score is computed using the scores of twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health measured by the scales and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily Maximum Temperature</measure>
+    <time_frame>10 days</time_frame>
+    <description>Participants will report their maximum daily oral temperature to the study team. Outcome is reported as the mean maximum daily body temperature (in degrees Celsius) over 10 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With an Emergency Department or Clinic Presentation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome is reported as the mean number of emergency department and clinic presentations combined per participant in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Severity Rating Day 15</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the number of participants in each arm who fall into each of 7 categories. Lower scores indicate greater condition severity. The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Viral Load by Nasopharyngeal Swab at Day 9</measure>
+    <time_frame>9 days</time_frame>
+    <description>Viral load is measured as number of viral genetic copies per mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Viral Load by Nasopharyngeal Swab at Day 15</measure>
+    <time_frame>15 days</time_frame>
+    <description>Viral load is measured as number of viral genetic copies per mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients Admitted to the Intensive Care Unit Within 15 Days</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the percent of participants in each arm who require ICU admission by day 15 following randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for Oxygen Therapy at 15 Days</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the percent of participants in each arm who require oxygen therapy by day 15 following randomization.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">117</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Losartan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm will receive the study drug, Losartan.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this arm will receive a placebo treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Losartan</intervention_name>
+    <description>Losartan; 25 mg daily; oral administration</description>
+    <arm_group_label>Losartan</arm_group_label>
+    <other_name>Cozaar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive laboratory test for COVID-19 based on local laboratory standard&#xD;
+&#xD;
+          -  Age greater than or equal to 18 years of age&#xD;
+&#xD;
+          -  One of the following: Upper respiratory symptoms (cough, rhinorrhea) or fever (&gt;101.5)&#xD;
+             or loss of taste / smell&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Randomization &gt; 72 hours of meeting inclusion criteria&#xD;
+&#xD;
+          -  Randomization &gt; 7 days of symptom onset&#xD;
+&#xD;
+          -  Currently taking an angiotensin converting enzyme inhibitor (ACEi) or Angiotensin&#xD;
+             receptor blocker (ARB)&#xD;
+&#xD;
+          -  Prior reaction or intolerance to an ARB or ACE inhibitor, including but not limited to&#xD;
+             angioedema&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+          -  Females able to have children not currently taking a protocol allowed version of&#xD;
+             contraception: intrauterine device, Depo-formulation of hormonal contraception (e.g.&#xD;
+             medroxyprogesterone acetate/Depo-Provera), subcutaneous contraceptive (e.g.&#xD;
+             Nexplanon), daily oral contraceptives with verbalized commitment to taking daily&#xD;
+             throughout the study, condom use or abstinence during the study. All participants of&#xD;
+             child bearing potential enrolled in this fashion will be informed of the teratogenic&#xD;
+             risks.&#xD;
+&#xD;
+          -  Patient reported history or electronic medical record history of kidney disease,&#xD;
+             defined as:&#xD;
+&#xD;
+               1. Any history of dialysis&#xD;
+&#xD;
+               2. History of chronic kidney disease stage IV&#xD;
+&#xD;
+               3. Estimated Glomerular Filtration Rate (eGFR) of &lt; 30ml/min/1.73 m2 (must be have&#xD;
+                  been measured within 1 month of enrollment)&#xD;
+&#xD;
+               4. Other kidney disease that in the opinion of the investigator, would affect&#xD;
+                  losartan clearance&#xD;
+&#xD;
+          -  Patient reported dehydration and significantly decreased urine output in the past 72&#xD;
+             hours&#xD;
+&#xD;
+          -  Most recent systolic blood pressure prior to enrollment &lt;110 mmHg&#xD;
+&#xD;
+          -  Patient reported history or electronic medical record history of severe liver disease,&#xD;
+             defined as:&#xD;
+&#xD;
+               1. Cirrhosis&#xD;
+&#xD;
+               2. History of hepatitis B or C&#xD;
+&#xD;
+               3. Other liver disease that in the opinion of the investigator, would affect&#xD;
+                  losartan clearance&#xD;
+&#xD;
+               4. Documented AST or ALT &gt; 3 times the upper limit of normal within 3 months of&#xD;
+                  randomization (if available in electronic medical record)&#xD;
+&#xD;
+          -  Potassium &gt;5.0 mmol/L (must have been measured within 1 month) of enrollment&#xD;
+&#xD;
+          -  Concurrent treatment with aliskiren&#xD;
+&#xD;
+          -  Inability to obtain informed consent&#xD;
+&#xD;
+          -  Enrollment in another blinded randomized clinical trial for COVID&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher Tignanelli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Puskarich, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hennepin County Medical Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>M Health Fairview University of Minnesota Medical Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Health System</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Puskarich MA, Cummins NW, Ingraham NE, Wacker DA, Reilkoff RA, Driver BE, Biros MH, Bellolio F, Chipman JG, Nelson AC, Beckman K, Langlois R, Bold T, Aliota MT, Schacker TW, Voelker HT, Murray TA, Koopmeiners JS, Tignanelli CJ. A multi-center phase II randomized clinical trial of losartan on symptomatic outpatients with COVID-19. EClinicalMedicine. 2021 Jun 17;37:100957. doi: 10.1016/j.eclinm.2021.100957. eCollection 2021 Jul.</citation>
+    <PMID>34195577</PMID>
+  </results_reference>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>March 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2020</study_first_posted>
+  <results_first_submitted>March 16, 2022</results_first_submitted>
+  <results_first_submitted_qc>May 2, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 4, 2022</results_first_posted>
+  <last_update_submitted>May 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Corona Virus</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Losartan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT04311177/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 7, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT04311177/ICF_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Losartan</title>
+          <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="58"/>
+                <participants group_id="P2" count="59"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="50"/>
+                <participants group_id="P2" count="55"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Losartan</title>
+          <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="58"/>
+            <count group_id="B2" value="59"/>
+            <count group_id="B3" value="117"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="59"/>
+                    <measurement group_id="B3" value="114"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="85"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants Admitted to the Hospital</title>
+        <description>Outcome reported as the percentage of participants per arm admitted to inpatient hospital care due to COVID-19-related disease within 15 days of randomization.&#xD;
+Currently, there is a pre-planned pooled analysis with a national trial network under development.</description>
+        <time_frame>15 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Admitted to the Hospital</title>
+          <description>Outcome reported as the percentage of participants per arm admitted to inpatient hospital care due to COVID-19-related disease within 15 days of randomization.&#xD;
+Currently, there is a pre-planned pooled analysis with a national trial network under development.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="58"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.2" lower_limit="1.1" upper_limit="14.4"/>
+                    <measurement group_id="O2" value="1.7" lower_limit="0.0" upper_limit="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in PROMIS Dyspnea Scale</title>
+        <description>The PROMIS dyspnea scale consists of 4 subscales. 3 (1. general shortness of breath, 2. intensity, and 3. Frequency) are scored from 0 (no symptoms) to 10 (most severe). The 4th subscale is scored from 0-4 in response to the question &quot;I've been short of breath&quot; with 0 representing none and 4 the most severe, for a total range of 0-34. Results are difference between enrollment and day 10. There are no units.</description>
+        <time_frame>10 days</time_frame>
+        <population>Only 50 patients were analyzed for this outcome measure due to loss to follow-up or refusal to complete the survey resulting in data missingness.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in PROMIS Dyspnea Scale</title>
+          <description>The PROMIS dyspnea scale consists of 4 subscales. 3 (1. general shortness of breath, 2. intensity, and 3. Frequency) are scored from 0 (no symptoms) to 10 (most severe). The 4th subscale is scored from 0-4 in response to the question &quot;I've been short of breath&quot; with 0 representing none and 4 the most severe, for a total range of 0-34. Results are difference between enrollment and day 10. There are no units.</description>
+          <population>Only 50 patients were analyzed for this outcome measure due to loss to follow-up or refusal to complete the survey resulting in data missingness.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="50"/>
+                <count group_id="O2" value="50"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.4" spread="0.9"/>
+                    <measurement group_id="O2" value="-0.5" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in SF-12 Physical Composite Score</title>
+        <description>The SF-12 is a self-reported validated outcome measure assessing the impact of health on an individual's everyday life. Patients fill out a 12 question survey which is then scored by a clinician or researcher. Physical score is computed using the scores of twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health measured by the scales and 100 indicates the highest level of health. The 33-item Severity bank assesses the severity of difficulty breathing during various specific activities (the same 33 activities assessed in Dyspnea Functional Limitations). Each activity is rated in terms of degree of dyspnea (0 = no shortness of breath, 1 = mildly short of breath, 2 = moderately short of breath, 3 = severely short of breath) while engaging in the activity over the past 7 days. Total scores range from 0 to 99 with higher scores reflecting greater levels of dyspnea during daily activity.</description>
+        <time_frame>10 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in SF-12 Physical Composite Score</title>
+          <description>The SF-12 is a self-reported validated outcome measure assessing the impact of health on an individual's everyday life. Patients fill out a 12 question survey which is then scored by a clinician or researcher. Physical score is computed using the scores of twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health measured by the scales and 100 indicates the highest level of health. The 33-item Severity bank assesses the severity of difficulty breathing during various specific activities (the same 33 activities assessed in Dyspnea Functional Limitations). Each activity is rated in terms of degree of dyspnea (0 = no shortness of breath, 1 = mildly short of breath, 2 = moderately short of breath, 3 = severely short of breath) while engaging in the activity over the past 7 days. Total scores range from 0 to 99 with higher scores reflecting greater levels of dyspnea during daily activity.</description>
+          <units>score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.4" spread="9.1"/>
+                    <measurement group_id="O2" value="0.2" spread="6.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in SF-12 Mental Composite Score</title>
+        <description>The SF-12 is a self-reported validated outcome measure assessing the impact of health on an individual's everyday life. Patients fill out a 12 question survey which is then scored by a clinician or researcher. Mental composite score is computed using the scores of twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health measured by the scales and 100 indicates the highest level of health.</description>
+        <time_frame>10 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in SF-12 Mental Composite Score</title>
+          <description>The SF-12 is a self-reported validated outcome measure assessing the impact of health on an individual's everyday life. Patients fill out a 12 question survey which is then scored by a clinician or researcher. Mental composite score is computed using the scores of twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health measured by the scales and 100 indicates the highest level of health.</description>
+          <units>score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.1" spread="6.5"/>
+                    <measurement group_id="O2" value="-0.3" spread="5.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Daily Maximum Temperature</title>
+        <description>Participants will report their maximum daily oral temperature to the study team. Outcome is reported as the mean maximum daily body temperature (in degrees Celsius) over 10 days.</description>
+        <time_frame>10 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Daily Maximum Temperature</title>
+          <description>Participants will report their maximum daily oral temperature to the study team. Outcome is reported as the mean maximum daily body temperature (in degrees Celsius) over 10 days.</description>
+          <units>degrees Farenheit</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="58"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.7" spread="0.097"/>
+                    <measurement group_id="O2" value="97.8" spread="0.092"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With an Emergency Department or Clinic Presentation</title>
+        <description>Outcome is reported as the mean number of emergency department and clinic presentations combined per participant in each arm.</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With an Emergency Department or Clinic Presentation</title>
+          <description>Outcome is reported as the mean number of emergency department and clinic presentations combined per participant in each arm.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="58"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease Severity Rating Day 15</title>
+        <description>Outcome reported as the number of participants in each arm who fall into each of 7 categories. Lower scores indicate greater condition severity. The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.</description>
+        <time_frame>15 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Severity Rating Day 15</title>
+          <description>Outcome reported as the number of participants in each arm who fall into each of 7 categories. Lower scores indicate greater condition severity. The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.</description>
+          <units>score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="58"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.8" spread="0.5"/>
+                    <measurement group_id="O2" value="5.9" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Viral Load by Nasopharyngeal Swab at Day 9</title>
+        <description>Viral load is measured as number of viral genetic copies per mL.</description>
+        <time_frame>9 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Viral Load by Nasopharyngeal Swab at Day 9</title>
+          <description>Viral load is measured as number of viral genetic copies per mL.</description>
+          <units>log10 copies/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-3.8" spread="0.3"/>
+                    <measurement group_id="O2" value="-3.6" spread="0.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Viral Load by Nasopharyngeal Swab at Day 15</title>
+        <description>Viral load is measured as number of viral genetic copies per mL.</description>
+        <time_frame>15 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Viral Load by Nasopharyngeal Swab at Day 15</title>
+          <description>Viral load is measured as number of viral genetic copies per mL.</description>
+          <units>log10 copies/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="35"/>
+                <count group_id="O2" value="25"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-3.7" spread="0.33"/>
+                    <measurement group_id="O2" value="-4" spread="0.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients Admitted to the Intensive Care Unit Within 15 Days</title>
+        <description>Outcome reported as the percent of participants in each arm who require ICU admission by day 15 following randomization.</description>
+        <time_frame>15 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients Admitted to the Intensive Care Unit Within 15 Days</title>
+          <description>Outcome reported as the percent of participants in each arm who require ICU admission by day 15 following randomization.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="58"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.7" lower_limit="0.0" upper_limit="9.2"/>
+                    <measurement group_id="O2" value="1.7" lower_limit="0.0" upper_limit="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Need for Oxygen Therapy at 15 Days</title>
+        <description>Outcome reported as the percent of participants in each arm who require oxygen therapy by day 15 following randomization.</description>
+        <time_frame>15 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Losartan</title>
+            <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Need for Oxygen Therapy at 15 Days</title>
+          <description>Outcome reported as the percent of participants in each arm who require oxygen therapy by day 15 following randomization.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="58"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.7" lower_limit="0.0" upper_limit="9.2"/>
+                    <measurement group_id="O2" value="1.7" lower_limit="0.0" upper_limit="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <desc>Events were monitored / assessed without regard to specific adverse event term, but rather by systems.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Losartan</title>
+          <description>Participants in this arm will receive the study drug, Losartan.&#xD;
+Losartan: Losartan; 25 mg daily; oral administration</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants in this arm will receive a placebo treatment.&#xD;
+Placebo: Placebo (microcrystalline methylcellulose, gelatin capsule); oral administration</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="59"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="58"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hospital Admission</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="58"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="43" subjects_at_risk="58"/>
+                <counts group_id="E2" subjects_affected="56" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiovascular</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="58"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear, Nose, and Throat</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="58"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="58"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neurologic</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="58"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="58"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="58"/>
+                <counts group_id="E2" events="22" subjects_affected="22" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="58"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Social circumstances</title>
+            <event_list>
+              <event>
+                <sub_title>Constitutional</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="58"/>
+                <counts group_id="E2" events="13" subjects_affected="13" subjects_at_risk="59"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Christopher Tignanelli</name_or_title>
+      <organization>University of Minnesota</organization>
+      <phone>612-626-1968</phone>
+      <email>ctignane@umn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

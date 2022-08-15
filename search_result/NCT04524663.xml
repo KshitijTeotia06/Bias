@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="79">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04524663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>56029</org_study_id>
+    <nct_id>NCT04524663</nct_id>
+  </id_info>
+  <brief_title>Oral Camostat Compared With Standard Supportive Care in Mild-Moderate COVID-19 Patients</brief_title>
+  <acronym>COPS-2003</acronym>
+  <official_title>A Phase 2 Randomized, Double Blinded, Placebo Controlled Study of Oral Camostat Mesilate Compared to Standard of Care in Subjects With Mild-Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the efficacy of oral Foipan® (camostat mesilate) compared with the&#xD;
+      current standard of care in reducing the duration of viral shedding of SARS-CoV-2 virus in&#xD;
+      patients with mild-moderate COVID-19 disease.&#xD;
+&#xD;
+      Patients will attend 4 study visits over a period of up to 28 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 19, 2020</start_date>
+  <completion_date type="Actual">May 15, 2021</completion_date>
+  <primary_completion_date type="Actual">May 15, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area Under the Curve (AUC) of Shedding of SARS-CoV-2 Virus</measure>
+    <time_frame>Days 1-10</time_frame>
+    <description>AUC of shedding of SARS-CoV-2 virus calculated using the reverse transcription-polymerase chain reaction (RT-PCR) measures of viral load from self-collected nasal swabs on days 1-10. AUC was defined by a single participant's cycle threshold (Ct) from nasal swabs collected and calculated by the trapezoidal rule, using exact times of collection of each swab. Ct denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC of Shedding of SARS-CoV-2 Virus</measure>
+    <time_frame>Days 1-10, 14, 21, and 28</time_frame>
+    <description>AUC of shedding of SARS-CoV-2 virus calculated using the RT-PCR measures of viral load from self-collected nasal swabs on days 1-10, 14, 21, and 28. AUC was defined by a single participant's Ct from nasal swabs collected and calculated by the trapezoidal rule, using exact times of collection of each swab. Ct denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Until Cessation of Shedding of SARS-CoV-2 Virus</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>This outcome is defined as the time in days from randomization to the first negative RT-PCR result of self-collected nasal swabs that is followed by only negative results (i.e. no later positive results are observed).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Worsening of COVID-19 Disease in Symptomatic Patients</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Number of symptomatic patients with clinical worsening, defined as the development of respiratory distress or symptoms that require hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Until Resolution of Symptoms</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>This outcome is defined as absence of moderate or severe symptoms for at least 24 hours for those reporting moderate or severe symptoms at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of Antibodies to SARS-CoV-2</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Number of patients that develop antibodies to SARS-CoV-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug Level on Day Five, One Hour After a Dose Taken on an Empty Stomach</measure>
+    <time_frame>Day 5, 1 hour post dose</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">49</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive camostat mesilate for 10 days in addition to standard of care treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Study participants will receive placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camostat Mesilate</intervention_name>
+    <description>Camostat Mesilate administered as oral tablets</description>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <other_name>Foipan®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo to match camostat mesilate</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care Treatment</intervention_name>
+    <description>Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of COVID-19 disease as presence of mild-moderate symptoms without signs of&#xD;
+             respiratory distress, with FDA-cleared molecular diagnostic assay positive for&#xD;
+             SARS-CoV-2 within 72 hours prior to informed consent&#xD;
+&#xD;
+          -  Males must be sterile, OR agree not to donate semen AND agree to strictly adhere to&#xD;
+             contraceptive measures during the study and for seven days following the last dose of&#xD;
+             study medication&#xD;
+&#xD;
+          -  Females must be unable to bear children, OR ensure that their male partner is&#xD;
+             incapable of fathering a child, OR, if of childbearing potential will strictly adhere&#xD;
+             to contraceptive measures during the study and for seven days following the last dose&#xD;
+             of study medication&#xD;
+&#xD;
+          -  Females must agree to stop breast-feeding prior to first dose of study drug and&#xD;
+             through seven days after completing therapy&#xD;
+&#xD;
+          -  Females must have a negative pregnancy test at screening&#xD;
+&#xD;
+          -  Participant agrees to maintain home or other quarantine as recommended by the study&#xD;
+             physician, except to visit the study site as required by the protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Concomitant bacterial respiratory infection documented by respiratory culture. NOTE:&#xD;
+             Subjects on empirical antibiotic treatment for possible but unproven bacterial&#xD;
+             pneumonia, but who are positive for SARS-CoV-2, are allowed in the study.&#xD;
+&#xD;
+          -  Previous use of antiviral drugs that may be active against Covid-19.&#xD;
+&#xD;
+          -  Abnormal laboratory test results at screening:&#xD;
+&#xD;
+          -  Use of adrenocorticosteroids (except topical or inhaled preparations or oral&#xD;
+             preparations equivalent to or less than 10 mg of oral prednisone) or immunosuppressive&#xD;
+             or immunomodulatory drugs (e.g., immunosuppressants, anticancer drugs, interleukins,&#xD;
+             interleukin antagonists or interleukin receptor blockers). NOTE: Treatment of study&#xD;
+             participants following institutional COVID-19 treatment policies or guidelines,&#xD;
+             including the use of immunomodulatory medications, is permitted. This excludes&#xD;
+             treatment with agents that have the potential for direct antiviral activity, including&#xD;
+             convalescent plasma and NO, and co-enrollment into other clinical studies that&#xD;
+             evaluate investigational agents for COVID-19.&#xD;
+&#xD;
+          -  Serious chronic disease (e.g., human immunodeficiency virus [HIV], cancer requiring&#xD;
+             chemotherapy within the preceding 6 months, and/or moderate or severe hepatic&#xD;
+             insufficiency).&#xD;
+&#xD;
+          -  Previously received camostat mesilate within the past 30 days.&#xD;
+&#xD;
+          -  Advanced kidney disease&#xD;
+&#xD;
+          -  Advanced liver disease&#xD;
+&#xD;
+          -  History of alcohol or drug abuse in the previous 6 months.&#xD;
+&#xD;
+          -  Psychiatric illness that is not well controlled (defined as stable on a regimen for&#xD;
+             more than one year).&#xD;
+&#xD;
+          -  Taken another investigational drug within the past 30 days.&#xD;
+&#xD;
+          -  Seemed by the Investigator to be ineligible for any reason.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julie Parsonnet, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>April 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2020</study_first_posted>
+  <results_first_submitted>May 13, 2022</results_first_submitted>
+  <results_first_submitted_qc>June 9, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 10, 2022</results_first_posted>
+  <last_update_submitted>June 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Camostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 4, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT04524663/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>After 49 participants were enrolled, this trial was subsumed into a pragmatic platform trial (the COVID-19 Outpatient Pragmatic Platform Study (COPPS) - Camostat Sub-Protocol (NCT04662073). Additional subjects subsequently consented for camostat in the platform study. Their results are not included here.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Camostat Mesilate</title>
+          <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="24"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Camostat Mesilate</title>
+          <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="25"/>
+            <count group_id="B2" value="24"/>
+            <count group_id="B3" value="49"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37.88" spread="13.47"/>
+                    <measurement group_id="B2" value="40.54" spread="14.27"/>
+                    <measurement group_id="B3" value="39.18" spread="13.79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <description>Patient selected one of the options in a survey. Ethnicity was an optional survey item.</description>
+          <population>Participants who provided ethnicity data are included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="22"/>
+                    <count group_id="B3" value="46"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <description>Patient selected one of the options in a survey. Race was an optional survey item.</description>
+          <population>Participants who provided race data are included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>American Indian/Alaska Native</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or other Pacific Islander</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>More than one race</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="18"/>
+                    <count group_id="B3" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Anterior nares RT-PCR Ct</title>
+          <description>Cycle threshold (Ct) denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2. RT-PCR: reverse transcription-polymerase chain reaction.</description>
+          <population>Participants with baseline data are included in the analysis.</population>
+          <units>cycles</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="20"/>
+                    <count group_id="B2" value="22"/>
+                    <count group_id="B3" value="42"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19.40" lower_limit="17.17" upper_limit="24.40"/>
+                    <measurement group_id="B2" value="21.58" lower_limit="17.98" upper_limit="26.84"/>
+                    <measurement group_id="B3" value="20.87" lower_limit="17.33" upper_limit="25.06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Duration of Symptoms</title>
+          <population>Participants with baseline data are included in the analysis.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="48"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.00" lower_limit="2.75" upper_limit="6.00"/>
+                    <measurement group_id="B2" value="4.50" lower_limit="3.75" upper_limit="5.00"/>
+                    <measurement group_id="B3" value="5.00" lower_limit="3.00" upper_limit="6.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of Symptoms</title>
+          <units>symptoms</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6" lower_limit="3" upper_limit="7"/>
+                    <measurement group_id="B2" value="6" lower_limit="4" upper_limit="8"/>
+                    <measurement group_id="B3" value="6" lower_limit="3" upper_limit="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.81" lower_limit="24.89" upper_limit="33.36"/>
+                    <measurement group_id="B2" value="28.00" lower_limit="24.97" upper_limit="30.15"/>
+                    <measurement group_id="B3" value="27.81" lower_limit="24.89" upper_limit="32.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aspartate Aminotransferase</title>
+          <units>units/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.00" lower_limit="21.00" upper_limit="29.00"/>
+                    <measurement group_id="B2" value="30.00" lower_limit="24.75" upper_limit="35.00"/>
+                    <measurement group_id="B3" value="27.00" lower_limit="22.00" upper_limit="35.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Alanine Aminotransferase</title>
+          <units>units/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.00" lower_limit="20.00" upper_limit="35.00"/>
+                    <measurement group_id="B2" value="34.50" lower_limit="20.00" upper_limit="48.50"/>
+                    <measurement group_id="B3" value="29.00" lower_limit="20.00" upper_limit="44.50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Uric acid</title>
+          <population>Participants with baseline data are included in the analysis.</population>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="23"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="47"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.10" lower_limit="4.40" upper_limit="5.85"/>
+                    <measurement group_id="B2" value="5.00" lower_limit="3.88" upper_limit="5.85"/>
+                    <measurement group_id="B3" value="5.10" lower_limit="4.05" upper_limit="5.85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Creatinine</title>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="25"/>
+                    <count group_id="B2" value="24"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.87" lower_limit="0.68" upper_limit="0.97"/>
+                    <measurement group_id="B2" value="0.86" lower_limit="0.67" upper_limit="0.98"/>
+                    <measurement group_id="B3" value="0.87" lower_limit="0.68" upper_limit="0.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Curve (AUC) of Shedding of SARS-CoV-2 Virus</title>
+        <description>AUC of shedding of SARS-CoV-2 virus calculated using the reverse transcription-polymerase chain reaction (RT-PCR) measures of viral load from self-collected nasal swabs on days 1-10. AUC was defined by a single participant's cycle threshold (Ct) from nasal swabs collected and calculated by the trapezoidal rule, using exact times of collection of each swab. Ct denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+        <time_frame>Days 1-10</time_frame>
+        <population>Patients with nasal swab data are included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Curve (AUC) of Shedding of SARS-CoV-2 Virus</title>
+          <description>AUC of shedding of SARS-CoV-2 virus calculated using the reverse transcription-polymerase chain reaction (RT-PCR) measures of viral load from self-collected nasal swabs on days 1-10. AUC was defined by a single participant's cycle threshold (Ct) from nasal swabs collected and calculated by the trapezoidal rule, using exact times of collection of each swab. Ct denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+          <population>Patients with nasal swab data are included in the analysis.</population>
+          <units>cycles*days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.3" lower_limit="66.7" upper_limit="124"/>
+                    <measurement group_id="O2" value="93" lower_limit="68" upper_limit="124"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.89</p_value>
+            <method>Regression, Linear</method>
+            <param_type>Median Difference (Net)</param_type>
+            <param_value>0.59</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-8.14</ci_lower_limit>
+            <ci_upper_limit>9.32</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>AUC of Shedding of SARS-CoV-2 Virus</title>
+        <description>AUC of shedding of SARS-CoV-2 virus calculated using the RT-PCR measures of viral load from self-collected nasal swabs on days 1-10, 14, 21, and 28. AUC was defined by a single participant's Ct from nasal swabs collected and calculated by the trapezoidal rule, using exact times of collection of each swab. Ct denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+        <time_frame>Days 1-10, 14, 21, and 28</time_frame>
+        <population>Patients with nasal swab data are included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>AUC of Shedding of SARS-CoV-2 Virus</title>
+          <description>AUC of shedding of SARS-CoV-2 virus calculated using the RT-PCR measures of viral load from self-collected nasal swabs on days 1-10, 14, 21, and 28. AUC was defined by a single participant's Ct from nasal swabs collected and calculated by the trapezoidal rule, using exact times of collection of each swab. Ct denotes how many PCR cycles are required before the SARS-CoV-2 viral RNA reached a detectable level. Higher Ct values correspond to lower viral copy numbers. For reference, Ct values of 20 correspond to ~2.12 x 106 viral copies per milliliter, while a Ct value of 40 is undetectable and is considered the lower limit of detection of this RT-PCR test for SARS-CoV-2.</description>
+          <population>Patients with nasal swab data are included in the analysis.</population>
+          <units>cycles*days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="116" lower_limit="68.7" upper_limit="157"/>
+                    <measurement group_id="O2" value="124" lower_limit="71.8" upper_limit="169"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.02</p_value>
+            <method>Regression, Linear</method>
+            <param_type>Median Difference (Net)</param_type>
+            <param_value>18.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>2.98</ci_lower_limit>
+            <ci_upper_limit>34.83</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time Until Cessation of Shedding of SARS-CoV-2 Virus</title>
+        <description>This outcome is defined as the time in days from randomization to the first negative RT-PCR result of self-collected nasal swabs that is followed by only negative results (i.e. no later positive results are observed).</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>Patients with nasal swab data are included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time Until Cessation of Shedding of SARS-CoV-2 Virus</title>
+          <description>This outcome is defined as the time in days from randomization to the first negative RT-PCR result of self-collected nasal swabs that is followed by only negative results (i.e. no later positive results are observed).</description>
+          <population>Patients with nasal swab data are included in the analysis.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14" lower_limit="7" upper_limit="21"/>
+                    <measurement group_id="O2" value="21" lower_limit="12" upper_limit="NA">Not estimable (curve did not reach the 75th percentile)</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.24</p_value>
+            <method>Cox proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.69</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.70</ci_lower_limit>
+            <ci_upper_limit>4.10</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Worsening of COVID-19 Disease in Symptomatic Patients</title>
+        <description>Number of symptomatic patients with clinical worsening, defined as the development of respiratory distress or symptoms that require hospitalization.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Worsening of COVID-19 Disease in Symptomatic Patients</title>
+          <description>Number of symptomatic patients with clinical worsening, defined as the development of respiratory distress or symptoms that require hospitalization.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.49</p_value>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time Until Resolution of Symptoms</title>
+        <description>This outcome is defined as absence of moderate or severe symptoms for at least 24 hours for those reporting moderate or severe symptoms at baseline.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time Until Resolution of Symptoms</title>
+          <description>This outcome is defined as absence of moderate or severe symptoms for at least 24 hours for those reporting moderate or severe symptoms at baseline.</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11" lower_limit="5" upper_limit="16"/>
+                    <measurement group_id="O2" value="12" lower_limit="9" upper_limit="NA">Not estimable (curve did not reach the 75th percentile)</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.24</p_value>
+            <method>Cox proportional hazards model</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.65</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.32</ci_lower_limit>
+            <ci_upper_limit>1.33</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Development of Antibodies to SARS-CoV-2</title>
+        <description>Number of patients that develop antibodies to SARS-CoV-2.</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>Data were not collected for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Development of Antibodies to SARS-CoV-2</title>
+          <description>Number of patients that develop antibodies to SARS-CoV-2.</description>
+          <population>Data were not collected for this outcome measure.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Drug Level on Day Five, One Hour After a Dose Taken on an Empty Stomach</title>
+        <time_frame>Day 5, 1 hour post dose</time_frame>
+        <population>Data were not collected for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Camostat Mesilate</title>
+            <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Drug Level on Day Five, One Hour After a Dose Taken on an Empty Stomach</title>
+          <population>Data were not collected for this outcome measure.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Camostat Mesilate</title>
+          <description>Camostat mesilate for 10 days in addition to standard of care treatment.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Liver function tests</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Suidical ideation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Liver function test (LFT) elevation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Julie Parsonnet, MD</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>(650) 725-4561</phone>
+      <email>parsonnt@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

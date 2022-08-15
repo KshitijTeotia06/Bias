@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="125">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04357782</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Davis 001</org_study_id>
+    <nct_id>NCT04357782</nct_id>
+  </id_info>
+  <brief_title>Administration of Intravenous Vitamin C in Novel Coronavirus Infection (COVID-19) and Decreased Oxygenation</brief_title>
+  <acronym>AVoCaDO</acronym>
+  <official_title>Administration of Intravenous Vitamin C in Novel Coronavirus Infection and Decreased Oxygenation (AVoCaDO): A Phase I/II Safety, Tolerability, and Efficacy Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hunter Holmes Mcguire Veteran Affairs Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>McGuire Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hunter Holmes Mcguire Veteran Affairs Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Previous research has shown that high dose intravenous vitamin C (HDIVC) may benefit patients&#xD;
+      with sepsis, acute lung injury (ALI), and the acute respiratory distress syndrome (ARDS).&#xD;
+      However, it is not known if early administration of HDIVC could prevent progression to ARDS.&#xD;
+&#xD;
+      We hypothesize that HDIVC is safe and tolerable in Coronavirus disease 2019 (COVID-19)&#xD;
+      subjects given early or late in the disease course and may reduce the risk of respiratory&#xD;
+      failure requiring mechanical ventilation and development of ARDS along with reductions in&#xD;
+      supplemental oxygen demand and inflammatory markers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to assess the safety, tolerability, potential efficacy of high&#xD;
+      dose intravenous vitamin C (HDIVC) therapy for patients with COVID-19 and decreased&#xD;
+      oxygenation. COVID-19 is a rapidly evolving pandemic with numerous prediction models&#xD;
+      suggesting potential shortages in ventilators, ICU beds, and high rates of hospital&#xD;
+      mortality. Case-series suggest sepsis and the acute respiratory distress syndrome (ARDS) are&#xD;
+      driving hospitalizations, morbidity (ICU beds, ventilator use, organ failures), and&#xD;
+      mortality. A therapy is urgently needed to be given early in the disease course in order to&#xD;
+      attenuate the infectious and inflammatory process, reduce risk of intubation, and reduce&#xD;
+      progression of organ failure and ARDS. By administering HDIVC at the first objective sign of&#xD;
+      worsening oxygenation, documented by change in peripheral capillary oxygen saturation (SpO2)&#xD;
+      to fraction of inspired oxygen (FIO2) ratio (S/F) or decreased SpO2 at baseline (mild hypoxia&#xD;
+      group), HDIVC may reduce the inflammatory process and development of respiratory failure&#xD;
+      requiring intubation. We will also enroll patients already in respiratory failure on&#xD;
+      ventilators (severe hypoxia group) and document safety and tolerability in both cohorts. By&#xD;
+      calculating ventilator and ICU-free days, we can potentially signal clinically relevant&#xD;
+      endpoints that could be used in larger trials needed to answer a crucial therapeutic&#xD;
+      question-can early administration of HDIVC in COVID-19 lead to faster recovery or improve&#xD;
+      outcomes? Moreover, we will document change in inflammatory markers that are elevated in&#xD;
+      COVID-19 (d-dimer, C reactive protein (CRP), lactate dehydrogenase (LDH), liver enzymes, and&#xD;
+      ferritin) to develop a mechanistic understanding and risk stratification of response to HDIVC&#xD;
+      infusion. Ultimately, if HDIVC is deemed safe and tolerable in hospitalized COVID-19&#xD;
+      subjects, a larger clinical trial will be indicated. AVoCaDO will produce safety and&#xD;
+      tolerability data to test HDIVC in a multi-center, rapid, randomized, placebo-controlled&#xD;
+      trial of subjects with COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
+  <completion_date type="Actual">October 13, 2020</completion_date>
+  <primary_completion_date type="Actual">October 13, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Parallel: Participants are assigned to one of two or more groups in parallel for the duration of the study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events Related to High Dose Intravenous Vitamin C (HDIVC)</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>Occurrence of adverse events during study drug infusion as defined in the Ascor package insert ie acute kidney injury (increase in serum creatinine 3x baseline prior to initial HDIVC dose, hemolysis, iatrogenic hypoglycemia, pain at swelling site of infusion, crystalluria on urinalysis (UA) after last HDIVC dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Serious Adverse Reactions</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>Number of participants with serious adverse events during study drug infusion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Reactions</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>Number of participants with adverse reactions during study drug infusion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free Days</measure>
+    <time_frame>Days 1-28</time_frame>
+    <description>Documented days free off mechanical ventilation the first 28 days post enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive Care Unit (ICU)-Free Days</measure>
+    <time_frame>Days 1-28</time_frame>
+    <description>Documented days free of ICU admission the first 28 days post enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free Days</measure>
+    <time_frame>Days 1-28</time_frame>
+    <description>Documented days free of hospital admission the first 28 days post enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause Mortality</measure>
+    <time_frame>Days 1-28</time_frame>
+    <description>Incidence of mortality at 28 days by all causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in S/F Ratio During High Dose Intravenous Vitamin C (HDIVC)</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>oxygen saturation by pulse oximetry (SpO2) will be divided by fraction of inspired oxygen (FiO2) at start of study infusion and compared with S/F ratio at end of study infusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive Protein (CRP)</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>The difference in serum CRP during HDIVC infusion reported in mg/dL&#xD;
+Local lab with upper measurement limit of 19 mg/dL&#xD;
+The change was determined from two time points ie Day 4value minus Day 1 value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate Dehydrogenase (LDH)</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>The difference in LDH during HDIVC infusion will be reported in IU/L&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>The difference in D-dimer during HDIVC infusion will be reported in ug/mL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte Count</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>The difference in lymphocyte count during HDIVC infusion will be reported in 10^3 cells/uL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil to Lymphocyte Ratio (NLR)</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>The NLR will be calculated by dividing the absolute neutrophil count (10e3/uL) over the absolute lymphocyte count (10e3/uL)&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Ferritin</measure>
+    <time_frame>Days 1-4</time_frame>
+    <description>The difference in serum ferritin will be calculated from the start of HDIVC infusion to day 4 and reported as ng/mL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Hypoxia</condition>
+  <arm_group>
+    <arm_group_label>Mild hypoxemia</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>S/F ratio &gt;250 prior to Vitamin C infusion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe Hypoxemia</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>S/F ratio ≤250 prior to Vitamin C infusion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>L-ascorbic acid</intervention_name>
+    <description>50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+    <arm_group_label>Mild hypoxemia</arm_group_label>
+    <arm_group_label>Severe Hypoxemia</arm_group_label>
+    <other_name>Vitamin C, Ascor</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized with diagnosis of COVID-19 based on positive reverse transcriptase&#xD;
+             polymerase chain reaction (RT-PCR) SARS-CoV-2 of nasal, oropharyngeal, or&#xD;
+             bronchoalveolar (BAL) specimen&#xD;
+&#xD;
+          -  Mild deoxygenation defined as S/F ratio decreased by 25% from baseline on admission,&#xD;
+             or SpO2 &lt;95% breathing ambient air on admission&#xD;
+&#xD;
+          -  Non-childbearing potential or childbearing potential with a negative pregnancy test at&#xD;
+             screening, and using a reliable method of contraception (i.e., abstinence, hormonal&#xD;
+             contraception, intrauterine device (IUD), or vasectomized partner)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy to Vitamin C&#xD;
+&#xD;
+          -  Inability to obtain consent from patient or next of kin&#xD;
+&#xD;
+          -  Chronic kidney disease, stage IV or above (eGFR &lt;30)&#xD;
+&#xD;
+          -  Presence of diabetic ketoacidosis, use of insulin infusion, or frequent need for&#xD;
+             point-of-care glucose monitoring (&gt;6 times/24 hour period) as determined by treating&#xD;
+             physician&#xD;
+&#xD;
+          -  History of glucose-6-phosphate dehydrogenase (G6PD) deficiency&#xD;
+&#xD;
+          -  Active or history of kidney stone within past 12 months&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Enrolled in another COVID-19 clinical trial that does not allow concomitant study&#xD;
+             drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian C Davis, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Staff Physician, GI Division</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hunter Holmes Mcguire Veteran Affairs Medical Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Fowler AA 3rd, Truwit JD, Hite RD, Morris PE, DeWilde C, Priday A, Fisher B, Thacker LR 2nd, Natarajan R, Brophy DF, Sculthorpe R, Nanchal R, Syed A, Sturgill J, Martin GS, Sevransky J, Kashiouris M, Hamman S, Egan KF, Hastings A, Spencer W, Tench S, Mehkri O, Bindas J, Duggal A, Graf J, Zellner S, Yanny L, McPolin C, Hollrith T, Kramer D, Ojielo C, Damm T, Cassity E, Wieliczko A, Halquist M. Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure: The CITRIS-ALI Randomized Clinical Trial. JAMA. 2019 Oct 1;322(13):1261-1270. doi: 10.1001/jama.2019.11825. Erratum in: JAMA. 2020 Jan 28;323(4):379.</citation>
+    <PMID>31573637</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler AA 3rd, Fisher BJ, Kashiouris MG. Vitamin C for Sepsis and Acute Respiratory Failure-Reply. JAMA. 2020 Feb 25;323(8):792-793. doi: 10.1001/jama.2019.21987.</citation>
+    <PMID>32096845</PMID>
+  </reference>
+  <reference>
+    <citation>Sindel A, Taylor T, Chesney A, Clark W, Fowler AA 3rd, Toor AA. Hematopoietic stem cell mobilization following PD-1 blockade: Cytokine release syndrome after transplantation managed with ascorbic acid. Eur J Haematol. 2019 Aug;103(2):134-136. doi: 10.1111/ejh.13248. Epub 2019 Jun 7.</citation>
+    <PMID>31140644</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler AA 3rd, Syed AA, Knowlson S, Sculthorpe R, Farthing D, DeWilde C, Farthing CA, Larus TL, Martin E, Brophy DF, Gupta S; Medical Respiratory Intensive Care Unit Nursing, Fisher BJ, Natarajan R. Phase I safety trial of intravenous ascorbic acid in patients with severe sepsis. J Transl Med. 2014 Jan 31;12:32. doi: 10.1186/1479-5876-12-32.</citation>
+    <PMID>24484547</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher BJ, Kraskauskas D, Martin EJ, Farkas D, Puri P, Massey HD, Idowu MO, Brophy DF, Voelkel NF, Fowler AA 3rd, Natarajan R. Attenuation of sepsis-induced organ injury in mice by vitamin C. JPEN J Parenter Enteral Nutr. 2014 Sep;38(7):825-39. doi: 10.1177/0148607113497760. Epub 2013 Aug 5.</citation>
+    <PMID>23917525</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler Iii AA, Kim C, Lepler L, Malhotra R, Debesa O, Natarajan R, Fisher BJ, Syed A, DeWilde C, Priday A, Kasirajan V. Intravenous vitamin C as adjunctive therapy for enterovirus/rhinovirus induced acute respiratory distress syndrome. World J Crit Care Med. 2017 Feb 4;6(1):85-90. doi: 10.5492/wjccm.v6.i1.85. eCollection 2017 Feb 4.</citation>
+    <PMID>28224112</PMID>
+  </reference>
+  <reference>
+    <citation>Kashiouris MG, L'Heureux M, Cable CA, Fisher BJ, Leichtle SW, Fowler AA. The Emerging Role of Vitamin C as a Treatment for Sepsis. Nutrients. 2020 Jan 22;12(2). pii: E292. doi: 10.3390/nu12020292. Review.</citation>
+    <PMID>31978969</PMID>
+  </reference>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>April 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2020</study_first_posted>
+  <results_first_submitted>December 6, 2021</results_first_submitted>
+  <results_first_submitted_qc>February 18, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 24, 2022</results_first_posted>
+  <last_update_submitted>February 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hunter Holmes Mcguire Veteran Affairs Medical Center</investigator_affiliation>
+    <investigator_full_name>Brian C. Davis, MD</investigator_full_name>
+    <investigator_title>Staff Physician</investigator_title>
+  </responsible_party>
+  <keyword>Vitamin C</keyword>
+  <keyword>Ascorbic Acid</keyword>
+  <keyword>Hypoxia</keyword>
+  <keyword>Sepsis</keyword>
+  <keyword>Acute Lung Injury</keyword>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <keyword>Severe acute respiratory syndrome (SARS)- Coronavirus (CoV)-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ascorbic Acid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 7, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/82/NCT04357782/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>38 screened upon admission to hospital with positive severe acute respiratory syndrome (SARS)-Coronavirus (CoV)-2 infection and hypoxemia. Seven declined consent, six had history of nephrolithiasis, four had chronic kidney disease stage IV or V, one had glucose-6-phosphate dehydrogenase (G6PD) deficiency.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Mild Hypoxemia</title>
+          <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+        </group>
+        <group group_id="P2">
+          <title>Severe Hypoxemia</title>
+          <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Discharged from hospital</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Mild Hypoxemia</title>
+          <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+        </group>
+        <group group_id="B2">
+          <title>Severe Hypoxemia</title>
+          <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="20"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="63.5" lower_limit="40" upper_limit="70"/>
+                    <measurement group_id="B2" value="65.0" lower_limit="37" upper_limit="91"/>
+                    <measurement group_id="B3" value="63.5" lower_limit="37" upper_limit="91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Admission to Intensive Care Unit (ICU)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hyperlipidemia</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Obesity, any class</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diabetes</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic Obstructive Lung Disease (COPD)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Immunocompromised</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic Kidney Disease (CKD), any stage</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic liver disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Congestive heart failure</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Adverse Events Related to High Dose Intravenous Vitamin C (HDIVC)</title>
+        <description>Occurrence of adverse events during study drug infusion as defined in the Ascor package insert ie acute kidney injury (increase in serum creatinine 3x baseline prior to initial HDIVC dose, hemolysis, iatrogenic hypoglycemia, pain at swelling site of infusion, crystalluria on urinalysis (UA) after last HDIVC dose</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events Related to High Dose Intravenous Vitamin C (HDIVC)</title>
+          <description>Occurrence of adverse events during study drug infusion as defined in the Ascor package insert ie acute kidney injury (increase in serum creatinine 3x baseline prior to initial HDIVC dose, hemolysis, iatrogenic hypoglycemia, pain at swelling site of infusion, crystalluria on urinalysis (UA) after last HDIVC dose</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Serious Adverse Reactions</title>
+        <description>Number of participants with serious adverse events during study drug infusion</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Serious Adverse Reactions</title>
+          <description>Number of participants with serious adverse events during study drug infusion</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Adverse Reactions</title>
+        <description>Number of participants with adverse reactions during study drug infusion</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Reactions</title>
+          <description>Number of participants with adverse reactions during study drug infusion</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ventilator-free Days</title>
+        <description>Documented days free off mechanical ventilation the first 28 days post enrollment</description>
+        <time_frame>Days 1-28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ventilator-free Days</title>
+          <description>Documented days free off mechanical ventilation the first 28 days post enrollment</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28" lower_limit="0" upper_limit="28"/>
+                    <measurement group_id="O2" value="23.5" lower_limit="0" upper_limit="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Intensive Care Unit (ICU)-Free Days</title>
+        <description>Documented days free of ICU admission the first 28 days post enrollment</description>
+        <time_frame>Days 1-28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Intensive Care Unit (ICU)-Free Days</title>
+          <description>Documented days free of ICU admission the first 28 days post enrollment</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28" lower_limit="0" upper_limit="28"/>
+                    <measurement group_id="O2" value="13.5" lower_limit="0" upper_limit="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospital-free Days</title>
+        <description>Documented days free of hospital admission the first 28 days post enrollment</description>
+        <time_frame>Days 1-28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospital-free Days</title>
+          <description>Documented days free of hospital admission the first 28 days post enrollment</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.5" lower_limit="21" upper_limit="28"/>
+                    <measurement group_id="O2" value="8.5" lower_limit="5" upper_limit="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-cause Mortality</title>
+        <description>Incidence of mortality at 28 days by all causes</description>
+        <time_frame>Days 1-28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-cause Mortality</title>
+          <description>Incidence of mortality at 28 days by all causes</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in S/F Ratio During High Dose Intravenous Vitamin C (HDIVC)</title>
+        <description>oxygen saturation by pulse oximetry (SpO2) will be divided by fraction of inspired oxygen (FiO2) at start of study infusion and compared with S/F ratio at end of study infusion</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in S/F Ratio During High Dose Intravenous Vitamin C (HDIVC)</title>
+          <description>oxygen saturation by pulse oximetry (SpO2) will be divided by fraction of inspired oxygen (FiO2) at start of study infusion and compared with S/F ratio at end of study infusion</description>
+          <units>ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="108" spread="121"/>
+                    <measurement group_id="O2" value="26" spread="140"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>C-reactive Protein (CRP)</title>
+        <description>The difference in serum CRP during HDIVC infusion reported in mg/dL&#xD;
+Local lab with upper measurement limit of 19 mg/dL&#xD;
+The change was determined from two time points ie Day 4value minus Day 1 value.</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>C-reactive Protein (CRP)</title>
+          <description>The difference in serum CRP during HDIVC infusion reported in mg/dL&#xD;
+Local lab with upper measurement limit of 19 mg/dL&#xD;
+The change was determined from two time points ie Day 4value minus Day 1 value.</description>
+          <units>mg/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-3.8" spread="5.1"/>
+                    <measurement group_id="O2" value="-2.0" spread="6.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Lactate Dehydrogenase (LDH)</title>
+        <description>The difference in LDH during HDIVC infusion will be reported in IU/L&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lactate Dehydrogenase (LDH)</title>
+          <description>The difference in LDH during HDIVC infusion will be reported in IU/L&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+          <units>IU/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-42" spread="131"/>
+                    <measurement group_id="O2" value="118" spread="497"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>D-dimer</title>
+        <description>The difference in D-dimer during HDIVC infusion will be reported in ug/mL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>D-dimer</title>
+          <description>The difference in D-dimer during HDIVC infusion will be reported in ug/mL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+          <units>ug/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.21" spread="0.72"/>
+                    <measurement group_id="O2" value="3.71" spread="6.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Lymphocyte Count</title>
+        <description>The difference in lymphocyte count during HDIVC infusion will be reported in 10^3 cells/uL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lymphocyte Count</title>
+          <description>The difference in lymphocyte count during HDIVC infusion will be reported in 10^3 cells/uL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+          <units>10^3 cells/uL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="329" spread="514"/>
+                    <measurement group_id="O2" value="276" spread="581"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Neutrophil to Lymphocyte Ratio (NLR)</title>
+        <description>The NLR will be calculated by dividing the absolute neutrophil count (10e3/uL) over the absolute lymphocyte count (10e3/uL)&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Neutrophil to Lymphocyte Ratio (NLR)</title>
+          <description>The NLR will be calculated by dividing the absolute neutrophil count (10e3/uL) over the absolute lymphocyte count (10e3/uL)&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+          <units>ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.89" spread="4.8"/>
+                    <measurement group_id="O2" value="-0.04" spread="5.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Ferritin</title>
+        <description>The difference in serum ferritin will be calculated from the start of HDIVC infusion to day 4 and reported as ng/mL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+        <time_frame>Days 1-4</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mild Hypoxemia</title>
+            <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+          <group group_id="O2">
+            <title>Severe Hypoxemia</title>
+            <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum Ferritin</title>
+          <description>The difference in serum ferritin will be calculated from the start of HDIVC infusion to day 4 and reported as ng/mL&#xD;
+The change was determined from two time points ie Day 4 value minus Day 1 value.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-299" spread="449"/>
+                    <measurement group_id="O2" value="-1170" spread="2997"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Data were collected systemically daily during study drug infusion and by electronic record review over the course of 28 days since study enrollment</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Mild Hypoxemia</title>
+          <description>S/F ratio &gt;250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+        </group>
+        <group group_id="E2">
+          <title>Severe Hypoxemia</title>
+          <description>S/F ratio ≤250 prior to Vitamin C infusion&#xD;
+L-ascorbic acid: 50 mg/kg L-ascorbic acid infusion given every 6 hours for 4 days (16 total doses)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTACE version 5.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulseless Electrical Activity Arrest</sub_title>
+                <description>Pulse-less electrical activity arrest from acute hypoxemic respiratory failure due to COVID-19, day 2</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ischemic hepatitis</sub_title>
+                <description>Hepatic Failure/ischemic hepatitis post pulseless electrical activity arrest</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <description>Acute kidney injury, stage 3 due to ischemia</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <description>Mechanical intubation due to worsening acute hypoxemic respiratory failure due to COVID-19.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTACE version 5.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bacteremia</sub_title>
+                <description>coagulase-negative</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial Fibrillation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea, self-limited</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <description>&lt; 4 episodes per day</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry Mouth</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Chest Pain</sub_title>
+                <description>Mild, self limited</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated ALT</sub_title>
+                <description>Elevated ALT/DILI with peak ALT of 423 IU/L, likely due to tocilizumab</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Elevated ALT</sub_title>
+                <description>likely related to remdesivir, resolved</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <description>+methicillin-resistant Staphylococcus aureus (MRSA) sputum culture</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thromboembolic event</sub_title>
+                <description>Deep vein thrombosis left posterior tibial</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Brian Davis</name_or_title>
+      <organization>Central Virginia VA Health Care System</organization>
+      <phone>804-675-5000</phone>
+      <email>Brian.Davis5@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

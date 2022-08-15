@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04411628</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17823</org_study_id>
+    <secondary_id>J2W-MC-PYAA</secondary_id>
+    <nct_id>NCT04411628</nct_id>
+  </id_info>
+  <brief_title>A Study of LY3819253 (LY-CoV555) in Participants Hospitalized for COVID-19</brief_title>
+  <official_title>A Randomized, Placebo-Controlled, Double-Blind, Sponsor Unblinded, Single Ascending Dose, Phase 1 First in Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Intravenous LY3819253 in Participants Hospitalized for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AbCellera Biologics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test the safety and tolerability of LY3819253 when it is&#xD;
+      given by injection into a vein to participants hospitalized with COVID-19. Blood tests will&#xD;
+      be done to check how much LY3819253 is in the bloodstream and how long the body takes to&#xD;
+      eliminate it. Participation could last about 8 weeks and may include up to 15 visits in the&#xD;
+      hospital or the home.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 28, 2020</start_date>
+  <completion_date type="Actual">August 26, 2020</completion_date>
+  <primary_completion_date type="Actual">August 26, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With One or More Serious Adverse Event(s) (SAEs) Considered by the Investigator to be Related to Study Drug Administration</measure>
+    <time_frame>Baseline through Day 60</time_frame>
+    <description>An SAE is any adverse event that results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. The number of participants with 1 or more SAEs considered by the investigator to be related to study drug administration is reported. A summary of SAEs and other non-serious adverse events (AEs), regardless of causality, were reported in the Reported Adverse Events module.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Mean Concentration of LY3819253 on Day 29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Pharmacokinetics (PK): Mean Concentration of LY3819253 on Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics (PD): Change From Baseline to Day 29 in Viral Load</measure>
+    <time_frame>Baseline, Day 29</time_frame>
+    <description>Pharmacodynamics (PD): Change from Baseline to Day 29 in Viral Load.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics (PD): SARS-CoV-2 Viral Load AUC</measure>
+    <time_frame>Day 1 pre-dose, Days 3, 7, 11, 15, 22, 29 post dose</time_frame>
+    <description>The SARS-CoV-2 viral load was derived from the cycle time (CT) values using a polymerase chain reaction (PCR) assay. Higher CT values indicate a lower viral load.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics (PD): Time to SARS-CoV-2 Clearance</measure>
+    <time_frame>Day 1 pre-dose, Days 3, 7, 11, 15, 22, 29 post dose</time_frame>
+    <description>Pharmacodynamics (PD): Time to SARS-CoV-2 clearance.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>LY3819253</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received single doses of 700 milligrams (mg), 2800 mg or 7000 mg LY3819253 administered as intravenous infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants received single dose of Placebo as intravenous infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3819253</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>LY3819253</arm_group_label>
+    <other_name>LY-CoV555</other_name>
+    <other_name>Bamlanivimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Are hospitalized or in the process of being admitted to hospital and have an initial&#xD;
+             laboratory determination of current COVID-19 infection less than or equal to (≤)72&#xD;
+             hours prior to randomization&#xD;
+&#xD;
+          -  Are men or non-pregnant women&#xD;
+&#xD;
+          -  Women of childbearing potential must agree to use at least one highly effective form&#xD;
+             of contraception for the entirety of the study&#xD;
+&#xD;
+          -  Agree to the collection of nasopharyngeal swabs and venous blood&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Require mechanical ventilation or anticipated impending need for mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          -  Received convalescent COVID-19 plasma treatment prior to enrollment&#xD;
+&#xD;
+          -  Were resident in a nursing home or long-term care facility immediately prior to&#xD;
+             current hospitalization&#xD;
+&#xD;
+          -  Suspected or proven serious, active bacterial, fungal, viral, or other infection&#xD;
+             (besides COVID-19) that in the opinion of the investigator could constitute a risk&#xD;
+             when taking investigational product&#xD;
+&#xD;
+          -  Have an oxygen saturation (SpO2) less than (&lt;)88 percent (%) while breathing room air&#xD;
+             at rest at randomization.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Affairs Medical Center San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Medical Center</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research, Inc.</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alexandria Center for Life - NYC/ NYCEDC</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unified Research Enterprise Brody School of Medicine at ECU</name>
+      <address>
+        <city>Greenville</city>
+        <state>North Carolina</state>
+        <zip>27834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple Univ School of Med</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/3B9kHya2iCF9SHumC5PLKk</url>
+    <description>A Study of LY3819253 (LY-CoV555) in Participants Hospitalized for COVID-19</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>May 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 2, 2020</study_first_posted>
+  <results_first_submitted>November 1, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 1, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 9, 2021</results_first_posted>
+  <last_update_submitted>November 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bamlanivimab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 9, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/28/NCT04411628/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 4, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/28/NCT04411628/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>Participants received single dose of Placebo as intravenous infusion.</description>
+        </group>
+        <group group_id="P2">
+          <title>700 mg LY3819253 IV</title>
+          <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="P3">
+          <title>2800 mg LY3819253 IV</title>
+          <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="P4">
+          <title>7000 mg LY3819253 IV</title>
+          <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="7"/>
+                <participants group_id="P4" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Received at Least 1 Dose of Study Drug</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="5"/>
+                <participants group_id="P4" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All randomized participants who received at least one dose of study drug.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>Participants received single dose of Placebo as intravenous infusion.</description>
+        </group>
+        <group group_id="B2">
+          <title>700 mg LY3819253 IV</title>
+          <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="B3">
+          <title>2800 mg LY3819253 IV</title>
+          <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="B4">
+          <title>7000 mg LY3819253 IV</title>
+          <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="6"/>
+            <count group_id="B2" value="6"/>
+            <count group_id="B3" value="6"/>
+            <count group_id="B4" value="6"/>
+            <count group_id="B5" value="24"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43.2" spread="8.6"/>
+                    <measurement group_id="B2" value="57.2" spread="6.8"/>
+                    <measurement group_id="B3" value="48.5" spread="12.1"/>
+                    <measurement group_id="B4" value="66.7" spread="6.7"/>
+                    <measurement group_id="B5" value="53.9" spread="12.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With One or More Serious Adverse Event(s) (SAEs) Considered by the Investigator to be Related to Study Drug Administration</title>
+        <description>An SAE is any adverse event that results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. The number of participants with 1 or more SAEs considered by the investigator to be related to study drug administration is reported. A summary of SAEs and other non-serious adverse events (AEs), regardless of causality, were reported in the Reported Adverse Events module.</description>
+        <time_frame>Baseline through Day 60</time_frame>
+        <population>All randomized participants who received at least one dose of study drug.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Participants received single dose of Placebo as intravenous infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>700 mg LY3819253 IV</title>
+            <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>2800 mg LY3819253 IV</title>
+            <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O4">
+            <title>7000 mg LY3819253 IV</title>
+            <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With One or More Serious Adverse Event(s) (SAEs) Considered by the Investigator to be Related to Study Drug Administration</title>
+          <description>An SAE is any adverse event that results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. The number of participants with 1 or more SAEs considered by the investigator to be related to study drug administration is reported. A summary of SAEs and other non-serious adverse events (AEs), regardless of causality, were reported in the Reported Adverse Events module.</description>
+          <population>All randomized participants who received at least one dose of study drug.</population>
+          <units>Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetics (PK): Mean Concentration of LY3819253 on Day 29</title>
+        <description>Pharmacokinetics (PK): Mean Concentration of LY3819253 on Day 29.</description>
+        <time_frame>Day 29</time_frame>
+        <population>All randomized participants who received at least one dose of study drug and had evaluable PK data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>700 mg LY3819253 IV</title>
+            <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>2800 mg LY3819253 IV</title>
+            <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>7000 mg LY3819253 IV</title>
+            <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics (PK): Mean Concentration of LY3819253 on Day 29</title>
+          <description>Pharmacokinetics (PK): Mean Concentration of LY3819253 on Day 29.</description>
+          <population>All randomized participants who received at least one dose of study drug and had evaluable PK data.</population>
+          <units>microgram per milliliter (µg/mL)</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4"/>
+                <count group_id="O2" value="5"/>
+                <count group_id="O3" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.2" spread="75"/>
+                    <measurement group_id="O2" value="59.4" spread="37"/>
+                    <measurement group_id="O3" value="261" spread="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacodynamics (PD): Change From Baseline to Day 29 in Viral Load</title>
+        <description>Pharmacodynamics (PD): Change from Baseline to Day 29 in Viral Load.</description>
+        <time_frame>Baseline, Day 29</time_frame>
+        <population>All randomized participants who received at least one dose of study drug and had baseline, post baseline data for viral load.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Participants received single dose of Placebo as intravenous infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>700 mg LY3819253 IV</title>
+            <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>2800 mg LY3819253 IV</title>
+            <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O4">
+            <title>7000 mg LY3819253 IV</title>
+            <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacodynamics (PD): Change From Baseline to Day 29 in Viral Load</title>
+          <description>Pharmacodynamics (PD): Change from Baseline to Day 29 in Viral Load.</description>
+          <population>All randomized participants who received at least one dose of study drug and had baseline, post baseline data for viral load.</population>
+          <units>log10 (Copies/mL)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="4"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.476" spread="7.117"/>
+                    <measurement group_id="O2" value="10.923" spread="10.036"/>
+                    <measurement group_id="O3" value="16.956" spread="10.388"/>
+                    <measurement group_id="O4" value="15.726" spread="5.723"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacodynamics (PD): SARS-CoV-2 Viral Load AUC</title>
+        <description>The SARS-CoV-2 viral load was derived from the cycle time (CT) values using a polymerase chain reaction (PCR) assay. Higher CT values indicate a lower viral load.</description>
+        <time_frame>Day 1 pre-dose, Days 3, 7, 11, 15, 22, 29 post dose</time_frame>
+        <population>All randomized participants who received at least one dose of study drug and had data for SARS-CoV-2 viral load AUC.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Participants received single dose of Placebo as intravenous infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>700 mg LY3819253 IV</title>
+            <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>2800 mg LY3819253 IV</title>
+            <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O4">
+            <title>7000 mg LY3819253 IV</title>
+            <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacodynamics (PD): SARS-CoV-2 Viral Load AUC</title>
+          <description>The SARS-CoV-2 viral load was derived from the cycle time (CT) values using a polymerase chain reaction (PCR) assay. Higher CT values indicate a lower viral load.</description>
+          <population>All randomized participants who received at least one dose of study drug and had data for SARS-CoV-2 viral load AUC.</population>
+          <units>Cycles*day</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="4"/>
+                <count group_id="O3" value="5"/>
+                <count group_id="O4" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48.865" spread="28.020"/>
+                    <measurement group_id="O2" value="44.858" spread="40.027"/>
+                    <measurement group_id="O3" value="60.818" spread="24.266"/>
+                    <measurement group_id="O4" value="69.528" spread="39.336"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacodynamics (PD): Time to SARS-CoV-2 Clearance</title>
+        <description>Pharmacodynamics (PD): Time to SARS-CoV-2 clearance.</description>
+        <time_frame>Day 1 pre-dose, Days 3, 7, 11, 15, 22, 29 post dose</time_frame>
+        <population>All randomized participants who received at least one dose of study drug and had data for SARS-CoV-2 clearance.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Participants received single dose of Placebo as intravenous infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>700 mg LY3819253 IV</title>
+            <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>2800 mg LY3819253 IV</title>
+            <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+          <group group_id="O4">
+            <title>7000 mg LY3819253 IV</title>
+            <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacodynamics (PD): Time to SARS-CoV-2 Clearance</title>
+          <description>Pharmacodynamics (PD): Time to SARS-CoV-2 clearance.</description>
+          <population>All randomized participants who received at least one dose of study drug and had data for SARS-CoV-2 clearance.</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="2"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="2"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" spread="NA">Not calculated as participant number is small.</measurement>
+                    <measurement group_id="O2" value="7.7" spread="7.0"/>
+                    <measurement group_id="O3" value="NA" spread="NA">Not calculated as participant number is small.</measurement>
+                    <measurement group_id="O4" value="15.7" spread="11.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline through day 60</time_frame>
+      <desc>All randomized participants who received at least one dose of study drug.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>Participants received single dose of Placebo as intravenous infusion.</description>
+        </group>
+        <group group_id="E2">
+          <title>700 mg LY3819253 IV</title>
+          <description>Participants received single dose of 700 milligrams (mg) LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="E3">
+          <title>2800 mg LY3819253 IV</title>
+          <description>Participants received single dose of 2800 mg LY3819253 administered as intravenous infusion.</description>
+        </group>
+        <group group_id="E4">
+          <title>7000 mg LY3819253 IV</title>
+          <description>Participants received single dose of 7000 mg LY3819253 administered as intravenous infusion.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Lymphadenopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest discomfort</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Chills</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Liver function test increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypercholesterolaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nephrolithiasis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchial hyperreactivity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Respiratory distress</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Wheezing</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is more than 60 days but less than or equal to 180 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Chief Medical Officer</name_or_title>
+      <organization>Eli Lilly and Company</organization>
+      <phone>800-545-5979</phone>
+      <email>ClinicalTrials.gov@lilly.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

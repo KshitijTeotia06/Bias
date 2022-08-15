@@ -1,0 +1,2843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="101">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04362813</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CACZ885D2310</org_study_id>
+    <secondary_id>2020-001370-30</secondary_id>
+    <nct_id>NCT04362813</nct_id>
+  </id_info>
+  <brief_title>Study of Efficacy and Safety of Canakinumab Treatment for CRS in Participants With COVID-19-induced Pneumonia</brief_title>
+  <acronym>CAN-COVID</acronym>
+  <official_title>Phase 3 Multicenter, Randomized, Double-blind, Placebo-controlled Study to Assess the Efficacy and Safety of Canakinumab on Cytokine Release Syndrome in Patients With COVID-19-induced Pneumonia (CAN-COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This was a multicenter, randomized, double-blind, placebo-controlled study to assess the&#xD;
+      efficacy and safety of canakinumab plus standard-of-care (SOC) compared with placebo plus SOC&#xD;
+      in patients with COVID-19-induced pneumonia and cytokine release syndrome (CRS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a Phase III, multicenter, randomized, double-blind, placebo-controlled study to&#xD;
+      assess the efficacy and safety of canakinumab in patients with COVID-19-induced pneumonia and&#xD;
+      cytokine release syndrome (CRS). The study enrolled patients to canakinumab or placebo, in&#xD;
+      addition to standard of care (SOC) per local practice, which may have included anti-viral&#xD;
+      treatment, corticosteroids and/or supportive care.&#xD;
+&#xD;
+      Patients who met the inclusion/exclusion criteria were randomized in a 1:1 ratio to either&#xD;
+      canakinumab + SOC or placebo + SOC and were dosed immediately after ensuring that the patient&#xD;
+      met all eligibility criteria. Patients in the canakinumab arm were dosed on Day 1 with&#xD;
+      canakinumab 450 mg for body weight of 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in&#xD;
+      250 mL of 5% dextrose infused IV over 2 hours. Patients in the placebo arm were administered&#xD;
+      with 250 mL of 5% dextrose infused IV over 2 hours.&#xD;
+&#xD;
+      The study included:&#xD;
+&#xD;
+        -  Screening period of 0-1 day&#xD;
+&#xD;
+        -  Study period from initial dose on Day 1 to Day 29 or hospital discharge&#xD;
+&#xD;
+        -  Follow-up to Day 127 The primary objective was to demonstrate the benefit of canakinumab&#xD;
+           + SOC in increasing the chance of survival without ever requiring invasive mechanical&#xD;
+           ventilation among patients with COVID-19-induced pneumonia and CRS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 30, 2020</start_date>
+  <completion_date type="Actual">December 22, 2020</completion_date>
+  <primary_completion_date type="Actual">September 16, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participants Who Survived Without Requiring Invasive Mechanical Ventilation From Day 3 to Day 29, Primary Analysis</measure>
+    <time_frame>Day 3 to Day 29</time_frame>
+    <description>Number of responders who survived without requiring invasive mechanical ventilation from Day 3 to Day 29. An early dropout without requiring invasive mechanical ventilation is considered as a responder if discharged from hospital with 9-point ordinal scale&lt;=1 or with last 9-point ordinal scale on/after Day 15 better than baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19-related Death After Study Treatment</measure>
+    <time_frame>29 days</time_frame>
+    <description>Participants with COVID-19 related (as assessed by investigator) death up to Day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Ratio to Baseline in the C-reactive Protein (CRP)</measure>
+    <time_frame>Over time and up to day 29: Baseline, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15, Day 17, Day 19, Day 21, Day 23, Day 25, Day 27 and Day 29.</time_frame>
+    <description>Measurement of C Reactive Protein (mg/L), Serum Or Plasma over time. The level of C-reactive protein (CRP), which can be measured in the blood, increases when there's inflammation in the body. Lower values of ratio to baseline in the CRP indicates less inflammation. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Ratio to Baseline in the D-dimer</measure>
+    <time_frame>Over time and up to day 29: Baseline, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15, Day 17, Day 19, Day 21, Day 23, Day 25, Day 27 and Day 29.</time_frame>
+    <description>Clinical chemistry measurement D-Dimer (mg/L FEU), Blood in a blood sample over time&#xD;
+D-dimer is one of the protein fragments produced when a blood clot gets dissolved in the body. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Ratio to Baseline in Ferritin</measure>
+    <time_frame>Over time and up to day 29: Baseline, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15, Day 17, Day 19, Day 21, Day 23, Day 25, Day 27 and Day 29.</time_frame>
+    <description>Clinical chemistry measurement for amount of ferritin (ug/L) in Serum. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Treatment Emergent Adverse Events</measure>
+    <time_frame>Up to day 127</time_frame>
+    <description>Number of participants with treatment emergent adverse events, including changes from baseline in vital signs and laboratory results qualifying and reported as adverse events.&#xD;
+Safety was monitored from the canakinumab or placebo dose (Day 1) up to 126 days post-dose (Day 127).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">454</enrollment>
+  <condition>Cytokine Release Syndrome (CRS) in Patients With COVID-19-induced Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Canakinumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Canakinumab</intervention_name>
+    <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+    <arm_group_label>Canakinumab</arm_group_label>
+    <other_name>ACZ885</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key inclusion Criteria:&#xD;
+&#xD;
+          -  Adults ≥ 18 years old (for US only: patients ≥ 12 years old, although no children ever&#xD;
+             enrolled. This was an adult trial.)&#xD;
+&#xD;
+          -  Body weight ≥40 kg&#xD;
+&#xD;
+          -  Informed consent must be obtained prior to participation in this study. For US&#xD;
+             patients 12 - &lt; 18 years old; parent/guardian consent must be obtained and assent if&#xD;
+             applicable.&#xD;
+&#xD;
+          -  Clinically diagnosed with SARS-CoV-2 virus by PCR or by other approved diagnostic&#xD;
+             methodology&#xD;
+&#xD;
+          -  Hospitalized with COVID-19-induced pneumonia evidenced by chest x-ray or CT scan with&#xD;
+             pulmonary infiltrates&#xD;
+&#xD;
+          -  SpO2 ≤ 93% on room air or arterial oxygen partial pressure (PaO2)/ fraction of&#xD;
+             inspired oxygen (FiO2) &lt; 300mmHg&#xD;
+&#xD;
+          -  C-reactive protein ≥20 mg/L or ferritin level ≥600 µg/L&#xD;
+&#xD;
+        Key exclusion Criteria:&#xD;
+&#xD;
+          -  History of hypersensitivity to canakinumab or to biologic drugs&#xD;
+&#xD;
+          -  Intubated and on mechanical ventilation (invasive) at time of randomization&#xD;
+&#xD;
+          -  Treatment with immunomodulators or immunosuppressant drugs, including but not limited&#xD;
+             to tocilizumab, TNF inhibitors and anti-IL-17 agents within 5 half-lives or 30 days&#xD;
+             (whichever is longer) prior to randomization with the exception of anakinra which is&#xD;
+             excluded within 5 half-lives only. Note: Immunomodulators (topical or inhaled) for&#xD;
+             asthma and atopic dermatitis and corticosteroids (any route of administration) are&#xD;
+             permitted.&#xD;
+&#xD;
+          -  Suspected or known untreated active bacterial, fungal, viral, or parasitic infection&#xD;
+             with the exception of COVID-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartiis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-5000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Toulouse Cedex 4</city>
+        <zip>31054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bergamo</city>
+        <state>BG</state>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cona</city>
+        <state>FE</state>
+        <zip>44100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barnaul</city>
+        <zip>656045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>111539</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>121309</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123056</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123182</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ryazan</city>
+        <zip>390039</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>S-Petersburg</city>
+        <zip>194354</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sestroretsk</city>
+        <zip>197706</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>St Petersburg</city>
+        <zip>193312</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalunya</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Sebastian de los Reyes</city>
+        <state>Madrid</state>
+        <zip>28702</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barnet</city>
+        <zip>EN5 3DJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Coventry</city>
+        <zip>CV2 2DX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Germany</country>
+    <country>Hungary</country>
+  </removed_countries>
+  <link>
+    <url>https://jamanetwork.com/journals/jama/fullarticle/2782185</url>
+    <description>JAMA 20 July 2021</description>
+  </link>
+  <link>
+    <url>https://www.novctrd.com/ctrdweb/patientsummary/patientsummaries?patientSummaryId=971</url>
+    <description>A Plain Language Trial Summary is available on novctrd.com</description>
+  </link>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>April 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 27, 2020</study_first_posted>
+  <results_first_submitted>July 30, 2021</results_first_submitted>
+  <results_first_submitted_qc>August 12, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 16, 2021</results_first_posted>
+  <disposition_first_submitted>February 8, 2021</disposition_first_submitted>
+  <disposition_first_submitted_qc>August 12, 2021</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">August 16, 2021</disposition_first_posted>
+  <last_update_submitted>January 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 24, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>cytokine release syndrome</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>canakinumab</keyword>
+  <keyword>COVID</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>CAN-COVID</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>CRS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Cytokine Release Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations. This trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT04362813/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 15, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT04362813/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants took part at 39 investigative sites in 6 countries.&#xD;
+While patient flow shows 454 participants enrolled, only 451 randomized. 3 were &quot;mis-randomized&quot; i.e. assigned a randomization number in error and not treated.</recruitment_details>
+      <pre_assignment_details>Participants were screened within 24 hours prior to enrollment.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Canakinumab</title>
+          <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="227"/>
+                <participants group_id="P2" count="227"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Safety Set</title>
+              <participants_list>
+                <participants group_id="P1" count="225"/>
+                <participants group_id="P2" count="223"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed Day 29</title>
+              <participants_list>
+                <participants group_id="P1" count="211"/>
+                <participants group_id="P2" count="206"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="209"/>
+                <participants group_id="P2" count="202"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="25"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Enrolled but did not receive treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>While patient flow and baseline measure tables show 454 participants enrolled, only 451 randomized. 3 were &quot;mis-randomized&quot; i.e. assigned a randomization number in error and not treated.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Canakinumab</title>
+          <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="227"/>
+            <count group_id="B2" value="227"/>
+            <count group_id="B3" value="454"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58.5" spread="14.55"/>
+                    <measurement group_id="B2" value="57.8" spread="13.89"/>
+                    <measurement group_id="B3" value="58.2" spread="14.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt; 18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 64 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="149"/>
+                    <measurement group_id="B2" value="155"/>
+                    <measurement group_id="B3" value="304"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="72"/>
+                    <measurement group_id="B3" value="150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="92"/>
+                    <measurement group_id="B2" value="95"/>
+                    <measurement group_id="B3" value="187"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="135"/>
+                    <measurement group_id="B2" value="132"/>
+                    <measurement group_id="B3" value="267"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="72"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="159"/>
+                    <measurement group_id="B2" value="156"/>
+                    <measurement group_id="B3" value="315"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Participants Who Survived Without Requiring Invasive Mechanical Ventilation From Day 3 to Day 29, Primary Analysis</title>
+        <description>Number of responders who survived without requiring invasive mechanical ventilation from Day 3 to Day 29. An early dropout without requiring invasive mechanical ventilation is considered as a responder if discharged from hospital with 9-point ordinal scale&lt;=1 or with last 9-point ordinal scale on/after Day 15 better than baseline.</description>
+        <time_frame>Day 3 to Day 29</time_frame>
+        <population>Randomized participants with at least one assessment of the 9-point ordinal scale between Day 3 and Day 29 (where value 0 = uninfected, and 8 = death)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Canakinumab</title>
+            <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Participants Who Survived Without Requiring Invasive Mechanical Ventilation From Day 3 to Day 29, Primary Analysis</title>
+          <description>Number of responders who survived without requiring invasive mechanical ventilation from Day 3 to Day 29. An early dropout without requiring invasive mechanical ventilation is considered as a responder if discharged from hospital with 9-point ordinal scale&lt;=1 or with last 9-point ordinal scale on/after Day 15 better than baseline.</description>
+          <population>Randomized participants with at least one assessment of the 9-point ordinal scale between Day 3 and Day 29 (where value 0 = uninfected, and 8 = death)</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="223"/>
+                <count group_id="O2" value="223"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="198"/>
+                    <measurement group_id="O2" value="191"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Odds ratio is based on a Logistic regression model adjusted by treatment, region (North America vs Europe), and baseline 9-point ordinal scale (&lt;=4, &gt;=5).</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.2874</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.39</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.76</ci_lower_limit>
+            <ci_upper_limit>2.54</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>COVID-19-related Death After Study Treatment</title>
+        <description>Participants with COVID-19 related (as assessed by investigator) death up to Day 29</description>
+        <time_frame>29 days</time_frame>
+        <population>All randomized participants including those who did not receive any dose, as per intent-to-treat principle, and excluding early dropouts if the last available 9-point ordinal scale &gt;1 (including non-COVID-19 related death)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Canakinumab</title>
+            <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>COVID-19-related Death After Study Treatment</title>
+          <description>Participants with COVID-19 related (as assessed by investigator) death up to Day 29</description>
+          <population>All randomized participants including those who did not receive any dose, as per intent-to-treat principle, and excluding early dropouts if the last available 9-point ordinal scale &gt;1 (including non-COVID-19 related death)</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="223"/>
+                <count group_id="O2" value="222"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Odds ratio is based on a Logistic regression model adjusted by treatment, region (North America vs Europe), and baseline 9-point ordinal scale (&lt;=4, &gt;=5)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.3303</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.67</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.30</ci_lower_limit>
+            <ci_upper_limit>1.50</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Ratio to Baseline in the C-reactive Protein (CRP)</title>
+        <description>Measurement of C Reactive Protein (mg/L), Serum Or Plasma over time. The level of C-reactive protein (CRP), which can be measured in the blood, increases when there's inflammation in the body. Lower values of ratio to baseline in the CRP indicates less inflammation. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+        <time_frame>Over time and up to day 29: Baseline, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15, Day 17, Day 19, Day 21, Day 23, Day 25, Day 27 and Day 29.</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Canakinumab</title>
+            <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Ratio to Baseline in the C-reactive Protein (CRP)</title>
+          <description>Measurement of C Reactive Protein (mg/L), Serum Or Plasma over time. The level of C-reactive protein (CRP), which can be measured in the blood, increases when there's inflammation in the body. Lower values of ratio to baseline in the CRP indicates less inflammation. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>ratio</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="227"/>
+                <count group_id="O2" value="227"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="219"/>
+                    <count group_id="O2" value="214"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.726" lower_limit="0.671" upper_limit="0.786"/>
+                    <measurement group_id="O2" value="0.785" lower_limit="0.722" upper_limit="0.853"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="208"/>
+                    <count group_id="O2" value="194"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.479" lower_limit="0.430" upper_limit="0.534"/>
+                    <measurement group_id="O2" value="0.649" lower_limit="0.578" upper_limit="0.729"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="197"/>
+                    <count group_id="O2" value="193"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.255" lower_limit="0.222" upper_limit="0.292"/>
+                    <measurement group_id="O2" value="0.384" lower_limit="0.325" upper_limit="0.454"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="168"/>
+                    <count group_id="O2" value="179"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.160" lower_limit="0.129" upper_limit="0.198"/>
+                    <measurement group_id="O2" value="0.238" lower_limit="0.195" upper_limit="0.290"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 9</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="132"/>
+                    <count group_id="O2" value="141"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.131" lower_limit="0.101" upper_limit="0.171"/>
+                    <measurement group_id="O2" value="0.159" lower_limit="0.126" upper_limit="0.201"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="112"/>
+                    <count group_id="O2" value="111"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.099" lower_limit="0.073" upper_limit="0.133"/>
+                    <measurement group_id="O2" value="0.133" lower_limit="0.096" upper_limit="0.185"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 13</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="86"/>
+                    <count group_id="O2" value="86"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.108" lower_limit="0.072" upper_limit="0.162"/>
+                    <measurement group_id="O2" value="0.141" lower_limit="0.087" upper_limit="0.228"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="74"/>
+                    <count group_id="O2" value="72"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.133" lower_limit="0.086" upper_limit="0.205"/>
+                    <measurement group_id="O2" value="0.149" lower_limit="0.088" upper_limit="0.252"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 17</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="50"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.123" lower_limit="0.069" upper_limit="0.220"/>
+                    <measurement group_id="O2" value="0.289" lower_limit="0.189" upper_limit="0.441"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 19</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="33"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.123" lower_limit="0.059" upper_limit="0.255"/>
+                    <measurement group_id="O2" value="0.368" lower_limit="0.227" upper_limit="0.598"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.115" lower_limit="0.053" upper_limit="0.247"/>
+                    <measurement group_id="O2" value="0.296" lower_limit="0.164" upper_limit="0.533"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 23</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="26"/>
+                    <count group_id="O2" value="28"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.106" lower_limit="0.036" upper_limit="0.311"/>
+                    <measurement group_id="O2" value="0.400" lower_limit="0.201" upper_limit="0.796"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 25</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.126" lower_limit="0.024" upper_limit="0.633"/>
+                    <measurement group_id="O2" value="0.368" lower_limit="0.160" upper_limit="0.846"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 27</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.175" lower_limit="0.041" upper_limit="0.743"/>
+                    <measurement group_id="O2" value="0.331" lower_limit="0.152" upper_limit="0.720"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.240" lower_limit="0.052" upper_limit="1.106"/>
+                    <measurement group_id="O2" value="0.258" lower_limit="0.121" upper_limit="0.551"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Ratio to Baseline in the D-dimer</title>
+        <description>Clinical chemistry measurement D-Dimer (mg/L FEU), Blood in a blood sample over time&#xD;
+D-dimer is one of the protein fragments produced when a blood clot gets dissolved in the body. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+        <time_frame>Over time and up to day 29: Baseline, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15, Day 17, Day 19, Day 21, Day 23, Day 25, Day 27 and Day 29.</time_frame>
+        <population>FAS</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Canakinumab</title>
+            <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Ratio to Baseline in the D-dimer</title>
+          <description>Clinical chemistry measurement D-Dimer (mg/L FEU), Blood in a blood sample over time&#xD;
+D-dimer is one of the protein fragments produced when a blood clot gets dissolved in the body. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+          <population>FAS</population>
+          <units>ratio</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="227"/>
+                <count group_id="O2" value="227"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="197"/>
+                    <count group_id="O2" value="190"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.032" lower_limit="0.910" upper_limit="1.170"/>
+                    <measurement group_id="O2" value="1.028" lower_limit="0.948" upper_limit="1.114"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="192"/>
+                    <count group_id="O2" value="172"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.992" lower_limit="0.866" upper_limit="1.135"/>
+                    <measurement group_id="O2" value="1.188" lower_limit="1.004" upper_limit="1.242"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="172"/>
+                    <count group_id="O2" value="169"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.094" lower_limit="0.971" upper_limit="1.233"/>
+                    <measurement group_id="O2" value="1.188" lower_limit="1.061" upper_limit="1.330"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="144"/>
+                    <count group_id="O2" value="160"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.038" lower_limit="0.851" upper_limit="1.267"/>
+                    <measurement group_id="O2" value="1.244" lower_limit="1.088" upper_limit="1.422"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 9</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="129"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.164" lower_limit="0.961" upper_limit="1.410"/>
+                    <measurement group_id="O2" value="1.184" lower_limit="1.003" upper_limit="1.422"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="97"/>
+                    <count group_id="O2" value="95"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.162" lower_limit="0.929" upper_limit="1.453"/>
+                    <measurement group_id="O2" value="1.115" lower_limit="0.896" upper_limit="1.388"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 13</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="73"/>
+                    <count group_id="O2" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.135" lower_limit="0.891" upper_limit="1.447"/>
+                    <measurement group_id="O2" value="1.184" lower_limit="0.927" upper_limit="1.513"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="61"/>
+                    <count group_id="O2" value="68"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.100" lower_limit="0.800" upper_limit="1.514"/>
+                    <measurement group_id="O2" value="1.078" lower_limit="0.862" upper_limit="1.349"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 17</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="39"/>
+                    <count group_id="O2" value="47"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.033" lower_limit="0.698" upper_limit="1.528"/>
+                    <measurement group_id="O2" value="1.384" lower_limit="1.041" upper_limit="1.838"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 19</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="28"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.520" lower_limit="0.853" upper_limit="2.711"/>
+                    <measurement group_id="O2" value="1.446" lower_limit="1.005" upper_limit="2.081"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.431" lower_limit="0.770" upper_limit="2.659"/>
+                    <measurement group_id="O2" value="1.443" lower_limit="0.958" upper_limit="2.172"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 23</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                    <count group_id="O2" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.208" lower_limit="0.495" upper_limit="2.950"/>
+                    <measurement group_id="O2" value="1.521" lower_limit="1.093" upper_limit="2.118"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 25</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.670" lower_limit="0.362" upper_limit="3.891"/>
+                    <measurement group_id="O2" value="1.808" lower_limit="0.969" upper_limit="3.371"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 27</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.785" lower_limit="0.644" upper_limit="4.949"/>
+                    <measurement group_id="O2" value="2.262" lower_limit="1.008" upper_limit="5.075"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.818" lower_limit="0.627" upper_limit="5.270"/>
+                    <measurement group_id="O2" value="2.441" lower_limit="0.912" upper_limit="6.534"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Ratio to Baseline in Ferritin</title>
+        <description>Clinical chemistry measurement for amount of ferritin (ug/L) in Serum. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+        <time_frame>Over time and up to day 29: Baseline, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15, Day 17, Day 19, Day 21, Day 23, Day 25, Day 27 and Day 29.</time_frame>
+        <population>Randomized participants with a valid assessment for the outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Canakinumab</title>
+            <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Ratio to Baseline in Ferritin</title>
+          <description>Clinical chemistry measurement for amount of ferritin (ug/L) in Serum. The ratio to baseline at each time point (day) for each patient is calculated as the level of a specific biomarker at the time point divided by the baseline level of the biomarker, where baseline is the last non-missing value before study treatment. The geometric mean of ratio to baseline at each time point for each treatment group is calculated by first averaging the logarithms of the ratios to baseline and then take the exponential function of the same base.</description>
+          <population>Randomized participants with a valid assessment for the outcome measure.</population>
+          <units>ratio</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="227"/>
+                <count group_id="O2" value="227"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="202"/>
+                    <count group_id="O2" value="198"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.996" lower_limit="0.953" upper_limit="1.040"/>
+                    <measurement group_id="O2" value="1.014" lower_limit="0.972" upper_limit="1.058"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="185"/>
+                    <count group_id="O2" value="177"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.921" lower_limit="0.870" upper_limit="0.976"/>
+                    <measurement group_id="O2" value="1.014" lower_limit="0.954" upper_limit="1.077"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="171"/>
+                    <count group_id="O2" value="177"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.825" lower_limit="0.765" upper_limit="0.889"/>
+                    <measurement group_id="O2" value="0.879" lower_limit="0.810" upper_limit="0.953"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="153"/>
+                    <count group_id="O2" value="163"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.761" lower_limit="0.701" upper_limit="0.826"/>
+                    <measurement group_id="O2" value="0.815" lower_limit="0.742" upper_limit="0.896"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 9</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="119"/>
+                    <count group_id="O2" value="128"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.676" lower_limit="0.609" upper_limit="0.751"/>
+                    <measurement group_id="O2" value="0.764" lower_limit="0.679" upper_limit="0.859"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="98"/>
+                    <count group_id="O2" value="97"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.618" lower_limit="0.548" upper_limit="0.698"/>
+                    <measurement group_id="O2" value="0.735" lower_limit="0.637" upper_limit="0.849"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 13</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="81"/>
+                    <count group_id="O2" value="72"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.582" lower_limit="0.501" upper_limit="0.675"/>
+                    <measurement group_id="O2" value="0.684" lower_limit="0.563" upper_limit="0.830"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="67"/>
+                    <count group_id="O2" value="65"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.535" lower_limit="0.448" upper_limit="0.638"/>
+                    <measurement group_id="O2" value="0.618" lower_limit="0.510" upper_limit="0.750"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 17</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="43"/>
+                    <count group_id="O2" value="45"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.534" lower_limit="0.449" upper_limit="0.634"/>
+                    <measurement group_id="O2" value="0.641" lower_limit="0.495" upper_limit="0.832"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 19</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="29"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.545" lower_limit="0.420" upper_limit="0.707"/>
+                    <measurement group_id="O2" value="0.644" lower_limit="0.464" upper_limit="0.893"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.514" lower_limit="0.377" upper_limit="0.700"/>
+                    <measurement group_id="O2" value="0.644" lower_limit="0.439" upper_limit="0.944"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 23</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="15"/>
+                    <count group_id="O2" value="19"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.469" lower_limit="0.294" upper_limit="0.749"/>
+                    <measurement group_id="O2" value="0.692" lower_limit="0.432" upper_limit="1.109"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 25</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.542" lower_limit="0.310" upper_limit="0.945"/>
+                    <measurement group_id="O2" value="0.745" lower_limit="0.524" upper_limit="1.059"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 27</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.490" lower_limit="0.299" upper_limit="0.802"/>
+                    <measurement group_id="O2" value="0.809" lower_limit="0.480" upper_limit="1.363"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.543" lower_limit="0.212" upper_limit="1.393"/>
+                    <measurement group_id="O2" value="0.517" lower_limit="0.298" upper_limit="0.896"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Treatment Emergent Adverse Events</title>
+        <description>Number of participants with treatment emergent adverse events, including changes from baseline in vital signs and laboratory results qualifying and reported as adverse events.&#xD;
+Safety was monitored from the canakinumab or placebo dose (Day 1) up to 126 days post-dose (Day 127).</description>
+        <time_frame>Up to day 127</time_frame>
+        <population>Safety Set comprises all participants who received at least one dose of study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Canakinumab</title>
+            <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Treatment Emergent Adverse Events</title>
+          <description>Number of participants with treatment emergent adverse events, including changes from baseline in vital signs and laboratory results qualifying and reported as adverse events.&#xD;
+Safety was monitored from the canakinumab or placebo dose (Day 1) up to 126 days post-dose (Day 127).</description>
+          <population>Safety Set comprises all participants who received at least one dose of study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="225"/>
+                <count group_id="O2" value="223"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="141"/>
+                    <measurement group_id="O2" value="140"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were collected from first dose of study treatment until end of study at day 127</time_frame>
+      <desc>Adverse Events (AEs) are any untoward sign or symptom that occurs during the study treatment. Adverse events and all-cause mortality are evaluated in the Safety Set that includes all participants who received at least one dose of double-blind treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Canakinumab</title>
+          <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (23.1)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="47" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="53" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Blood loss anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Coagulopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Leukocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure acute</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure chronic</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure congestive</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cardiopulmonary failure</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Coronary artery disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pulseless electrical activity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Lower gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Oesophageal motility disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Small intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Upper gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Multiple organ dysfunction syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Sudden death</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haemophagocytic lymphohistiocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Abscess limb</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Antibiotic associated colitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Bacterial sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Candida infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Clostridium difficile colitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Diverticulitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Enterococcal bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Enterocolitis viral</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Escherichia sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Klebsiella infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia escherichia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia fungal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia haemophilus</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia pseudomonal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia staphylococcal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Wound necrosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthritis reactive</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Osteonecrosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Acute myeloid leukaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Lung neoplasm malignant</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Metastases to liver</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebral infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cerebral ischaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Cerebrovascular accident</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bipolar disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Chronic kidney disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Renal impairment</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Renal injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Prostatitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute lung injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Acute pulmonary oedema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Atelectasis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Haemothorax</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumomediastinum</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia aspiration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary oedema</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Drug reaction with eosinophilia and systemic symptoms</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haemodynamic instability</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Jugular vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Peripheral artery occlusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Peripheral ischaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Peripheral vascular disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (23.1)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="225"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="223"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Publications from a single-site are postponed until publication of the pooled clinical trial data (i.e., data from all sites) or disclosure of trial results in their entirety</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Study Director</name_or_title>
+      <organization>Novartis Pharmaceuticals</organization>
+      <phone>(862) 778-8300</phone>
+      <email>novartis.email@novartis.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

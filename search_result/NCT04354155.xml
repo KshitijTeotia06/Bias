@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="116">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04354155</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVAC-TP</org_study_id>
+    <nct_id>NCT04354155</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Anticoagulation in Children - Thromboprophlaxis (COVAC-TP) Trial</brief_title>
+  <official_title>COVID-19 Anticoagulation in Children - Thromboprophlaxis (COVAC-TP) Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins All Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins All Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety, dose-requirements, and exploratory&#xD;
+      efficacy of twice-daily subcutaneous enoxaparin as venous thromboembolism prophylaxis in&#xD;
+      children (birth to 18 years) hospitalized with signs and/or symptoms of SARS-CoV-2 infection&#xD;
+      (i.e., COVID-19).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 2, 2020</start_date>
+  <completion_date type="Actual">June 4, 2021</completion_date>
+  <primary_completion_date type="Actual">June 4, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of In-hospital Thromboprophylaxis as Assessed by Number of Participants With ISTH-defined Clinically-relevant Bleeding Events During Hospitalization</measure>
+    <time_frame>Day 30</time_frame>
+    <description>The safety of in-hospital thromboprophylaxis with twice-daily low-dose enoxaparin thromboprophylaxis will be measured by cumulative incidence (number of participants) of ISTH-defined clinically-relevant bleeding events during hospitalization. Clinically relevant bleeding episodes may include any of the following:&#xD;
+fatal bleeding;&#xD;
+clinically overt bleeding associated with a decline in hemoglobin of ≥2g/dL in a 24h period;&#xD;
+retroperitoneal, pulmonary, or central nervous system bleeding;&#xD;
+bleeding requiring surgical intervention in an operating suite;&#xD;
+bleeding for which a blood product is administered (blood product administration not directly attributable to the patient's underlying condition);&#xD;
+bleeding that requires medical or surgical intervention to restore hemostasis, other than in an operating suite.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Median Twice-daily Enoxaparin Dose Required to Achieve 4-hour Post-dose Anti-factor Xa Between 0.20-0.49 U/mL</measure>
+    <time_frame>4 hours post initial dose</time_frame>
+    <description>The median twice-daily enoxaparin dose, as measured in mg/kg, required to achieve a 4-hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL in children hospitalized with COVID-19, and to compare dose-requirements by age group (&lt;12 and those &gt;12 years of age).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Efficacy of In-hospital Thromboprophylaxis as Measured by the Proportion of Serial D-dimer Levels</measure>
+    <time_frame>Enrollment, Day 1, Day 2, and Day 3, 7, and 14 if still hospitalized</time_frame>
+    <description>To investigate, on a preliminary basis, the efficacy of in-hospital thromboprophylaxis with twice-daily enoxaparin in children hospitalized with COVID-19, as measured by the proportion of serial D-dimer levels obtained at standardized time points that are &lt;2 times the upper limit of normal (&lt;2x ULN) values for age.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Efficacy of In-hospital Thromboprophylaxis as Measured by Number of Participants With Confirmed HA-VTE</measure>
+    <time_frame>Day 30</time_frame>
+    <description>To investigate, on a preliminary basis, the efficacy of in-hospital thromboprophylaxis with twice-daily enoxaparin in children hospitalized with COVID-19, as measured by number of participants with confirmed HA-VTE.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Infection Viral</condition>
+  <condition>Thromboses, Venous</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Thromboprophylaxis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin Prefilled Syringe [Lovenox]</intervention_name>
+    <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+    <arm_group_label>Thromboprophylaxis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Birth to &lt;18 years of age; AND&#xD;
+&#xD;
+          2. Positive nucleic acid test for SARS-CoV-2 within the past 7 days; AND&#xD;
+&#xD;
+          3. Hospitalized, &lt;72 hours post-admission; AND&#xD;
+&#xD;
+          4. One or more signs and/or symptoms of COVID-19 illness within the past 72 hours, as&#xD;
+             follows:&#xD;
+&#xD;
+               1. Cough; OR&#xD;
+&#xD;
+               2. Fever (oral temperature &gt;100.4°F/38°C); OR&#xD;
+&#xD;
+               3. Chest pain; OR&#xD;
+&#xD;
+               4. Shortness of breath; OR&#xD;
+&#xD;
+               5. Myalgia; OR&#xD;
+&#xD;
+               6. Acute unexplained loss of smell or taste; OR&#xD;
+&#xD;
+               7. New/increased supplemental oxygen requirement; OR&#xD;
+&#xD;
+               8. Acute respiratory failure requiring non-invasive or invasive ventilation; OR&#xD;
+&#xD;
+               9. Encephalitis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        An individual who meets any of the following criteria will be excluded from participation&#xD;
+        in this study:&#xD;
+&#xD;
+          1. Receiving therapeutic anticoagulation for treatment of a thromboembolic event&#xD;
+             diagnosed within the past 12 weeks; OR&#xD;
+&#xD;
+          2. Clinical-relevant bleeding (see criteria under Primary Outcome, below) within the past&#xD;
+             72 hours; OR&#xD;
+&#xD;
+          3. Platelet count &lt;50,000/µL within the past 24 hours; OR&#xD;
+&#xD;
+          4. Prothrombin time (PT) ≥2 seconds above the upper limit of age-appropriate local&#xD;
+             reference range within the past 24 hours; OR&#xD;
+&#xD;
+          5. Activated partial thromboplastin time (aPTT) ≥4 seconds above the upper limit of&#xD;
+             age-appropriate local reference range within the past 24 hours; OR&#xD;
+&#xD;
+          6. Fibrinogen level &lt;75 mg/dL; OR&#xD;
+&#xD;
+          7. Severe renal impairment, as defined by estimated glomerular filtration rate (eGFR) &lt;31&#xD;
+             mL/min/ 1.73 m2, as calculated by the Schwartz formula; OR&#xD;
+&#xD;
+          8. Parent or legally authorized representative unwilling to provide informed consent for&#xD;
+             patient participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>0 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Sochet, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins All Children's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hemostasis and Thrombosis Center UC Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins All Children's Hospital</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lurie Children's Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital New Orleans</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital and Children's Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Michigan</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cohen Children's Medical Center</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Akron Children's Hospital</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Medical Center of Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>April 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 21, 2020</study_first_posted>
+  <results_first_submitted>March 1, 2022</results_first_submitted>
+  <results_first_submitted_qc>March 28, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 31, 2022</results_first_posted>
+  <last_update_submitted>March 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Thrombosis</mesh_term>
+    <mesh_term>Venous Thrombosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Enoxaparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 8, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/55/NCT04354155/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 14, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/55/NCT04354155/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Thromboprophylaxis</title>
+          <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)&#xD;
+Enoxaparin Prefilled Syringe [Lovenox]: Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Did not meet criteria for study intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Baseline characteristics data was not collected from 1 participant that withdrew and 1 participant who did not meet criteria for study intervention.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Thromboprophylaxis</title>
+          <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)&#xD;
+Enoxaparin Prefilled Syringe [Lovenox]: Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="38"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>Median Age (IQR)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.1" lower_limit="1.3" upper_limit="17.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety of In-hospital Thromboprophylaxis as Assessed by Number of Participants With ISTH-defined Clinically-relevant Bleeding Events During Hospitalization</title>
+        <description>The safety of in-hospital thromboprophylaxis with twice-daily low-dose enoxaparin thromboprophylaxis will be measured by cumulative incidence (number of participants) of ISTH-defined clinically-relevant bleeding events during hospitalization. Clinically relevant bleeding episodes may include any of the following:&#xD;
+fatal bleeding;&#xD;
+clinically overt bleeding associated with a decline in hemoglobin of ≥2g/dL in a 24h period;&#xD;
+retroperitoneal, pulmonary, or central nervous system bleeding;&#xD;
+bleeding requiring surgical intervention in an operating suite;&#xD;
+bleeding for which a blood product is administered (blood product administration not directly attributable to the patient's underlying condition);&#xD;
+bleeding that requires medical or surgical intervention to restore hemostasis, other than in an operating suite.</description>
+        <time_frame>Day 30</time_frame>
+        <population>There were 19 &lt; 12 years of age and 19 &gt;/= 12 years of age.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thromboprophylaxis</title>
+            <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)&#xD;
+Enoxaparin Prefilled Syringe [Lovenox]: Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety of In-hospital Thromboprophylaxis as Assessed by Number of Participants With ISTH-defined Clinically-relevant Bleeding Events During Hospitalization</title>
+          <description>The safety of in-hospital thromboprophylaxis with twice-daily low-dose enoxaparin thromboprophylaxis will be measured by cumulative incidence (number of participants) of ISTH-defined clinically-relevant bleeding events during hospitalization. Clinically relevant bleeding episodes may include any of the following:&#xD;
+fatal bleeding;&#xD;
+clinically overt bleeding associated with a decline in hemoglobin of ≥2g/dL in a 24h period;&#xD;
+retroperitoneal, pulmonary, or central nervous system bleeding;&#xD;
+bleeding requiring surgical intervention in an operating suite;&#xD;
+bleeding for which a blood product is administered (blood product administration not directly attributable to the patient's underlying condition);&#xD;
+bleeding that requires medical or surgical intervention to restore hemostasis, other than in an operating suite.</description>
+          <population>There were 19 &lt; 12 years of age and 19 &gt;/= 12 years of age.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Median Twice-daily Enoxaparin Dose Required to Achieve 4-hour Post-dose Anti-factor Xa Between 0.20-0.49 U/mL</title>
+        <description>The median twice-daily enoxaparin dose, as measured in mg/kg, required to achieve a 4-hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL in children hospitalized with COVID-19, and to compare dose-requirements by age group (&lt;12 and those &gt;12 years of age).</description>
+        <time_frame>4 hours post initial dose</time_frame>
+        <population>Analysis was done based on division of participants into two groups: &lt; 12 years old and &gt;/= 12 years old.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Thromboprophylaxis</title>
+            <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)&#xD;
+Enoxaparin Prefilled Syringe [Lovenox]: Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Twice-daily Enoxaparin Dose Required to Achieve 4-hour Post-dose Anti-factor Xa Between 0.20-0.49 U/mL</title>
+          <description>The median twice-daily enoxaparin dose, as measured in mg/kg, required to achieve a 4-hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL in children hospitalized with COVID-19, and to compare dose-requirements by age group (&lt;12 and those &gt;12 years of age).</description>
+          <population>Analysis was done based on division of participants into two groups: &lt; 12 years old and &gt;/= 12 years old.</population>
+          <units>mg/kg</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Children 12 years or older</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.5" lower_limit="0.46" upper_limit="0.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Children less than 12 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.52" lower_limit="0.49" upper_limit="0.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Efficacy of In-hospital Thromboprophylaxis as Measured by the Proportion of Serial D-dimer Levels</title>
+        <description>To investigate, on a preliminary basis, the efficacy of in-hospital thromboprophylaxis with twice-daily enoxaparin in children hospitalized with COVID-19, as measured by the proportion of serial D-dimer levels obtained at standardized time points that are &lt;2 times the upper limit of normal (&lt;2x ULN) values for age.</description>
+        <time_frame>Enrollment, Day 1, Day 2, and Day 3, 7, and 14 if still hospitalized</time_frame>
+        <posting_date>06/2022</posting_date>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Efficacy of In-hospital Thromboprophylaxis as Measured by Number of Participants With Confirmed HA-VTE</title>
+        <description>To investigate, on a preliminary basis, the efficacy of in-hospital thromboprophylaxis with twice-daily enoxaparin in children hospitalized with COVID-19, as measured by number of participants with confirmed HA-VTE.</description>
+        <time_frame>Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Thromboprophylaxis</title>
+            <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)&#xD;
+Enoxaparin Prefilled Syringe [Lovenox]: Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Efficacy of In-hospital Thromboprophylaxis as Measured by Number of Participants With Confirmed HA-VTE</title>
+          <description>To investigate, on a preliminary basis, the efficacy of in-hospital thromboprophylaxis with twice-daily enoxaparin in children hospitalized with COVID-19, as measured by number of participants with confirmed HA-VTE.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From enrollment through follow up, up to 30 days after enrollment.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Thromboprophylaxis</title>
+          <description>Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 mg/kg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)&#xD;
+Enoxaparin Prefilled Syringe [Lovenox]: Twice-daily low-dose enoxaparin thromboprophylaxis (starting dose, 0.5 m/gkg subcutaneously q12 hours, adjusted to achieve a 4 hour post-dose anti-factor Xa level of 0.20-0.49 anti-Xa U/mL)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Anthony Alexander Sochet</name_or_title>
+      <organization>Johns Hopkins All Children's Hospital</organization>
+      <phone>17277672912</phone>
+      <email>anthony.sochet@jhmi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

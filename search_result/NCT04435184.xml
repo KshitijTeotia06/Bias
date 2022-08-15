@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="19">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04435184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00249874</org_study_id>
+    <nct_id>NCT04435184</nct_id>
+  </id_info>
+  <brief_title>Crizanlizumab for Treating COVID-19 Vasculopathy</brief_title>
+  <acronym>CRITICAL</acronym>
+  <official_title>Crizanlizumab for Treating COVID-19 Vasculopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Socar Research SA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this trial is to test the efficacy and safety of crizanlizumab in patients&#xD;
+      hospitalized with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Infection with severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2) causes&#xD;
+      coronavirus disease 2019 (COVID-19). The clinical course of COVID-19 is variable, and some&#xD;
+      patients develop severe pneumonia, multi-organ failure, and shock.&#xD;
+&#xD;
+      Severe COVID-19 is characterized by a hyper-inflammatory and hyper-thrombotic state. We&#xD;
+      propose that this state is caused by viral injury of the vascular endothelium, leading to&#xD;
+      endothelial release of von Willebrand Factor (VWF) and P-selectin, which in turn drive&#xD;
+      thrombosis and vascular inflammation.&#xD;
+&#xD;
+      Crizanlizumab is a monoclonal antibody that targets P-selectin. Crizanlizumab can decrease&#xD;
+      inflammation by binding to P-selectin, blocking leucocyte and platelet adherence to the&#xD;
+      vessel wall.&#xD;
+&#xD;
+      We now plan to test the safety and efficacy of crizanlizumab in decreasing biomarkers of&#xD;
+      inflammation and thrombosis in a placebo-controlled, double-blind randomized clinical trial&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 9, 2020</start_date>
+  <completion_date type="Actual">January 4, 2021</completion_date>
+  <primary_completion_date type="Actual">November 28, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double-blind, placebo-controlled, randomized interventional trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Soluble P-selectin Level</measure>
+    <time_frame>Day 3 after randomization or day of hospital discharge, whichever is earlier</time_frame>
+    <description>Level of soluble P-selectin in ng/mL.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Soluble P-selectin Level</measure>
+    <time_frame>Day 7 after randomization</time_frame>
+    <description>Level of soluble P-selectin in ng/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Soluble P-selectin Level</measure>
+    <time_frame>Day 14 after randomization</time_frame>
+    <description>Level of soluble P-selectin in ng/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer Level</measure>
+    <time_frame>Day 3 after randomization</time_frame>
+    <description>Level of D-dimer in mg/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer Level</measure>
+    <time_frame>Day 7 after randomization</time_frame>
+    <description>Level of D-dimer in mg/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer Level</measure>
+    <time_frame>Day 14 after randomization</time_frame>
+    <description>Level of D-dimer in mg/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VWF Level</measure>
+    <time_frame>Day 3 after randomization</time_frame>
+    <description>Level of von Willebrand Factor (VWF) antigen in IU/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VWF Level</measure>
+    <time_frame>Day 7 after randomization</time_frame>
+    <description>Level of VWF antigen in IU/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VWF Level</measure>
+    <time_frame>Day 14 after randomization</time_frame>
+    <description>Level of VWF antigen in IU/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP Level</measure>
+    <time_frame>Day 3 after randomization</time_frame>
+    <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP Level</measure>
+    <time_frame>Day 7 after randomization</time_frame>
+    <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP Level</measure>
+    <time_frame>Day 14 after randomization</time_frame>
+    <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinical Status as Assessed by the World Health Organization (WHO) Ordinal Scale for Coronavirus Disease 2019 (COVID-19) Trials</measure>
+    <time_frame>Days 3, 7 and 14 after randomization</time_frame>
+    <description>Change in the clinical status over 14 days as measured by an ordinal scale that is the first assessment of the clinical status on a given study day. The scale is as follows:&#xD;
+0 = Uninfected; no viral RNA detected&#xD;
+= Ambulatory; asymptomatic; viral RNA detected&#xD;
+= Ambulatory; symptomatic; independent&#xD;
+= Ambulatory; symptomatic; assistance needed&#xD;
+= Hospitalized; no oxygen therapy&#xD;
+= Hospitalized; oxygen by mask or nasal prongs&#xD;
+= Hospitalized; oxygen by non-invasive ventilation (NIV) or high flow&#xD;
+= Hospitalized; intubation and mechanical ventilation, partial pressure of oxygen / fraction of inspired oxygen (pO2/FIO2) ≥ 150 or oxygen saturation / FIO2 (SpO2/FIO2) ≥ 200&#xD;
+= Hospitalized; intubation and mechanical ventilation, pO2/FIO2 &lt; 150 or SpO2/FIO2 &lt; 200 or vasopressors&#xD;
+= Hospitalized; intubation and mechanical ventilation, pO2/FIO2 &lt; 150 or SpO2/FIO2 &lt; 200 and vasopressors, dialysis, or extracorporeal membrane oxygenation (ECMO)&#xD;
+= Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Hospital Discharge</measure>
+    <time_frame>Up to 30 days after randomization</time_frame>
+    <description>Time (days) to hospital discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of Crizanlizumab as Assessed by Adverse Events</measure>
+    <time_frame>Up to day 14 after randomization</time_frame>
+    <description>Safety of crizanlizumab will by assessed by adverse events, serious adverse events, and suspected unexpected serious adverse reactions.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">54</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Crizanlizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Saline</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.9% saline 100 ml IV once.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Crizanlizumab</intervention_name>
+    <description>Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+    <arm_group_label>Crizanlizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>0.9% saline</intervention_name>
+    <description>0.9% saline 100 ml IV once.</description>
+    <arm_group_label>Placebo Saline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Willing to provide written informed consent&#xD;
+&#xD;
+          2. Willing to comply with all study procedures and be available for the duration of the&#xD;
+             study&#xD;
+&#xD;
+          3. Male or female ≥ 18 years of age&#xD;
+&#xD;
+          4. SARS-CoV-2 infection (COVID-19) within the past 10 d documented by laboratory test&#xD;
+             (nucleic acid test (NAT) or reverse transcriptase-polymerase chain reaction (RT-PCR))&#xD;
+&#xD;
+          5. Currently hospitalized&#xD;
+&#xD;
+          6. Symptoms of acute respiratory infection (at least one of the following: cough, fever &gt;&#xD;
+             37.5°C, dyspnea, sore throat, anosmia),&#xD;
+&#xD;
+          7. Radiographic evidence of pulmonary infiltrates&#xD;
+&#xD;
+          8. Requiring supplemental oxygen or the peripheral capillary oxygenation saturation&#xD;
+             (SpO2) &lt; 94% on room air at screening&#xD;
+&#xD;
+          9. Elevated D-Dimer &gt; 0.49 mg/L&#xD;
+&#xD;
+         10. Negative pregnancy test for females of childbearing potential&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Use of home oxygen at baseline&#xD;
+&#xD;
+          2. Current use of mechanical ventilation&#xD;
+&#xD;
+          3. Inability to provide consent&#xD;
+&#xD;
+          4. Do not intubate status&#xD;
+&#xD;
+          5. Prisoner or incarcerated&#xD;
+&#xD;
+          6. Pregnancy or Breast Feeding&#xD;
+&#xD;
+          7. Participation in other interventional therapy trials for COVID-19.&#xD;
+&#xD;
+          8. International normalized ratio (INR) &gt; 3 or activated partial thromboplastin time&#xD;
+             (aPTT) &gt; 60&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles J Lowenstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Ataga KI, Kutlar A, Kanter J, Liles D, Cancado R, Friedrisch J, Guthrie TH, Knight-Madden J, Alvarez OA, Gordeuk VR, Gualandro S, Colella MP, Smith WR, Rollins SA, Stocker JW, Rother RP. Crizanlizumab for the Prevention of Pain Crises in Sickle Cell Disease. N Engl J Med. 2017 Feb 2;376(5):429-439. doi: 10.1056/NEJMoa1611770. Epub 2016 Dec 3.</citation>
+    <PMID>27959701</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>June 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 17, 2020</study_first_posted>
+  <results_first_submitted>November 3, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 3, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 9, 2021</results_first_posted>
+  <last_update_submitted>November 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 14, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/84/NCT04435184/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>From July 15, 2020 through November 27, 2020, 583 patients were screened at 3 hospitals within the Johns Hopkins Health System. A total of 54 patients who fulfilled study entry criteria were randomized to receive crizanlizumab (n = 27) or placebo (n = 27).</recruitment_details>
+      <pre_assignment_details>Out of the 27 assigned to receive crizanlizumab, 2 did not receive crizanlizumab because of early discharge or early intubation. Out of the 27 assigned to receive placebo, 2 did not receive placebo because of early discharge or withdrawn consent.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Crizanlizumab</title>
+          <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Saline</title>
+          <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="25"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>follow-up blood draws missing</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Baseline characteristics data was collected for the 42 participants who completed the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Crizanlizumab</title>
+          <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Saline</title>
+          <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="22"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="42"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58" spread="17.7"/>
+                    <measurement group_id="B2" value="54.6" spread="13.4"/>
+                    <measurement group_id="B3" value="56.2" spread="15.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Soluble P-selectin Level</title>
+        <description>Level of soluble P-selectin in ng/mL.</description>
+        <time_frame>Day 3 after randomization or day of hospital discharge, whichever is earlier</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Soluble P-selectin Level</title>
+          <description>Level of soluble P-selectin in ng/mL.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7" spread="7"/>
+                    <measurement group_id="O2" value="39" spread="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Soluble P-selectin Level</title>
+        <description>Level of soluble P-selectin in ng/mL.</description>
+        <time_frame>Day 7 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Soluble P-selectin Level</title>
+          <description>Level of soluble P-selectin in ng/mL.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10" spread="8"/>
+                    <measurement group_id="O2" value="48" spread="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Soluble P-selectin Level</title>
+        <description>Level of soluble P-selectin in ng/mL.</description>
+        <time_frame>Day 14 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Soluble P-selectin Level</title>
+          <description>Level of soluble P-selectin in ng/mL.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12" spread="10"/>
+                    <measurement group_id="O2" value="48" spread="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>D-dimer Level</title>
+        <description>Level of D-dimer in mg/L.</description>
+        <time_frame>Day 3 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>D-dimer Level</title>
+          <description>Level of D-dimer in mg/L.</description>
+          <units>mg/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.6" lower_limit="0.7" upper_limit="2.8"/>
+                    <measurement group_id="O2" value="0.7" lower_limit="0.5" upper_limit="1.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>D-dimer Level</title>
+        <description>Level of D-dimer in mg/L.</description>
+        <time_frame>Day 7 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>D-dimer Level</title>
+          <description>Level of D-dimer in mg/L.</description>
+          <units>mg/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.6" lower_limit="0.6" upper_limit="2.0"/>
+                    <measurement group_id="O2" value="0.7" lower_limit="0.5" upper_limit="0.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>D-dimer Level</title>
+        <description>Level of D-dimer in mg/L.</description>
+        <time_frame>Day 14 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>D-dimer Level</title>
+          <description>Level of D-dimer in mg/L.</description>
+          <units>mg/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.5" lower_limit="0.5" upper_limit="1.9"/>
+                    <measurement group_id="O2" value="0.7" lower_limit="0.5" upper_limit="0.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>VWF Level</title>
+        <description>Level of von Willebrand Factor (VWF) antigen in IU/mL.</description>
+        <time_frame>Day 3 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>VWF Level</title>
+          <description>Level of von Willebrand Factor (VWF) antigen in IU/mL.</description>
+          <units>IU/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.9" lower_limit="1.9" upper_limit="4.9"/>
+                    <measurement group_id="O2" value="2.8" lower_limit="1.7" upper_limit="4.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>VWF Level</title>
+        <description>Level of VWF antigen in IU/mL.</description>
+        <time_frame>Day 7 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>VWF Level</title>
+          <description>Level of VWF antigen in IU/mL.</description>
+          <units>IU/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.9" lower_limit="2.5" upper_limit="5.9"/>
+                    <measurement group_id="O2" value="3.6" lower_limit="2.1" upper_limit="6.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>VWF Level</title>
+        <description>Level of VWF antigen in IU/mL.</description>
+        <time_frame>Day 14 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>VWF Level</title>
+          <description>Level of VWF antigen in IU/mL.</description>
+          <units>IU/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.7" lower_limit="1.9" upper_limit="4.2"/>
+                    <measurement group_id="O2" value="4.6" lower_limit="2.6" upper_limit="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CRP Level</title>
+        <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+        <time_frame>Day 3 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CRP Level</title>
+          <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.4" lower_limit="2.1" upper_limit="5.6"/>
+                    <measurement group_id="O2" value="4.5" lower_limit="1.2" upper_limit="6.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CRP Level</title>
+        <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+        <time_frame>Day 7 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CRP Level</title>
+          <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.4" lower_limit="1.1" upper_limit="4.9"/>
+                    <measurement group_id="O2" value="2.1" lower_limit="0.6" upper_limit="4.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CRP Level</title>
+        <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+        <time_frame>Day 14 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CRP Level</title>
+          <description>Level of C-reactive protein (CRP) in mg/dL.</description>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.5" lower_limit="1.1" upper_limit="5.1"/>
+                    <measurement group_id="O2" value="1.3" lower_limit="0.6" upper_limit="4.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Clinical Status as Assessed by the World Health Organization (WHO) Ordinal Scale for Coronavirus Disease 2019 (COVID-19) Trials</title>
+        <description>Change in the clinical status over 14 days as measured by an ordinal scale that is the first assessment of the clinical status on a given study day. The scale is as follows:&#xD;
+0 = Uninfected; no viral RNA detected&#xD;
+= Ambulatory; asymptomatic; viral RNA detected&#xD;
+= Ambulatory; symptomatic; independent&#xD;
+= Ambulatory; symptomatic; assistance needed&#xD;
+= Hospitalized; no oxygen therapy&#xD;
+= Hospitalized; oxygen by mask or nasal prongs&#xD;
+= Hospitalized; oxygen by non-invasive ventilation (NIV) or high flow&#xD;
+= Hospitalized; intubation and mechanical ventilation, partial pressure of oxygen / fraction of inspired oxygen (pO2/FIO2) ≥ 150 or oxygen saturation / FIO2 (SpO2/FIO2) ≥ 200&#xD;
+= Hospitalized; intubation and mechanical ventilation, pO2/FIO2 &lt; 150 or SpO2/FIO2 &lt; 200 or vasopressors&#xD;
+= Hospitalized; intubation and mechanical ventilation, pO2/FIO2 &lt; 150 or SpO2/FIO2 &lt; 200 and vasopressors, dialysis, or extracorporeal membrane oxygenation (ECMO)&#xD;
+= Dead</description>
+        <time_frame>Days 3, 7 and 14 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Clinical Status as Assessed by the World Health Organization (WHO) Ordinal Scale for Coronavirus Disease 2019 (COVID-19) Trials</title>
+          <description>Change in the clinical status over 14 days as measured by an ordinal scale that is the first assessment of the clinical status on a given study day. The scale is as follows:&#xD;
+0 = Uninfected; no viral RNA detected&#xD;
+= Ambulatory; asymptomatic; viral RNA detected&#xD;
+= Ambulatory; symptomatic; independent&#xD;
+= Ambulatory; symptomatic; assistance needed&#xD;
+= Hospitalized; no oxygen therapy&#xD;
+= Hospitalized; oxygen by mask or nasal prongs&#xD;
+= Hospitalized; oxygen by non-invasive ventilation (NIV) or high flow&#xD;
+= Hospitalized; intubation and mechanical ventilation, partial pressure of oxygen / fraction of inspired oxygen (pO2/FIO2) ≥ 150 or oxygen saturation / FIO2 (SpO2/FIO2) ≥ 200&#xD;
+= Hospitalized; intubation and mechanical ventilation, pO2/FIO2 &lt; 150 or SpO2/FIO2 &lt; 200 or vasopressors&#xD;
+= Hospitalized; intubation and mechanical ventilation, pO2/FIO2 &lt; 150 or SpO2/FIO2 &lt; 200 and vasopressors, dialysis, or extracorporeal membrane oxygenation (ECMO)&#xD;
+= Dead</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>WHO Clinical Status: Day 3</title>
+              <category_list>
+                <category>
+                  <title>&lt;/= 3 (discharged)</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>8</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>9</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>10</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>WHO Clinical Status: Day 7</title>
+              <category_list>
+                <category>
+                  <title>&lt;/= 3 (discharged)</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>8</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>9</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>10</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>WHO Clinical Status: Day 14</title>
+              <category_list>
+                <category>
+                  <title>&lt;/= 3 (discharged)</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21"/>
+                    <measurement group_id="O2" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>8</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>9</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>10</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Hospital Discharge</title>
+        <description>Time (days) to hospital discharge</description>
+        <time_frame>Up to 30 days after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Hospital Discharge</title>
+          <description>Time (days) to hospital discharge</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.1" spread="4.4"/>
+                    <measurement group_id="O2" value="6.2" spread="3.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Safety of Crizanlizumab as Assessed by Adverse Events</title>
+        <description>Safety of crizanlizumab will by assessed by adverse events, serious adverse events, and suspected unexpected serious adverse reactions.</description>
+        <time_frame>Up to day 14 after randomization</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Crizanlizumab</title>
+            <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Saline</title>
+            <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety of Crizanlizumab as Assessed by Adverse Events</title>
+          <description>Safety of crizanlizumab will by assessed by adverse events, serious adverse events, and suspected unexpected serious adverse reactions.</description>
+          <units>total adverse events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="25"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Crizanlizumab</title>
+          <description>Crizanlizumab is a monoclonal antibody targeting P-selectin. Crizanlizumab 5.0 mg/kg in 100 ml IV once.&#xD;
+Crizanlizumab: Crizanlizumab 5.0 mg/kg in 100 ml IV once.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo Saline</title>
+          <description>0.9% saline 100 ml IV once.&#xD;
+0.9% saline: 0.9% saline 100 ml IV once.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>multi-organ failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="25"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="25"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Altered mental status</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Dark and Infrequent Urination</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Venous thrombembolism</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Charles Lowenstein</name_or_title>
+      <organization>Johns Hopkins University - Baltimore, MD</organization>
+      <phone>4105020391</phone>
+      <email>clowens1@jhmi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

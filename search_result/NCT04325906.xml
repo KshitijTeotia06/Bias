@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="179">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04325906</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19-HFNC+PP</org_study_id>
+    <nct_id>NCT04325906</nct_id>
+  </id_info>
+  <brief_title>Early PP With HFNC Versus HFNC in COVID-19 Induced Moderate to Severe ARDS</brief_title>
+  <official_title>Early Prone Positioning Combined With High-Flow Nasal Cannula Versus High-Flow Nasal Cannula in COVID-19 Induced Moderate to Severe ARDS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rush University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rush University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is an emerging infectious disease that was first reported&#xD;
+      in Wuhan, China, and had subsequently spread worldwide. Twenty-nine percent of COVID-19&#xD;
+      patients may develop ARDS. Based on the potential beneficial mechanisms of HFNC and PP,&#xD;
+      whether early use of prone positioning combined with HFNC can avoid the need for intubation&#xD;
+      in COVID-19 induced moderate to severe ARDS patients needs to be further investigated.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 2, 2020</start_date>
+  <completion_date type="Actual">February 21, 2021</completion_date>
+  <primary_completion_date type="Actual">January 26, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment Failure (Intubation or Death)</measure>
+    <time_frame>28 days</time_frame>
+    <description>the treatment failure rate of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Intubation</measure>
+    <time_frame>28 days</time_frame>
+    <description>intubation rate of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>mortality of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Adverse Events</measure>
+    <time_frame>28 days of study enrollment</time_frame>
+    <description>adverse events include skin breakdown, vomiting, arterial or central line dislodgement, and cardiac arrest</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">224</enrollment>
+  <condition>Prone Positioning</condition>
+  <condition>High Flow Nasal Cannula</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>high flow nasal cannula only</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Receive high flow nasal cannula only</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HFNC plus prone positioning</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Receive high flow nasal cannula plus prone positioning</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>high flow nasal cannula (HFNC)</intervention_name>
+    <description>HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+    <arm_group_label>HFNC plus prone positioning</arm_group_label>
+    <arm_group_label>high flow nasal cannula only</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Prone positioning (PP)</intervention_name>
+    <description>PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+    <arm_group_label>HFNC plus prone positioning</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 induced adult ARDS patients admitted to the medical ICU&#xD;
+&#xD;
+          -  PaO2/FiO2 is less than 200mmHg or FIO2 ≥ 0.4 is required to maintain SpO2 at 88-93% on&#xD;
+             HFNC treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. If the patients have a consistent SpO2&lt;80% when on evaluation with a FiO2 of 0.6, or&#xD;
+             signs of respiratory fatigue (RR &gt; 40/min, PaCO2&gt; 50mmHg / pH&lt;7.30, and obvious&#xD;
+             accessory respiratory muscle use);&#xD;
+&#xD;
+          2. Immediate need for intubation (PaO2/FiO2&lt; 50mmHg or SpO2/FiO2 &lt;90, unable to protect&#xD;
+             airway or mental status change);&#xD;
+&#xD;
+          3. unstable hemodynamic status(SBP&lt;90mmHg, MBP below 65 mmHg or requirement for&#xD;
+             vasopressor);&#xD;
+&#xD;
+          4. unable to collaborate with HFNC/PP with agitation or refuse HFNC/PP.&#xD;
+&#xD;
+          5. chest trauma or any contraindication for PP&#xD;
+&#xD;
+          6. pneumothorax&#xD;
+&#xD;
+          7. age &lt; 18 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jie Li, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rush University Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Guérin C, Reignier J, Richard JC, Beuret P, Gacouin A, Boulain T, Mercier E, Badet M, Mercat A, Baudin O, Clavel M, Chatellier D, Jaber S, Rosselli S, Mancebo J, Sirodot M, Hilbert G, Bengler C, Richecoeur J, Gainnier M, Bayle F, Bourdin G, Leray V, Girard R, Baboi L, Ayzac L; PROSEVA Study Group. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013 Jun 6;368(23):2159-68. doi: 10.1056/NEJMoa1214103. Epub 2013 May 20.</citation>
+    <PMID>23688302</PMID>
+  </reference>
+  <reference>
+    <citation>Ding L, Wang L, Ma W, He H. Efficacy and safety of early prone positioning combined with HFNC or NIV in moderate to severe ARDS: a multi-center prospective cohort study. Crit Care. 2020 Jan 30;24(1):28. doi: 10.1186/s13054-020-2738-5.</citation>
+    <PMID>32000806</PMID>
+  </reference>
+  <reference>
+    <citation>Munshi L, Del Sorbo L, Adhikari NKJ, Hodgson CL, Wunsch H, Meade MO, Uleryk E, Mancebo J, Pesenti A, Ranieri VM, Fan E. Prone Position for Acute Respiratory Distress Syndrome. A Systematic Review and Meta-Analysis. Ann Am Thorac Soc. 2017 Oct;14(Supplement_4):S280-S288. doi: 10.1513/AnnalsATS.201704-343OT. Review.</citation>
+    <PMID>29068269</PMID>
+  </reference>
+  <reference>
+    <citation>Scholten EL, Beitler JR, Prisk GK, Malhotra A. Treatment of ARDS With Prone Positioning. Chest. 2017 Jan;151(1):215-224. doi: 10.1016/j.chest.2016.06.032. Epub 2016 Jul 8. Review.</citation>
+    <PMID>27400909</PMID>
+  </reference>
+  <reference>
+    <citation>Respiratory care committee of Chinese Thoracic Society. [Expert consensus on preventing nosocomial transmission during respiratory care for critically ill patients infected by 2019 novel coronavirus pneumonia]. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Feb 20;17(0):E020. doi: 10.3760/cma.j.issn.1001-0939.2020.0020. [Epub ahead of print] Chinese.</citation>
+    <PMID>32077661</PMID>
+  </reference>
+  <reference>
+    <citation>Frat JP, Thille AW, Mercat A, Girault C, Ragot S, Perbet S, Prat G, Boulain T, Morawiec E, Cottereau A, Devaquet J, Nseir S, Razazi K, Mira JP, Argaud L, Chakarian JC, Ricard JD, Wittebole X, Chevalier S, Herbland A, Fartoukh M, Constantin JM, Tonnelier JM, Pierrot M, Mathonnet A, Béduneau G, Delétage-Métreau C, Richard JC, Brochard L, Robert R; FLORALI Study Group; REVA Network. High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure. N Engl J Med. 2015 Jun 4;372(23):2185-96. doi: 10.1056/NEJMoa1503326. Epub 2015 May 17.</citation>
+    <PMID>25981908</PMID>
+  </reference>
+  <reference>
+    <citation>Tavernier E, McNicholas B, Pavlov I, Roca O, Perez Y, Laffey J, Mirza S, Cosgrave D, Vines D, Frat JP, Ehrmann S, Li J. Awake prone positioning of hypoxaemic patients with COVID-19: protocol for a randomised controlled open-label superiority meta-trial. BMJ Open. 2020 Nov 11;10(11):e041520. doi: 10.1136/bmjopen-2020-041520.</citation>
+    <PMID>33177145</PMID>
+  </reference>
+  <reference>
+    <citation>Pavlov I, He H, McNicholas B, Perez Y, Tavernier E, Trump MW, Jackson JA, Zhang W, Rubin DS, Spiegel T, Hung A, Estrada MÁI, Roca O, Vines DL, Cosgrave D, Mirza S, Laffey JG, Rice TW, Ehrmann S, Li J. Awake Prone Positioning in Non-Intubated Patients With Acute Hypoxemic Respiratory Failure Due to COVID-19. Respir Care. 2021 Jul 7. pii: respcare.09191. doi: 10.4187/respcare.09191. [Epub ahead of print] Review.</citation>
+    <PMID>34234032</PMID>
+  </reference>
+  <reference>
+    <citation>Li J, Pavlov I, Laffey JG, Roca O, Mirza S, Perez Y, McNicholas B, Cosgrave D, Vines D, Tavernier E, Ehrmann S. Meta-trial of awake prone positioning with nasal high flow therapy: Invitation to join a pandemic collaborative research effort. J Crit Care. 2020 Dec;60:140-142. doi: 10.1016/j.jcrc.2020.07.020. Epub 2020 Jul 24.</citation>
+    <PMID>32799184</PMID>
+  </reference>
+  <results_reference>
+    <citation>Ehrmann S, Li J, Ibarra-Estrada M, Perez Y, Pavlov I, McNicholas B, Roca O, Mirza S, Vines D, Garcia-Salcido R, Aguirre-Avalos G, Trump MW, Nay MA, Dellamonica J, Nseir S, Mogri I, Cosgrave D, Jayaraman D, Masclans JR, Laffey JG, Tavernier E; Awake Prone Positioning Meta-Trial Group. Awake prone positioning for COVID-19 acute hypoxaemic respiratory failure: a randomised, controlled, multinational, open-label meta-trial. Lancet Respir Med. 2021 Dec;9(12):1387-1395. doi: 10.1016/S2213-2600(21)00356-8. Epub 2021 Aug 20.</citation>
+    <PMID>34425070</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kaur R, Vines DL, Mirza S, Elshafei A, Jackson JA, Harnois LJ, Weiss T, Scott JB, Trump MW, Mogri I, Cerda F, Alolaiwat AA, Miller AR, Klein AM, Oetting TW, Morris L, Heckart S, Capouch L, He H, Li J. Early versus late awake prone positioning in non-intubated patients with COVID-19. Crit Care. 2021 Sep 17;25(1):340. doi: 10.1186/s13054-021-03761-9.</citation>
+    <PMID>34535158</PMID>
+  </results_reference>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>March 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2020</study_first_posted>
+  <results_first_submitted>February 2, 2022</results_first_submitted>
+  <results_first_submitted_qc>February 24, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 28, 2022</results_first_posted>
+  <last_update_submitted>February 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Informed Consent Form: Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT04325906/Prot_ICF_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan: Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 15, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT04325906/Prot_SAP_003.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>High Flow Nasal Cannula Only</title>
+          <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+        </group>
+        <group group_id="P2">
+          <title>HFNC Plus Prone Positioning</title>
+          <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="112"/>
+                <participants group_id="P2" count="112"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="110"/>
+                <participants group_id="P2" count="112"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>High Flow Nasal Cannula Only</title>
+          <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+        </group>
+        <group group_id="B2">
+          <title>HFNC Plus Prone Positioning</title>
+          <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="110"/>
+            <count group_id="B2" value="112"/>
+            <count group_id="B3" value="222"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="62.5" spread="13.3"/>
+                    <measurement group_id="B2" value="62.2" spread="12.5"/>
+                    <measurement group_id="B3" value="62.3" spread="12.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="82"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="72"/>
+                    <measurement group_id="B3" value="140"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="57"/>
+                    <measurement group_id="B2" value="65"/>
+                    <measurement group_id="B3" value="122"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="100"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Treatment Failure (Intubation or Death)</title>
+        <description>the treatment failure rate of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Flow Nasal Cannula Only</title>
+            <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+          </group>
+          <group group_id="O2">
+            <title>HFNC Plus Prone Positioning</title>
+            <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment Failure (Intubation or Death)</title>
+          <description>the treatment failure rate of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="110"/>
+                <count group_id="O2" value="112"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45"/>
+                    <measurement group_id="O2" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Intubation</title>
+        <description>intubation rate of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Flow Nasal Cannula Only</title>
+            <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+          </group>
+          <group group_id="O2">
+            <title>HFNC Plus Prone Positioning</title>
+            <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Intubation</title>
+          <description>intubation rate of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="110"/>
+                <count group_id="O2" value="112"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39"/>
+                    <measurement group_id="O2" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Mortality</title>
+        <description>mortality of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Flow Nasal Cannula Only</title>
+            <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+          </group>
+          <group group_id="O2">
+            <title>HFNC Plus Prone Positioning</title>
+            <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>mortality of HFNC/HFNC+PP support within 28 days of study enrollment</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="110"/>
+                <count group_id="O2" value="112"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Adverse Events</title>
+        <description>adverse events include skin breakdown, vomiting, arterial or central line dislodgement, and cardiac arrest</description>
+        <time_frame>28 days of study enrollment</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Flow Nasal Cannula Only</title>
+            <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+          </group>
+          <group group_id="O2">
+            <title>HFNC Plus Prone Positioning</title>
+            <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events</title>
+          <description>adverse events include skin breakdown, vomiting, arterial or central line dislodgement, and cardiac arrest</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="110"/>
+                <count group_id="O2" value="112"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Within 28 days of study enrollment</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>High Flow Nasal Cannula Only</title>
+          <description>Receive high flow nasal cannula only&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.</description>
+        </group>
+        <group group_id="E2">
+          <title>HFNC Plus Prone Positioning</title>
+          <description>Receive high flow nasal cannula plus prone positioning&#xD;
+high flow nasal cannula (HFNC): HFNC will be initiated at 50 L/min (AIRVO2 or Optiflow, Fisher &amp;Paykel Health care Limited., Auckland, New Zealand) with temperature set at 37 oC. Nasal cannula size will be determined by the patient's nostril size (≤ 50%). FIO2 will be adjusted to maintain SpO2 at 92% to 95%. Flow and temperature will be adjusted based on patient's comfort and clinical response.&#xD;
+Prone positioning (PP): PP will be performed before or 1 hour after meal. Before PP, all the I.V. lines and nasal cannula will be checked by clinicians. PP will be performed by patient under the supervision of clinicians. Assistance will be offered if needed. If tolerated, PP will be maintained for at least 30 minutes, until the patients feel tired to keep that position. PP will be performed twice a day for the first 3 days after the patient's enrollment. FIO2 will be adjusted to maintain SpO2 at 92-95%.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="110"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="112"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="110"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="112"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="110"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="112"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Central or arterial line dislodgement</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="110"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="112"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The study funder (Rice foundation) had no role in study design, data analysis, the preparation or approval of the manuscript, or the decision to submit the manuscript for publication</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Jie Li, PI</name_or_title>
+      <organization>Rush University</organization>
+      <phone>3125634643</phone>
+      <email>jie_li@rush.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

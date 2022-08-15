@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="150">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04407507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARS-COV-IverMX-01</org_study_id>
+    <nct_id>NCT04407507</nct_id>
+  </id_info>
+  <brief_title>Efficacy, Safety and Tolerability of Ivermectin in Subjects Infected With SARS-CoV-2 With or Without Symptoms</brief_title>
+  <acronym>SILVERBULLET</acronym>
+  <official_title>Multicenter, Double-blind, Randomized, Placebo-controlled Study to Assess the Efficacy, Safety and Tolerability of Ivermectin in Mild Virus-positive Subjects (SARS-CoV)-2 With or Without Symptoms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Investigacion Biomedica para el Desarrollo de Farmacos S.A. de C.V.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Investigacion Biomedica para el Desarrollo de Farmacos S.A. de C.V.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the efficacy, safety and tolerability of Ivermectin in patients&#xD;
+      with mild SARS-CoV-2 infection, in the rate of progression to severe 2019 novel coronavirus&#xD;
+      disease (COVID-19).&#xD;
+&#xD;
+      The primary efficacy endpoint is the proportion of participants with a disease control status&#xD;
+      defined as no progression of severe disease Hypothesis (H0): There is no difference between&#xD;
+      group A (ivermectin + paracetamol) and group B (ivermectin + paracetamol) in terms of the&#xD;
+      primary endpoint on day 14.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In late 2019, an unidentified viral pneumonia was detected in Wuhan, China. Later, it was&#xD;
+      declared that it was pneumonia due to a new coronavirus. The World Health Organization (WHO)&#xD;
+      officially called it COVID-19 disease (Xie and Chen 2020).&#xD;
+&#xD;
+      Ivermectin is a broad-spectrum antiparasitic agent, developed to combat parasitic worms in&#xD;
+      veterinary use and in human medicine. This compound has been used orally in humans to treat&#xD;
+      filariasis, but is also effective against other worm-associated infections, as well as&#xD;
+      parasitic skin diseases and insect infections. It is approved for human use in several&#xD;
+      countries, to treat onchocerciasis, lymphatic filariasis, strongyloidiasis, and scabies, and&#xD;
+      recently in capillary pediculosis. When avermectins were discovered, they represented a new&#xD;
+      class of compounds that kill various ranges of disease-causing organisms, as well as pathogen&#xD;
+      vectors, inside and outside the body. Ivermectin is a semi-synthetic mixture of two&#xD;
+      chemically modified avermectins, comprising 80% 22,23-dihydroavermectin B1 and 20%&#xD;
+      22,23-dihydroavermectin-B1b.&#xD;
+&#xD;
+      Other diseases that have been treated with ivermectin are: trichinosis, vector insects,&#xD;
+      malaria, trypanosomiasis, allergic asthma, rosacea, bedbugs, schistosomiasis, chagas disease,&#xD;
+      epilepsy, neurological diseases. Furthermore, it has been observed to have effects as an&#xD;
+      antibiotic and anticancer (Crump 2017).&#xD;
+&#xD;
+      In turn, Ivermectin has been described as a broad-spectrum antiviral, inhibiting nuclear&#xD;
+      import by its ability to inactivate host nuclear transport proteins, such as integrase and&#xD;
+      nonstructural protein 5 (NS5), limiting the ability to infect the western virus of the Nile&#xD;
+      in low concentrations (Yang et al. 2020), as well as inhibiting the replication of the yellow&#xD;
+      fever virus and other flaviviruses, such as dengue, and encephalitis, probably attacking the&#xD;
+      activity of nonstructural helicase 3 (Crump 2017).&#xD;
+&#xD;
+      Ivermectin, at a dose of 150-200 mcg / kg, is the first line of treatment for river blind&#xD;
+      disease (onchocerca volvulus), lymphatic filariasis, and strongyloidiasis(Crump 2017)..&#xD;
+&#xD;
+      French authorities approved ivermectin for humans in 1987. Shortly thereafter, Merck &amp; Co Inc&#xD;
+      donated ivermectin for onchocerciasis control. Since then, more than two billion treatments&#xD;
+      have been distributed in Africa and Latin America for onchocerciasis and lymphatic filariasis&#xD;
+      (Chaccour et al. 2013; Smit et al. 2016).&#xD;
+&#xD;
+      In this context, ivermectin adverse events have been mild, transient and associated with the&#xD;
+      intensity of the infection. No significant association was found between ivermectin plasma&#xD;
+      levels and adverse events(Merck &amp; Co 2009).&#xD;
+&#xD;
+      Wagstaff et al. published preliminary studies in in vitro cultures, where they observed that&#xD;
+      a 5000-fold reduction in the viral RNA content of cells infected with the SARS-CoV-2 virus,&#xD;
+      treated with a single dose of ivermectin (Caly et al. 2020).&#xD;
+&#xD;
+      Ivermectin therapy has not been tested in COVID-19 subjects and is therefore intended to be&#xD;
+      used as an adjuvant treatment; therefore, all study subjects will receive ivermectin or&#xD;
+      placebo in addition to therapy that their treating physician deems appropriate. Since&#xD;
+      ivermectin is in an early phase of clinical development, the use of base therapy will ensure&#xD;
+      that all subjects, including subjects who are randomized to receive placebo, have the benefit&#xD;
+      of receiving treatment with the base therapy that is available.&#xD;
+&#xD;
+      Research Objectives The main objective of this study is to evaluate the efficacy, safety and&#xD;
+      tolerability of ivermectin in patients with mild SARS-CoV-2 infection, in the rate of&#xD;
+      progression to severe COVID-19.&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        -  Quantify the replication rate of the SARS-CoV-2 virus at days 5 and 14 after diagnosis&#xD;
+           quantitatively by real-time reverse transcription polymerase chain reaction (RT-PCR).&#xD;
+&#xD;
+        -  Evaluate the presence and frequency of symptoms associated with COVID-19 disease (fever,&#xD;
+           cough, myalgia, fatigue, shortness of breath, headache, diarrhea, and expectoration)&#xD;
+           daily for 14 days.&#xD;
+&#xD;
+        -  Investigate the presence of adverse events associated or not with the study drug for 14&#xD;
+           days.&#xD;
+&#xD;
+        -  Search for associations between the morbidities of the evaluated subjects and the&#xD;
+           intensity of the disease.&#xD;
+&#xD;
+        -  Search for a relationship between medical history of bacille Calmette Guerin (BCG)&#xD;
+           vaccines and the intensity of the disease.&#xD;
+&#xD;
+        -  Evaluate the frequency of death in the subjects, associated with COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Actual">January 29, 2021</completion_date>
+  <primary_completion_date type="Actual">January 29, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participants With a Disease Control Status Defined as no Disease Progression to Severe.</measure>
+    <time_frame>14 days</time_frame>
+    <description>The subject is considered to have progressed to severe illness when one or more of the following criteria are present:&#xD;
+Breathing difficulty (≥30 breaths per minute);&#xD;
+Resting oxygen saturation ≤93%;&#xD;
+Severe complications such as: respiratory failure, need for mechanical ventilation, septic shock, non-respiratory organic failure.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 Viral Load, at 5 and 14 Days</measure>
+    <time_frame>days 1, 5 and 14</time_frame>
+    <description>To determine viral load indirectly, the Ct value of the SARS-COV-2 gene N was used on days 1, 5 and 14 of treatment, considering values greater than 37.5 as negative.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence and Frequency of Symptoms Associated With the COVID-19 Disease</measure>
+    <time_frame>14 days</time_frame>
+    <description>Subjects were asked to answer a symptoms dairy during 14 days, where they recorded the presence of the following symptoms; fever, cough, muscular pain, fatigue, breath difficulty, headache, diarrhea, palpitations, expectoration and &quot;Other&quot;, in the other question several subjects answer hypogeusia/ageusia, hyposmia/anosmia and backpain.&#xD;
+The total of days anaylized were considered as 100%; 364 days for placebo patients(26 subjects x 14 days), and 420 for ivermectin subjects (30 subjects x 14 days), then the number of days reported correspond to de % of days when symptom was present.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">66</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Ivermectin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+    <arm_group_label>Ivermectin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of acute severe respiratory syndrome due to SARS-CoV-12 coronavirus&#xD;
+             infection defined by RT-PCR.&#xD;
+&#xD;
+          -  Asymptomatic, or with mild symptoms who are taking outpatient treatment of the&#xD;
+             disease.&#xD;
+&#xD;
+          -  Signed Informed Consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with severe disease COVID-19.&#xD;
+&#xD;
+          2. Positive to proof of infection by some other virus such as influenza H1N1, SARS, etc.&#xD;
+&#xD;
+          3. Recurrent urinary tract infections.&#xD;
+&#xD;
+          4. Alanine Aminotransferase (ALT) or Aspartate Aminotransferase (AST)&gt; 5 times above its&#xD;
+             normal limits.&#xD;
+&#xD;
+          5. Pregnant or lactating patients&#xD;
+&#xD;
+          6. Patients receiving antihypertensive medication verapamil, the immunosuppressant&#xD;
+             cyclosporin A and / or the antipsychotic trifluoperazine.&#xD;
+&#xD;
+          7. Patients with a known allergy or hypersensitivity to dewormers.&#xD;
+&#xD;
+          8. Patients who are using an antioxidant supplement.&#xD;
+&#xD;
+          9. Patients with a history of filariasis, strongyloidiasis, scabies, river blindness, or&#xD;
+             any parasitic disease in the last twelve months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alma M Perez, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centro de Investigación Farmacéutica Especializada de Occidente S.C.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigacion Biomédica para el Desarrollo de Fármacos S.A. de C.V.</name>
+      <address>
+        <city>Zapopan</city>
+        <state>Jalisco</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <link>
+    <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/050742s026lbl.pdf</url>
+    <description>Stromectol. FDA Approved Package Insert 2009</description>
+  </link>
+  <results_reference>
+    <citation>Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral Res. 2020 Jun;178:104787. doi: 10.1016/j.antiviral.2020.104787. Epub 2020 Apr 3.</citation>
+    <PMID>32251768</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chaccour CJ, Kobylinski KC, Bassat Q, Bousema T, Drakeley C, Alonso P, Foy BD. Ivermectin to reduce malaria transmission: a research agenda for a promising new tool for elimination. Malar J. 2013 May 7;12:153. doi: 10.1186/1475-2875-12-153.</citation>
+    <PMID>23647969</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Smit MR, Ochomo E, Aljayyoussi G, Kwambai T, Abong'o B, Bayoh N, Gimnig J, Samuels A, Desai M, Phillips-Howard PA, Kariuki S, Wang D, Ward S, Ter Kuile FO. Efficacy and Safety of High-Dose Ivermectin for Reducing Malaria Transmission (IVERMAL): Protocol for a Double-Blind, Randomized, Placebo-Controlled, Dose-Finding Trial in Western Kenya. JMIR Res Protoc. 2016 Nov 17;5(4):e213.</citation>
+    <PMID>27856406</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xie M, Chen Q. Insight into 2019 novel coronavirus - An updated interim review and lessons from SARS-CoV and MERS-CoV. Int J Infect Dis. 2020 May;94:119-124. doi: 10.1016/j.ijid.2020.03.071. Epub 2020 Apr 1. Review.</citation>
+    <PMID>32247050</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yang SNY, Atkinson SC, Wang C, Lee A, Bogoyevitch MA, Borg NA, Jans DA. The broad spectrum antiviral ivermectin targets the host nuclear transport importin α/β1 heterodimer. Antiviral Res. 2020 May;177:104760. doi: 10.1016/j.antiviral.2020.104760. Epub 2020 Mar 3.</citation>
+    <PMID>32135219</PMID>
+  </results_reference>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>May 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 29, 2020</study_first_posted>
+  <results_first_submitted>May 10, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 21, 2021</results_first_posted>
+  <last_update_submitted>May 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Ivermectin</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/07/NCT04407507/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/07/NCT04407507/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Ivermectin</title>
+          <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Ivermectin: ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Placebo: Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="33"/>
+                <participants group_id="P2" count="33"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="33"/>
+                <participants group_id="P2" count="32"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Ivermectin</title>
+          <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Ivermectin: ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Placebo: Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="33"/>
+            <count group_id="B2" value="33"/>
+            <count group_id="B3" value="66"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="61"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40.24" spread="14.48"/>
+                    <measurement group_id="B2" value="36.82" spread="13.90"/>
+                    <measurement group_id="B3" value="38.53" spread="14.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Mexico</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="33"/>
+                    <measurement group_id="B3" value="66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Participants With a Disease Control Status Defined as no Disease Progression to Severe.</title>
+        <description>The subject is considered to have progressed to severe illness when one or more of the following criteria are present:&#xD;
+Breathing difficulty (≥30 breaths per minute);&#xD;
+Resting oxygen saturation ≤93%;&#xD;
+Severe complications such as: respiratory failure, need for mechanical ventilation, septic shock, non-respiratory organic failure.</description>
+        <time_frame>14 days</time_frame>
+        <population>Participants With a Disease Control Status Defined as no Disease Progression to Severe, 3 subjects of the Ivermectin arm group and 7 of the placebo were excluded of the efficacy analysis due to wrong criteria of inclusion (3 of ivermectin and 6 from placebo) and withdrawal of consent (1 in placebo).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ivermectin</title>
+            <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Ivermectin: ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Placebo: Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Participants With a Disease Control Status Defined as no Disease Progression to Severe.</title>
+          <description>The subject is considered to have progressed to severe illness when one or more of the following criteria are present:&#xD;
+Breathing difficulty (≥30 breaths per minute);&#xD;
+Resting oxygen saturation ≤93%;&#xD;
+Severe complications such as: respiratory failure, need for mechanical ventilation, septic shock, non-respiratory organic failure.</description>
+          <population>Participants With a Disease Control Status Defined as no Disease Progression to Severe, 3 subjects of the Ivermectin arm group and 7 of the placebo were excluded of the efficacy analysis due to wrong criteria of inclusion (3 of ivermectin and 6 from placebo) and withdrawal of consent (1 in placebo).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SARS-CoV-2 Viral Load, at 5 and 14 Days</title>
+        <description>To determine viral load indirectly, the Ct value of the SARS-COV-2 gene N was used on days 1, 5 and 14 of treatment, considering values greater than 37.5 as negative.</description>
+        <time_frame>days 1, 5 and 14</time_frame>
+        <population>Only positive subjects are reported, since Ct is not reported in negative subjects, therefore there is no data available to analyze this criterion, as negative subjects are reported, the values for analysis decrease.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ivermectin</title>
+            <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Ivermectin: ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Placebo: Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SARS-CoV-2 Viral Load, at 5 and 14 Days</title>
+          <description>To determine viral load indirectly, the Ct value of the SARS-COV-2 gene N was used on days 1, 5 and 14 of treatment, considering values greater than 37.5 as negative.</description>
+          <population>Only positive subjects are reported, since Ct is not reported in negative subjects, therefore there is no data available to analyze this criterion, as negative subjects are reported, the values for analysis decrease.</population>
+          <units>Cycle threshold</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.17" spread="6.36"/>
+                    <measurement group_id="O2" value="23.3" spread="5.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="26"/>
+                    <count group_id="O2" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30.52" spread="4.21"/>
+                    <measurement group_id="O2" value="28.5" spread="3.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33.74" spread="4.77"/>
+                    <measurement group_id="O2" value="32.94" spread="4.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Presence and Frequency of Symptoms Associated With the COVID-19 Disease</title>
+        <description>Subjects were asked to answer a symptoms dairy during 14 days, where they recorded the presence of the following symptoms; fever, cough, muscular pain, fatigue, breath difficulty, headache, diarrhea, palpitations, expectoration and &quot;Other&quot;, in the other question several subjects answer hypogeusia/ageusia, hyposmia/anosmia and backpain.&#xD;
+The total of days anaylized were considered as 100%; 364 days for placebo patients(26 subjects x 14 days), and 420 for ivermectin subjects (30 subjects x 14 days), then the number of days reported correspond to de % of days when symptom was present.</description>
+        <time_frame>14 days</time_frame>
+        <population>Subjects were asked to answer a symptoms dairy during 14 days, where they recorded the presence of the following symptoms; fever, cough, muscular pain, fatigue, breath difficulty, headache, diarrhea, palpitations, expectoration and &quot;Other&quot;, in the other question several subjects answer hypogeusia/ageusia, hyposmia/anosmia and backpain.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ivermectin</title>
+            <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Ivermectin: ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Placebo: Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Presence and Frequency of Symptoms Associated With the COVID-19 Disease</title>
+          <description>Subjects were asked to answer a symptoms dairy during 14 days, where they recorded the presence of the following symptoms; fever, cough, muscular pain, fatigue, breath difficulty, headache, diarrhea, palpitations, expectoration and &quot;Other&quot;, in the other question several subjects answer hypogeusia/ageusia, hyposmia/anosmia and backpain.&#xD;
+The total of days anaylized were considered as 100%; 364 days for placebo patients(26 subjects x 14 days), and 420 for ivermectin subjects (30 subjects x 14 days), then the number of days reported correspond to de % of days when symptom was present.</description>
+          <population>Subjects were asked to answer a symptoms dairy during 14 days, where they recorded the presence of the following symptoms; fever, cough, muscular pain, fatigue, breath difficulty, headache, diarrhea, palpitations, expectoration and &quot;Other&quot;, in the other question several subjects answer hypogeusia/ageusia, hyposmia/anosmia and backpain.</population>
+          <units>percentage of days</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fever</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.67"/>
+                    <measurement group_id="O2" value="5.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="51.7"/>
+                    <measurement group_id="O2" value="34.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Muscular pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.5"/>
+                    <measurement group_id="O2" value="24.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45.4"/>
+                    <measurement group_id="O2" value="38.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Breath difficulty</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.7"/>
+                    <measurement group_id="O2" value="14.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32.3"/>
+                    <measurement group_id="O2" value="26.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Palpitations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="9.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Expectoration</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.7"/>
+                    <measurement group_id="O2" value="17.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="7.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypogeusia/ageusia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.9"/>
+                    <measurement group_id="O2" value="8.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyposmia/anosmia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19.4"/>
+                    <measurement group_id="O2" value="10.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Backpain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.79"/>
+                    <measurement group_id="O2" value="0.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.6"/>
+                    <measurement group_id="O2" value="14.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>21 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Ivermectin</title>
+          <description>Ivermectin 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Ivermectin: ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Ivermectin placebo 12 mg / day for 3 days, in combination with paracetamol therapy (500 mg QID) for 14 days&#xD;
+Placebo: Placebo of ivermectin 12 mg / day for 3 days, in combination with standard paracetamol therapy (500 mg QID) for 14 days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MEDRA</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HT Central nervous system and spinal cord infections</sub_title>
+                <description>encephalitis</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MEDRA</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>SOC Blood and lymphatic system disorders</sub_title>
+                <description>Leukocytosis</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>LLT Otitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>LLT elevated Lipase</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HLGT Inflammatory gastrointestinal diseases</sub_title>
+                <description>gastritis</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>LLT acidity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>LLT Nausea</sub_title>
+                <description>NAUSEA</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>PT Acid Peptic Disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>PF Vertigo</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>LLT Dizziness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HLGT Glucose metabolism disorders (including diabetes mellitus)</sub_title>
+                <description>Hyperglycemia</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HLT Musculoskeletal pain and discomfort</sub_title>
+                <description>low back pain</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>LLT Back pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HLGT anxiety disorders and symptoms</sub_title>
+                <description>Anxiety</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>LLT Cystitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>HLT Urinary tract infections</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>LLT pharyngitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>HLT Nasal congestion and inflammation</sub_title>
+                <description>Nasal congestion</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>LLT Pneumonia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HLT RASH</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>HLGT Epidermal and dermal diseases</sub_title>
+                <description>Maculo-papular pruritus</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>SOC Skin and subcutaneous tissue disorders</sub_title>
+                <description>Rash</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>LLT Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>LLT Tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Carmen de la Rocha</name_or_title>
+      <organization>Investigacion Biomedica para el Desarrollo de Fármacos S.A. de C.V</organization>
+      <phone>523320028697 ext 306</phone>
+      <email>carmen.delarocha@investigacionbiomedica.com.mx</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="42">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04397718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID19-8900-15</org_study_id>
+    <nct_id>NCT04397718</nct_id>
+  </id_info>
+  <brief_title>Hormonal Intervention for the Treatment in Veterans With COVID-19 Requiring Hospitalization</brief_title>
+  <acronym>HITCH</acronym>
+  <official_title>Hormonal Intervention for the Treatment in Veterans With COVID-19 Requiring Hospitalization (HITCH): A Multicenter, Phase 2 Randomized Controlled Trial of Best Supportive Care (BSC) vs BSC Plus Degarelix</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if temporary androgen suppression improves the&#xD;
+      clinical outcomes of Veterans who are hospitalized to an acute care ward due to COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A novel coronavirus, now termed Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2),&#xD;
+      arose late in 2019. The first confirmed cases occurred in December in Wuhan, Hubei province,&#xD;
+      China. It now infects people on six continents, spreading person to person. The World Health&#xD;
+      Organization (WHO) classified it as a global pandemic on March 11, 2020. As of April 6, 2020,&#xD;
+      there are more than 1.2 million confirmed cases and more than 70,000 deaths attributed to&#xD;
+      this virus. Every person on Earth, as well as every United States Veteran, is at risk. This&#xD;
+      is the emergent public health threat of our time.&#xD;
+&#xD;
+      SARS-CoV-2 is a singled stranded RNA virus related to severe acute respiratory&#xD;
+      syndrome-related coronavirus (SARS-CoV-1). SARS-CoV-2 is thought to be transmissible largely&#xD;
+      by respiratory droplets or direct contact, but might also be transmitted through&#xD;
+      aerosolization. SARS-CoV-2 disease severity ranges from no to minimal symptoms, mildly&#xD;
+      symptomatic with cough and dyspnea, to severe respiratory distress with multi-organ failure&#xD;
+      requiring admission to an intensive care unit and emergent ventilator support. Although data&#xD;
+      are evolving, the severity of illness varies with age, co-existing comorbidities, and&#xD;
+      biological sex, with older age, people with pre-existing cardiovascular disease, and males&#xD;
+      manifesting greater disease severity.&#xD;
+&#xD;
+      A worldwide effort is in place to contain and suppress human-to-human transmission. These&#xD;
+      public-health strategies aim to slow the rate of spread and reduce the burden on critical&#xD;
+      care infrastructure. However, there is also a need effective therapeutics. Vaccine trials are&#xD;
+      underway but potential approvals are at least a year away. Development of new drugs de novo&#xD;
+      to treat SARS2-CoV-2 will likely take even longer. Thus, the most expedient therapeutic&#xD;
+      strategy to confront this pandemic will repurpose existing FDA-approved therapeutics. One&#xD;
+      potential strategy targets viral components directly, using existing antivirals and&#xD;
+      anti-infectives currently used for other diseases. Such efforts include trials of&#xD;
+      hydroxychloroquine, remdesivir, and ribavirin. Another strategy involves targeting the human&#xD;
+      proteins, rather than viral proteins, required for SARS CoV-2 entry and replication.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 6, 2020</start_date>
+  <completion_date type="Actual">June 8, 2021</completion_date>
+  <primary_completion_date type="Actual">June 8, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of Mortality, Ongoing Need for Hospitalization, or Mechanical Ventilation at Day 15</measure>
+    <time_frame>15 days</time_frame>
+    <description>Number of Patients who died, had a ongoing need for hospitalization, or was placed on mechanical ventilation at Day 15.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Improvement</measure>
+    <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+    <description>Time to clinical improvement as defined by a decline of 2 categories or more from the baseline modified 7-category ordinal scale of clinical status of hospitalized influenza patients or hospital discharge, whichever comes first. Participants whose condition worsened, who died, or who withdrew from the study without clinical improvement were censored. The 7-categories were defined as: 1: Not hospitalized with resumption of normal activities; 2: Not hospitalized, but unable to resume normal activities; 3: Hospitalization, not requiring supplemental oxygen; 4: Hospitalization, requiring supplemental oxygen; 5: Hospitalization, requiring nasal high-flow oxygen therapy and/or noninvasive mechanical ventilation; 6: Hospitalization, requiring extracorporeal membrane oxygenation and/or invasive mechanical ventilation; 7: Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient Mortality</measure>
+    <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+    <description>Number of patients who died during their hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+    <description>Length of hospital stay (randomization to discharge)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Intubation</measure>
+    <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+    <description>Length of time on mechanical ventilation. Length of mechanical ventilation imputed to maximum length (50 days) for patients who died on mechanical ventilation or who were on mechanical ventilation, but date removed was unknown. Length of mechanical ventilation imputed to 0 for patients never on mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Normalization of Temperature.</measure>
+    <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+    <description>Length of time for temperature to be less than &lt; 37.5 degree Celsius for 48 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Severity of COVID19 Illness.</measure>
+    <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+    <description>Maximum severity score on the modified 7-category ordinal scale of clinical status of hospitalized influenza patients. The 7-categories were defined as: 1: Not hospitalized with resumption of normal activities; 2: Not hospitalized, but unable to resume normal activities; 3: Hospitalization, not requiring supplemental oxygen; 4: Hospitalization, requiring supplemental oxygen; 5: Hospitalization, requiring nasal high-flow oxygen therapy and/or noninvasive mechanical ventilation; 6: Hospitalization, requiring extracorporeal membrane oxygenation and/or invasive mechanical ventilation; 7: Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of Mortality, Ongoing Need for Hospitalization, or Mechanical Ventilation at Day 30</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of Patients who died, had a ongoing need for hospitalization, or was placed on mechanical ventilation at Day 30.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">96</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Placebo + BSC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Degarelix + BSC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Degarelix</intervention_name>
+    <description>Degarelix is an FDA-approved drug for prostate cancer</description>
+    <arm_group_label>Degarelix + BSC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>09% Saline</description>
+    <arm_group_label>Placebo + BSC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male Veterans admitted to a VA hospital.&#xD;
+&#xD;
+          -  Age &gt; 18&#xD;
+&#xD;
+          -  Hospitalized on an acute care ward with a diagnosis of COVID-19 contributing to&#xD;
+             hospitalization.&#xD;
+&#xD;
+          -  Positive RT-PCR assay for SARS-CoV-2 on a nasopharyngeal swab sample.&#xD;
+&#xD;
+          -  Severity of illness of level 3, 4 or 5 on the influenza severity scale (see Appendix&#xD;
+             A) at the time of randomization.&#xD;
+&#xD;
+          -  The subject (or legally acceptable representative if applicable) must provide written&#xD;
+             informed consent for the trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of severe hypersensitivity to degarelix or any component of their respective&#xD;
+             formulation.&#xD;
+&#xD;
+          -  History of congenital long QT syndrome or known history of prolonged QT interval&#xD;
+             corrected by the Fridericia correction formula (QTcF) &gt; 500 msec on electrocardiogram&#xD;
+             performed at screening.&#xD;
+&#xD;
+          -  Planned discharge within 24 hours of treatment initiation.&#xD;
+&#xD;
+          -  Subject is planning to conceive or father children within the projected duration of&#xD;
+             the study, starting with the screening visit through 120 days after the last dose of&#xD;
+             study treatment.&#xD;
+&#xD;
+          -  Ongoing usage of a Class IA or Class III antiarrhythmic agent. At least 5 half lives&#xD;
+             must elapse since any prior use of a Class IA or III antiarrhythmic agent prior to&#xD;
+             administration of study drug.&#xD;
+&#xD;
+             --Baseline electrolyte abnormalities of Grade 3 or higher (based on CTCAE v5.0&#xD;
+             criteria). Patients may be included if baseline electrolyte abnormalities are&#xD;
+             corrected to Grade 2 or lower prior to study drug administration.&#xD;
+&#xD;
+          -  Myocardial infarction in the past 6 months, severe or unstable angina, or New York&#xD;
+             Heart Association (NYHA) Class III or IV heart disease.&#xD;
+&#xD;
+          -  Enrollment in another investigational study within 30 days of Day 1.&#xD;
+&#xD;
+          -  Known psychiatric or substance abuse disorder that would interfere with the&#xD;
+             requirements of the trial.&#xD;
+&#xD;
+          -  Child-Pugh Class C liver disease.&#xD;
+&#xD;
+          -  Use of any of the following hormonal agents within Day 1 of treatment:&#xD;
+&#xD;
+               1. Androgen receptor antagonists or agonists within 4 weeks,&#xD;
+&#xD;
+               2. Ketoconazole or abiraterone acetate within 2 weeks,&#xD;
+&#xD;
+               3. Estrogens or progestins within 2 weeks,&#xD;
+&#xD;
+               4. Herbal products that contain hormonally active agents within 2 weeks.&#xD;
+&#xD;
+          -  Unwilling or unable to comply with the study protocol.&#xD;
+&#xD;
+          -  Any condition, which in the opinion of the investigator, would preclude participation&#xD;
+             in the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew B. Rettig, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Greater Los Angeles Healthcare System, West Los Angeles, CA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Phoenix VA Health Care System, Phoenix, AZ</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Arkansas VHS John L. McClellan Memorial Veterans Hospital, Little Rock, AR</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205-5484</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA Long Beach Healthcare System, Long Beach, CA</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA Greater Los Angeles Healthcare System, West Los Angeles, CA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami VA Healthcare System, Miami, FL</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis VA Medical Center John Cochran Division, St. Louis, MO</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brooklyn Campus of the VA NY Harbor Healthcare System, Brooklyn, NY</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Manhattan Campus of the VA NY Harbor Healthcare System, New York, NY</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Philadelphia MultiService Center, Philadelphia, PA</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ralph H. Johnson VA Medical Center, Charleston, SC</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401-5799</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memphis VA Medical Center, Memphis, TN</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA North Texas Health Care System Dallas VA Medical Center, Dallas, TX</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Michael E. DeBakey VA Medical Center, Houston, TX</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA Puget Sound Health Care System Seattle Division, Seattle, WA</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Nickols NG, Mi Z, DeMatt E, Biswas K, Clise CE, Huggins JT, Maraka S, Ambrogini E, Mirsaeidi MS, Levin ER, Becker DJ, Makarov DV, Adorno Febles V, Belligund PM, Al-Ajam M, Muthiah MP, Montgomery RB, Robinson KW, Wong YN, Bedimo RJ, Villareal RC, Aguayo SM, Schoen MW, Goetz MB, Graber CJ, Bhattacharya D, Soo Hoo G, Orshansky G, Norman LE, Tran S, Ghayouri L, Tsai S, Geelhoed M, Rettig MB. Effect of Androgen Suppression on Clinical Outcomes in Hospitalized Men With COVID-19: The HITCH Randomized Clinical Trial. JAMA Netw Open. 2022 Apr 1;5(4):e227852. doi: 10.1001/jamanetworkopen.2022.7852.</citation>
+    <PMID>35438754</PMID>
+  </results_reference>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>May 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 21, 2020</study_first_posted>
+  <results_first_submitted>April 28, 2022</results_first_submitted>
+  <results_first_submitted_qc>June 2, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 6, 2022</results_first_posted>
+  <last_update_submitted>June 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 9, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT04397718/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 5, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT04397718/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo + BSC</title>
+          <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+        </group>
+        <group group_id="P2">
+          <title>Degarelix + BSC</title>
+          <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+                <participants group_id="P2" count="62"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="27"/>
+                <participants group_id="P2" count="47"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo + BSC</title>
+          <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+        </group>
+        <group group_id="B2">
+          <title>Degarelix + BSC</title>
+          <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="34"/>
+            <count group_id="B2" value="62"/>
+            <count group_id="B3" value="96"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68.1" spread="8.18"/>
+                    <measurement group_id="B2" value="68.8" spread="8.6"/>
+                    <measurement group_id="B3" value="68.5" spread="8.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="62"/>
+                    <measurement group_id="B3" value="96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="48"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Composite of Mortality, Ongoing Need for Hospitalization, or Mechanical Ventilation at Day 15</title>
+        <description>Number of Patients who died, had a ongoing need for hospitalization, or was placed on mechanical ventilation at Day 15.</description>
+        <time_frame>15 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Composite of Mortality, Ongoing Need for Hospitalization, or Mechanical Ventilation at Day 15</title>
+          <description>Number of Patients who died, had a ongoing need for hospitalization, or was placed on mechanical ventilation at Day 15.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.667</p_value>
+            <method>Chi-squared</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.19</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.46</ci_lower_limit>
+            <ci_upper_limit>3.06</ci_upper_limit>
+            <estimate_desc>Logistic regression adjusted for age, hypertension, and COPD</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Clinical Improvement</title>
+        <description>Time to clinical improvement as defined by a decline of 2 categories or more from the baseline modified 7-category ordinal scale of clinical status of hospitalized influenza patients or hospital discharge, whichever comes first. Participants whose condition worsened, who died, or who withdrew from the study without clinical improvement were censored. The 7-categories were defined as: 1: Not hospitalized with resumption of normal activities; 2: Not hospitalized, but unable to resume normal activities; 3: Hospitalization, not requiring supplemental oxygen; 4: Hospitalization, requiring supplemental oxygen; 5: Hospitalization, requiring nasal high-flow oxygen therapy and/or noninvasive mechanical ventilation; 6: Hospitalization, requiring extracorporeal membrane oxygenation and/or invasive mechanical ventilation; 7: Death.</description>
+        <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Clinical Improvement</title>
+          <description>Time to clinical improvement as defined by a decline of 2 categories or more from the baseline modified 7-category ordinal scale of clinical status of hospitalized influenza patients or hospital discharge, whichever comes first. Participants whose condition worsened, who died, or who withdrew from the study without clinical improvement were censored. The 7-categories were defined as: 1: Not hospitalized with resumption of normal activities; 2: Not hospitalized, but unable to resume normal activities; 3: Hospitalization, not requiring supplemental oxygen; 4: Hospitalization, requiring supplemental oxygen; 5: Hospitalization, requiring nasal high-flow oxygen therapy and/or noninvasive mechanical ventilation; 6: Hospitalization, requiring extracorporeal membrane oxygenation and/or invasive mechanical ventilation; 7: Death.</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.50" lower_limit="5" upper_limit="15"/>
+                    <measurement group_id="O2" value="7.00" lower_limit="4" upper_limit="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.876</p_value>
+            <method>Log Rank</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.93</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.58</ci_lower_limit>
+            <ci_upper_limit>1.49</ci_upper_limit>
+            <estimate_desc>Cox regression model adjusted for age, hypertension, and COPD.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Inpatient Mortality</title>
+        <description>Number of patients who died during their hospital stay</description>
+        <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Inpatient Mortality</title>
+          <description>Number of patients who died during their hospital stay</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.991</p_value>
+            <method>Chi-squared</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.95</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.31</ci_lower_limit>
+            <ci_upper_limit>2.92</ci_upper_limit>
+            <estimate_desc>Logistic regression adjusted for age, hypertension, and COPD.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Hospitalization</title>
+        <description>Length of hospital stay (randomization to discharge)</description>
+        <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+        <population>Patients who died during the hospital stay were excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Hospitalization</title>
+          <description>Length of hospital stay (randomization to discharge)</description>
+          <population>Patients who died during the hospital stay were excluded.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.00" lower_limit="5" upper_limit="8"/>
+                    <measurement group_id="O2" value="6.00" lower_limit="3" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.841</p_value>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <param_type>Quantile Regression</param_type>
+            <param_value>0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.03</ci_lower_limit>
+            <ci_upper_limit>4.11</ci_upper_limit>
+            <estimate_desc>Adjusted for age, hypertension, and COPD</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Intubation</title>
+        <description>Length of time on mechanical ventilation. Length of mechanical ventilation imputed to maximum length (50 days) for patients who died on mechanical ventilation or who were on mechanical ventilation, but date removed was unknown. Length of mechanical ventilation imputed to 0 for patients never on mechanical ventilation.</description>
+        <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+        <population>Patients who died and who were not on mechanical ventilation prior to death were excluded (N=4).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Intubation</title>
+          <description>Length of time on mechanical ventilation. Length of mechanical ventilation imputed to maximum length (50 days) for patients who died on mechanical ventilation or who were on mechanical ventilation, but date removed was unknown. Length of mechanical ventilation imputed to 0 for patients never on mechanical ventilation.</description>
+          <population>Patients who died and who were not on mechanical ventilation prior to death were excluded (N=4).</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00" lower_limit="0" upper_limit="0"/>
+                    <measurement group_id="O2" value="0.00" lower_limit="0" upper_limit="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.746</p_value>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <param_type>Quantile Regression</param_type>
+            <param_value>0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0</ci_lower_limit>
+            <ci_upper_limit>0</ci_upper_limit>
+            <estimate_desc>Adjusted for age, hypertension, and COPD</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Normalization of Temperature.</title>
+        <description>Length of time for temperature to be less than &lt; 37.5 degree Celsius for 48 hours</description>
+        <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+        <population>Patients with a fever (temperature greater than or equal to 37.5 degrees Celsius) at baseline.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Normalization of Temperature.</title>
+          <description>Length of time for temperature to be less than &lt; 37.5 degree Celsius for 48 hours</description>
+          <population>Patients with a fever (temperature greater than or equal to 37.5 degrees Celsius) at baseline.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.00" lower_limit="2" upper_limit="18"/>
+                    <measurement group_id="O2" value="3.00" lower_limit="1" upper_limit="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1</p_value>
+            <method>Log Rank</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>2.3</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.72</ci_lower_limit>
+            <ci_upper_limit>7.39</ci_upper_limit>
+            <estimate_desc>Cox regression model adjusted for age, hypertension, and COPD</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Maximum Severity of COVID19 Illness.</title>
+        <description>Maximum severity score on the modified 7-category ordinal scale of clinical status of hospitalized influenza patients. The 7-categories were defined as: 1: Not hospitalized with resumption of normal activities; 2: Not hospitalized, but unable to resume normal activities; 3: Hospitalization, not requiring supplemental oxygen; 4: Hospitalization, requiring supplemental oxygen; 5: Hospitalization, requiring nasal high-flow oxygen therapy and/or noninvasive mechanical ventilation; 6: Hospitalization, requiring extracorporeal membrane oxygenation and/or invasive mechanical ventilation; 7: Death.</description>
+        <time_frame>Through discharge (an average of 8 days with a maximum of 2.5 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Severity of COVID19 Illness.</title>
+          <description>Maximum severity score on the modified 7-category ordinal scale of clinical status of hospitalized influenza patients. The 7-categories were defined as: 1: Not hospitalized with resumption of normal activities; 2: Not hospitalized, but unable to resume normal activities; 3: Hospitalization, not requiring supplemental oxygen; 4: Hospitalization, requiring supplemental oxygen; 5: Hospitalization, requiring nasal high-flow oxygen therapy and/or noninvasive mechanical ventilation; 6: Hospitalization, requiring extracorporeal membrane oxygenation and/or invasive mechanical ventilation; 7: Death.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Hospitalization, not requiring supplemental oxygen</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hospitalization, requiring supplemental oxygen</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hospitalization,req. nasal high-flow oxygen therapy &amp;/or noninvasive mechanical ventilation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hospitalization, req. extracorporeal membrane oxygenation &amp;/or invasive mech. ventilation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Death</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.425</p_value>
+            <method>Fisher Exact</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.82</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.33</ci_lower_limit>
+            <ci_upper_limit>2</ci_upper_limit>
+            <other_analysis_desc>Logistical regression adjusted for age, hypertension, COPD, and baseline severity score.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Composite of Mortality, Ongoing Need for Hospitalization, or Mechanical Ventilation at Day 30</title>
+        <description>Number of Patients who died, had a ongoing need for hospitalization, or was placed on mechanical ventilation at Day 30.</description>
+        <time_frame>30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo + BSC</title>
+            <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+          </group>
+          <group group_id="O2">
+            <title>Degarelix + BSC</title>
+            <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Composite of Mortality, Ongoing Need for Hospitalization, or Mechanical Ventilation at Day 30</title>
+          <description>Number of Patients who died, had a ongoing need for hospitalization, or was placed on mechanical ventilation at Day 30.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.688</p_value>
+            <method>Chi-squared</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.22</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.44</ci_lower_limit>
+            <ci_upper_limit>3.42</ci_upper_limit>
+            <estimate_desc>Logistic regression adjusted for age, hypertension, and COPD.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From randomization through day 60.</time_frame>
+      <desc>AE and SAE data were collected through spontaneous local SC/LSI/Co-I contact, during in-person study visits, and gathered during telephone contacts and medical record reviews when performed.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo + BSC</title>
+          <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.&#xD;
+Saline: 09% Saline</description>
+        </group>
+        <group group_id="E2">
+          <title>Degarelix + BSC</title>
+          <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.&#xD;
+Degarelix: Degarelix is an FDA-approved drug for prostate cancer</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Iron deficiency anaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Leukocytosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Supraventricular tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="34"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>SARS-CoV-2 sepsis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Chronic kidney disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Pleuritic pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Pneumomediastinum</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="34"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mouth haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Orthostatic hypotension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Accelerated idioventricular rhythm</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Peripheral swelling</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bacteraemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Injection site reaction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Tooth avulsion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Erectile dysfunction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Gynaecomastia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Matthew Rettig</name_or_title>
+      <organization>Department of Veterans Affairs GLA</organization>
+      <phone>310-478-3711 ext 44761</phone>
+      <email>matthew.rettig@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

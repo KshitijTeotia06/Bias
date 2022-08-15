@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="74">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04599959</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0352-2150</org_study_id>
+    <nct_id>NCT04599959</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Tests: Nasopharyngeal Swab vs Saliva Collected With Salivette® Cortisol for Viral RNA Sampling for RT-qPCR</brief_title>
+  <official_title>COVID-19 Tests: a Systematic Comparison of Viral RNA Test Sample Taking for RT-qPCR, in This Case With a Nasopharyngeal Swab or Saliva Collected With Salivette® Cortisol, to Diagnose SARS-CoV-2 Virus Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of the tests is to establish saliva collection with Salivette® Cortisol.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 26, 2020</start_date>
+  <completion_date type="Actual">January 20, 2021</completion_date>
+  <primary_completion_date type="Actual">January 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Comparison of SARS-CoV-2-RNA detectability in Swab and Salivette samples.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Testing Positive or Negative for SARS-CoV-2 Virus From Swab and Saliva Samples - Processed in Mexico</measure>
+    <time_frame>At baseline (the test day), up to one day.</time_frame>
+    <description>Number of participants testing positive or negative for SARS-CoV-2 virus from sample collected via swab versus saliva sample collected from Salivette® Cortisol, which samples were processed in Mexico.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants Testing True Positive or True Negative for SARS-CoV-2 Virus From Swab and Saliva Samples - Processed in Germany</measure>
+    <time_frame>At baseline (the test day), up to one day.</time_frame>
+    <description>Percentage of participants testing true positive or true negative for SARS-CoV-2 virus from Swab and Saliva samples being processed in Germany was reported. The swab sample was used as the reference. Among participants who were tested positive from swab samples, those who were tested positive from saliva samples were classified as &quot;true positive&quot;. Among participants tested negative from swab samples, those who were tested negative from saliva samples were then classified as &quot;true negative&quot;.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">151</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Overall (Swab/Saliva)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Sampling of SARS-CoV-2 RNA from nasopharyngeal swab specimen or saliva collected via Salivette Cortisol</intervention_name>
+    <description>Kylt® for detection/confirmation of SARS-CoV-2 cobas® SARS-CoV-2 (PCR) test TaqPath™ COVID-19 CE-IVD RT-PCR kit</description>
+    <arm_group_label>Overall (Swab/Saliva)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent form signed and dated before any samples have been taken.&#xD;
+&#xD;
+          2. Suspected or confirmed SARS-CoV-2 infection by PCR within the past five days.&#xD;
+&#xD;
+          3. Male and/or female patients aged 18 years and over.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas</name>
+      <address>
+        <city>Mexico</city>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <link>
+    <url>http://www.mystudywindow.com</url>
+    <description>Click here to connect to Boehringer Ingelheim Clinical Studies Website</description>
+  </link>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>October 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 23, 2020</study_first_posted>
+  <results_first_submitted>July 21, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 21, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 26, 2021</results_first_posted>
+  <last_update_submitted>July 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydrocortisone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non-interventional, are in scope for sharing of the raw clinical study data and clinical study documents, except for the following exclusions:&#xD;
+studies in products where Boehringer Ingelheim is not the license holder;&#xD;
+studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials;&#xD;
+studies conducted in a single center or targeting rare diseases (because of limitations with anonymization).&#xD;
+For more details refer to: http://trials.boehringer-ingelheim.com/</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 28, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/59/NCT04599959/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This study compared the viral Ribonucleic acid (RNA) test sample taken for Quantitative reverse transcription polymerase chain reaction (RT-qPCR) via a nasopharyngeal swab versus saliva collected with Salivette® Cortisol in the diagnosing of SARS-CoV-2 virus infection.</recruitment_details>
+      <pre_assignment_details>All subjects were screened for eligibility prior to participation in the trial. Subjects attended a specialist site which ensured that they (the subjects) strictly met all inclusion and none of the exclusion criteria.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Overall</title>
+          <description>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.&#xD;
+Two samples were taken by medical staff from each participant on the test day, one using a swab (oropharyngeal swab) and the other through saliva collected with Salivette® Cortisol. The collected samples were then shipped and analyzed in Germany.&#xD;
+Additional up to two samples (swab and/or saliva) were taken for each participant on the test day and analyzed in Mexico.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="151"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="151"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Overall</title>
+          <description>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.&#xD;
+Two samples were taken by medical staff from each participant on the test day, one using a swab (oropharyngeal swab) and the other through saliva collected with Salivette® Cortisol. The collected samples were then shipped and analyzed in Germany.&#xD;
+Additional up to two samples (swab and/or saliva) were taken for each participant on the test day and analyzed in Mexico.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="151"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="151"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43.4" spread="14.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="151"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Testing Positive or Negative for SARS-CoV-2 Virus From Swab and Saliva Samples - Processed in Mexico</title>
+        <description>Number of participants testing positive or negative for SARS-CoV-2 virus from sample collected via swab versus saliva sample collected from Salivette® Cortisol, which samples were processed in Mexico.</description>
+        <time_frame>At baseline (the test day), up to one day.</time_frame>
+        <population>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry, and whose samples were processed in Mexico.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Swab - Processed in Mexico</title>
+            <description>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.&#xD;
+Additional up to two samples (swab and/or saliva) were taken for each participant on the test day and analyzed in Mexico.&#xD;
+Participants whose swab samples were processed in Mexico and had non-missing results were included in this group.</description>
+          </group>
+          <group group_id="O2">
+            <title>Saliva - Processed in Mexico</title>
+            <description>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.&#xD;
+Additional up to two samples (swab and/or saliva) were taken for each participant on the test day and analyzed in Mexico.&#xD;
+Participants whose saliva samples collected via Salivette® Cortisol were processed in Mexico and had non-missing results were included in this group.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Testing Positive or Negative for SARS-CoV-2 Virus From Swab and Saliva Samples - Processed in Mexico</title>
+          <description>Number of participants testing positive or negative for SARS-CoV-2 virus from sample collected via swab versus saliva sample collected from Salivette® Cortisol, which samples were processed in Mexico.</description>
+          <population>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry, and whose samples were processed in Mexico.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="151"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Positive</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="85"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Negative</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66"/>
+                    <measurement group_id="O2" value="89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ambiguous</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants Testing True Positive or True Negative for SARS-CoV-2 Virus From Swab and Saliva Samples - Processed in Germany</title>
+        <description>Percentage of participants testing true positive or true negative for SARS-CoV-2 virus from Swab and Saliva samples being processed in Germany was reported. The swab sample was used as the reference. Among participants who were tested positive from swab samples, those who were tested positive from saliva samples were classified as &quot;true positive&quot;. Among participants tested negative from swab samples, those who were tested negative from saliva samples were then classified as &quot;true negative&quot;.</description>
+        <time_frame>At baseline (the test day), up to one day.</time_frame>
+        <population>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry, and had both swab and saliva sample that were processed in Germany.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Swab+Saliva - Processed in Germany</title>
+            <description>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.&#xD;
+Two samples were taken by medical staff from each participant on the test day, one using a swab (oropharyngeal swab) and the other through saliva collected with Salivette® Cortisol. The collected samples were then shipped and analyzed in Germany.&#xD;
+Participants with both swab and saliva samples and whose samples were processed in Germany and had non-missing results were included in this group.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Testing True Positive or True Negative for SARS-CoV-2 Virus From Swab and Saliva Samples - Processed in Germany</title>
+          <description>Percentage of participants testing true positive or true negative for SARS-CoV-2 virus from Swab and Saliva samples being processed in Germany was reported. The swab sample was used as the reference. Among participants who were tested positive from swab samples, those who were tested positive from saliva samples were classified as &quot;true positive&quot;. Among participants tested negative from swab samples, those who were tested negative from saliva samples were then classified as &quot;true negative&quot;.</description>
+          <population>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry, and had both swab and saliva sample that were processed in Germany.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="141"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>True positive (sensitivity)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="69"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>True negative (specificity)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="72"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 1 day.</time_frame>
+      <desc>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Overall</title>
+          <description>All eligible participants in this study who had been diagnosed with COVID-19 confirmed by polymerase chain reaction (PCR) test within the past 5 days before study entry.&#xD;
+Two samples were taken by medical staff from each participant on the test day, one using a swab (oropharyngeal swab) and the other through saliva collected with Salivette® Cortisol. The collected samples were then shipped and analyzed in Germany.&#xD;
+Additional up to two samples (swab and/or saliva) were taken for each participant on the test day and analyzed in Mexico.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="151"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="151"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="151"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Boehringer Ingelheim (BI) acknowledges that investigators have the right to publish the study results.&#xD;
+Investigators shall provide BI with a copy of any publication or presentation for review prior to any submission. Such review will be done with regard to proprietary information, information related to patentable inventions, medical, scientific, and statistical accuracy within 60 days.&#xD;
+BI may request a delay of the publication in order to protect BI's intellectual property rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Boehringer Ingelheim Call Center</name_or_title>
+      <organization>Boehringer Ingelheim</organization>
+      <phone>1-800-243-0127</phone>
+      <email>clintriage.rdg@boehringer-ingelheim.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

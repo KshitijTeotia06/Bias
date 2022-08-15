@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="194">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04420273</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU00212165</org_study_id>
+    <nct_id>NCT04420273</nct_id>
+  </id_info>
+  <brief_title>Targeted Melanoma Detection With Skin Self-Examination During COVID-19 Restricted Physician Access</brief_title>
+  <acronym>TMD</acronym>
+  <official_title>Targeted Melanoma Detection With Skin Self-examination: Leveraging the Mammogram Encounter</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to reduce melanoma mortality by improving early detection of&#xD;
+      melanoma with skin self-examination (SSE) among people who self-identify as being at risk and&#xD;
+      seek care for a concerning mole. Because women are more likely than men to perform SSE, women&#xD;
+      who are engaged in health promotion by having a recent screening mammogram are the focus of&#xD;
+      this research. Self-management of melanoma detection with SSE depends on ready access to&#xD;
+      dermatologists when a concerning mole is detected. In March 2020, the Illinois stay at home&#xD;
+      order (COVID-19) prohibited non-essential health care, including screening mammography and&#xD;
+      dermatology office-based care, and both are expected to remain limited until fall 2020. This&#xD;
+      submission explores a) the effectiveness of targeted melanoma detection (TMD) among women,&#xD;
+      who identify their risk of having a melanoma, learn to perform SSE, and perform SSE, and b)&#xD;
+      the effectiveness of adhesive patch-based home sample collection for genomic analysis to rule&#xD;
+      out melanoma in moles identified by women (who received the intervention) as concerning will&#xD;
+      be explored.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The proposed work will assess the effectiveness of targeted melanoma detection (TMD) with SSE&#xD;
+      education delivered remotely to women who had a screening mammogram. The effect of TMD with&#xD;
+      SSE education will be assessed with a randomized control trial among women served by&#xD;
+      Northwestern Medicine in rural, suburban and metropolitan communities. Women who identify&#xD;
+      concerning moles will choose among three options: a) watch the mole to see if the border,&#xD;
+      color or diameter of the mole changes b) send a picture of the mole to the PI for&#xD;
+      consideration of mole self-sampling, or c) make an appointment with my healthcare provider to&#xD;
+      check the mole. As required a physician will supervise women, who will perform non-invasive&#xD;
+      mole self-sampling with non-invasive adhesive patches for genomic analysis of the concerning&#xD;
+      pigmented lesion (mole). If the genomic analysis suggests that the concerning mole may be a&#xD;
+      melanoma, then the recommendation will be to have the mole biopsied.The effectiveness of&#xD;
+      acquired samples suggestive of melanoma will be examined by the obtaining the pathology&#xD;
+      reports of biopsied moles. Health care providers' (HCPs) clinical/pathologic assessment of&#xD;
+      concerning moles will be identified in the Northwestern Medicine electronic health record&#xD;
+      (EHR) system.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2, 2020</start_date>
+  <completion_date type="Actual">March 1, 2021</completion_date>
+  <primary_completion_date type="Actual">March 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized Control Clinical Trial Arm 1: SSE educational intervention with optional physician supervised non-invasive adhesive patch-based home sample collection of a concerning mole for genomic analysis Arm 2: Active control</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Completed SSE at Specified Time Points</measure>
+    <time_frame>90 days</time_frame>
+    <description>Self-reported performance of SSE, a custom scale with the frequency and extent of SSE is completed in an online monthly survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who Identified Concerning Moles at Specified Time Points</measure>
+    <time_frame>90 days</time_frame>
+    <description>Self-reported identification of concerning mole identified by user assigning scores to the border,color and diameter of the mole. A validated scoring system is used to categorize the border, color and diameter as 1 if normal, 2 if not sure, and 3 if abnormal.The sum of the scores indicates if the mole is concerning (sum of 3= benign, stop checking the mole; sum of 4- 7 monitor the mole for change in the next month; sum of 8-9 = concerning mole make an appointment to see a physician.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Participants' Reported Skin Self-examination Anxiety</measure>
+    <time_frame>90 days</time_frame>
+    <description>Self-reported responses to 6 items, each with a 5-point Likert scale (range 6-30) higher score= more anxiety, a worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants' Confidence Performing Mole Checks</measure>
+    <time_frame>90 days</time_frame>
+    <description>Self-reported responses to 7 items, each with a 5-point Likert scale (range 7-35) higher score = greater confidence (better outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Diagnosis of Participants Having Any Physician Visits for Concerning Moles</measure>
+    <time_frame>5 months</time_frame>
+    <description>Electronic medical record review of physician's clinical diagnosis of concerning mole during the 3 months of the study and for 2 subsequent months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pathologic Diagnosis of Concerning Moles</measure>
+    <time_frame>5 months</time_frame>
+    <description>Electronic medical record review of pathologic diagnosis of biopsied moles that participants identified as concerning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biopsy Performed</measure>
+    <time_frame>5 months</time_frame>
+    <description>EMR review of physician performing a biopsy on a concerning mole identified by the participant, percentage of biopsies performed</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1000</enrollment>
+  <condition>Melanoma</condition>
+  <arm_group>
+    <arm_group_label>SSE educational intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active control: Healthy Living</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>SSE educational intervention</intervention_name>
+    <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+    <arm_group_label>SSE educational intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Active control:Healthy Living</intervention_name>
+    <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+    <arm_group_label>Active control: Healthy Living</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult women (aged 18 and older) with no upper age limit, who had a screening mammogram&#xD;
+             from January 1, 2019 to February 28, 2020.&#xD;
+&#xD;
+          -  Able to read English&#xD;
+&#xD;
+          -  Vision enough to read a newspaper&#xD;
+&#xD;
+          -  Self-perception of their potential melanoma risk&#xD;
+&#xD;
+          -  Willing to perform SSE either alone or with a skin check partner&#xD;
+&#xD;
+          -  Willing to complete monthly surveys for 3 months and receive monthly text messages to&#xD;
+             personal mobile phone&#xD;
+&#xD;
+          -  Have home Internet access and phone with ability to take a picture of a mole&#xD;
+&#xD;
+          -  Have access to Federal Express or US Postal Service Express Mail to send mole&#xD;
+             self-sampling kits&#xD;
+&#xD;
+          -  Willing to allow the research team access to their electronic health record to&#xD;
+             abstract physician assessment of concerning moles, biopsy results and treatment&#xD;
+&#xD;
+          -  Willing to provide up-to-date email address, mailing address and telephone number&#xD;
+&#xD;
+        Inclusion criteria of skin check partner, who may be a man or a woman, to have mole&#xD;
+        self-sampled&#xD;
+&#xD;
+          -  Male or female over the age of 18 years&#xD;
+&#xD;
+          -  Able to read English&#xD;
+&#xD;
+          -  Vision enough to read a newspaper&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Male&#xD;
+&#xD;
+          -  Female under the age of 18&#xD;
+&#xD;
+          -  Unable to read English&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Self-representation as a woman</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>June K Robinson, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University Feinberg School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Northwestern University Feinberg School of Medicine Department of Dermatology</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Robinson JK, Reavy R, Mallett KA, Turrisi R. Remote partner assisted skin self-examination skills training of melanoma survivors and their partners. Australas J Dermatol. 2019 Feb;60(1):e80-e82. doi: 10.1111/ajd.12877. Epub 2018 Jul 10.</citation>
+    <PMID>30773613</PMID>
+  </reference>
+  <reference>
+    <citation>Robinson JK, Wayne JD, Martini MC, Hultgren BA, Mallett KA, Turrisi R. Early Detection of New Melanomas by Patients With Melanoma and Their Partners Using a Structured Skin Self-examination Skills Training Intervention: A Randomized Clinical Trial. JAMA Dermatol. 2016 Sep 1;152(9):979-85. doi: 10.1001/jamadermatol.2016.1985.</citation>
+    <PMID>27367303</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>June 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 9, 2020</study_first_posted>
+  <results_first_submitted>October 25, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 23, 2021</results_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>June Robinson</investigator_full_name>
+    <investigator_title>Research Professor of Dermatology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 2, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/73/NCT04420273/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 31, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/73/NCT04420273/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>SSE Educational Intervention</title>
+          <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+        </group>
+        <group group_id="P2">
+          <title>Active Control: Healthy Living</title>
+          <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="501"/>
+                <participants group_id="P2" count="499"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="390"/>
+                <participants group_id="P2" count="414"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="111"/>
+                <participants group_id="P2" count="85"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>SSE Educational Intervention</title>
+          <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+        </group>
+        <group group_id="B2">
+          <title>Active Control: Healthy Living</title>
+          <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="494"/>
+            <count group_id="B2" value="495"/>
+            <count group_id="B3" value="989"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="494"/>
+                    <measurement group_id="B2" value="495"/>
+                    <measurement group_id="B3" value="989"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="47.0" lower_limit="41.2" upper_limit="54.0"/>
+                    <measurement group_id="B2" value="47.0" lower_limit="41.0" upper_limit="53.3"/>
+                    <measurement group_id="B3" value="47.0" lower_limit="41.1" upper_limit="53.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="494"/>
+                    <measurement group_id="B2" value="495"/>
+                    <measurement group_id="B3" value="989"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="73"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="457"/>
+                    <measurement group_id="B2" value="459"/>
+                    <measurement group_id="B3" value="916"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="485"/>
+                    <measurement group_id="B2" value="480"/>
+                    <measurement group_id="B3" value="965"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>skin type</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>I (always sunburn, never tan)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>II (usually sunburn, tan minimally)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="213"/>
+                    <measurement group_id="B2" value="230"/>
+                    <measurement group_id="B3" value="443"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>III (sometimes sunburn, tan moderately)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="216"/>
+                    <measurement group_id="B2" value="200"/>
+                    <measurement group_id="B3" value="416"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IV(rarely sunburn, tan deeply)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="43"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Completed SSE at Specified Time Points</title>
+        <description>Self-reported performance of SSE, a custom scale with the frequency and extent of SSE is completed in an online monthly survey</description>
+        <time_frame>90 days</time_frame>
+        <population>Home sample collection arm participants were randomized into arm 1 at baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Completed SSE at Specified Time Points</title>
+          <description>Self-reported performance of SSE, a custom scale with the frequency and extent of SSE is completed in an online monthly survey</description>
+          <population>Home sample collection arm participants were randomized into arm 1 at baseline</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>baseline ever perform SSE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="217"/>
+                    <measurement group_id="O2" value="242"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>1-mo perform SSE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="475"/>
+                    <measurement group_id="O2" value="238"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2-mo perform SSE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="355"/>
+                    <measurement group_id="O2" value="228"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>3-mo perform SSE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="348"/>
+                    <measurement group_id="O2" value="211"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>1-month survey</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>McNemar</method>
+            <method_desc>McNemar's chi-square with continuity correction</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>2- months</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>McNemar</method>
+            <method_desc>McNemar's chi-square with continuity correction</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>3-months</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>McNemar</method>
+            <method_desc>McNemar's chi-square with continuity correction</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Identified Concerning Moles at Specified Time Points</title>
+        <description>Self-reported identification of concerning mole identified by user assigning scores to the border,color and diameter of the mole. A validated scoring system is used to categorize the border, color and diameter as 1 if normal, 2 if not sure, and 3 if abnormal.The sum of the scores indicates if the mole is concerning (sum of 3= benign, stop checking the mole; sum of 4- 7 monitor the mole for change in the next month; sum of 8-9 = concerning mole make an appointment to see a physician.</description>
+        <time_frame>90 days</time_frame>
+        <population>While 494 participants were randomized to receive the intervention, only 278 participants found a concerning mole. Similarly 495 participants were randomized to the active control arm, but only 144 identified a concerning mole. Thus the number analyzed in each arm is limited to the number of participants identifying a concerning mole.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Identified Concerning Moles at Specified Time Points</title>
+          <description>Self-reported identification of concerning mole identified by user assigning scores to the border,color and diameter of the mole. A validated scoring system is used to categorize the border, color and diameter as 1 if normal, 2 if not sure, and 3 if abnormal.The sum of the scores indicates if the mole is concerning (sum of 3= benign, stop checking the mole; sum of 4- 7 monitor the mole for change in the next month; sum of 8-9 = concerning mole make an appointment to see a physician.</description>
+          <population>While 494 participants were randomized to receive the intervention, only 278 participants found a concerning mole. Similarly 495 participants were randomized to the active control arm, but only 144 identified a concerning mole. Thus the number analyzed in each arm is limited to the number of participants identifying a concerning mole.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="278"/>
+                <count group_id="O2" value="144"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Made physician appointment</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39"/>
+                    <measurement group_id="O2" value="107"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Followed mole for change</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="239"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>stopped SSE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Participants' Reported Skin Self-examination Anxiety</title>
+        <description>Self-reported responses to 6 items, each with a 5-point Likert scale (range 6-30) higher score= more anxiety, a worse outcome</description>
+        <time_frame>90 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Participants' Reported Skin Self-examination Anxiety</title>
+          <description>Self-reported responses to 6 items, each with a 5-point Likert scale (range 6-30) higher score= more anxiety, a worse outcome</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="390"/>
+                <count group_id="O2" value="414"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.4" spread="0.05"/>
+                    <measurement group_id="O2" value="6.4" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Follow-up month 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.6" spread="0.05"/>
+                    <measurement group_id="O2" value="6.6" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt; 0.1</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Participants' Confidence Performing Mole Checks</title>
+        <description>Self-reported responses to 7 items, each with a 5-point Likert scale (range 7-35) higher score = greater confidence (better outcome).</description>
+        <time_frame>90 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Participants' Confidence Performing Mole Checks</title>
+          <description>Self-reported responses to 7 items, each with a 5-point Likert scale (range 7-35) higher score = greater confidence (better outcome).</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="390"/>
+                <count group_id="O2" value="414"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.3" spread="0.05"/>
+                    <measurement group_id="O2" value="9.3" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Follow-up-3 month</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.6" spread="0.05"/>
+                    <measurement group_id="O2" value="10.0" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Diagnosis of Participants Having Any Physician Visits for Concerning Moles</title>
+        <description>Electronic medical record review of physician's clinical diagnosis of concerning mole during the 3 months of the study and for 2 subsequent months</description>
+        <time_frame>5 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Diagnosis of Participants Having Any Physician Visits for Concerning Moles</title>
+          <description>Electronic medical record review of physician's clinical diagnosis of concerning mole during the 3 months of the study and for 2 subsequent months</description>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="39"/>
+                <count group_id="O2" value="107"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Clinical diagnosis benign</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Clinical diagnosis atypical nevus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Clinical diagnosis melanoma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pathologic Diagnosis of Concerning Moles</title>
+        <description>Electronic medical record review of pathologic diagnosis of biopsied moles that participants identified as concerning</description>
+        <time_frame>5 months</time_frame>
+        <population>all participants in arm 3 had benign moles on the home sample collected</population>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pathologic Diagnosis of Concerning Moles</title>
+          <description>Electronic medical record review of pathologic diagnosis of biopsied moles that participants identified as concerning</description>
+          <population>all participants in arm 3 had benign moles on the home sample collected</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>benign nevus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>atypical nevus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>melanoma stage 0</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>melanoma stage 1A</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>melanoma stage 1B</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.459</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Biopsy Performed</title>
+        <description>EMR review of physician performing a biopsy on a concerning mole identified by the participant, percentage of biopsies performed</description>
+        <time_frame>5 months</time_frame>
+        <population>percentage of participants having a biopsy of a concerning mole</population>
+        <group_list>
+          <group group_id="O1">
+            <title>SSE Educational Intervention</title>
+            <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Control: Healthy Living</title>
+            <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Biopsy Performed</title>
+          <description>EMR review of physician performing a biopsy on a concerning mole identified by the participant, percentage of biopsies performed</description>
+          <population>percentage of participants having a biopsy of a concerning mole</population>
+          <units>percentage of participants having a biop</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="39"/>
+                <count group_id="O2" value="107"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56.4"/>
+                    <measurement group_id="O2" value="13.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>two months after completing final 3-month survey of study</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>SSE Educational Intervention</title>
+          <description>Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.&#xD;
+SSE educational intervention: Women participants receive a SSE brochure and three monthly reminders to perform SSE. In the second month, women select goals for SSE.</description>
+        </group>
+        <group group_id="E2">
+          <title>Active Control: Healthy Living</title>
+          <description>Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.&#xD;
+Active control:Healthy Living: Women participants receive a Healthy Living brochure and three monthly reminders to perform the following activities of healthy living: get quality sleep, walk briskly for 30 min, eat 5 servings of fruits and vegetables a day. In the second month, women select goals for healthy living.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="495"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="495"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="495"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. June Robinson</name_or_title>
+      <organization>Northwestern University Feinberg School of Medicine</organization>
+      <phone>3129433703</phone>
+      <email>june-robinson@northwestern.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

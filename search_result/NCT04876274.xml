@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="148">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04876274</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TMU-LOVE</org_study_id>
+    <nct_id>NCT04876274</nct_id>
+  </id_info>
+  <brief_title>Social Media-Delivered Patient Education in Enhancing Type 2 Diabetics Self-Management and Attitudes During the COVID-19 Pandemic</brief_title>
+  <official_title>Social Media-Delivered Patient Education in Enhancing Type 2 Diabetics Self-Management and Attitudes During the COVID-19 Pandemic: a Randomized Controlled Trial in Taiwan</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Taipei Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Taipei Medical University WanFang Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Taipei Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current study was to develop a software &quot;Line@&quot; based health education program, providing&#xD;
+      video-based health information and communication between diabetes patients and health-care&#xD;
+      professionals. This study also evaluated its effectiveness on improving glycemic control,&#xD;
+      attitude towards diabetes, knowledge about diabetes and self-care for type 2 diabetes&#xD;
+      patients in Taiwan.&#xD;
+&#xD;
+      The followings were the hypotheses of the study:&#xD;
+&#xD;
+        1. Compared to the control group, intervention group receiving &quot;Line&quot; based video education&#xD;
+           has a greater improvement on glycosylated hemoglobin (A1C).&#xD;
+&#xD;
+        2. Compared to the control group, intervention group receiving &quot;Line&quot; based video education&#xD;
+           has a greater positive effect on attitude towards diabetes.&#xD;
+&#xD;
+        3. Compared to the control group, intervention group receiving &quot;Line&quot; based video education&#xD;
+           has a better understanding on diabetic knowledge.&#xD;
+&#xD;
+        4. Compared to the control group, intervention group receiving &quot;Line&quot; based video education&#xD;
+           has a greater positive effect on self-care activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study was conducted in the Endocrinology and Metabolism Clinic in Taipei Medical&#xD;
+      University Wang-Fang Hospital. Patients were referred from physicians if they met the&#xD;
+      inclusion criteria and consent to join. Written consent and questionnaires were then provided&#xD;
+      to the participants after researcher had clearly explained the study purpose.&#xD;
+&#xD;
+      Based on the seven key points in managing diabetes developed by the association of diabetes&#xD;
+      care and education specialist (ADCES), including healthy coping, healthy eating, being&#xD;
+      active, monitoring, taking medication, problem solving and reducing risks, the research team&#xD;
+      had developed 51 diabetes related health educational videos (available at website of School&#xD;
+      of Pharmacy, Taipei Medical University&#xD;
+      http://pharmschool.tmu.edu.tw/activity/index.php?type=20). Each video lasted for about 2-3&#xD;
+      minutes. According to the content of the videos, it was categorized into 5 domains, including&#xD;
+      understanding diabetes, daily care, nutrition care, diabetes drug and diabetes knowledge&#xD;
+      related quizzes.&#xD;
+&#xD;
+      Patients in intervention group could attend the video through the line platform. Researcher&#xD;
+      would also send 2-3 videos per week with care massage every 2 weeks to the patients. The&#xD;
+      general schedule of video was shown in table x. According to various condition, researcher&#xD;
+      developed specific video schedule for each patients. For example, patient who was prescribed&#xD;
+      with A drug, we would only send the video regarding A drug to this patient but not all of the&#xD;
+      video regarding drugs. Schedule for the part of understanding diabetes, daily care, nutrition&#xD;
+      care and quizzes was the same among all participants. Due to the quizzes that were put in&#xD;
+      week 3, 6, 9 and 12, videos related to general knowledge about diabetes would be send to&#xD;
+      patients first to make sure all the quizzes related content had already taught to patients&#xD;
+      before the quizzes. Moreover, patients could communicate with the research team and ask&#xD;
+      questions through the platform, researcher would provide answers verified by pharmacists or&#xD;
+      physicians in one or two days after.&#xD;
+&#xD;
+      The sample size of this study was estimated using G-power (version 3.1). Assuming a power of&#xD;
+      80% with two-sided alpha level for detecting the difference between the intervention group&#xD;
+      and the control group, at least 64 patients were needed for each group. Considering 20%&#xD;
+      dropout rate, the study was designed to have at least 80 patients for each group, 160&#xD;
+      patients in total.&#xD;
+&#xD;
+      Patients were randomized in a 1:1 ratio according to the random allocation sequence generated&#xD;
+      prior to the study. Patients with odd number were allocated into control group while even&#xD;
+      numbers were allocated into intervention group. The trial was non-blinded because of its&#xD;
+      feasibility.&#xD;
+&#xD;
+      Researcher would not provide any inductive explanation to the patient during filling the&#xD;
+      questionnaire. If patient had questions about the items, a detailed explanation and health&#xD;
+      education were provided only after finishing the post-test. The returned questionnaires were&#xD;
+      collected by the researcher and kept in the Department of Clinical Pharmacy, School of&#xD;
+      Pharmacy, Taipei Medical University for three years.&#xD;
+&#xD;
+      All the data were analyzed using SPSS (SPSS Inc. Released 2009. Predictive Analytics Suite&#xD;
+      Workstation (PASW) Statistics for Windows, Version 18.0. Chicago: SPSS Inc.). A two-tailed p&#xD;
+      value of 0.05 was considered to be statistically significant in the analysis. For personal&#xD;
+      characteristics, descriptive analysis was performed. According to the characteristic of data,&#xD;
+      Chi-square test and t-test was used for detecting the differences between groups. a Wilcoxon&#xD;
+      signed rank test or paired t-tests was performed for the differences in A1C and the scores&#xD;
+      between pre and post-test about knowledge, self-care activity and attitude towards diabetes.&#xD;
+      A Mann-Whitney test or unpaired t-tests was performed for the mean differences between&#xD;
+      control and intervention group. Logistics regression was performed for the correlation&#xD;
+      between variables.&#xD;
+&#xD;
+      Patients who had finished both pre- and post-assessment would be included for analysis, those&#xD;
+      without post-test would be excluded. Missing values were processed by multiple imputation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 14, 2020</start_date>
+  <completion_date type="Actual">December 29, 2020</completion_date>
+  <primary_completion_date type="Actual">December 29, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>HbA1C</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Improvement in glycemic control</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Score of Diabetes Care Profile-Attitudes Toward Diabetes Scales</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Chinese version of Diabetes Care Profile-Attitudes Toward Diabetes Scales (DCP-ATDS) was used for measuring patients' attitude towards diabetes at baseline and 12 weeks. Each item was rated on a five-point Likert scale, the total score was in the range of 23-115, in which higher scores mean patient had better attitudes towards diabetes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Score of Summary of Diabetes Self-Care Activities</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Chinese version of Summary of Diabetes Self-Care Activities (SDSCA) was used for measuring patients' self-care activities at baseline and 12 weeks. Each item was rated from 0 to 7. For patients who were prescribed with either oral medication or insulin injection, the total score ranged from 0 to 63. The total score for patients who were taking both oral and insulin medications ranged from 0 to 70. The mean scores were calculated separately according to the total score ranges. A higher scores mean better self-care behavior.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Score of Simplified True / False Version of Diabetes Knowledge Scale</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Chinese version of Simplified true/false version of revised Diabetes Knowledge Scale (SDKS) was used for measuring patients' knowledge about diabetes at baseline and 12 weeks. A score of &quot;1&quot; was given if the patient responded with the correct answer and &quot;0&quot; was given for incorrect answer or answered with &quot;Don't know&quot;. For patients who were prescribed with insulin treatment, the total score ranged from 0 to 24, for those without insulin treatment, the total score ranged from 0 to 22. The mean scores were calculated separately according to the total score ranges. A higher score indicated higher level of knowledge about diabetes.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Score of Newest Vital Sign</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Chinese version of Newest Vital Sign (NVS) was used for measuring patients' health literacy level. A score of &quot;1&quot; was given if the patient responded with the correct answer and &quot;0&quot; was given for incorrect answer. The total score ranged from 0 to 6, with higher scores mean better health literacy level.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">181</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the intervention group received Taipei Medical University (TMU) line-oriented video education and care in addition to usual care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in the control group received usual care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>TMU-LOVE</intervention_name>
+    <description>Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Type 2 Diabetes mellitus (T2DM)&#xD;
+&#xD;
+          -  Age 20 or older&#xD;
+&#xD;
+          -  Had at least 1 A1C data in the past 6 months&#xD;
+&#xD;
+          -  Possessed a smart-cellphone&#xD;
+&#xD;
+          -  A1C ≥ 6%&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Gestational diabetes&#xD;
+&#xD;
+          -  Cognitive impairment&#xD;
+&#xD;
+          -  No medication treatment but dietary control alone&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chen Hsiang-Yin, Pharm.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Professor and Associate Dean, College of Pharmacy, Taipei Medical University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>School of Pharmacy, Taipei Medical University</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>May 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 6, 2021</study_first_posted>
+  <results_first_submitted>October 5, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 3, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 13, 2021</results_first_posted>
+  <last_update_submitted>March 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Taipei Medical University</investigator_affiliation>
+    <investigator_full_name>LEONG CHENG MAN</investigator_full_name>
+    <investigator_title>Master student, School of Pharmacy, Taipei Medical University</investigator_title>
+  </responsible_party>
+  <keyword>Type 2 diabetes</keyword>
+  <keyword>Self-management</keyword>
+  <keyword>Health education</keyword>
+  <keyword>Attitudes towards diabetes</keyword>
+  <keyword>mHealth</keyword>
+  <keyword>Video education</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 10, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/74/NCT04876274/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Before assignment, patients were excluded if they did not meet the inclusion criteria or declined to participate, or did not sign the informed consent.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Intervention Group</title>
+          <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care&#xD;
+TMU-LOVE: Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+        </group>
+        <group group_id="P2">
+          <title>Control Group</title>
+          <description>Patients in the control group received usual care</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="91"/>
+                <participants group_id="P2" count="90"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="82"/>
+                <participants group_id="P2" count="78"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="12"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="12"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Intervention Group</title>
+          <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care&#xD;
+TMU-LOVE: Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+        </group>
+        <group group_id="B2">
+          <title>Control Group</title>
+          <description>Patients in the control group received usual care</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="91"/>
+            <count group_id="B2" value="90"/>
+            <count group_id="B3" value="181"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59.0" spread="11.4"/>
+                    <measurement group_id="B2" value="58.1" spread="11.9"/>
+                    <measurement group_id="B3" value="58.6" spread="11.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="33"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67"/>
+                    <measurement group_id="B2" value="57"/>
+                    <measurement group_id="B3" value="124"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="91"/>
+                    <measurement group_id="B2" value="90"/>
+                    <measurement group_id="B3" value="181"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Education Level</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Junior high school or below</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Senior high school</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>College or higher</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="53"/>
+                    <measurement group_id="B3" value="104"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26.1" spread="4.2"/>
+                    <measurement group_id="B2" value="26.7" spread="5.0"/>
+                    <measurement group_id="B3" value="26.4" spread="4.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Unemployment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Living alone</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Annual Income (in New Taiwan dollar)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Unwaged</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&lt;500,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="43"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>500,000-1,000,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;1,000,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Medication Type</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Oral medication only</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="72"/>
+                    <measurement group_id="B3" value="140"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Insulin only</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Both</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diagnosis Time</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10.4" spread="9.0"/>
+                    <measurement group_id="B2" value="10.3" spread="8.1"/>
+                    <measurement group_id="B3" value="10.3" spread="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>HbA1C</title>
+          <units>%</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7.0" spread="0.8"/>
+                    <measurement group_id="B2" value="6.7" spread="0.6"/>
+                    <measurement group_id="B3" value="6.8" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Smoking</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Alcohol Drinking</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Self Monitoring Blood Glucose</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Physical Exercise</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70"/>
+                    <measurement group_id="B2" value="63"/>
+                    <measurement group_id="B3" value="133"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>HbA1C</title>
+        <description>Improvement in glycemic control</description>
+        <time_frame>12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care&#xD;
+TMU-LOVE: Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Patients in the control group received usual care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>HbA1C</title>
+          <description>Improvement in glycemic control</description>
+          <units>% of HbA1C</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="91"/>
+                <count group_id="O2" value="90"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.0" spread="0.9"/>
+                    <measurement group_id="O2" value="6.7" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Score of Diabetes Care Profile-Attitudes Toward Diabetes Scales</title>
+        <description>The Chinese version of Diabetes Care Profile-Attitudes Toward Diabetes Scales (DCP-ATDS) was used for measuring patients' attitude towards diabetes at baseline and 12 weeks. Each item was rated on a five-point Likert scale, the total score was in the range of 23-115, in which higher scores mean patient had better attitudes towards diabetes.</description>
+        <time_frame>12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care&#xD;
+TMU-LOVE: Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Patients in the control group received usual care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Score of Diabetes Care Profile-Attitudes Toward Diabetes Scales</title>
+          <description>The Chinese version of Diabetes Care Profile-Attitudes Toward Diabetes Scales (DCP-ATDS) was used for measuring patients' attitude towards diabetes at baseline and 12 weeks. Each item was rated on a five-point Likert scale, the total score was in the range of 23-115, in which higher scores mean patient had better attitudes towards diabetes.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="91"/>
+                <count group_id="O2" value="90"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8" spread="0.5"/>
+                    <measurement group_id="O2" value="3.7" spread="0.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Score of Summary of Diabetes Self-Care Activities</title>
+        <description>The Chinese version of Summary of Diabetes Self-Care Activities (SDSCA) was used for measuring patients' self-care activities at baseline and 12 weeks. Each item was rated from 0 to 7. For patients who were prescribed with either oral medication or insulin injection, the total score ranged from 0 to 63. The total score for patients who were taking both oral and insulin medications ranged from 0 to 70. The mean scores were calculated separately according to the total score ranges. A higher scores mean better self-care behavior.</description>
+        <time_frame>12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care&#xD;
+TMU-LOVE: Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Patients in the control group received usual care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Score of Summary of Diabetes Self-Care Activities</title>
+          <description>The Chinese version of Summary of Diabetes Self-Care Activities (SDSCA) was used for measuring patients' self-care activities at baseline and 12 weeks. Each item was rated from 0 to 7. For patients who were prescribed with either oral medication or insulin injection, the total score ranged from 0 to 63. The total score for patients who were taking both oral and insulin medications ranged from 0 to 70. The mean scores were calculated separately according to the total score ranges. A higher scores mean better self-care behavior.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="91"/>
+                <count group_id="O2" value="90"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.0" spread="1.2"/>
+                    <measurement group_id="O2" value="3.9" spread="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Score of Simplified True / False Version of Diabetes Knowledge Scale</title>
+        <description>The Chinese version of Simplified true/false version of revised Diabetes Knowledge Scale (SDKS) was used for measuring patients' knowledge about diabetes at baseline and 12 weeks. A score of &quot;1&quot; was given if the patient responded with the correct answer and &quot;0&quot; was given for incorrect answer or answered with &quot;Don't know&quot;. For patients who were prescribed with insulin treatment, the total score ranged from 0 to 24, for those without insulin treatment, the total score ranged from 0 to 22. The mean scores were calculated separately according to the total score ranges. A higher score indicated higher level of knowledge about diabetes.</description>
+        <time_frame>12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Group</title>
+            <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care&#xD;
+TMU-LOVE: Patients in intervention group could attend diabetes-related health educational video through the TMU-LOVE platform. Researcher would also send 2-3 videos per week with care massage every 2 weeks to the patients.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Group</title>
+            <description>Patients in the control group received usual care</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Score of Simplified True / False Version of Diabetes Knowledge Scale</title>
+          <description>The Chinese version of Simplified true/false version of revised Diabetes Knowledge Scale (SDKS) was used for measuring patients' knowledge about diabetes at baseline and 12 weeks. A score of &quot;1&quot; was given if the patient responded with the correct answer and &quot;0&quot; was given for incorrect answer or answered with &quot;Don't know&quot;. For patients who were prescribed with insulin treatment, the total score ranged from 0 to 24, for those without insulin treatment, the total score ranged from 0 to 22. The mean scores were calculated separately according to the total score ranges. A higher score indicated higher level of knowledge about diabetes.</description>
+          <units>correctness</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="91"/>
+                <count group_id="O2" value="90"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76.7" spread="11.7"/>
+                    <measurement group_id="O2" value="73.2" spread="12.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Score of Newest Vital Sign</title>
+        <description>The Chinese version of Newest Vital Sign (NVS) was used for measuring patients' health literacy level. A score of &quot;1&quot; was given if the patient responded with the correct answer and &quot;0&quot; was given for incorrect answer. The total score ranged from 0 to 6, with higher scores mean better health literacy level.</description>
+        <time_frame>12 weeks</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <desc>All-Cause Mortality, Serious, and Other [Not Including Serious] Adverse Events were not monitored/assessed.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Intervention</title>
+          <description>Patients in the intervention group received the TMU line-oriented video education and care in addition to usual care</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>Patients in the control group received usual care</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Limitations include the small sample size with a homogenous population in this study, which created population bias and limited the generalizability of the current study. The result in this study could only predict the short-term effect of TMU-LOVE due to a time restriction of 12 weeks, the long-term effect was not feasible.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Professor Hsiang-Yin Chen</name_or_title>
+      <organization>School of Pharmacy, Taipei Medical University</organization>
+      <phone>(02)2736-1661 ext 6175</phone>
+      <email>shawn@tmu.edu.tw</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

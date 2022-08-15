@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="70">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04405570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EIDD-2801-2003</org_study_id>
+    <nct_id>NCT04405570</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability and Efficacy of Molnupiravir (EIDD-2801) to Eliminate Infectious Virus Detection in Persons With COVID-19</brief_title>
+  <official_title>A Phase IIa Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Safety, Tolerability and Efficacy of EIDD-2801 to Eliminate SARS-CoV-2RNA Detection in Persons With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ridgeback Biotherapeutics, LP</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ridgeback Biotherapeutics, LP</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This was a phase IIa, double-blind, placebo-controlled, randomized trial, designed to compare&#xD;
+      the safety, tolerability, and antiviral activity of EIDD-2801 (molnupiravir) versus placebo&#xD;
+      as measured by SARS-CoV-2 viral RNA detection in symptomatic adult outpatients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a phase IIa, double-blind, placebo-controlled, randomized trial, designed to compare&#xD;
+      the safety, tolerability, and antiviral activity of molnupiravir versus placebo as measured&#xD;
+      by SARS-CoV-2 viral RNA detection in symptomatic adult outpatients with COVID-19. The study&#xD;
+      was a multicenter trial that was conducted in the United States.&#xD;
+&#xD;
+      In this study, 204 participants were randomized and 202 received molnupiravir or placebo&#xD;
+      orally twice a day (BID) for 5 days. The study enrolled participants in 5 parts with each&#xD;
+      part evaluating molnupiravir doses of either 200 mg BID, 400 mg BID, or 800 mg BID. Doses&#xD;
+      were chosen based on emerging virology and safety data from this and ongoing studies. New&#xD;
+      dose groups were started after the selected dose had been studied for safety in a Phase 1&#xD;
+      study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 19, 2020</start_date>
+  <completion_date type="Actual">February 21, 2021</completion_date>
+  <primary_completion_date type="Actual">February 21, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Until First Non-detectable SARS-CoV-2 in Nasopharyngeal (NP) Swabs</measure>
+    <time_frame>28 days</time_frame>
+    <description>The number of participants until first non-detectable SARS-CoV-2 in nasopharyngeal (NP) swabs will be estimated for each randomized arm (drug versus placebo), using Kaplan-Meier methods with a corresponding log-rank test.&#xD;
+Non detectable defined as &quot;a viral load below the limit of quantification</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Clearance of SARS-CoV-2 in Nasopharyngeal Swabs</measure>
+    <time_frame>28 days</time_frame>
+    <description>The distribution of days until first non-detectable SARS-CoV-2 in nasopharyngeal (NP) swabs will be estimated for each randomized arm (drug versus placebo), using Kaplan-Meier methods with a corresponding log-rank test.&#xD;
+Non detectable defined as &quot;a viral load below the limit of quantification</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events (AEs) Grade 3 or Higher or Leading to Discontinuation of Study Treatment</measure>
+    <time_frame>28 days</time_frame>
+    <description>1) any AEs leading to early discontinuation of blinded treatment (active or placebo), 2) study drug-related discontinuation of treatment, 3) new grade 3 or higher AEs (not already present at baseline), and 4) study drug-related new grade 3 or higher AEs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Any Adverse Events (AEs), Grade 2 or Higher</measure>
+    <time_frame>28 days</time_frame>
+    <description>Measure the safety and tolerability of EIDD-2801 by estimating the occurrence of Grade 2 or higher AE and drug related AEs.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">204</enrollment>
+  <condition>SARS-CoV-2 Infection, COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Molnupiravir 200 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molnupiravir 200 mg, twice daily (BID) for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Molnupiravir 400 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molnupiravir 400 mg, twice daily (BID) for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Molnupiravir 800 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molnupiravir 800 mg, twice daily (BID) for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (PBO) twice daily (BID) for 5 days</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molnupiravir 200 mg</intervention_name>
+    <description>Oral capsule of molnupiravir</description>
+    <arm_group_label>Molnupiravir 200 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molnupiravir 400 mg</intervention_name>
+    <description>Oral capsule of molnupiravir</description>
+    <arm_group_label>Molnupiravir 400 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molnupiravir 800 mg</intervention_name>
+    <description>Oral capsule of molnupiravir</description>
+    <arm_group_label>Molnupiravir 800 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (PBO)</intervention_name>
+    <description>placebo oral capsule</description>
+    <arm_group_label>Placebo (PBO) twice daily (BID) for 5 days</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to provide informed consent prior to initiation of any study procedures.&#xD;
+&#xD;
+          2. ≥18 years of age at Screening.&#xD;
+&#xD;
+          3. Study treatment is expected to begin within ≤168 hours from first symptom onset.&#xD;
+&#xD;
+          4. Ability to swallow pills.&#xD;
+&#xD;
+          5. Documentation of confirmed active SARS-CoV-2 infection, as determined by a molecular&#xD;
+             or non-molecular (&quot;rapid&quot;) test conducted at any clinic or laboratory that had a&#xD;
+             Clinical Laboratory Improvement Amendments (CLIA) certification or its equivalent from&#xD;
+             a sample collected ≤96 hours prior to study entry.&#xD;
+&#xD;
+          6. Was experiencing at least one of the following SARS-CoV-2 infection symptoms at the&#xD;
+             time of enrollment: fever (could be subjective including feeling feverish or having&#xD;
+             chills) OR signs/symptoms of respiratory illness (including but not limited to upper&#xD;
+             respiratory congestion, loss of sense of smell or taste, sore throat OR lower&#xD;
+             respiratory illness - cough, shortness of breath).&#xD;
+&#xD;
+          7. Agreed to not participate in another interventional clinical trial for the treatment&#xD;
+             of SARS-CoV-2 during the study period (28 days) unless hospitalized.&#xD;
+&#xD;
+          8. Agreed to not obtain investigational medications outside of the molnupiravir study.&#xD;
+&#xD;
+          9. Agreed to the sampling detailed in the schedule of evaluations and to comply with&#xD;
+             study requirements including contraception requirements.&#xD;
+&#xD;
+         10. A female participant was eligible to participate if she was not pregnant or&#xD;
+             breastfeeding and at least one of the following conditions applied:&#xD;
+&#xD;
+               -  Was not a woman of childbearing potential (WOCBP) OR&#xD;
+&#xD;
+               -  Was a WOCBP and using a contraceptive method that is highly effective (a low user&#xD;
+                  dependency method OR a user-dependent method in combination with a barrier&#xD;
+                  method), or was abstinent from heterosexual intercourse as their preferred and&#xD;
+                  usual lifestyle (abstinent on a long-term and persistent basis), as described in&#xD;
+                  Appendix 2 of the study protocol during the intervention period and for at least&#xD;
+                  50 days after the last dose of study intervention. The investigator evaluated the&#xD;
+                  potential for contraceptive method failure (ie, noncompliance, recently&#xD;
+                  initiated) in relationship to the first dose of study intervention.&#xD;
+&#xD;
+               -  A WOCBP must have had a negative highly sensitive pregnancy test (serum or urine)&#xD;
+                  within 24 hours before the first dose of study intervention.&#xD;
+&#xD;
+               -  Additional requirements for pregnancy testing during and after study intervention&#xD;
+                  were provided in the study protocol.&#xD;
+&#xD;
+               -  The investigator was responsible for review of medical history, menstrual&#xD;
+                  history, and recent sexual activity to decrease the risk for inclusion of a woman&#xD;
+                  with an early undetected pregnancy.&#xD;
+&#xD;
+               -  Contraceptive use by women was to be consistent with local regulations regarding&#xD;
+                  the methods of contraception for those participating in clinical studies.&#xD;
+&#xD;
+               -  Given the elevated risk of venous thrombotic events in patients hospitalized with&#xD;
+                  COVID-19 (Benson et al, 2020; Spratt et al, 2020), estrogen-containing&#xD;
+                  contraceptives could not be started to fulfill the contraceptive requirement of&#xD;
+                  this study at any time during participant's participation. If contraceptives were&#xD;
+                  interrupted as standard of care management of COVID-19 patients and resumed at a&#xD;
+                  later time point, such as at hospital discharge, then abstinence was practiced&#xD;
+                  for the defined period of back-up contraception per the contraceptive product&#xD;
+                  labeling. After this period, contraceptive use had to adhere to the guidance in&#xD;
+                  Appendix 2 of the study protocol.&#xD;
+&#xD;
+         11. Male participants were eligible to participate if they agreed to the following during&#xD;
+             the intervention period and for at least 100 days after the last dose of study&#xD;
+             intervention:&#xD;
+&#xD;
+               -  Refrained from donating sperm&#xD;
+&#xD;
+        PLUS either:&#xD;
+&#xD;
+          -  Were abstinent from heterosexual intercourse as their preferred and usual lifestyle&#xD;
+             (abstinent on a long term and persistent basis) and agreed to remain abstinent.&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+          -  Had to agree to use contraception unless confirmed to be azoospermic (vasectomized or&#xD;
+             secondary to medical cause [Appendix 2 of the study protocol]) as detailed below:&#xD;
+&#xD;
+               -  Agreed to use a male condom plus partner use of an additional contraceptive&#xD;
+                  method when having penile-vaginal intercourse with a WOCBP who was not pregnant.&#xD;
+                  Note: Men with a pregnant or breastfeeding partner had to agree to remain&#xD;
+                  abstinent from penile-vaginal intercourse or use a male condom during each&#xD;
+                  episode of penile-vaginal penetration.&#xD;
+&#xD;
+               -  Contraceptive use by men was to be consistent with local regulations regarding&#xD;
+                  the methods of contraception for those participating in clinical studies.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Need for hospitalization or immediate medical attention in the clinical opinion of the&#xD;
+             study investigator.&#xD;
+&#xD;
+          2. Hemoglobin &lt;10 g/dL in men and &lt;9 g/dL in women.&#xD;
+&#xD;
+          3. Platelet count &lt;100,000/ µL or received a platelet transfusion within 5 days prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          4. Was on dialysis or has an estimated glomerular filtration rate &lt;30 mL/min/1.73 m^2&#xD;
+&#xD;
+          5. Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) &gt;3x upper limit normal&#xD;
+             (ULN).&#xD;
+&#xD;
+          6. History of or current hospitalization for COVID-19. Note: Individuals hospitalized and&#xD;
+             then discharged, even if only hospitalized for 1 day, were excluded.&#xD;
+&#xD;
+          7. History of kidney disease as evidenced by estimated creatinine clearance value &lt;30&#xD;
+             mL/min.&#xD;
+&#xD;
+          8. History of significant liver disease in the opinion of the site investigator or active&#xD;
+             hepatitis B or active hepatitis C. Human immunodeficiency virus (HIV) that is advanced&#xD;
+             (CD4&lt;200/mm^3) and/or on treatment with nucleos(t)ide analogues.&#xD;
+&#xD;
+          9. Use of therapeutic interventions with possible anti-SARS-CoV-2 activity within 30 days&#xD;
+             prior to study entry, (e.g., remdesivir, lopinavir/ritonavir fixed dose combination,&#xD;
+             ribavirin, chloroquine, hydroxychloroquine, and convalescent plasma), or participation&#xD;
+             in a clinical trial involving any of these drugs whether for treatment or prophylaxis.&#xD;
+&#xD;
+         10. Receipt of a SARS-CoV-2 vaccination prior to study entry.&#xD;
+&#xD;
+         11. Known allergy/sensitivity or any hypersensitivity to components of molnupiravir, or&#xD;
+             its formulation.&#xD;
+&#xD;
+         12. Active drug or alcohol use or dependence that, in the opinion of the site&#xD;
+             investigator, would interfere with adherence to study requirements.&#xD;
+&#xD;
+         13. History of recent (within the past 3 months) hemorrhagic cerebrovascular accident) or&#xD;
+             major bleed.&#xD;
+&#xD;
+         14. Presence of a condition, that in the opinion of the investigator, would place the&#xD;
+             subject at increased risk from study participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Valley Clinical Trials, Inc.</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>FOMAT Medical Research</name>
+      <address>
+        <city>Oxnard</city>
+        <state>California</state>
+        <zip>93030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southern California Emergency Medicine</name>
+      <address>
+        <city>Yucaipa</city>
+        <state>California</state>
+        <zip>92399</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research and Health Center, Inc.</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NOLA Research Works, LLC</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina School of Medicine</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Medical Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Care United Research, LLC</name>
+      <address>
+        <city>Forney</city>
+        <state>Texas</state>
+        <zip>75126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://doi.org/10.46621/UYGR2287</url>
+    <description>Benson et al, 2020. Society of Family Planning interim clinical recommendations</description>
+  </link>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>May 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 28, 2020</study_first_posted>
+  <results_first_submitted>January 18, 2022</results_first_submitted>
+  <results_first_submitted_qc>February 14, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 16, 2022</results_first_posted>
+  <last_update_submitted>February 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is not a plan to make IPD available.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 15, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/70/NCT04405570/Prot_003.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 18, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/70/NCT04405570/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Molnupiravir 200 mg</title>
+          <description>molnupiravir twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="P2">
+          <title>Molnupiravir 400 mg</title>
+          <description>molnupiravir twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="P3">
+          <title>Molnupiravir 800 mg</title>
+          <description>molnupiravir twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="P4">
+          <title>Placebo</title>
+          <description>Placebo twice daily (BID) for 5 days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="64"/>
+                <participants group_id="P3" count="55"/>
+                <participants group_id="P4" count="62"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Number of Subjects Randomized Not Dosed</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Number of Subjects in the Safety Population</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="62"/>
+                <participants group_id="P3" count="55"/>
+                <participants group_id="P4" count="62"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Number of Subjects in the mITT Population</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="61"/>
+                <participants group_id="P3" count="53"/>
+                <participants group_id="P4" count="61"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="59"/>
+                <participants group_id="P3" count="52"/>
+                <participants group_id="P4" count="61"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="5"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Randomized not dosed</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Molnupiravir 200 mg</title>
+          <description>molnupiravir twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="B2">
+          <title>Molnupiravir 400 mg</title>
+          <description>molnupiravir twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="B3">
+          <title>Molnupiravir 800 mg</title>
+          <description>molnupiravir twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="B4">
+          <title>Placebo</title>
+          <description>Placebo twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="23"/>
+            <count group_id="B2" value="62"/>
+            <count group_id="B3" value="55"/>
+            <count group_id="B4" value="62"/>
+            <count group_id="B5" value="202"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36.5" spread="15.34"/>
+                    <measurement group_id="B2" value="42.4" spread="14.88"/>
+                    <measurement group_id="B3" value="42.2" spread="14.36"/>
+                    <measurement group_id="B4" value="39.7" spread="14.10"/>
+                    <measurement group_id="B5" value="40.8" spread="14.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="27"/>
+                    <measurement group_id="B4" value="34"/>
+                    <measurement group_id="B5" value="104"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="28"/>
+                    <measurement group_id="B4" value="28"/>
+                    <measurement group_id="B5" value="98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="33"/>
+                    <measurement group_id="B4" value="23"/>
+                    <measurement group_id="B5" value="86"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="21"/>
+                    <measurement group_id="B4" value="39"/>
+                    <measurement group_id="B5" value="115"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>American Indian or Alaska Native</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="56"/>
+                    <measurement group_id="B3" value="49"/>
+                    <measurement group_id="B4" value="54"/>
+                    <measurement group_id="B5" value="176"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Multiple</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Until First Non-detectable SARS-CoV-2 in Nasopharyngeal (NP) Swabs</title>
+        <description>The number of participants until first non-detectable SARS-CoV-2 in nasopharyngeal (NP) swabs will be estimated for each randomized arm (drug versus placebo), using Kaplan-Meier methods with a corresponding log-rank test.&#xD;
+Non detectable defined as &quot;a viral load below the limit of quantification</description>
+        <time_frame>28 days</time_frame>
+        <population>mITT - modified Intent to Treat Population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Molnupiravir 200 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Molnupiravir 400 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O3">
+            <title>Molnupiravir 800 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Placebo twice daily (BID) for 5 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Until First Non-detectable SARS-CoV-2 in Nasopharyngeal (NP) Swabs</title>
+          <description>The number of participants until first non-detectable SARS-CoV-2 in nasopharyngeal (NP) swabs will be estimated for each randomized arm (drug versus placebo), using Kaplan-Meier methods with a corresponding log-rank test.&#xD;
+Non detectable defined as &quot;a viral load below the limit of quantification</description>
+          <population>mITT - modified Intent to Treat Population</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="61"/>
+                <count group_id="O3" value="53"/>
+                <count group_id="O4" value="61"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number (%) with response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21"/>
+                    <measurement group_id="O2" value="48"/>
+                    <measurement group_id="O3" value="49"/>
+                    <measurement group_id="O4" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number (%) censored</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="13"/>
+                    <measurement group_id="O3" value="4"/>
+                    <measurement group_id="O4" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.5551</p_value>
+            <method>Log Rank</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.7270</p_value>
+            <method>Log Rank</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.0128</p_value>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Clearance of SARS-CoV-2 in Nasopharyngeal Swabs</title>
+        <description>The distribution of days until first non-detectable SARS-CoV-2 in nasopharyngeal (NP) swabs will be estimated for each randomized arm (drug versus placebo), using Kaplan-Meier methods with a corresponding log-rank test.&#xD;
+Non detectable defined as &quot;a viral load below the limit of quantification</description>
+        <time_frame>28 days</time_frame>
+        <population>mITT - modified Intent to Treat Population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Molnupiravir 200 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Molnupiravir 400 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O3">
+            <title>Molnupiravir 800 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Placebo twice daily (BID) for 5 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Clearance of SARS-CoV-2 in Nasopharyngeal Swabs</title>
+          <description>The distribution of days until first non-detectable SARS-CoV-2 in nasopharyngeal (NP) swabs will be estimated for each randomized arm (drug versus placebo), using Kaplan-Meier methods with a corresponding log-rank test.&#xD;
+Non detectable defined as &quot;a viral load below the limit of quantification</description>
+          <population>mITT - modified Intent to Treat Population</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="61"/>
+                <count group_id="O3" value="53"/>
+                <count group_id="O4" value="61"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22.0" lower_limit="15.0" upper_limit="28.0"/>
+                    <measurement group_id="O2" value="27.0" lower_limit="15.0" upper_limit="28.0"/>
+                    <measurement group_id="O3" value="14.0" lower_limit="13.0" upper_limit="14.0"/>
+                    <measurement group_id="O4" value="15.0" lower_limit="15.0" upper_limit="27.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Adverse Events (AEs) Grade 3 or Higher or Leading to Discontinuation of Study Treatment</title>
+        <description>1) any AEs leading to early discontinuation of blinded treatment (active or placebo), 2) study drug-related discontinuation of treatment, 3) new grade 3 or higher AEs (not already present at baseline), and 4) study drug-related new grade 3 or higher AEs.</description>
+        <time_frame>28 days</time_frame>
+        <population>Safety population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Molnupiravir 200 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Molnupiravir 400 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O3">
+            <title>Molnupiravir 800 mg</title>
+            <description>molnupiravir twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Placebo twice daily (BID) for 5 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events (AEs) Grade 3 or Higher or Leading to Discontinuation of Study Treatment</title>
+          <description>1) any AEs leading to early discontinuation of blinded treatment (active or placebo), 2) study drug-related discontinuation of treatment, 3) new grade 3 or higher AEs (not already present at baseline), and 4) study drug-related new grade 3 or higher AEs.</description>
+          <population>Safety population</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="62"/>
+                <count group_id="O3" value="55"/>
+                <count group_id="O4" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>AEs leading to early discontinuation of blinded treatment (active or placebo)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>AEs leading to study drug-related discontinuation of treatment</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>new grade 3 or higher AEs (not already present at baseline)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="4"/>
+                    <measurement group_id="O4" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>study drug-related new grade 3 or higher AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Any Adverse Events (AEs), Grade 2 or Higher</title>
+        <description>Measure the safety and tolerability of EIDD-2801 by estimating the occurrence of Grade 2 or higher AE and drug related AEs.</description>
+        <time_frame>28 days</time_frame>
+        <population>Safety population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Molnupiravir 200 mg</title>
+            <description>EIDD-2801 twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Molnupiravir 400 mg</title>
+            <description>EIDD-2801 twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O3">
+            <title>Molnupiravir 800 mg</title>
+            <description>EIDD-2801 twice daily (BID) for 5 days</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo</title>
+            <description>Placebo twice daily (BID) for 5 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Any Adverse Events (AEs), Grade 2 or Higher</title>
+          <description>Measure the safety and tolerability of EIDD-2801 by estimating the occurrence of Grade 2 or higher AE and drug related AEs.</description>
+          <population>Safety population</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="62"/>
+                <count group_id="O3" value="55"/>
+                <count group_id="O4" value="62"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="7"/>
+                    <measurement group_id="O3" value="6"/>
+                    <measurement group_id="O4" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Molnupiravir 200 mg</title>
+          <description>EIDD-2801 twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="E2">
+          <title>Molnupiravir 400 mg</title>
+          <description>EIDD-2801 twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="E3">
+          <title>Molnupiravir 800 mg</title>
+          <description>EIDD-2801 twice daily (BID) for 5 days</description>
+        </group>
+        <group group_id="E4">
+          <title>Placebo</title>
+          <description>Placebo twice daily (BID) for 5 days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="62"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="55"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="62"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="55"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Oxygen saturation decreased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="55"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebrovascular accident</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="55"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="55"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="62"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="55"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="23"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="62"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="55"/>
+                <counts group_id="E4" subjects_affected="4" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="23"/>
+                <counts group_id="E2" events="3" subjects_affected="1" subjects_at_risk="62"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="55"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="62"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="55"/>
+                <counts group_id="E4" events="4" subjects_affected="4" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>PI is requested to obtain written consent from the Sponsor before anything relating to the study can be published.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Wendy Painter</name_or_title>
+      <organization>Ridgeback Biotherapeutics</organization>
+      <phone>786-687-2495</phone>
+      <email>EIDD2801@ridgebackbio.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="43">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04348500</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00000644</org_study_id>
+    <nct_id>NCT04348500</nct_id>
+  </id_info>
+  <brief_title>Clazakizumab (Anti-Interleukin 6 (IL-6) Monoclonal) Compared to Placebo for Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <official_title>A Phase II Trial to Evaluate the Safety and Tolerability of Clazakizumab® (Anti-IL-6 Monoclonal) Compared to Placebo for the Treatment of COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cedars-Sinai Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single center, randomized, double-blind, placebo-controlled, exploratory phase II&#xD;
+      study enrolling 60 patients. We propose the administration of a blinded dose of an&#xD;
+      investigational product (IP) (clazakizumab or placebo [0.9% saline]) in patients with&#xD;
+      COVID-19 disease and signs of pulmonary involvement who have not yet required mechanical&#xD;
+      ventilation and/or extracorporeal membrane oxygenation (ECMO). If a patient progresses to&#xD;
+      mechanical ventilation and/or ECMO or develops clinical signs of deteriorating COVID-19&#xD;
+      disease, and there are no treatment related serious adverse events (SAEs), within the initial&#xD;
+      14 day period after the first dose of the IP, at the discretion of the investigator or&#xD;
+      treating physician, open-label clazakizumab 25mg IV x 1 dose may be administered. A minimum&#xD;
+      of 24 hours should elapse between the first dose of IP and this dose of open-label&#xD;
+      clazakizumab. The patient will remain blinded as to the identity of the IP administered in&#xD;
+      the first dose.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients admitted to the hospital with COVID-19 disease with signs of pulmonary involvement&#xD;
+      will be randomized to receive the anti-IL-6 drug clazakizumab 25mg IV or placebo. Patients&#xD;
+      will be followed for improvements in clinical symptoms and laboratory parameters which are&#xD;
+      part of our COVID-19 lab panel described below. Patients will receive standard of care (SOC)&#xD;
+      supportive treatment and will be followed for 14 days. If a patient from either group&#xD;
+      progresses to the need for mechanical ventilation and/or ECMO, or develops clinical signs of&#xD;
+      deteriorating COVID-19 disease, and there are no serious treatment related SAEs, at the&#xD;
+      discretion of the investigator or treating physician, the patient may receive a single dose&#xD;
+      of open-label clazakizumab 25mg IV. A minimum of 24 hours should elapse between the first&#xD;
+      dose of IP and this dose of open-label clazakizumab.&#xD;
+&#xD;
+      Enrolled patients will receive clazakizumab 25 mg or placebo (0.9% saline) given by IV&#xD;
+      infusion over 30 minutes. Clazakizumab will be administered in 50 mL of 0.9% saline on Day 1.&#xD;
+      COVID-19 lab panel and clinical parameters will be monitored to determine if patients are&#xD;
+      progressing towards need for ventilation and/or ECMO. The parameters below will be monitored&#xD;
+      and patient status will be assessed by the clinical team.&#xD;
+&#xD;
+      If patients do develop these criteria, open-label clazakizumab 25 mg IV may be administered&#xD;
+      as discussed above. A minimum of 24 hours should elapse between the first dose of IP and this&#xD;
+      dose of open-label clazakizumab. Patients ventilated with or without ECMO will continue to be&#xD;
+      monitored post-treatment for signs of improvement, (i.e., decreasing FiO2 requirements, chest&#xD;
+      X-ray (CXR) improvements, C-reactive protein (CRP) reductions, extubation and discharge home)&#xD;
+      or death.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 28, 2020</start_date>
+  <completion_date type="Actual">September 30, 2020</completion_date>
+  <primary_completion_date type="Actual">September 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>We propose the administration of a blinded dose of an investigational product (IP) (clazakizumab or placebo [0.9% saline]) in patients with COVID-19 disease and signs of pulmonary involvement who have not yet required mechanical ventilation and/or ECMO. If a patient progresses to mechanical ventilation and/or ECMO or develops clinical signs of deteriorating COVID-19 disease, and there are no treatment related serious adverse events (SAEs), within the initial 14 day period after the first dose of the IP, at the discretion of the investigator or treating physician, open-label clazakizumab 25mg IV x 1 dose may be administered. A minimum of 24 hours should elapse between the first dose of IP and this dose of open-label clazakizumab. The patient will remain blinded as to the identity of the IP administered in the first dose.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Blinded IP (clazakizumab or placebo) will be given initially, followed by the option of an open label dose of clazakizumab within the first 14 days of initial IP administration.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of Clazakizumab for the Treatment of Patients With COVID-19 Disease</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of severe adverse events (SAEs) that are unusual, unexpected, or assessed as related to the investigational product (IP)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient Survival at 28 Days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of patients alive at 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Survival at 60 Days</measure>
+    <time_frame>60 days</time_frame>
+    <description>Number of patients alive at 60 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring the Dose of Open-label Clazakizumab</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of patients requiring the dose of open-label clazakizumab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days in Intensive Care Unit (ICU)</measure>
+    <time_frame>60 days</time_frame>
+    <description>Number of days in ICU compared to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days in Hospital</measure>
+    <time_frame>60 days</time_frame>
+    <description>Number of days in hospital compared to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Mechanical Ventilation and/or Extracorporeal Membrane Oxygenation (ECMO)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of patients requiring mechanical ventilation and/or ECMO at 14 days after the first administered dose in comparison to placebo</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">17</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Clazakizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clazakizumab</intervention_name>
+    <description>IV Infusion</description>
+    <arm_group_label>Clazakizumab</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;18 at the time of screening&#xD;
+&#xD;
+          -  Subject must be able to understand and provide informed consent&#xD;
+&#xD;
+          -  Hospitalized with COVID-19 (+) disease (confirmed by polymerase chain reaction (PCR)&#xD;
+             assay from any specimen (e.g. respiratory, blood, urine, stool, other bodily fluid))&#xD;
+&#xD;
+          -  Not on mechanical ventilation and/or ECMO&#xD;
+&#xD;
+          -  Evidence of pulmonary involvement with at least 2 of the following:&#xD;
+&#xD;
+               1. Oxygen saturation (SpO2) at rest in ambient air with SpO2 ≤ 94%&#xD;
+&#xD;
+               2. Tachypnea with resting respiration rate &gt; 25 breaths/minute&#xD;
+&#xD;
+               3. Partial pressure of oxygen (PaO2) / fraction of inspired oxygen (FiO2) ≤ 300 mmHg&#xD;
+&#xD;
+               4. Chest imaging (radiograph, CT scan, or lung ultrasound) with abnormalities&#xD;
+                  consistent COVID-19 pneumonia&#xD;
+&#xD;
+               5. C-reactive protein (CRP) &gt;35 mg/L&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous hypersensitivity or allergic reactions to clazakizumab&#xD;
+&#xD;
+          -  Lactating or pregnant females&#xD;
+&#xD;
+          -  Subjects with latent Tuberculosis (TB) and who are not receiving treatment&#xD;
+&#xD;
+          -  Subjects with active TB&#xD;
+&#xD;
+          -  A significantly abnormal general serum screening lab result defined as a White Blood&#xD;
+             Count (WBC) &lt; 3.0 X 103/ml, a Hgb &lt; 8.0 g/dL, a platelet count &lt; 50 X 103/ml, a serum&#xD;
+             glutamic oxaloacetic transaminase (SGOT) or serum glutamic pyruvic transaminase (SGPT)&#xD;
+             &gt; 5x upper limit normal&#xD;
+&#xD;
+          -  Participation in another clinical trial investigating COVID-19 aimed agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>April 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <results_first_submitted>November 23, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 30, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 2, 2021</results_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cedars-Sinai Medical Center</investigator_affiliation>
+    <investigator_full_name>Stanley Jordan, MD</investigator_full_name>
+    <investigator_title>Director of Nephrology and Transplant Immunology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04348500/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 12, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04348500/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Patients eligible for the study and who may benefit from the administration of clazakizumab will be identified by members of the inpatient team and referred to the study team. If a patient is eligible, the PI or Co-I will discuss the study with them. Treating physicians of COVID-19 patients will be made aware of the research offering. Patients will be asked if they can be approached about research options. Researchers may approach potential subjects who indicate they are interested.</recruitment_details>
+      <pre_assignment_details>Of the total 105 participants ages 18 years and older screened, 17 were enrolled in this single center, randomized, double-blind, placebo-controlled, exploratory phase II study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Clazakizumab</title>
+          <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Treated</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawn by subject due to dementia</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Clazakizumab</title>
+          <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="8"/>
+            <count group_id="B2" value="8"/>
+            <count group_id="B3" value="16"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59" spread="13.44"/>
+                    <measurement group_id="B2" value="60" spread="13.14"/>
+                    <measurement group_id="B3" value="59" spread="13.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety of Clazakizumab for the Treatment of Patients With COVID-19 Disease</title>
+        <description>Number of severe adverse events (SAEs) that are unusual, unexpected, or assessed as related to the investigational product (IP)</description>
+        <time_frame>14 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety of Clazakizumab for the Treatment of Patients With COVID-19 Disease</title>
+          <description>Number of severe adverse events (SAEs) that are unusual, unexpected, or assessed as related to the investigational product (IP)</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Adverse Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>SAEs within 14 days</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Adverse Events (AEs) and SAEs overall</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The null hypothesis is that there is no difference in the use of clazakizumab as a treatment compared to placebo in reducing or eliminating the incidence of severe adverse events among patients with COVID-19.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.10</p_value>
+            <p_value_desc>P-value was not adjusted.</p_value_desc>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Patient Survival at 28 Days</title>
+        <description>Number of patients alive at 28 days</description>
+        <time_frame>28 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Patient Survival at 28 Days</title>
+          <description>Number of patients alive at 28 days</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Patient Survival at 60 Days</title>
+        <description>Number of patients alive at 60 days</description>
+        <time_frame>60 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Patient Survival at 60 Days</title>
+          <description>Number of patients alive at 60 days</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring the Dose of Open-label Clazakizumab</title>
+        <description>Number of patients requiring the dose of open-label clazakizumab</description>
+        <time_frame>14 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring the Dose of Open-label Clazakizumab</title>
+          <description>Number of patients requiring the dose of open-label clazakizumab</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days in Intensive Care Unit (ICU)</title>
+        <description>Number of days in ICU compared to placebo</description>
+        <time_frame>60 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days in Intensive Care Unit (ICU)</title>
+          <description>Number of days in ICU compared to placebo</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30.5" spread="34.65"/>
+                    <measurement group_id="O2" value="11.67" spread="3.06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Days in Hospital</title>
+        <description>Number of days in hospital compared to placebo</description>
+        <time_frame>60 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Days in Hospital</title>
+          <description>Number of days in hospital compared to placebo</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.5" spread="16.62"/>
+                    <measurement group_id="O2" value="18.75" spread="13.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Mechanical Ventilation and/or Extracorporeal Membrane Oxygenation (ECMO)</title>
+        <description>Number of patients requiring mechanical ventilation and/or ECMO at 14 days after the first administered dose in comparison to placebo</description>
+        <time_frame>14 days</time_frame>
+        <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Clazakizumab</title>
+            <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Mechanical Ventilation and/or Extracorporeal Membrane Oxygenation (ECMO)</title>
+          <description>Number of patients requiring mechanical ventilation and/or ECMO at 14 days after the first administered dose in comparison to placebo</description>
+          <population>Enrolled patients who received the initial dose of the IP were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis is that there is no change in the need for mechanical ventilation and/or ECMO at 14 days after the first administered dose in comparison to placebo.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.10</p_value>
+            <p_value_desc>P-value was not adjusted.</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Day 60</time_frame>
+      <desc>Enrolled patients who received the initial dose of the IP were monitored and evaluated for adverse and severe adverse events.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Clazakizumab</title>
+          <description>25 mg in 50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>50 mL of 0.9% saline given by IV infusion x 1 dose over 30 minutes</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulseless Electrical Activity (PEA) Event</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="8"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Worsening Hypoxia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Candida parapsilosis Fungemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Multidrug-Resistant (MDR) Pseudomonas</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>T12 Compression Fracture Secondary to Fall</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Worsening Kidney Function</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoxic Respiratory Failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Intermittent Atrial Fibrillation (AFib) with Labile Blood Pressure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Enterococcus faecalis Bacteremia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Methicillin-susceptible staphylococcus aureus (MSSA) Bacteremia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Paritonsillar Cellulitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Respiratory Pseudomonas</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Delirium, multifactorial</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury (AKI)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Due to the small sample size, unable to assess statistical significance between the treatment and placebo group.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Stanley C. Jordan, MD</name_or_title>
+      <organization>Cedars Sinai Medical Center</organization>
+      <phone>310-423-2641</phone>
+      <email>sjordan@cshs.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

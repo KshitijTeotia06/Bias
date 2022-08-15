@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="175">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04644328</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2003000118A010</org_study_id>
+    <nct_id>NCT04644328</nct_id>
+  </id_info>
+  <brief_title>The Doctors for Coronavirus Prevention Project Thanksgiving / Christmas Messaging Campaign</brief_title>
+  <official_title>The Doctors for Coronavirus Prevention Project Thanksgiving / Christmas Messaging Campaign</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Bureau of Economic Research, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Massachusetts Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Bureau of Economic Research, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Facebook ads with physician-delivered videos were shown before the Thanksgiving and Christmas&#xD;
+      holidays and focused on staying safe during the COVID pandemic by limiting travel and&#xD;
+      mask-wearing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators used Facebook ads to show a 20 second video clip recorded by Massachusetts&#xD;
+      General Hospital, Harvard and Lynn Community health center doctors (6 people in all) to&#xD;
+      approximately 20,000,000 Facebook users. The ads will be shown before the Thanksgiving and&#xD;
+      Christmas holiday and will focus on staying safe - limiting travel and mask-wearing. The&#xD;
+      investigators will randomize exposure to the ad campaign at the ZIP code or county level to&#xD;
+      ask:&#xD;
+&#xD;
+      Do the videos change mobility and Thanksgiving and Christmas holiday travel? Do they reduce&#xD;
+      the spread of COVID-19?&#xD;
+&#xD;
+      Are there spillover impacts from the video messages? For example, if individuals decide to&#xD;
+      stay home, then do the geographical regions that tend to be visited by people from treated&#xD;
+      areas experience any effects, either through information spillovers or through a reduction in&#xD;
+      travel?&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 12, 2020</start_date>
+  <completion_date type="Actual">February 11, 2021</completion_date>
+  <primary_completion_date type="Actual">February 11, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>A total of 13 states, comprising 829 counties, centrally report COVID-19 cases at the ZCTA level. Two separate experiments were run within the study, one around Thanksgiving and one around Christmas. For each experiment, approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not. In treated ZCTAs, Facebook users received ads with messages from physicians and other health personnel urging them to stay home and wear masks to stop the spread of COVID-19. Users in non-treated ZCTAs received no such ads. After exclusions, 820 counties were randomized to high- or low-intensity treatment during Thanksgiving and 767 counties were during Christmas.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Facebook Movement Metric</measure>
+    <time_frame>November 26, 2020 (Thanksgiving); December 24-25, 2020 (Christmas); February 2-29, 2020 (Baseline benchmark)</time_frame>
+    <description>The change in movement metric is the percent change in distance covered in a day compared to the same day of the week in the benchmark period of February 2-29, 2020, by people who started the day in a particular location. We define holiday travel as travel during the three days preceding each holiday, since the available data does not allow us to compute the impact of the intervention on the return travel (after the holiday). The reason is that the mobility data describes the behavior throughout the day, for people who were in each county that morning. Since the campaign was targeted based on home location, we can only capture its impact on travel away from home, not back home.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage Leaving Home on Day of Holiday</measure>
+    <time_frame>November 26, 2020 (Thanksgiving); December 24-25, 2020 (Christmas)</time_frame>
+    <description>The Facebook stay put metric is the percentage of people who stay within a small geographical area (a &quot;tile&quot; of 600m*600m in which they started the day). We use it to compute the share of people leaving home on the day of the holiday (i.e. this variable = 1 - stay put on the day of the holiday).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inverse Hyperbolic Sine of COVID-19 Cases</measure>
+    <time_frame>December 1-14 (Thanksgiving arms) and January 1-14 (Christmas arms)</time_frame>
+    <description>Inverse hyperbolic sine of COVID-19 cases during a 14 day period starting 5 days after each holiday</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Knowledge of COVID-19 Prevention Message (Recall of ad, Intent to Travel, Mask Wearing and Beliefs About Travel)</measure>
+    <time_frame>up to one month</time_frame>
+    <description>Facebook will ask a set of users in treated zip codes to answer four survey questions (each user answers only one question each). A small within-zip control group will be held from being treated, enabling comparisons between those who see the videos and those who don't. These questions will be asked a few days after the ad is shown on the User's feed and will include 1) recall of the ad; 2) intention of traveling over holiday; 3) intention of wearing a mask; and 4) beliefs about whether people should travel over holiday.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average Number of Tiles People Occupy (Mobility Measure)</measure>
+    <time_frame>up to one month</time_frame>
+    <description>this measures each day &quot;how much people move around by counting the number of level-16 Bing tiles they are seen in within a day. People seen in more tiles are probably moving around more, while people seen in fewer are probably moving around less. Each day take eligible people in a given region and compute the number of distinct tiles they were seen in.&quot; This is aggregated to the county level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Eligible Participants Only Observed in a Single Level-16 Bing Tile (no Change in Movement)</measure>
+    <time_frame>up to one month</time_frame>
+    <description>Facebook &quot;Stay-put&quot; data: this measures each day &quot;the percentage of eligible people who are only observed in a single level-16 Bing tile (600m x 600m) during the course of a day&quot; aggregated to they county level.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">820</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>High-Intensity Treatment Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses staying safe during the holidays by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations. At Christmas, 62 counties were excluded due to data limitations and potential negative impacts in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-Intensity Control Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations. At Christmas, 62 counties were excluded due to data limitations and potential negative impacts in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Facebook Ads on the importance of staying safe during the Thanksgiving / Christmas holiday</intervention_name>
+    <description>Facebook ads to show a 15 second video clip recorded by MGH, Harvard and Lynn Community health center and other health care professionals. The ads will be shown before the Thanksgiving/Christmas holiday and will focus on staying safe - limiting travel and mask-wearing. The investigators will randomize exposure to the ad campaign at the ZIP code or county level.</description>
+    <arm_group_label>High-Intensity Treatment Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Individuals viewing the ads must be Facebook users, 18 years and older. Facebook will&#xD;
+        decide specifically which users receive the messages within a target geographical area (zip&#xD;
+        or county).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>JPAL North America</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Massachusetts</state>
+        <zip>02138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Breza E, Stanford FC, Alsan M, Alsan B, Banerjee A, Chandrasekhar AG, Eichmeyer S, Glushko T, Goldsmith-Pinkham P, Holland K, Hoppe E, Karnani M, Liegl S, Loisel T, Ogbu-Nwobodo L, Olken BA, Torres C, Vautrey PL, Warner ET, Wootton S, Duflo E. Effects of a large-scale social media advertising campaign on holiday travel and COVID-19 infections: a cluster randomized controlled trial. Nat Med. 2021 Sep;27(9):1622-1628. doi: 10.1038/s41591-021-01487-3. Epub 2021 Aug 19.</citation>
+    <PMID>34413518</PMID>
+  </results_reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <results_first_submitted>October 26, 2021</results_first_submitted>
+  <results_first_submitted_qc>December 15, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 21, 2021</results_first_posted>
+  <last_update_submitted>December 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Bureau of Economic Research, Inc.</investigator_affiliation>
+    <investigator_full_name>Esther Duflo</investigator_full_name>
+    <investigator_title>Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics, MIT; Co-Director, Abdul Latif Jameel Poverty Action Lab</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>The pre-analysis plan will be posted publicly. The ability to share IPD will be based on discussions with our partner organization.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 11, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/28/NCT04644328/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>High-Intensity Counties</title>
+          <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses the importance of staying safe during Thanksgiving or Christmas by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+        </group>
+        <group group_id="P2">
+          <title>Low-Intensity Counties</title>
+          <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Thanksgiving Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="NA">Two separate, sequential experiments were run within the study using the same counties (with differences in exclusion criteria explained in the pre-assignment details).&#xD;
+Thanksgiving experiment: 410 counties were assigned to high-intensity treatment. A total of 3,545 ZCTAs (of which 2,702 were in high-intensity counties) were treated.&#xD;
+Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+                <participants group_id="P2" count="NA">Two separate, sequential experiments were run within the study using the same counties (with differences in exclusion criteria explained in the pre-assignment details).&#xD;
+Thanksgiving experiment: 410 counties were assigned to low-intensity treatment. A total of 3,453 ZCTAs (of which 2,549 were in low-intensity counties) were not treated.&#xD;
+Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="NA">Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+                <participants group_id="P2" count="NA">Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="NA"/>
+                <participants group_id="P2" count="NA"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Christmas Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="NA">Two separate, sequential experiments were run within the study using the same counties (with differences in exclusion criteria explained in the pre-assignment details).&#xD;
+Christmas experiment: 386 counties were assigned to high-intensity treatment. A total of 5,077 ZCTAs (of which 3,818 were in high-intensity counties) were treated.&#xD;
+Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+                <participants group_id="P2" count="NA">Two separate, sequential experiments were run within the study using the same counties (with differences in exclusion criteria explained in the pre-assignment details).&#xD;
+Christmas experiment: 381 counties were assigned to low-intensity treatment. A total of 5,102 ZCTAs (of which 3,833 were in low-intensity counties) were not treated.&#xD;
+Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="NA">Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+                <participants group_id="P2" count="NA">Counties randomized to intervention, data collected at the population level, actual number of participants unknown.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="NA"/>
+                <participants group_id="P2" count="NA"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>The experiment was run during two periods: Thanksgiving (Period 1) and Christmas (Period 2). During Thanksgiving, 820 counties were analyzed (410 high-intensity, 410 low-intensity). Of these counties, 767 were analyzed during Christmas (386 high-intensity, 381 low-intensity). Fewer counties were analyzed at Christmas because we removed counties in rural, conservative areas from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>High-Intensity Counties</title>
+          <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses the importance of staying safe during Thanksgiving or Christmas by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+        </group>
+        <group group_id="B2">
+          <title>Low-Intensity Counties</title>
+          <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="NA"/>
+            <count group_id="B2" value="NA"/>
+            <count group_id="B3" value="NA"/>
+          </count_list>
+        </analyzed>
+        <analyzed>
+          <units>Counties</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="410"/>
+            <count group_id="B2" value="410"/>
+            <count group_id="B3" value="820"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <population>Age data were not collected because no participants were enrolled.</population>
+          <units>Counties</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="NA"/>
+                <count group_id="B2" value="NA"/>
+                <count group_id="B3" value="NA"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Counties</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="0"/>
+                <count group_id="B2" value="0"/>
+                <count group_id="B3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+        <measure>
+          <title>Sex/Gender, Customized</title>
+          <population>Sex/gender data were not collected because no participants were enrolled.</population>
+          <units>Counties</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="NA"/>
+                <count group_id="B2" value="NA"/>
+                <count group_id="B3" value="NA"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Counties</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="0"/>
+                <count group_id="B2" value="0"/>
+                <count group_id="B3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <population>Race/ethnicity data were not collected because no participants were enrolled.</population>
+          <units>Proportion</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="NA" spread="NA">Race/ethnicity data were not collected because no participants were enrolled.</measurement>
+                    <measurement group_id="B2" value="NA" spread="NA">Race/ethnicity data were not collected because no participants were enrolled.</measurement>
+                    <measurement group_id="B3" value="NA" spread="NA">Race/ethnicity data were not collected because no participants were enrolled.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="NA" spread="NA">Race/ethnicity data were not collected because no participants were enrolled.</measurement>
+                    <measurement group_id="B2" value="NA" spread="NA">Race/ethnicity data were not collected because no participants were enrolled.</measurement>
+                    <measurement group_id="B3" value="NA" spread="NA">Race/ethnicity data were not collected because no participants were enrolled.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline movement metric</title>
+          <description>Percent change in distance traveled by Facebook users in the county from Feb-Nov 2020</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Percent change relative to Feb 2020</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="-8.58" spread="7.10"/>
+                    <measurement group_id="B2" value="-8.88" spread="6.42"/>
+                    <measurement group_id="B3" value="-8.73" spread="6.77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="-8.69" spread="6.88"/>
+                    <measurement group_id="B2" value="-9.09" spread="6.56"/>
+                    <measurement group_id="B3" value="-8.89" spread="6.72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline leave home</title>
+          <description>Percentage of Facebook users in a given county leaving their homes on Nov 13 2020</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Percentage</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82.33" spread="2.42"/>
+                    <measurement group_id="B2" value="82.49" spread="2.53"/>
+                    <measurement group_id="B3" value="82.41" spread="2.47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82.40" spread="2.43"/>
+                    <measurement group_id="B2" value="82.44" spread="2.40"/>
+                    <measurement group_id="B3" value="82.42" spread="2.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Missing baseline Facebook outcomes</title>
+          <description>Proportion of counties with missing Facebook baseline mobility data. To protect user privacy, Facebook does not release data in counties with a low number of users so not all counties will have baseline mobility data.</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Proportion of counties</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.13" spread="0.34"/>
+                    <measurement group_id="B2" value="0.17" spread="0.38"/>
+                    <measurement group_id="B3" value="0.15" spread="0.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.11" spread="0.32"/>
+                    <measurement group_id="B2" value="0.13" spread="0.33"/>
+                    <measurement group_id="B3" value="0.12" spread="0.32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline fortnightly cases</title>
+          <description>Number of COVID-19 cases in the fortnight prior to baseline date</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Individuals</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="683.90" spread="3,032.94"/>
+                    <measurement group_id="B2" value="496.70" spread="1,165.17"/>
+                    <measurement group_id="B3" value="590.30" spread="2,297.94"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="654.77" spread="3,067.53"/>
+                    <measurement group_id="B2" value="598.54" spread="1,343.02"/>
+                    <measurement group_id="B3" value="626.84" spread="2,371.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline fortnightly deaths</title>
+          <description>Number of COVID-19 deaths in the fortnight prior to baseline date</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Individuals</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.51" spread="22.35"/>
+                    <measurement group_id="B2" value="4.64" spread="11.08"/>
+                    <measurement group_id="B3" value="5.07" spread="17.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.70" spread="23.07"/>
+                    <measurement group_id="B2" value="5.07" spread="11.29"/>
+                    <measurement group_id="B3" value="5.38" spread="18.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Share urban</title>
+          <description>Proportion of zip code tabulation areas (ZCTAs) in county classified as urban. Urbanicity is defined per classifications released by the Federal Statistical System of the United States.</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Proportion of county ZCTAs</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.47" spread="0.34"/>
+                    <measurement group_id="B2" value="0.44" spread="0.34"/>
+                    <measurement group_id="B3" value="0.46" spread="0.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.48" spread="0.33"/>
+                    <measurement group_id="B2" value="0.50" spread="0.33"/>
+                    <measurement group_id="B3" value="0.49" spread="0.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Share Democrats</title>
+          <description>Proportion of county voters who voted for the Democratic presidential candidate in 2020</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Proportion of county voters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.36" spread="0.15"/>
+                    <measurement group_id="B2" value="0.35" spread="0.15"/>
+                    <measurement group_id="B3" value="0.36" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.37" spread="0.15"/>
+                    <measurement group_id="B2" value="0.37" spread="0.15"/>
+                    <measurement group_id="B3" value="0.37" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Share Republicans</title>
+          <description>Proportion of county voters who voted for the Republican presidential candidate in 2020</description>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>Proportion of county voters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.62" spread="0.16"/>
+                    <measurement group_id="B2" value="0.63" spread="0.15"/>
+                    <measurement group_id="B3" value="0.62" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.61" spread="0.15"/>
+                    <measurement group_id="B2" value="0.61" spread="0.15"/>
+                    <measurement group_id="B3" value="0.61" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Population in 2019</title>
+          <population>Fewer counties were analyzed at Christmas because counties in rural, conservative areas from the study were removed from the study due to potential negative impacts resulting from polarization in the wake of the 2020 presidential election.</population>
+          <units>individuals</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="410"/>
+                    <count group_id="B2" value="410"/>
+                    <count group_id="B3" value="820"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="122,491" spread="349,501"/>
+                    <measurement group_id="B2" value="102,818" spread="282,369"/>
+                    <measurement group_id="B3" value="112,654" spread="317,672"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="NA"/>
+                    <count group_id="B2" value="NA"/>
+                    <count group_id="B3" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="386"/>
+                    <count group_id="B2" value="381"/>
+                    <count group_id="B3" value="767"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="116,787" spread="344,511"/>
+                    <measurement group_id="B2" value="122,875" spread="309,239"/>
+                    <measurement group_id="B3" value="119,811" spread="327,266"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Facebook Movement Metric</title>
+        <description>The change in movement metric is the percent change in distance covered in a day compared to the same day of the week in the benchmark period of February 2-29, 2020, by people who started the day in a particular location. We define holiday travel as travel during the three days preceding each holiday, since the available data does not allow us to compute the impact of the intervention on the return travel (after the holiday). The reason is that the mobility data describes the behavior throughout the day, for people who were in each county that morning. Since the campaign was targeted based on home location, we can only capture its impact on travel away from home, not back home.</description>
+        <time_frame>November 26, 2020 (Thanksgiving); December 24-25, 2020 (Christmas); February 2-29, 2020 (Baseline benchmark)</time_frame>
+        <population>Rural, conservative counties were excluded during Christmas due to potential negative impacts of treatment resulting from polarization in the wake of the 2020 presidential election. The two periods have been entered as rows to avoid double-counting counties.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High-Intensity Counties</title>
+            <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses the importance of staying safe during Thanksgiving or Christmas by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+          </group>
+          <group group_id="O2">
+            <title>Low-Intensity Counties</title>
+            <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Facebook Movement Metric</title>
+          <description>The change in movement metric is the percent change in distance covered in a day compared to the same day of the week in the benchmark period of February 2-29, 2020, by people who started the day in a particular location. We define holiday travel as travel during the three days preceding each holiday, since the available data does not allow us to compute the impact of the intervention on the return travel (after the holiday). The reason is that the mobility data describes the behavior throughout the day, for people who were in each county that morning. Since the campaign was targeted based on home location, we can only capture its impact on travel away from home, not back home.</description>
+          <population>Rural, conservative counties were excluded during Christmas due to potential negative impacts of treatment resulting from polarization in the wake of the 2020 presidential election. The two periods have been entered as rows to avoid double-counting counties.</population>
+          <units>Percent change relative to Feb 2020</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="NA"/>
+                <count group_id="O2" value="NA"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Counties</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="356"/>
+                <count group_id="O2" value="340"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="NA"/>
+                    <count group_id="O2" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="356"/>
+                    <count group_id="O2" value="340"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-6.082" lower_limit="-6.822" upper_limit="-5.341"/>
+                    <measurement group_id="O2" value="-5.320" lower_limit="-6.113" upper_limit="-4.527"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="NA"/>
+                    <count group_id="O2" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="343"/>
+                    <count group_id="O2" value="333"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.603" lower_limit="-3.279" upper_limit="-1.927"/>
+                    <measurement group_id="O2" value="-1.823" lower_limit="-2.588" upper_limit="-1.057"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage Leaving Home on Day of Holiday</title>
+        <description>The Facebook stay put metric is the percentage of people who stay within a small geographical area (a &quot;tile&quot; of 600m*600m in which they started the day). We use it to compute the share of people leaving home on the day of the holiday (i.e. this variable = 1 - stay put on the day of the holiday).</description>
+        <time_frame>November 26, 2020 (Thanksgiving); December 24-25, 2020 (Christmas)</time_frame>
+        <population>Rural, conservative counties were excluded during Christmas due to potential negative impacts of treatment resulting from polarization in the wake of the 2020 presidential election. The two periods have been entered as rows to avoid double-counting counties.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High-Intensity Counties</title>
+            <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses the importance of staying safe during Thanksgiving or Christmas by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+          </group>
+          <group group_id="O2">
+            <title>Low-Intensity Counties</title>
+            <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Leaving Home on Day of Holiday</title>
+          <description>The Facebook stay put metric is the percentage of people who stay within a small geographical area (a &quot;tile&quot; of 600m*600m in which they started the day). We use it to compute the share of people leaving home on the day of the holiday (i.e. this variable = 1 - stay put on the day of the holiday).</description>
+          <population>Rural, conservative counties were excluded during Christmas due to potential negative impacts of treatment resulting from polarization in the wake of the 2020 presidential election. The two periods have been entered as rows to avoid double-counting counties.</population>
+          <units>Percentage</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <units_analyzed>Counties</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="NA"/>
+                <count group_id="O2" value="NA"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Counties</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="356"/>
+                <count group_id="O2" value="340"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="NA"/>
+                    <count group_id="O2" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="356"/>
+                    <count group_id="O2" value="340"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71.308" lower_limit="70.885" upper_limit="71.731"/>
+                    <measurement group_id="O2" value="71.468" lower_limit="71.071" upper_limit="71.866"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="NA"/>
+                    <count group_id="O2" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Counties</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="343"/>
+                    <count group_id="O2" value="333"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="72.859" lower_limit="72.507" upper_limit="73.210"/>
+                    <measurement group_id="O2" value="72.852" lower_limit="72.520" upper_limit="73.185"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Inverse Hyperbolic Sine of COVID-19 Cases</title>
+        <description>Inverse hyperbolic sine of COVID-19 cases during a 14 day period starting 5 days after each holiday</description>
+        <time_frame>December 1-14 (Thanksgiving arms) and January 1-14 (Christmas arms)</time_frame>
+        <population>ZCTAs in rural, conservative counties were excluded during Christmas due to potential negative impacts of treatment resulting from polarization in the wake of the 2020 presidential election. The two periods have been entered as rows to avoid double-counting ZCTAs. Note that there are more ZCTAs in the Christmas control than Thanksgiving control because the two periods were randomized separately and the number of ZCTAs varies by county.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment ZCTAs</title>
+            <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses the importance of staying safe during Thanksgiving or Christmas by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control ZCTAs</title>
+            <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Inverse Hyperbolic Sine of COVID-19 Cases</title>
+          <description>Inverse hyperbolic sine of COVID-19 cases during a 14 day period starting 5 days after each holiday</description>
+          <population>ZCTAs in rural, conservative counties were excluded during Christmas due to potential negative impacts of treatment resulting from polarization in the wake of the 2020 presidential election. The two periods have been entered as rows to avoid double-counting ZCTAs. Note that there are more ZCTAs in the Christmas control than Thanksgiving control because the two periods were randomized separately and the number of ZCTAs varies by county.</population>
+          <units>Inverse hyperbolic sine of individuals</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <units_analyzed>ZCTA</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="NA"/>
+                <count group_id="O2" value="NA"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>ZCTA</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3427"/>
+                <count group_id="O2" value="3387"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Thanksgiving (Period 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="NA"/>
+                    <count group_id="O2" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>ZCTA</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3427"/>
+                    <count group_id="O2" value="3346"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.333" lower_limit="4.278" upper_limit="4.388"/>
+                    <measurement group_id="O2" value="4.298" lower_limit="4.243" upper_limit="4.353"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Christmas (Period 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="NA"/>
+                    <count group_id="O2" value="NA"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>ZCTA</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3329"/>
+                    <count group_id="O2" value="3387"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.368" lower_limit="4.310" upper_limit="4.425"/>
+                    <measurement group_id="O2" value="4.442" lower_limit="4.385" upper_limit="4.499"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Knowledge of COVID-19 Prevention Message (Recall of ad, Intent to Travel, Mask Wearing and Beliefs About Travel)</title>
+        <description>Facebook will ask a set of users in treated zip codes to answer four survey questions (each user answers only one question each). A small within-zip control group will be held from being treated, enabling comparisons between those who see the videos and those who don't. These questions will be asked a few days after the ad is shown on the User's feed and will include 1) recall of the ad; 2) intention of traveling over holiday; 3) intention of wearing a mask; and 4) beliefs about whether people should travel over holiday.</description>
+        <time_frame>up to one month</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Average Number of Tiles People Occupy (Mobility Measure)</title>
+        <description>this measures each day &quot;how much people move around by counting the number of level-16 Bing tiles they are seen in within a day. People seen in more tiles are probably moving around more, while people seen in fewer are probably moving around less. Each day take eligible people in a given region and compute the number of distinct tiles they were seen in.&quot; This is aggregated to the county level.</description>
+        <time_frame>up to one month</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Eligible Participants Only Observed in a Single Level-16 Bing Tile (no Change in Movement)</title>
+        <description>Facebook &quot;Stay-put&quot; data: this measures each day &quot;the percentage of eligible people who are only observed in a single level-16 Bing tile (600m x 600m) during the course of a day&quot; aggregated to they county level.</description>
+        <time_frame>up to one month</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>All-Cause Mortality, Serious, and Other (Not Including Serious) Adverse Events were not monitored/assessed.</time_frame>
+      <desc>All-Cause Mortality, Serious, and Other (Not Including Serious) Adverse Events were not monitored/assessed.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>High-Intensity Counties</title>
+          <description>Treatment: Individuals received approximately 3 Facebook ads over a 2-week period. Each ad contained a short video recorded by a physician using a script that discusses the importance of staying safe during Thanksgiving or Christmas by considering not traveling and using a mask when appropriate.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+        </group>
+        <group group_id="E2">
+          <title>Low-Intensity Counties</title>
+          <description>Control: Individuals did not receive ads containing short physician-recorded videos.&#xD;
+Randomization to treatment: The investigators randomized exposure to the ad campaign as follows. The 13 states which centrally report COVID-19 cases at the ZCTA level contained 829 counties. At Thanksgiving, 9 counties were excluded due to data limitations; at Christmas, 62 counties were excluded due to data limitations and potential negative impacts of treatment in rural, conservative areas resulting from polarization in the wake of the 2020 presidential election. Approximately half of the counties were randomized to high-intensity treatment with the remaining randomized to low-intensity treatment. In high-intensity counties, 3/4 of ZCTAs were treated (i.e., Facebook users in those ZCTAs received ads) and 1/4 were not. In low-intensity counties, 1/4 of ZCTAs were treated and 3/4 were not.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Esther Duflo</name_or_title>
+      <organization>Massachusetts Institute of Technology</organization>
+      <phone>617-258-7013</phone>
+      <email>eduflo@mit.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

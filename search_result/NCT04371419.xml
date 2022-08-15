@@ -1,0 +1,1675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="163">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04371419</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2003000118</org_study_id>
+    <nct_id>NCT04371419</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Health Messaging to Underserved Communities</brief_title>
+  <official_title>COVID-19 Health Messaging to Underserved Communities</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Bureau of Economic Research, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Bureau of Economic Research, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recent data have shown that covid19 is disproportionately infecting and killing African&#xD;
+      Americans and Latinx people in the United States. The aim of the study is to determine which&#xD;
+      messages are most effective at increasing knowledge and changing behaviors that can protect&#xD;
+      individuals and their communities from the virus. To accomplish this aim, we plan to recruit&#xD;
+      approximately 20,000 Hispanic and African-American individuals and randomly assign them to&#xD;
+      videos that vary either the sender or the framing of the message, while providing the&#xD;
+      relevant public health information.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The following procedures will be followed. The research subjects will participate online.&#xD;
+&#xD;
+        1. Doctors from MGH who express interest in participating will record messages according to&#xD;
+           our scripts (US Doctors Script African American, US Doctors Script Latinx). They will be&#xD;
+           instructed to film several different versions each.&#xD;
+&#xD;
+        2. We will recruit a sample of Latinx and African American study participants from across&#xD;
+           the country through Lucid, an online survey firm that has access to a large subject&#xD;
+           pool.&#xD;
+&#xD;
+        3. Participants will first read a consent script and give us their informed consent (US&#xD;
+           Doctors Messaging Consent)&#xD;
+&#xD;
+        4. Participants will then navigate through the following steps&#xD;
+&#xD;
+             1. Brief demographics survey questions (US Doctors Messaging Survey)&#xD;
+&#xD;
+             2. Videos 1 and 2: Introduction, Acknowledgement, Social Distancing (US Doctors Script&#xD;
+                African American, US Doctors Script Latinx). Individuals in the control group will&#xD;
+                not see videos.&#xD;
+&#xD;
+             3. Beliefs survey questions (US Doctors Messaging Survey)&#xD;
+&#xD;
+             4. Video 3: Masks (US Doctors Script African American, US Doctors Script Latinx).&#xD;
+                Again, individuals in the control group will not see a video here.&#xD;
+&#xD;
+             5. Main outcomes survey (US Doctors Messaging Survey)&#xD;
+&#xD;
+             6. Control group is shown a version of all 3 videos at end (US Doctors Script African&#xD;
+                American, US Doctors Script Latinx).&#xD;
+&#xD;
+        5. The video messages each participant in one of the treatment groups sees will be&#xD;
+           randomized on the following dimensions. The different versions are clearly demarcated in&#xD;
+           the US Doctors Scripts document.&#xD;
+&#xD;
+             1. Racial or ethnic identity of the doctor delivering the messages: concordant vs.&#xD;
+                discordant identity to the subject.&#xD;
+&#xD;
+             2. Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for&#xD;
+                each target group: trust in the medical system or fear of deportation.&#xD;
+&#xD;
+             3. Whether the social distancing component of the message is delivered by Dr. Birx of&#xD;
+                the CDC or recorded by the MGH physicians.&#xD;
+&#xD;
+             4. Whether individuals are given information about how representative individuals&#xD;
+                perceive mask wearers of color. This information comes from results of our&#xD;
+                nationally representative pilot survey.&#xD;
+&#xD;
+             5. Some individuals in a control group will only see messages after all surveying has&#xD;
+                been completed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 13, 2020</start_date>
+  <completion_date type="Actual">May 26, 2020</completion_date>
+  <primary_completion_date type="Actual">May 24, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence Rate for Knowledge Gaps: Control vs. Any Intervention</measure>
+    <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+    <description>Incidence rate for knowledge gaps is the count of knowledge gaps divided by the maximum possible count: 7</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence Rate for Information-seeking Behavior: Control vs. Any Intervention</measure>
+    <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+    <description>Incidence rate for Information-seeking behavior is the count of links demanded divided by the maximum possible count: 10</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence Rate for Knowledge Gaps by Intervention</measure>
+    <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+    <description>Incidence rate for knowledge gaps is the count of knowledge gaps divided by the maximum possible count: 7</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence Rate for Information-seeking Behavior by Intervention</measure>
+    <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+    <description>Incidence rate for Information-seeking behavior is the count of links demanded divided by the maximum possible count: 10</description>
+  </primary_outcome>
+  <number_of_arms>17</number_of_arms>
+  <enrollment type="Actual">14267</enrollment>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Control - CDC - Mask (Control) - Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control Intro, CDC Social Distancing, Mask Control version delivered by minority doctor of same background as the recipient - other definitions are similar</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - CDC - Mask (Control) - Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control Intro, CDC Social Distancing, Mask Control version delivered by majority doctor of different background as the recipient - other definitions are similar</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - MGH - Mask (Control) - Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control Intro, MGH Social Distancing, Mask Control version delivered by concordant doctor</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - MGH - Mask (Control) - Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control Intro, MGH Social Distancing, Mask Control version delivered by discordant doctor</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. Discrimination- MGH - Mask (Control) - Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Introduction Acknowledges past discrimination, MGH doctor talks about Social Distancing, Mask Control all by concordant MD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. Discrimination- MGH - Mask (Control) - Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Introduction Acknowledges past discrimination, MGH doctor talks about Social Distancing, Mask Control all by discordant MD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. econ. circumstance- MGH - Mask (Control ) Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intro econ. circumstance -MGH - Mask (Control ) Concordant</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. econ. circumstance - MGH - Mask (Control ) Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Intro - CDC - Mask (antiStigma) Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control Intro - CDC - Mask (antiStigma) Concordant messenger</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Intro - CDC - Mask (antiStigma) Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control Intro - CDC - Mask (antiStigma) discordant messenger</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - MGH - MaskS (antiStigma) Concordant messenger</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control - MGH - MaskS (antiStigma) Concordant sender</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control- MGH-MaskS (antiStigma) Discordant messenger</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control - MGH - MaskS (antiStigma) Discordant sender</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. Discrimination - MGH - MaskS (antiStigma) Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acknowledge Discrimination - MGH - MaskS (antiStigma) Concordant sender</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. Discrimination - MGH - MaskS (antiStigma) Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acknowledge Discrimination - MGH - MaskS (antiStigma) Discordant sender</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. Econ Hardship- MGH - Mask (antiStigma) Concordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acknowledge Econ Hardship- MGH - Mask (antiStigma) Concordant sender</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ack. Econ Hardship- MGH - Mask (antiStigma) Discordant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acknowledge Econ Hardship- MGH - Mask (antiStigma) discordant sender</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Info later - Pure Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>This group will not receive the videos but will receive information later.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Messaging</intervention_name>
+    <description>o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+    <arm_group_label>Ack. Discrimination - MGH - MaskS (antiStigma) Concordant</arm_group_label>
+    <arm_group_label>Ack. Discrimination - MGH - MaskS (antiStigma) Discordant</arm_group_label>
+    <arm_group_label>Ack. Discrimination- MGH - Mask (Control) - Concordant</arm_group_label>
+    <arm_group_label>Ack. Discrimination- MGH - Mask (Control) - Discordant</arm_group_label>
+    <arm_group_label>Ack. Econ Hardship- MGH - Mask (antiStigma) Concordant</arm_group_label>
+    <arm_group_label>Ack. Econ Hardship- MGH - Mask (antiStigma) Discordant</arm_group_label>
+    <arm_group_label>Ack. econ. circumstance - MGH - Mask (Control ) Discordant</arm_group_label>
+    <arm_group_label>Ack. econ. circumstance- MGH - Mask (Control ) Concordant</arm_group_label>
+    <arm_group_label>Control - CDC - Mask (Control) - Concordant</arm_group_label>
+    <arm_group_label>Control - CDC - Mask (Control) - Discordant</arm_group_label>
+    <arm_group_label>Control - MGH - Mask (Control) - Concordant</arm_group_label>
+    <arm_group_label>Control - MGH - Mask (Control) - Discordant</arm_group_label>
+    <arm_group_label>Control - MGH - MaskS (antiStigma) Concordant messenger</arm_group_label>
+    <arm_group_label>Control Intro - CDC - Mask (antiStigma) Concordant</arm_group_label>
+    <arm_group_label>Control Intro - CDC - Mask (antiStigma) Discordant</arm_group_label>
+    <arm_group_label>Control- MGH-MaskS (antiStigma) Discordant messenger</arm_group_label>
+    <arm_group_label>Info later - Pure Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Hispanic and African-American adult individuals, men and women -&#xD;
+        oversample of those with less completed education Exclusion Criteria: children, those who&#xD;
+        do not identify as above&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>JPAL North America</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Massachusetts</state>
+        <zip>02138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>April 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 1, 2020</study_first_posted>
+  <results_first_submitted>May 28, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 24, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 27, 2021</results_first_posted>
+  <last_update_submitted>July 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Bureau of Economic Research, Inc.</investigator_affiliation>
+    <investigator_full_name>Esther Duflo</investigator_full_name>
+    <investigator_title>Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics, MIT; Co-Director, Abdul Latif Jameel Poverty Action Lab</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Generally, economists will post code and de-identified data when the findings are published</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Generally, social scientists post code and de-identified data when the findings are published</ipd_time_frame>
+    <ipd_access_criteria>To be determined, if published alongside the paper data and code may be gated.</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 14, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/19/NCT04371419/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Individuals were recruited throughout the United States by the survey company Lucid from 13 May to 26 May 2020. Only persons aged 18 years or older and self-identifying as Black or Latinx were eligible.</recruitment_details>
+      <pre_assignment_details>The trial sample was enrolled from 13 May 2020 through 26 May 2020. Of 35,987 persons screened, 20,925 were eligible for participation (15,062 who would have been eligible were excluded because the demographic quotas were met); 5,450 individuals did not consent or failed both basic attention checks, and 1,208 left the survey before randomization. Out of 14,267 participants enrolled and randomized,123 participants did not answer one or more baseline questions and were excluded from analysis.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Control - CDC - Mask (Control) - Concordant</title>
+          <description>Control Intro, CDC Social Distancing, Mask Control version delivered by minority doctor of same background as the recipient - other definitions are similar&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P2">
+          <title>Control - CDC - Mask (Control) - Discordant</title>
+          <description>Control Intro, CDC Social Distancing, Mask Control version delivered by majority doctor of different background as the recipient - other definitions are similar&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P3">
+          <title>Control - MGH - Mask (Control) - Concordant</title>
+          <description>Control Intro, MGH Social Distancing, Mask Control version delivered by concordant doctor&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P4">
+          <title>Control - MGH - Mask (Control) - Discordant</title>
+          <description>Control Intro, MGH Social Distancing, Mask Control version delivered by discordant doctor&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P5">
+          <title>Ack. Discrimination- MGH - Mask (Control) - Concordant</title>
+          <description>Introduction Acknowledges past discrimination, MGH doctor talks about Social Distancing, Mask Control all by concordant MD&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P6">
+          <title>Ack. Discrimination- MGH - Mask (Control) - Discordant</title>
+          <description>Introduction Acknowledges past discrimination, MGH doctor talks about Social Distancing, Mask Control all by discordant MD&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P7">
+          <title>Ack. Econ. Circumstance- MGH - Mask (Control ) Concordant</title>
+          <description>Intro econ. circumstance -MGH - Mask (Control ) Concordant&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P8">
+          <title>Ack. Econ. Circumstance - MGH - Mask (Control ) Discordant</title>
+          <description>Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P9">
+          <title>Control Intro - CDC - Mask (antiStigma) Concordant</title>
+          <description>Control Intro - CDC - Mask (antiStigma) Concordant messenger&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P10">
+          <title>Control Intro - CDC - Mask (antiStigma) Discordant</title>
+          <description>Control Intro - CDC - Mask (antiStigma) discordant messenger&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P11">
+          <title>Control - MGH - MaskS (antiStigma) Concordant Messenger</title>
+          <description>Control - MGH - MaskS (antiStigma) Concordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P12">
+          <title>Control- MGH-MaskS (antiStigma) Discordant Messenger</title>
+          <description>Control - MGH - MaskS (antiStigma) Discordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P13">
+          <title>Ack. Discrimination - MGH - MaskS (antiStigma) Concordant</title>
+          <description>Acknowledge Discrimination - MGH - MaskS (antiStigma) Concordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P14">
+          <title>Ack. Discrimination - MGH - MaskS (antiStigma) Discordant</title>
+          <description>Acknowledge Discrimination - MGH - MaskS (antiStigma) Discordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P15">
+          <title>Ack. Econ Hardship- MGH - Mask (antiStigma) Concordant</title>
+          <description>Acknowledge Econ Hardship- MGH - Mask (antiStigma) Concordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P16">
+          <title>Ack. Econ Hardship- MGH - Mask (antiStigma) Discordant</title>
+          <description>Acknowledge Econ Hardship- MGH - Mask (antiStigma) discordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="P17">
+          <title>Info Later - Pure Control</title>
+          <description>This group will not receive the videos but will receive information later.&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="784"/>
+                <participants group_id="P2" count="791"/>
+                <participants group_id="P3" count="780"/>
+                <participants group_id="P4" count="778"/>
+                <participants group_id="P5" count="777"/>
+                <participants group_id="P6" count="788"/>
+                <participants group_id="P7" count="783"/>
+                <participants group_id="P8" count="788"/>
+                <participants group_id="P9" count="779"/>
+                <participants group_id="P10" count="780"/>
+                <participants group_id="P11" count="782"/>
+                <participants group_id="P12" count="790"/>
+                <participants group_id="P13" count="779"/>
+                <participants group_id="P14" count="786"/>
+                <participants group_id="P15" count="781"/>
+                <participants group_id="P16" count="781"/>
+                <participants group_id="P17" count="1617"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Completed the Knowledge Questions</title>
+              <participants_list>
+                <participants group_id="P1" count="663"/>
+                <participants group_id="P2" count="669"/>
+                <participants group_id="P3" count="673"/>
+                <participants group_id="P4" count="664"/>
+                <participants group_id="P5" count="666"/>
+                <participants group_id="P6" count="683"/>
+                <participants group_id="P7" count="664"/>
+                <participants group_id="P8" count="679"/>
+                <participants group_id="P9" count="670"/>
+                <participants group_id="P10" count="655"/>
+                <participants group_id="P11" count="656"/>
+                <participants group_id="P12" count="692"/>
+                <participants group_id="P13" count="664"/>
+                <participants group_id="P14" count="687"/>
+                <participants group_id="P15" count="652"/>
+                <participants group_id="P16" count="652"/>
+                <participants group_id="P17" count="1526"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="641"/>
+                <participants group_id="P2" count="636"/>
+                <participants group_id="P3" count="639"/>
+                <participants group_id="P4" count="631"/>
+                <participants group_id="P5" count="644"/>
+                <participants group_id="P6" count="654"/>
+                <participants group_id="P7" count="639"/>
+                <participants group_id="P8" count="658"/>
+                <participants group_id="P9" count="649"/>
+                <participants group_id="P10" count="621"/>
+                <participants group_id="P11" count="626"/>
+                <participants group_id="P12" count="662"/>
+                <participants group_id="P13" count="633"/>
+                <participants group_id="P14" count="660"/>
+                <participants group_id="P15" count="626"/>
+                <participants group_id="P16" count="625"/>
+                <participants group_id="P17" count="1450"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="143"/>
+                <participants group_id="P2" count="155"/>
+                <participants group_id="P3" count="141"/>
+                <participants group_id="P4" count="147"/>
+                <participants group_id="P5" count="133"/>
+                <participants group_id="P6" count="134"/>
+                <participants group_id="P7" count="144"/>
+                <participants group_id="P8" count="130"/>
+                <participants group_id="P9" count="130"/>
+                <participants group_id="P10" count="159"/>
+                <participants group_id="P11" count="156"/>
+                <participants group_id="P12" count="128"/>
+                <participants group_id="P13" count="146"/>
+                <participants group_id="P14" count="126"/>
+                <participants group_id="P15" count="155"/>
+                <participants group_id="P16" count="156"/>
+                <participants group_id="P17" count="167"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Any intervention was indeed an arm that included each sub arm of different types of message that we tested against a control and pre-specified in our study protocol and analysis plan to combine arms for analysis.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Study Participants - Control</title>
+          <description>Study participants who are assigned to a pure control group</description>
+        </group>
+        <group group_id="B2">
+          <title>Study Participants - Any Intervention</title>
+          <description>Study participants who are assigned to any intervention groups</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1617"/>
+            <count group_id="B2" value="12527"/>
+            <count group_id="B3" value="14144"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39.16" spread="15.6"/>
+                    <measurement group_id="B2" value="38.9" spread="15.2"/>
+                    <measurement group_id="B3" value="38.93" spread="15.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="943"/>
+                    <measurement group_id="B2" value="7169"/>
+                    <measurement group_id="B3" value="8112"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="674"/>
+                    <measurement group_id="B2" value="5358"/>
+                    <measurement group_id="B3" value="6032"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>African American</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1042"/>
+                    <measurement group_id="B2" value="7725"/>
+                    <measurement group_id="B3" value="8767"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Latinx</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="575"/>
+                    <measurement group_id="B2" value="4802"/>
+                    <measurement group_id="B3" value="5377"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1617"/>
+                    <measurement group_id="B2" value="12527"/>
+                    <measurement group_id="B3" value="14144"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Household size</title>
+          <units>person</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3.23" spread="1.7"/>
+                    <measurement group_id="B2" value="3.21" spread="1.7"/>
+                    <measurement group_id="B3" value="3.22" spread="1.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Education index</title>
+          <description>Education index is an integer capturing the highest level of education attained scored on a scale of 1 (third grade or less) to 11 (doctorate).</description>
+          <units>scores on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.53" spread="1.5"/>
+                    <measurement group_id="B2" value="4.57" spread="1.5"/>
+                    <measurement group_id="B3" value="4.56" spread="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Likely to run out of money because of COVID-19</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="875"/>
+                    <measurement group_id="B2" value="6531"/>
+                    <measurement group_id="B3" value="7406"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Trouble paying for food</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="558"/>
+                    <measurement group_id="B2" value="4592"/>
+                    <measurement group_id="B3" value="5150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Stratum</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1617"/>
+                    <count group_id="B2" value="12527"/>
+                    <count group_id="B3" value="14144"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female, age ≥45 y, coastal</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="164"/>
+                    <measurement group_id="B2" value="1154"/>
+                    <measurement group_id="B3" value="1318"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female, age ≥45 y, central</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="229"/>
+                    <measurement group_id="B2" value="1784"/>
+                    <measurement group_id="B3" value="2013"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female, age ≤44 y, coastal</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="223"/>
+                    <measurement group_id="B2" value="1787"/>
+                    <measurement group_id="B3" value="2010"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female, age ≤44 y, central</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="327"/>
+                    <measurement group_id="B2" value="2444"/>
+                    <measurement group_id="B3" value="2771"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male, age ≥45 y, coastal</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="96"/>
+                    <measurement group_id="B2" value="724"/>
+                    <measurement group_id="B3" value="820"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male, age ≥45 y, central</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="111"/>
+                    <measurement group_id="B2" value="885"/>
+                    <measurement group_id="B3" value="996"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male, age ≤44 y, coastal</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="199"/>
+                    <measurement group_id="B2" value="1740"/>
+                    <measurement group_id="B3" value="1939"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male, age ≤44 y, central</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="268"/>
+                    <measurement group_id="B2" value="2009"/>
+                    <measurement group_id="B3" value="2277"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hispanic origin</title>
+          <population>The &quot;Hispanic Origin&quot; question is only applicable to Latinx participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="575"/>
+                    <count group_id="B2" value="4802"/>
+                    <count group_id="B3" value="5377"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Mexican, Mexican American, Chicano</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="387"/>
+                    <measurement group_id="B2" value="3271"/>
+                    <measurement group_id="B3" value="3658"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Cuba</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="208"/>
+                    <measurement group_id="B3" value="230"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Argentina</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="74"/>
+                    <measurement group_id="B3" value="82"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Colombia</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="97"/>
+                    <measurement group_id="B3" value="105"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Ecuador</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="47"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>El Salvador</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="76"/>
+                    <measurement group_id="B3" value="84"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Guatemala</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="43"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Nicaragua</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Panama</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Peru</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="63"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Spain</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="189"/>
+                    <measurement group_id="B3" value="216"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Venezuela</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="50"/>
+                    <measurement group_id="B3" value="59"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other country</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="73"/>
+                    <measurement group_id="B2" value="608"/>
+                    <measurement group_id="B3" value="681"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Puerto Rico</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="57"/>
+                    <measurement group_id="B3" value="63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Incidence Rate for Knowledge Gaps: Control vs. Any Intervention</title>
+        <description>Incidence rate for knowledge gaps is the count of knowledge gaps divided by the maximum possible count: 7</description>
+        <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+        <population>Any intervention was indeed an arm that included each sub arm of different types of message that we tested against a control and pre-specified in our study protocol and analysis plan to combine arms for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants - Control</title>
+            <description>Study participants who are assigned to a pure control group</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Participants - Any Intervention</title>
+            <description>Study participants who are assigned to any intervention groups</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence Rate for Knowledge Gaps: Control vs. Any Intervention</title>
+          <description>Incidence rate for knowledge gaps is the count of knowledge gaps divided by the maximum possible count: 7</description>
+          <population>Any intervention was indeed an arm that included each sub arm of different types of message that we tested against a control and pre-specified in our study protocol and analysis plan to combine arms for analysis.</population>
+          <units>proportion of knowledge gaps</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1525"/>
+                <count group_id="O2" value="10711"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.085" lower_limit="0.076" upper_limit="0.093"/>
+                    <measurement group_id="O2" value="0.065" lower_limit="0.062" upper_limit="0.068"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Incidence Rate for Information-seeking Behavior: Control vs. Any Intervention</title>
+        <description>Incidence rate for Information-seeking behavior is the count of links demanded divided by the maximum possible count: 10</description>
+        <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+        <population>Any intervention was indeed an arm that included each sub arm of different types of message that we tested against a control and pre-specified in our study protocol and analysis plan to combine arms for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants - Control</title>
+            <description>Study participants who are assigned to a pure control group</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Participants - Any Intervention</title>
+            <description>Study participants who are assigned to any intervention groups</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence Rate for Information-seeking Behavior: Control vs. Any Intervention</title>
+          <description>Incidence rate for Information-seeking behavior is the count of links demanded divided by the maximum possible count: 10</description>
+          <population>Any intervention was indeed an arm that included each sub arm of different types of message that we tested against a control and pre-specified in our study protocol and analysis plan to combine arms for analysis.</population>
+          <units>proportion of links</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1450"/>
+                <count group_id="O2" value="10244"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.335" lower_limit="0.318" upper_limit="0.352"/>
+                    <measurement group_id="O2" value="0.344" lower_limit="0.338" upper_limit="0.351"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Incidence Rate for Knowledge Gaps by Intervention</title>
+        <description>Incidence rate for knowledge gaps is the count of knowledge gaps divided by the maximum possible count: 7</description>
+        <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+        <population>Each intervention indicated in Arm/Group Title was indeed an arm that included each sub arm of different types of message that we tested Arm A against Arm B, or vice versa, and pre-specified in our study protocol and analysis plan to combine arms for analysis. Arms A and B are indicated in each Arm/Group Title.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention 1: Racial Discordance/Concordance Between Physician and Participant-Discordant (Arm A)</title>
+            <description>Study participants who were assigned to receive an intervention of racial discordance between physician and participant.</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention 1: Racial Discordance/Concordance Between Physician and Participant-Concordant (Arm B)</title>
+            <description>Study participants who were assigned to receive an intervention of racial concordance between physician and participant.</description>
+          </group>
+          <group group_id="O3">
+            <title>Intervention 2: Video 2 Recorded by MGH Physician/Dr. Birx of the CDC - MGH Physician (Arm A)</title>
+            <description>Participants who were assigned to receive the social distancing component of the message is recorded by the MGH physicians.</description>
+          </group>
+          <group group_id="O4">
+            <title>Intervention 2: Video 2 Recorded by MGH Physician/Dr. Birx of the CDC - Dr. Birx of the CDC (Arm B)</title>
+            <description>Participants who were assigned to receive the social distancing component of the message is delivered by Dr. Birx of the CDC.</description>
+          </group>
+          <group group_id="O5">
+            <title>Intervention 3: Received Acknowledgment of Discrimination - No (Arm A)</title>
+            <description>Participants who were NOT assigned to receive the message include an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system (African American participants) or fear of deportation (for Latinx participants)</description>
+          </group>
+          <group group_id="O6">
+            <title>Intervention 3: Received Acknowledgment of Discrimination - Yes (Arm B)</title>
+            <description>Participants who were assigned to receive the message include an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system (African American participants) or fear of deportation (for Latinx participants)</description>
+          </group>
+          <group group_id="O7">
+            <title>Intervention 4: Received Acknowledgment of Economic Inequalities - No (Arm A)</title>
+            <description>Participants who were NOT assigned to receive the message acknowledged economic hardships that were associated with tight living quarters and working in essential services.</description>
+          </group>
+          <group group_id="O8">
+            <title>Intervention 4: Received Acknowledgment of Economic Inequalities - Yes (Arm B)</title>
+            <description>Participants who were assigned to receive the message acknowledged economic hardships that were associated with tight living quarters and working in essential services.</description>
+          </group>
+          <group group_id="O9">
+            <title>Intervention 5: Received Information About Social Perception - No (Arm A)</title>
+            <description>Participants who were assigned to receive information about how representative individuals perceive mask wearers of color.</description>
+          </group>
+          <group group_id="O10">
+            <title>Intervention 5: Received Information About Social Perception - Yes (Arm B)</title>
+            <description>Participants who were assigned to receive information about how representative individuals perceive mask wearers of color.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence Rate for Knowledge Gaps by Intervention</title>
+          <description>Incidence rate for knowledge gaps is the count of knowledge gaps divided by the maximum possible count: 7</description>
+          <population>Each intervention indicated in Arm/Group Title was indeed an arm that included each sub arm of different types of message that we tested Arm A against Arm B, or vice versa, and pre-specified in our study protocol and analysis plan to combine arms for analysis. Arms A and B are indicated in each Arm/Group Title.</population>
+          <units>proportion of knowledge gaps</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5395"/>
+                <count group_id="O2" value="5316"/>
+                <count group_id="O3" value="8041"/>
+                <count group_id="O4" value="2670"/>
+                <count group_id="O5" value="8010"/>
+                <count group_id="O6" value="2701"/>
+                <count group_id="O7" value="8058"/>
+                <count group_id="O8" value="2653"/>
+                <count group_id="O9" value="5366"/>
+                <count group_id="O10" value="5345"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.066" lower_limit="0.061" upper_limit="0.070"/>
+                    <measurement group_id="O2" value="0.065" lower_limit="0.061" upper_limit="0.069"/>
+                    <measurement group_id="O3" value="0.065" lower_limit="0.061" upper_limit="0.068"/>
+                    <measurement group_id="O4" value="0.068" lower_limit="0.061" upper_limit="0.074"/>
+                    <measurement group_id="O5" value="0.066" lower_limit="0.063" upper_limit="0.070"/>
+                    <measurement group_id="O6" value="0.063" lower_limit="0.057" upper_limit="0.069"/>
+                    <measurement group_id="O7" value="0.066" lower_limit="0.063" upper_limit="0.070"/>
+                    <measurement group_id="O8" value="0.063" lower_limit="0.057" upper_limit="0.069"/>
+                    <measurement group_id="O9" value="0.066" lower_limit="0.062" upper_limit="0.071"/>
+                    <measurement group_id="O10" value="0.065" lower_limit="0.060" upper_limit="0.069"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Incidence Rate for Information-seeking Behavior by Intervention</title>
+        <description>Incidence rate for Information-seeking behavior is the count of links demanded divided by the maximum possible count: 10</description>
+        <time_frame>The outcome was measured immediately following the intervention in the 15-minute baseline survey.</time_frame>
+        <population>Each intervention indicated in Arm/Group Title was indeed an arm that included each sub arm of different types of message that we tested Arm A against Arm B, or vice versa, and pre-specified in our study protocol and analysis plan to combine arms for analysis. Arms A and B are indicated in each Arm/Group Title.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention 1: Racial Discordance/Concordance Between Physician and Participant-Discordant (Arm A)</title>
+            <description>Study participants who were assigned to receive an intervention of racial discordance between physician and participant.</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention 1: Racial Discordance/Concordance Between Physician and Participant-Concordant (Arm B)</title>
+            <description>Study participants who were assigned to receive an intervention of racial concordance between physician and participant.</description>
+          </group>
+          <group group_id="O3">
+            <title>Intervention 2: Video 2 Recorded by MGH Physician/Dr. Birx of the CDC - MGH Physician (Arm A)</title>
+            <description>Participants who were assigned to receive the social distancing component of the message is recorded by the MGH physicians.</description>
+          </group>
+          <group group_id="O4">
+            <title>Intervention 2: Video 2 Recorded by MGH Physician/Dr. Birx of the CDC - Dr. Birx of the CDC (Arm B)</title>
+            <description>Participants who were assigned to receive the social distancing component of the message is delivered by Dr. Birx of the CDC.</description>
+          </group>
+          <group group_id="O5">
+            <title>Intervention 3: Received Acknowledgment of Discrimination - No (Arm A)</title>
+            <description>Participants who were NOT assigned to receive the message include an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system (African American participants) or fear of deportation (for Latinx participants)</description>
+          </group>
+          <group group_id="O6">
+            <title>Intervention 3: Received Acknowledgment of Discrimination - Yes (Arm B)</title>
+            <description>Participants who were assigned to receive the message include an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system (African American participants) or fear of deportation (for Latinx participants)</description>
+          </group>
+          <group group_id="O7">
+            <title>Intervention 4: Received Acknowledgment of Economic Inequalities - No (Arm A)</title>
+            <description>Participants who were NOT assigned to receive the message acknowledged economic hardships that were associated with tight living quarters and working in essential services.</description>
+          </group>
+          <group group_id="O8">
+            <title>Intervention 4: Received Acknowledgment of Economic Inequalities - Yes (Arm B)</title>
+            <description>Participants who were assigned to receive the message acknowledged economic hardships that were associated with tight living quarters and working in essential services.</description>
+          </group>
+          <group group_id="O9">
+            <title>Intervention 5: Received Information About Social Perception - No (Arm A)</title>
+            <description>Participants who were assigned to receive information about how representative individuals perceive mask wearers of color.</description>
+          </group>
+          <group group_id="O10">
+            <title>Intervention 5: Received Information About Social Perception - Yes (Arm B)</title>
+            <description>Participants who were assigned to receive information about how representative individuals perceive mask wearers of color.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence Rate for Information-seeking Behavior by Intervention</title>
+          <description>Incidence rate for Information-seeking behavior is the count of links demanded divided by the maximum possible count: 10</description>
+          <population>Each intervention indicated in Arm/Group Title was indeed an arm that included each sub arm of different types of message that we tested Arm A against Arm B, or vice versa, and pre-specified in our study protocol and analysis plan to combine arms for analysis. Arms A and B are indicated in each Arm/Group Title.</population>
+          <units>proportion of links</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5147"/>
+                <count group_id="O2" value="5097"/>
+                <count group_id="O3" value="7697"/>
+                <count group_id="O4" value="2547"/>
+                <count group_id="O5" value="7653"/>
+                <count group_id="O6" value="2591"/>
+                <count group_id="O7" value="7696"/>
+                <count group_id="O8" value="2548"/>
+                <count group_id="O9" value="5142"/>
+                <count group_id="O10" value="5102"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.336" lower_limit="0.327" upper_limit="0.346"/>
+                    <measurement group_id="O2" value="0.353" lower_limit="0.343" upper_limit="0.362"/>
+                    <measurement group_id="O3" value="0.343" lower_limit="0.336" upper_limit="0.351"/>
+                    <measurement group_id="O4" value="0.348" lower_limit="0.335" upper_limit="0.362"/>
+                    <measurement group_id="O5" value="0.346" lower_limit="0.338" upper_limit="0.353"/>
+                    <measurement group_id="O6" value="0.341" lower_limit="0.328" upper_limit="0.354"/>
+                    <measurement group_id="O7" value="0.344" lower_limit="0.337" upper_limit="0.352"/>
+                    <measurement group_id="O8" value="0.345" lower_limit="0.332" upper_limit="0.358"/>
+                    <measurement group_id="O9" value="0.345" lower_limit="0.336" upper_limit="0.355"/>
+                    <measurement group_id="O10" value="0.344" lower_limit="0.334" upper_limit="0.353"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>14 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Control - CDC - Mask (Control) - Concordant</title>
+          <description>Control Intro, CDC Social Distancing, Mask Control version delivered by minority doctor of same background as the recipient - other definitions are similar&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E2">
+          <title>Control - CDC - Mask (Control) - Discordant</title>
+          <description>Control Intro, CDC Social Distancing, Mask Control version delivered by majority doctor of different background as the recipient - other definitions are similar&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E3">
+          <title>Control - MGH - Mask (Control) - Concordant</title>
+          <description>Control Intro, MGH Social Distancing, Mask Control version delivered by concordant doctor&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E4">
+          <title>Control - MGH - Mask (Control) - Discordant</title>
+          <description>Control Intro, MGH Social Distancing, Mask Control version delivered by discordant doctor&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E5">
+          <title>Ack. Discrimination- MGH - Mask (Control) - Concordant</title>
+          <description>Introduction Acknowledges past discrimination, MGH doctor talks about Social Distancing, Mask Control all by concordant MD&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E6">
+          <title>Ack. Discrimination- MGH - Mask (Control) - Discordant</title>
+          <description>Introduction Acknowledges past discrimination, MGH doctor talks about Social Distancing, Mask Control all by discordant MD&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E7">
+          <title>Ack. Econ. Circumstance- MGH - Mask (Control ) Concordant</title>
+          <description>Intro econ. circumstance -MGH - Mask (Control ) Concordant&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E8">
+          <title>Ack. Econ. Circumstance - MGH - Mask (Control ) Discordant</title>
+          <description>Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E9">
+          <title>Control Intro - CDC - Mask (antiStigma) Concordant</title>
+          <description>Control Intro - CDC - Mask (antiStigma) Concordant messenger&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E10">
+          <title>Control Intro - CDC - Mask (antiStigma) Discordant</title>
+          <description>Control Intro - CDC - Mask (antiStigma) discordant messenger&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E11">
+          <title>Control - MGH - MaskS (antiStigma) Concordant Messenger</title>
+          <description>Control - MGH - MaskS (antiStigma) Concordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E12">
+          <title>Control- MGH-MaskS (antiStigma) Discordant Messenger</title>
+          <description>Control - MGH - MaskS (antiStigma) Discordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E13">
+          <title>Ack. Discrimination - MGH - MaskS (antiStigma) Concordant</title>
+          <description>Acknowledge Discrimination - MGH - MaskS (antiStigma) Concordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E14">
+          <title>Ack. Discrimination - MGH - MaskS (antiStigma) Discordant</title>
+          <description>Acknowledge Discrimination - MGH - MaskS (antiStigma) Discordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E15">
+          <title>Ack. Econ Hardship- MGH - Mask (antiStigma) Concordant</title>
+          <description>Acknowledge Econ Hardship- MGH - Mask (antiStigma) Concordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E16">
+          <title>Ack. Econ Hardship- MGH - Mask (antiStigma) Discordant</title>
+          <description>Acknowledge Econ Hardship- MGH - Mask (antiStigma) discordant sender&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+        <group group_id="E17">
+          <title>Info Later - Pure Control</title>
+          <description>This group will not receive the videos but will receive information later.&#xD;
+Messaging: o The video messages each participant in one of the treatment groups sees will be randomized on the following dimensions. The different versions are clearly demarcated in the US Doctors Scripts document.&#xD;
+Racial or ethnic identity of the doctor delivering the messages: concordant vs. discordant identity to the subject.&#xD;
+Whether the message includes an acknowledgment of &quot;elephant in the room&quot; issues for each target group: trust in the medical system or fear of deportation.&#xD;
+Whether the social distancing component of the message is delivered by Dr. Birx of the CDC or recorded by the MGH physicians.&#xD;
+Whether individuals are given information about how representative individuals perceive mask wearers of color. This information comes from results of our nationally representative pilot survey.&#xD;
+Some individuals in a control group will see messages later.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="784"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="791"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="780"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="778"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="777"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="788"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="783"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="788"/>
+                <counts group_id="E9" subjects_affected="0" subjects_at_risk="779"/>
+                <counts group_id="E10" subjects_affected="0" subjects_at_risk="780"/>
+                <counts group_id="E11" subjects_affected="0" subjects_at_risk="782"/>
+                <counts group_id="E12" subjects_affected="0" subjects_at_risk="790"/>
+                <counts group_id="E13" subjects_affected="0" subjects_at_risk="779"/>
+                <counts group_id="E14" subjects_affected="0" subjects_at_risk="786"/>
+                <counts group_id="E15" subjects_affected="0" subjects_at_risk="781"/>
+                <counts group_id="E16" subjects_affected="0" subjects_at_risk="781"/>
+                <counts group_id="E17" subjects_affected="0" subjects_at_risk="1617"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="784"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="791"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="780"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="778"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="777"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="788"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="783"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="788"/>
+                <counts group_id="E9" subjects_affected="0" subjects_at_risk="779"/>
+                <counts group_id="E10" subjects_affected="0" subjects_at_risk="780"/>
+                <counts group_id="E11" subjects_affected="0" subjects_at_risk="782"/>
+                <counts group_id="E12" subjects_affected="0" subjects_at_risk="790"/>
+                <counts group_id="E13" subjects_affected="0" subjects_at_risk="779"/>
+                <counts group_id="E14" subjects_affected="0" subjects_at_risk="786"/>
+                <counts group_id="E15" subjects_affected="0" subjects_at_risk="781"/>
+                <counts group_id="E16" subjects_affected="0" subjects_at_risk="781"/>
+                <counts group_id="E17" subjects_affected="0" subjects_at_risk="1617"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="784"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="791"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="780"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="778"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="777"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="788"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="783"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="788"/>
+                <counts group_id="E9" subjects_affected="0" subjects_at_risk="779"/>
+                <counts group_id="E10" subjects_affected="0" subjects_at_risk="780"/>
+                <counts group_id="E11" subjects_affected="0" subjects_at_risk="782"/>
+                <counts group_id="E12" subjects_affected="0" subjects_at_risk="790"/>
+                <counts group_id="E13" subjects_affected="0" subjects_at_risk="779"/>
+                <counts group_id="E14" subjects_affected="0" subjects_at_risk="786"/>
+                <counts group_id="E15" subjects_affected="0" subjects_at_risk="781"/>
+                <counts group_id="E16" subjects_affected="0" subjects_at_risk="781"/>
+                <counts group_id="E17" subjects_affected="0" subjects_at_risk="1617"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Participants' behavior was not directly observed, outcomes were measured immediately postintervention in May 2020, and online recruitment may not be representative.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Pierre-Luc Vautrey</name_or_title>
+      <organization>Massachusetts Institute of Technology</organization>
+      <phone>(617) 258-7013</phone>
+      <email>vautrey@mit.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

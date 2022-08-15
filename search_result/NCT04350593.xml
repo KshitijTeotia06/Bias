@@ -1,0 +1,3555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="20">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04350593</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D1690C00081</org_study_id>
+    <secondary_id>ESR-20-20653</secondary_id>
+    <nct_id>NCT04350593</nct_id>
+  </id_info>
+  <brief_title>Dapagliflozin in Respiratory Failure in Patients With COVID-19</brief_title>
+  <acronym>DARE-19</acronym>
+  <official_title>An International, Multicenter, Randomized, Double-blind, Placebo-controlled, Phase III Study Evaluating the Efficacy and Safety of Dapagliflozin in Respiratory Failure in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saint Luke's Health System</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Saint Luke's Hospital of Kansas City</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>George Clinical Pty Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Saint Luke's Health System</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an international, multicenter, parallel-group, randomized, double-blind, placebo&#xD;
+      controlled, study in hospitalized adult patients with coronavirus disease 2019 (COVID-19) in&#xD;
+      the United States, Brazil, Mexico, Argentina, India, Canada, and United Kingdom. The study is&#xD;
+      evaluating the effect of dapagliflozin 10 milligrams versus placebo, given once daily for 30&#xD;
+      days in addition to background local standard of care therapy, on reducing complications and&#xD;
+      all-cause mortality, or improving clinical recovery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 can lead to multiorgan failure, especially in high-risk patients. Dapagliflozin, a&#xD;
+      sodium-glucose cotransporter-2 inhibitor (SGLT2i), favorably impacts many processes&#xD;
+      dysregulated during acute illness such as COVID-19, has significant cardio- and&#xD;
+      reno-protective benefits in cardiometabolic disease, and may provide similar organ protection&#xD;
+      in COVID-19.&#xD;
+&#xD;
+      The study population will include hospitalized patients with respiratory manifestations of&#xD;
+      COVID-19 of any duration, but without the need for mechanical ventilation. The eligible&#xD;
+      patients should have risk factors for developing serious complications of COVID-19, including&#xD;
+      hypertension, Type 2 diabetes, atherosclerotic cardiovascular disease, heart failure and/or&#xD;
+      chronic kidney disease stage 3 to 4.&#xD;
+&#xD;
+      Patients will be treated for 30 days, with either dapagliflozin 10 milligrams daily or&#xD;
+      placebo, each to be given in addition to the usual standard of care in the participating&#xD;
+      hospital.&#xD;
+&#xD;
+      The study assessments include only those that are absolutely critical for ensuring the safety&#xD;
+      of the patients, to measure efficacy outcomes, and collect biomarker data, so as not to place&#xD;
+      too high a burden on the study personnel and to minimize additional risk of exposure to&#xD;
+      severe acute respiratory syndrome coronavirus 2 (SARS CoV-2).&#xD;
+&#xD;
+      The dual primary efficacy endpoints of the study are time to first event of either&#xD;
+      complications or death from any cause, and improved clinical recovery through 30 days of&#xD;
+      follow-up. An extended follow-up period of 60 days (after the 30-day treatment period) is&#xD;
+      included, in order to examine longer-term trajectory of recovery from COVID-19 among trial&#xD;
+      participants.&#xD;
+&#xD;
+      The safety data will be monitored by an Independent Data and Safety Monitoring Committee.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 22, 2020</start_date>
+  <completion_date type="Actual">June 11, 2021</completion_date>
+  <primary_completion_date type="Actual">March 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevention of COVID-19 Complications or Death: During the 30-day Treatment Period, Time to First Occurrence of New/Worsened Organ Dysfunction During Index Hospitalization or Death From Any Cause.</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>Time to first occurrence of new/worsened organ dysfunction during index hospitalization or death from any cause.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.&#xD;
+New/worsened organ dysfunction is defined as at least one of the following:&#xD;
+Respiratory decompensation requiring initiation of mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP), and/or initiation of extracorporeal membrane oxygenation (ECMO)&#xD;
+New or worsening congestive heart failure&#xD;
+Requirement for vasopressor therapy and/or inotropic or mechanical circulatory support&#xD;
+Ventricular tachycardia or fibrillation lasting at least 30 seconds and/or associated with hemodynamic instability or pulseless electrical activity, or resuscitated cardiac arrest&#xD;
+Doubling of s-Creatinine or initiation of renal replacement therapy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improving Clinical Recovery: Hierarchical Composite Outcome Measure Including Death From Any Cause Through Day 30, New/Worsened Organ Dysfunction, Clinical Status at Day 30 and Hospital Discharge Before Day 30 and Alive at Day 30.</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>The number of patients experiencing improvement by day 30 compared with baseline (discharged from hospital without a worsening event and alive, or still in hospital without a worsening event and without oxygen support) in the hierarchical composite endpoint analysis.&#xD;
+Hierarchical composite outcome measure includes:&#xD;
+Death from any cause through Day 30&#xD;
+New/worsened organ dysfunction&#xD;
+Clinical status at Day 30 for patients still hospitalized and without any worsening organ dysfunction&#xD;
+Hospital discharge before Day 30 and alive at Day 30</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Hospital Discharge</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>Time to hospital discharge (refers to index hospitalization only).&#xD;
+Median time to hospital discharge is presented in days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Number of Days Alive and Free From Respiratory Decompensation Requiring Initiation of Mechanical Ventilation (Includes Invasive or Non-invasive Ventilation, CPAP, or BiPAP)</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>Total number of days alive and free from mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP) is calculated for each patient as total follow-up time (30 days) substracted days in hospital with mechanical ventilation and days dead.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Number of Days Alive, Not in the ICU, and Free From Respiratory Decompensation Requiring Initiation of Mechanical Ventilation (Includes Invasive or Non-invasive Ventilation, CPAP, or BiPAP)</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>Total number of days alive, not in the ICU and free from mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP) is calculated for each patient as total follow-up time (30 days) substracted days in ICU and days dead.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Composite of Acute Kidney Injury or Initiation of Renal Replacement Therapy, or Death From Any Cause</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>Acute kidney injury is defined as an episode of doubling s-creatinine compared to baseline during index hospitalization or SAE. Initiation of renal replacement therapy is defined as initiation of renal replacement therapy during index hospitalization or SAE.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Death From Any Cause</measure>
+    <time_frame>Randomization through Day 30</time_frame>
+    <description>Time to death from any cause.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1250</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Dapagliflozin 10mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dapagliflozin 10 mg daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Dapagliflozin matching placebo 10 mg daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapagliflozin 10 milligram (mg)</intervention_name>
+    <description>Active Comparator: Dapagliflozin 10 mg</description>
+    <arm_group_label>Dapagliflozin 10mg</arm_group_label>
+    <other_name>Farxiga</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo Comparator</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision of informed consent&#xD;
+&#xD;
+          2. Male or female patients aged ≥18 years&#xD;
+&#xD;
+          3. Currently hospitalized&#xD;
+&#xD;
+          4. Hospital admission no more than 4 days prior to screening&#xD;
+&#xD;
+          5. Confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection by&#xD;
+             laboratory testing within 10 days prior to screening, or strongly suspected SARS-CoV-2&#xD;
+             infection on presentation&#xD;
+&#xD;
+          6. Chest radiography or computerized tomography (CT) findings that, in the opinion of the&#xD;
+             investigator, are consistent with coronavirus disease 2019 (COVID-19)&#xD;
+&#xD;
+          7. Blood oxygen saturation (SpO2) ≥ 94% while receiving low-flow supplemental oxygen (5&#xD;
+             liters or less)&#xD;
+&#xD;
+          8. Medical history of at least one of the following:&#xD;
+&#xD;
+               1. hypertension&#xD;
+&#xD;
+               2. type 2 diabetes&#xD;
+&#xD;
+               3. atherosclerotic cardiovascular disease&#xD;
+&#xD;
+               4. heart failure (with either reduced or preserved left ventricular ejection&#xD;
+                  fraction (LVEF))&#xD;
+&#xD;
+               5. chronic kidney disease stage 3 to 4 (estimated glomerular filtration rate (eGFR)&#xD;
+                  between 25 to 60 mL/min/1.73 m2)&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Respiratory decompensation requiring mechanical ventilation (includes invasive or non&#xD;
+             invasive ventilation, continuous positive airway pressure (CPAP), or bilevel positive&#xD;
+             airway pressure (BiPAP))&#xD;
+&#xD;
+          2. Expected need for mechanical ventilation (includes invasive or non-invasive&#xD;
+             ventilation, CPAP, or BiPAP) within the next 24 hours&#xD;
+&#xD;
+          3. Expected survival of less than 24 hours at the time of presentation, in the judgement&#xD;
+             of the investigator&#xD;
+&#xD;
+          4. eGFR &lt;25 mL/min/1.73 m2 or receiving renal replacement therapy/dialysis&#xD;
+&#xD;
+          5. Systolic blood pressure &lt;95 mmHg and/or requirement for vasopressor treatment and/or&#xD;
+             inotropic or mechanical circulatory support at Screening&#xD;
+&#xD;
+          6. History of type 1 diabetes mellitus&#xD;
+&#xD;
+          7. History of diabetic ketoacidosis&#xD;
+&#xD;
+          8. Currently receiving or has received in the last 14 days, experimental immune&#xD;
+             modulators and/or monoclonal antibody therapies for COVID-19&#xD;
+&#xD;
+          9. Current treatment with any sodium-glucose cotransporter-2 inhibitor (SGLT2i) (eg,&#xD;
+             dapagliflozin, canagliflozin, empagliflozin, ertugliflozin) or having received&#xD;
+             treatment with any SGLT2i within 4 weeks prior to screening&#xD;
+&#xD;
+         10. Current participation in another interventional clinical trial (with an&#xD;
+             investigational drug) that is not an observational registry&#xD;
+&#xD;
+               -  Note that use of rescue therapies including immune modulators, monoclonal&#xD;
+                  antibody therapies, antiviral therapies, and other agents that are approved or&#xD;
+                  being used through open-label compassionate/expanded use programs or in&#xD;
+                  accordance with the local standard of care is permitted during the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mikhail Kosiborod, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Saint Luke's Mid America Heart Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Heart Group of the Eastern Shore</name>
+      <address>
+        <city>Fairhope</city>
+        <state>Alabama</state>
+        <zip>36532</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Hospital of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University HealthSystem</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension - St. Vincent</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lahey Health</name>
+      <address>
+        <city>Burlington</city>
+        <state>Massachusetts</state>
+        <zip>01805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McLaren Health Care</name>
+      <address>
+        <city>Auburn Hills</city>
+        <state>Michigan</state>
+        <zip>48326</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Mid America Heart Institute</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jacobi Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maimonides Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Francis Hospital</name>
+      <address>
+        <city>Roslyn</city>
+        <state>New York</state>
+        <zip>11576</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Health</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lancaster General Hospital</name>
+      <address>
+        <city>Lancaster</city>
+        <state>Pennsylvania</state>
+        <zip>17604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials Network of Tennessee</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DHR Health Institute for Research and Development</name>
+      <address>
+        <city>Edinburg</city>
+        <state>Texas</state>
+        <zip>78539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sentara Healthcare</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica de Especialidades Villa María</name>
+      <address>
+        <city>Villa María</city>
+        <state>Province Of Córdoba</state>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundación Favaloro</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Español</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Fernández</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pirovano</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santojanni</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Anchorena</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Güemes</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica Vélez Sarsfield</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Roque</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Privado Duarte Quiros de Clinica Colombo S.A.</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisa Dr. Marco Mota</name>
+      <address>
+        <city>Maceió</city>
+        <state>Alagoas</state>
+        <zip>57051-160</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital EMEC e Hospital da Cidade</name>
+      <address>
+        <city>Feira de Santana</city>
+        <state>Bahia</state>
+        <zip>44035-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital e Clínica São Roque</name>
+      <address>
+        <city>Ipiaú</city>
+        <state>Bahia</state>
+        <zip>45570-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Deputado Luis Eduardo Magalhães</name>
+      <address>
+        <city>Porto Seguro</city>
+        <state>Bahia</state>
+        <zip>45810-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cárdio Pulmonar</name>
+      <address>
+        <city>Salvador</city>
+        <state>Bahia</state>
+        <zip>41950-275</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Maternidade São Vicente de Paulo</name>
+      <address>
+        <city>Barbalha</city>
+        <state>Ceará</state>
+        <zip>63180-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unimed de Fortaleza</name>
+      <address>
+        <city>Fortaleza</city>
+        <state>Ceará</state>
+        <zip>60055-172</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Messejana Dr Carlos Alberto Studart Gomes</name>
+      <address>
+        <city>Fortaleza</city>
+        <state>Ceará</state>
+        <zip>60840-285</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Coração do Brasil</name>
+      <address>
+        <city>Brasília</city>
+        <state>Distrito Federal</state>
+        <zip>70390-700</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Estadual Jayme dos Santos Neves</name>
+      <address>
+        <city>Serra</city>
+        <state>Espírito Santo</state>
+        <zip>29166-828</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Liga de Hipertensão Arterial</name>
+      <address>
+        <city>Goiania</city>
+        <state>Goias</state>
+        <zip>74690-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Misericórdia de Passos</name>
+      <address>
+        <city>Passos</city>
+        <state>Minas Gerais</state>
+        <zip>37904-020</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital São Domingos - Unimed Uberaba</name>
+      <address>
+        <city>Uberaba</city>
+        <state>Minas Gerais</state>
+        <zip>38025-440</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PROCAPE</name>
+      <address>
+        <city>Recife</city>
+        <state>Pernambuco</state>
+        <zip>50100-060</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Giselda Trigueiro</name>
+      <address>
+        <city>Natal</city>
+        <state>Rio Grande Do Norte</state>
+        <zip>59037-170</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Associação Dr. Bartholomeu Tacchini</name>
+      <address>
+        <city>Bento Gonçalves</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>95700-084</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital São Vicente de Paulo</name>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>99010-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade da Santa Casa de Misericórdia de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Mãe de Deus</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90110-270</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital São José - Criciúma</name>
+      <address>
+        <city>Criciuma</city>
+        <state>Santa Catarina</state>
+        <zip>88811-250</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IPEMI- Instituto de Pesquisas Médicas de Itajaí</name>
+      <address>
+        <city>Itajai</city>
+        <state>Santa Catarina</state>
+        <zip>88301-303</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Municipal São José</name>
+      <address>
+        <city>Joinville</city>
+        <state>Santa Catarina</state>
+        <zip>74605-050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Hans Dieter Schmidt</name>
+      <address>
+        <city>Joinville</city>
+        <state>Santa Catarina</state>
+        <zip>89228-025</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisa Clínica do Coração</name>
+      <address>
+        <city>Aracaju</city>
+        <state>Sergipe</state>
+        <zip>49055-530</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Faculdade de Medicina de Botucatu, UNESP</name>
+      <address>
+        <city>Botucatu</city>
+        <state>São Paulo</state>
+        <zip>18618-687</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Pesquisa Clínica de Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <state>São Paulo</state>
+        <zip>13060-904</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unimed Ribeirao Preto</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <state>São Paulo</state>
+        <zip>14110-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação do ABC (Hospital Estadual Mário Covas)</name>
+      <address>
+        <city>Santo André</city>
+        <state>São Paulo</state>
+        <zip>09090-790</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Integrado de Pesquisas</name>
+      <address>
+        <city>São José do Rio Preto</city>
+        <state>São Paulo</state>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Votuporanga</name>
+      <address>
+        <city>Votuporanga</city>
+        <state>São Paulo</state>
+        <zip>15500-003</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação Pio XII</name>
+      <address>
+        <city>Barretos</city>
+        <zip>14784-400</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Naval Marcílio Dias</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>20725-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Moriah</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04083-002</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Paula</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04556-100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>InCor - Instituto do Coração do Hospital das Clínicas FMUSP</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Halton Healthcare Services</name>
+      <address>
+        <city>Oakville</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeridge Health</name>
+      <address>
+        <city>Oshawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CIMS Hospital Pvt. Ltd</name>
+      <address>
+        <city>Sola</city>
+        <state>Ahmedabad</state>
+        <zip>400022</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MIOT International Hospitals</name>
+      <address>
+        <city>Manapakkam</city>
+        <state>Chennai-89</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>All India Institute of Medical Science</name>
+      <address>
+        <city>New Delhi</city>
+        <state>Delhi</state>
+        <zip>110029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanjivani Super Speciality Hospital Pvt Ltd</name>
+      <address>
+        <city>Ahmedabad</city>
+        <state>Gujarat</state>
+        <zip>380015</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lokmanya Tilak General Hospital</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400022</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Max Smart Super Speciality Hospital</name>
+      <address>
+        <city>Saket</city>
+        <state>New Delhi</state>
+        <zip>110017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Max Super Speciality Hospital (A unit of Devki Devi Foundation)</name>
+      <address>
+        <city>Saket</city>
+        <state>New Delhi</state>
+        <zip>110017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dayanand Medical College &amp; Hospital</name>
+      <address>
+        <city>Ludhiāna</city>
+        <state>Punjab</state>
+        <zip>141001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Prado</name>
+      <address>
+        <city>Acapulco</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Icaro Investigaciones en Medicina</name>
+      <address>
+        <city>Chihuahua</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HG de Cuernavaca Dr. Jose G Parres</name>
+      <address>
+        <city>Cuernavaca</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>JM Research</name>
+      <address>
+        <city>Cuernavaca</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones Aplicadas a la Neurosciencias</name>
+      <address>
+        <city>Durango</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Antiguo Hospital Civil de Guadalajara &quot;Fray Antonio Alcade&quot;</name>
+      <address>
+        <city>Guadalajara</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Javier</name>
+      <address>
+        <city>Guadalajara</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Invesclinic MX</name>
+      <address>
+        <city>Guanajuato</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CIMEZAP</name>
+      <address>
+        <city>Jalisco</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Medica Sur</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinica Nova</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Jose TEC Salud</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ECI Estudios Clinicos Internacionales</name>
+      <address>
+        <city>Puebla</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital SMIQ</name>
+      <address>
+        <city>Queretaro</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigacion Medica Sonora</name>
+      <address>
+        <city>Sonora</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Santa Cruz de Toluca</name>
+      <address>
+        <city>Toluca</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Addenbrooke's Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Cb2 0qq</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>India</country>
+    <country>Mexico</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 17, 2020</study_first_posted>
+  <results_first_submitted>March 29, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 11, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 13, 2022</results_first_posted>
+  <last_update_submitted>May 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sodium-glucose cotransporter-2 inhibitor (SGLT2i)</keyword>
+  <keyword>dapagliflozin</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dapagliflozin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 20, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/93/NCT04350593/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 3, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/93/NCT04350593/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Dapagliflozin 10mg</title>
+          <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="625"/>
+                <participants group_id="P2" count="625"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="617"/>
+                <participants group_id="P2" count="620"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Dapagliflozin 10mg</title>
+          <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="625"/>
+            <count group_id="B2" value="625"/>
+            <count group_id="B3" value="1250"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61.0" spread="13.4"/>
+                    <measurement group_id="B2" value="61.8" spread="13.5"/>
+                    <measurement group_id="B3" value="61.4" spread="13.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="260"/>
+                    <measurement group_id="B2" value="273"/>
+                    <measurement group_id="B3" value="533"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="365"/>
+                    <measurement group_id="B2" value="352"/>
+                    <measurement group_id="B3" value="717"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <population>N numbers might differ for some parameters based on data availability.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="621"/>
+                    <count group_id="B2" value="619"/>
+                    <count group_id="B3" value="1240"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="394"/>
+                    <measurement group_id="B2" value="362"/>
+                    <measurement group_id="B3" value="756"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="166"/>
+                    <measurement group_id="B2" value="177"/>
+                    <measurement group_id="B3" value="343"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="141"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <population>N numbers might differ for some parameters based on data availability.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="623"/>
+                    <count group_id="B2" value="618"/>
+                    <count group_id="B3" value="1241"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="64"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="85"/>
+                    <measurement group_id="B2" value="84"/>
+                    <measurement group_id="B3" value="169"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="452"/>
+                    <measurement group_id="B2" value="459"/>
+                    <measurement group_id="B3" value="911"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Canada</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Argentina</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="143"/>
+                    <measurement group_id="B2" value="144"/>
+                    <measurement group_id="B3" value="287"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Brazil</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="382"/>
+                    <measurement group_id="B2" value="380"/>
+                    <measurement group_id="B3" value="762"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United Kingdom</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mexico</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59"/>
+                    <measurement group_id="B2" value="59"/>
+                    <measurement group_id="B3" value="118"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>India</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Type 2 diabetes</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="312"/>
+                    <measurement group_id="B2" value="324"/>
+                    <measurement group_id="B3" value="636"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Heart failure</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="46"/>
+                    <measurement group_id="B3" value="90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="526"/>
+                    <measurement group_id="B2" value="534"/>
+                    <measurement group_id="B3" value="1060"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Atherosclerotic cardiovascular disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="93"/>
+                    <measurement group_id="B2" value="106"/>
+                    <measurement group_id="B3" value="199"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic kidney disease, estimated glomerular filtration rate (eGFR) 25-60 mL/min per 1.73 m^2</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="44"/>
+                    <measurement group_id="B3" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Patients with two or more inclusion risk factors</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="292"/>
+                    <measurement group_id="B2" value="319"/>
+                    <measurement group_id="B3" value="611"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age &gt;/= 60 years</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="339"/>
+                    <measurement group_id="B2" value="360"/>
+                    <measurement group_id="B3" value="699"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index &gt;/= 30</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="296"/>
+                    <measurement group_id="B2" value="305"/>
+                    <measurement group_id="B3" value="601"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic obstructive pulmonary disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Current smoker</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Heart rate</title>
+          <units>beats per minute</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="79.3" spread="13.7"/>
+                    <measurement group_id="B2" value="79.7" spread="13.7"/>
+                    <measurement group_id="B3" value="79.5" spread="13.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Blood pressure - systolic</title>
+          <units>mm Hg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="126.6" spread="16.0"/>
+                    <measurement group_id="B2" value="127.0" spread="16.3"/>
+                    <measurement group_id="B3" value="126.8" spread="16.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Blood pressure - diastolic</title>
+          <units>mm Hg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="76.6" spread="10.9"/>
+                    <measurement group_id="B2" value="76.2" spread="10.6"/>
+                    <measurement group_id="B3" value="76.4" spread="10.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Temperature</title>
+          <units>degrees Celcius</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36.4" spread="0.6"/>
+                    <measurement group_id="B2" value="36.4" spread="0.7"/>
+                    <measurement group_id="B3" value="36.4" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Oxygen saturation</title>
+          <units>% (measured on supplemental oxygen)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="95.5" spread="1.7"/>
+                    <measurement group_id="B2" value="95.2" spread="1.8"/>
+                    <measurement group_id="B3" value="95.3" spread="1.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>eGFR</title>
+          <units>mL/min per 1.73 m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="84.1" spread="25.0"/>
+                    <measurement group_id="B2" value="83.4" spread="24.6"/>
+                    <measurement group_id="B3" value="83.8" spread="24.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SARS-CoV-2 test result at baseline</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Positive</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="584"/>
+                    <measurement group_id="B2" value="575"/>
+                    <measurement group_id="B3" value="1159"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Negative</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="35"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Test results not known</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Angiotensin-converting enzyme (ACE) inhibitor or angiotensin II receptor blocker (ARB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="225"/>
+                    <measurement group_id="B2" value="219"/>
+                    <measurement group_id="B3" value="444"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Beta-blocker</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="93"/>
+                    <measurement group_id="B2" value="98"/>
+                    <measurement group_id="B3" value="191"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Calcium blocker</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="84"/>
+                    <measurement group_id="B2" value="88"/>
+                    <measurement group_id="B3" value="172"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Loop-diuretic</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="63"/>
+                    <measurement group_id="B3" value="112"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Statin</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="122"/>
+                    <measurement group_id="B2" value="144"/>
+                    <measurement group_id="B3" value="266"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Anti-coagulant</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="527"/>
+                    <measurement group_id="B2" value="527"/>
+                    <measurement group_id="B3" value="1054"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Biguanide</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82"/>
+                    <measurement group_id="B2" value="75"/>
+                    <measurement group_id="B3" value="157"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sulfonylurea</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Dipeptidyl peptidase 4 (DPP-4) inhibitor</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Glucagon-like peptide 1 (GLP-1) receptor agonist</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Insulin</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="223"/>
+                    <measurement group_id="B2" value="221"/>
+                    <measurement group_id="B3" value="444"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Remdesivir</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="114"/>
+                    <measurement group_id="B2" value="111"/>
+                    <measurement group_id="B3" value="225"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Systemic corticosteroids</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="176"/>
+                    <measurement group_id="B2" value="179"/>
+                    <measurement group_id="B3" value="355"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Dexamethasone</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="133"/>
+                    <measurement group_id="B2" value="136"/>
+                    <measurement group_id="B3" value="269"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Other systemic glucocorticoid</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="625"/>
+                    <count group_id="B2" value="625"/>
+                    <count group_id="B3" value="1250"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="105"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Prevention of COVID-19 Complications or Death: During the 30-day Treatment Period, Time to First Occurrence of New/Worsened Organ Dysfunction During Index Hospitalization or Death From Any Cause.</title>
+        <description>Time to first occurrence of new/worsened organ dysfunction during index hospitalization or death from any cause.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.&#xD;
+New/worsened organ dysfunction is defined as at least one of the following:&#xD;
+Respiratory decompensation requiring initiation of mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP), and/or initiation of extracorporeal membrane oxygenation (ECMO)&#xD;
+New or worsening congestive heart failure&#xD;
+Requirement for vasopressor therapy and/or inotropic or mechanical circulatory support&#xD;
+Ventricular tachycardia or fibrillation lasting at least 30 seconds and/or associated with hemodynamic instability or pulseless electrical activity, or resuscitated cardiac arrest&#xD;
+Doubling of s-Creatinine or initiation of renal replacement therapy</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevention of COVID-19 Complications or Death: During the 30-day Treatment Period, Time to First Occurrence of New/Worsened Organ Dysfunction During Index Hospitalization or Death From Any Cause.</title>
+          <description>Time to first occurrence of new/worsened organ dysfunction during index hospitalization or death from any cause.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.&#xD;
+New/worsened organ dysfunction is defined as at least one of the following:&#xD;
+Respiratory decompensation requiring initiation of mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP), and/or initiation of extracorporeal membrane oxygenation (ECMO)&#xD;
+New or worsening congestive heart failure&#xD;
+Requirement for vasopressor therapy and/or inotropic or mechanical circulatory support&#xD;
+Ventricular tachycardia or fibrillation lasting at least 30 seconds and/or associated with hemodynamic instability or pulseless electrical activity, or resuscitated cardiac arrest&#xD;
+Doubling of s-Creatinine or initiation of renal replacement therapy</description>
+          <units>Patients with events/100 pt-mos at risk</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.4"/>
+                    <measurement group_id="O2" value="15.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Improving Clinical Recovery: Hierarchical Composite Outcome Measure Including Death From Any Cause Through Day 30, New/Worsened Organ Dysfunction, Clinical Status at Day 30 and Hospital Discharge Before Day 30 and Alive at Day 30.</title>
+        <description>The number of patients experiencing improvement by day 30 compared with baseline (discharged from hospital without a worsening event and alive, or still in hospital without a worsening event and without oxygen support) in the hierarchical composite endpoint analysis.&#xD;
+Hierarchical composite outcome measure includes:&#xD;
+Death from any cause through Day 30&#xD;
+New/worsened organ dysfunction&#xD;
+Clinical status at Day 30 for patients still hospitalized and without any worsening organ dysfunction&#xD;
+Hospital discharge before Day 30 and alive at Day 30</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Improving Clinical Recovery: Hierarchical Composite Outcome Measure Including Death From Any Cause Through Day 30, New/Worsened Organ Dysfunction, Clinical Status at Day 30 and Hospital Discharge Before Day 30 and Alive at Day 30.</title>
+          <description>The number of patients experiencing improvement by day 30 compared with baseline (discharged from hospital without a worsening event and alive, or still in hospital without a worsening event and without oxygen support) in the hierarchical composite endpoint analysis.&#xD;
+Hierarchical composite outcome measure includes:&#xD;
+Death from any cause through Day 30&#xD;
+New/worsened organ dysfunction&#xD;
+Clinical status at Day 30 for patients still hospitalized and without any worsening organ dysfunction&#xD;
+Hospital discharge before Day 30 and alive at Day 30</description>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="547"/>
+                    <measurement group_id="O2" value="532"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Hospital Discharge</title>
+        <description>Time to hospital discharge (refers to index hospitalization only).&#xD;
+Median time to hospital discharge is presented in days.</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Hospital Discharge</title>
+          <description>Time to hospital discharge (refers to index hospitalization only).&#xD;
+Median time to hospital discharge is presented in days.</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5" lower_limit="5.0" upper_limit="6.0"/>
+                    <measurement group_id="O2" value="6" lower_limit="5.0" upper_limit="6.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Number of Days Alive and Free From Respiratory Decompensation Requiring Initiation of Mechanical Ventilation (Includes Invasive or Non-invasive Ventilation, CPAP, or BiPAP)</title>
+        <description>Total number of days alive and free from mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP) is calculated for each patient as total follow-up time (30 days) substracted days in hospital with mechanical ventilation and days dead.</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Number of Days Alive and Free From Respiratory Decompensation Requiring Initiation of Mechanical Ventilation (Includes Invasive or Non-invasive Ventilation, CPAP, or BiPAP)</title>
+          <description>Total number of days alive and free from mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP) is calculated for each patient as total follow-up time (30 days) substracted days in hospital with mechanical ventilation and days dead.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.8" spread="6.8"/>
+                    <measurement group_id="O2" value="27.4" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Number of Days Alive, Not in the ICU, and Free From Respiratory Decompensation Requiring Initiation of Mechanical Ventilation (Includes Invasive or Non-invasive Ventilation, CPAP, or BiPAP)</title>
+        <description>Total number of days alive, not in the ICU and free from mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP) is calculated for each patient as total follow-up time (30 days) substracted days in ICU and days dead.</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Number of Days Alive, Not in the ICU, and Free From Respiratory Decompensation Requiring Initiation of Mechanical Ventilation (Includes Invasive or Non-invasive Ventilation, CPAP, or BiPAP)</title>
+          <description>Total number of days alive, not in the ICU and free from mechanical ventilation (includes invasive or non-invasive ventilation, CPAP, or BiPAP) is calculated for each patient as total follow-up time (30 days) substracted days in ICU and days dead.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.5" spread="7.2"/>
+                    <measurement group_id="O2" value="27.1" spread="7.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Composite of Acute Kidney Injury or Initiation of Renal Replacement Therapy, or Death From Any Cause</title>
+        <description>Acute kidney injury is defined as an episode of doubling s-creatinine compared to baseline during index hospitalization or SAE. Initiation of renal replacement therapy is defined as initiation of renal replacement therapy during index hospitalization or SAE.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Composite of Acute Kidney Injury or Initiation of Renal Replacement Therapy, or Death From Any Cause</title>
+          <description>Acute kidney injury is defined as an episode of doubling s-creatinine compared to baseline during index hospitalization or SAE. Initiation of renal replacement therapy is defined as initiation of renal replacement therapy during index hospitalization or SAE.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.</description>
+          <units>Patients with events/100 pt-mos at risk</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.2"/>
+                    <measurement group_id="O2" value="11.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Death From Any Cause</title>
+        <description>Time to death from any cause.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.</description>
+        <time_frame>Randomization through Day 30</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Dapagliflozin 10mg</title>
+            <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Death From Any Cause</title>
+          <description>Time to death from any cause.&#xD;
+Event rates are presented as the number of subjects with event per 100 patient month (30 days) of follow-up.&#xD;
+Unit of Measure: Patients with events per 100 patient-months (pt-mos) at risk.</description>
+          <units>Patients with events/100 pt-mos at risk</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="625"/>
+                <count group_id="O2" value="625"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.8"/>
+                    <measurement group_id="O2" value="9.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were collected from the time of signing informed consent through the end of the 30-day treatment period.</time_frame>
+      <desc>All-cause mortality was monitored in the total started population of 1250 patients. Serious adverse events, adverse events resulting in the discontinuation of study drug, and safety events of acute kidney injury and diabetic ketoacidosis were monitored in the safety population defined as patients who received at least one dose of study medication. 613 patients in the dapagliflozin group and 616 patients in the placebo group received at least one dose of study medication.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Dapagliflozin 10mg</title>
+          <description>Dapagliflozin 10 mg daily&#xD;
+Dapagliflozin 10 MG: Active Comparator: Dapagliflozin 10mg</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Dapagliflozin matching placebo 10 mg daily&#xD;
+Placebo: Placebo Comparator</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA version 23.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="41" subjects_at_risk="625"/>
+                <counts group_id="E2" subjects_affected="54" subjects_at_risk="625"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="70" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="87" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardio-respiratory arrest</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure acute</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Acute myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure congestive</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cardiac Disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal hemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Upper gastrointestinal hemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Multiple organ dysfunction syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>General physical health deterioration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Septic Shock</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Severe acute respiratory syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Device related sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Emphysematous pyelonephritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Herpes virus infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Meningoencephalitis herpetic</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Labyrinthitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection enterococcal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Femur fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Rib fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood electrolytes abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Lactic acidosis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Diabetic ketoacidosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Diabetic metabolic decompensation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Euglycemic diabetic ketoacidosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Metabolic acidosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Transitional cell carcinoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Prostate cancer</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ischemic stroke</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Myasthenia gravis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cerebral disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Cerebrovascular accident</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Presnycope</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Psychotic disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="32" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Renal impairment</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Renal injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Respiration abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary edema</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Respiratory distress</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract inflammation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arterial thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Hypovolemic shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="616"/>
+              </event>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA version 23.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="613"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="616"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The sponsor can review results communications prior to public release and can embargo communications regarding results for a period that is less than or equal to 45 days from the time submitted to the sponsor for review. The sponsor cannot require changes to the communication with the exception of requiring the removal of confidential information. The embargo can be extended to 90 days if there would be any patent applications to be filed by the sponsor related to the proposed publication.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>DARE-19 Global Project Manager</name_or_title>
+      <organization>Saint Luke's Hospital of Kansas City</organization>
+      <phone>816-932-9858</phone>
+      <email>DARE-19@saint-lukes.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="131">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04898166</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NO.F.2-81/2021-GEN/56923/JPMC</org_study_id>
+    <nct_id>NCT04898166</nct_id>
+  </id_info>
+  <brief_title>Association of Androgenetic Alopecia and Severity of Coronavirus Disease 2019 (COVID-19).</brief_title>
+  <official_title>Association of Androgenetic Alopecia and Severity of Coronavirus Disease 2019 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Syeda Mahanum Ali</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jinnah Postgraduate Medical Centre</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) can cause variable symptoms ranging from mild common&#xD;
+      cold-like symptoms to severe life threatening pneumonia. Recent studies show severe outcomes&#xD;
+      of COVID-19 patients specially in males who suffer from androgenetic alopecia, would be&#xD;
+      significant and is of particular interest of this study and could help further support the&#xD;
+      hypothesis that anti-androgen therapy might represents an additional potential intervention&#xD;
+      against severe COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION: An outbreak of Corona virus disease 2019 (COVID-19) caused by severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-coV-2) occurred in Wuhan city, Hubei province, China&#xD;
+      in December 2019. Belonging to the family Beta-coronavirus, this virus can cause variable&#xD;
+      symptoms ranging from mild common cold-like symptoms to severe life threatening pneumonia.&#xD;
+      Numerous cases of new onset of skin lesions in COVID-19 patients are spreading across the&#xD;
+      globe. There are also some reports of aggravation of prior skin disorders. While severe&#xD;
+      COVID-19 symptoms and high mortality primarily manifested in older adults specially adult&#xD;
+      males, this sexual dimorphism in the severity of COVID-19 patients predisposed possibly due&#xD;
+      to increased androgen levels particularly in males suffering from androgenetic alopecia (AGA)&#xD;
+      would be significant and is of particular interest of this study and could help further&#xD;
+      support the hypothesis that anti-androgen therapy might represents an additional potential&#xD;
+      intervention against severe COVID-19.&#xD;
+&#xD;
+      OBJECTIVE: Association of Androgenetic alopecia and severity of Coronavirus disease 2019&#xD;
+      (COVID-19).&#xD;
+&#xD;
+      PLACE OF STUDY: COVID-19 isolation unit of Jinnah postgraduate medical center (JPMC) Karachi,&#xD;
+      Sindh province, Pakistan.&#xD;
+&#xD;
+      RESEARCH METHODOLOGY: This study will be conducted on patients admitted in COVID-19 isolation&#xD;
+      unit of JPMC Karachi. Permission from the institutional ethical review committee will be&#xD;
+      taken prior to conduction of study, demographic data and written informed consent will be&#xD;
+      taken from every patient. Sample size of study would be 300 hospitalized patients of&#xD;
+      COVID-19. Detailed history and examination of patients including be conducted in COVID-19&#xD;
+      patients. Scoring of AGA be evaluated using Hamilton-Norwood scale (HNS) in men and Ludwig&#xD;
+      scale in female. Severity of the COVID-19 be measured by COVID severity score (A-DROP). Study&#xD;
+      is aimed to evaluate association of AGA and severity of COVID-19, frequency of AGA in covid&#xD;
+      19 and whether the lung involvement correlates with the severity of AGA or whether the&#xD;
+      proportion of AGA is higher in intensive care/fatal COVID-19.&#xD;
+&#xD;
+      DATA ANALYSIS: Data will be analysed using SPSS version 23 registered for Microsoft windows.&#xD;
+      Mean and standard deviation will be calculated for expression of quantitative variables like&#xD;
+      age, weight, duration of disease symptoms. Frequencies and percentages will be calculated for&#xD;
+      the qualitative variables like gender, co-morbidities, frequency and severity of AGA, disease&#xD;
+      outcome and AGA associated with severity of COVID-19. Effect modifiers like age, gender,&#xD;
+      weight, co-morbidities, duration of symptoms will be controlled through stratification.&#xD;
+      Post-stratification will be recalculated and chi-square test will be applied. P-value of&#xD;
+      &lt;0.05% will be considered as significant.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Actual">March 31, 2021</completion_date>
+  <primary_completion_date type="Actual">March 31, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>4 Months</target_duration>
+  <primary_outcome>
+    <measure>Androgenetic Alopecia Frequency in Participants.</measure>
+    <time_frame>Day 1 of admission</time_frame>
+    <description>Frequency of Androgenetic alopecia in patients be noted.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severity of Androgenetic Alopecia in Patients</measure>
+    <time_frame>Day 1 of admission</time_frame>
+    <description>Severity of androgenetic alopecia be measured using Hamilton and norwood scale (HNS) less than 3 or 3-7.&#xD;
+In females using ludwig scale: less than 2 or 2-3. Hamilton norwood score: Minimum value 1, maximum value 7. Ludwig score: minimum 0, maximum 3 Mild to moderate: HNS &lt;3/ Ludwig &lt;2 Severe: HNS 3-7/ ludwig 2-3</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>300 Participants Mean Age</measure>
+    <time_frame>Day 1 of admission</time_frame>
+    <description>Age of the patient is very important to co-relate with disease outcome and severity of Androgenetic alopecia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease Outcome as Assessed by Number of Participants Experiencing Better or Worst Outcome With Respect to Age Group.</measure>
+    <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+    <description>Outcome of participants suffering from covid-19 with respect to age group as better outcomes: oxygen mask/bag or nasal cannula Worst outcomes: ventilator or death</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease Outcome as Assessed by Severity of Androgeneic Alopecia in Males</measure>
+    <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+    <description>Covid-19 disease outcome assessed by Severity of androgenetic alopecia to find out their correlation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease Outcome be Assessed by Severity of Androgenetic Alopecia in Females</measure>
+    <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+    <description>Covid-19 disease outcome assessed by Severity of androgenetic alopecia to find out their correlation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Covid-19 Disease Outcomes Correlating With Severity of Androgenetic Alopecia and Age in Females.</measure>
+    <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+    <description>It is to find out how severily disease outcomes can be affected due to androgeneic alopecia by age accordingly.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Covid-19 Disease Outcomes Correlating With Severity of Androgenetic Alopecia and Age in Males</measure>
+    <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+    <description>It is to find out how severily disease outcomes can be affected due to androgeneic alopecia by age accordingly.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital Disease Outcome in 300 Subjects. Having 220 Males and 80 Females</measure>
+    <time_frame>Disease outcome during this 4 month duration of study.</time_frame>
+    <description>Hospital disease outcome as mask, cannnula, ventilator or death in 300 subjects. Having 220 males and 80 Females</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comorbidities Including Diabetes Mellitus, Smoking, Hypertension, Ischemic Heart Disease, Chronic Kidney Disease, Obesity in Participants</measure>
+    <time_frame>Date of randomization until upto 4 months</time_frame>
+    <description>Comorbidities in patients suffering from covid-19 is of great value as it affects disease outcome.number of patients suffrring from comorbidities eg: diabetes mellitus, smoking, hypertension, ischemic heart disease, chronic kidney disease, obesity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Duration of COVID-19</measure>
+    <time_frame>Day 1 of admission, till disease outcome in upto 4 months</time_frame>
+    <description>Duration of symptoms patients experiencing from the onset of symptoms till outcome.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">300</enrollment>
+  <condition>Androgenetic Alopecia</condition>
+  <condition>Coronavirus Disease 2019</condition>
+  <condition>Covid19</condition>
+  <condition>Male Pattern Baldness</condition>
+  <condition>Female Pattern Baldness</condition>
+  <condition>COVID-19 Pneumonia</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalised diagnosed covid-19 patients with or without comorbidities. Irrespective of&#xD;
+        disease duration. Intensity and frequency of androgenetic alopecia, disease outcome be&#xD;
+        noted in these patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized patients of diagnosed covid-19 age &gt; 20years&#xD;
+&#xD;
+          -  with or without androgenetic alopecia&#xD;
+&#xD;
+          -  with or without comorbidities&#xD;
+&#xD;
+          -  irrespective of disease duration -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Rabia Ghafoor, MBBS, FCPS, SCE-Derm(MRCP-UK)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jinnah Postgraduate Medical Centre</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Syeda Mahanum Ali, MBBS, Postgraduate Trainee</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jinnah Postgraduate Medical Centre</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jinnah postgraduate medical center</name>
+      <address>
+        <city>Karachi</city>
+        <state>Sindh</state>
+        <zip>75510</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32237190/</url>
+    <description>What does androgenetic alopecia have to do with COVID-19? An insight into a potential new therapy</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/33098701/</url>
+    <description>Alopecia and grey hair are associated with COVID-19 Severity</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32301221/</url>
+    <description>A preliminary observation: Male pattern hair loss among hospitalized COVID-19 patients in Spain - A potential clue to the role of androgens in COVID-19 severity</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32446821/</url>
+    <description>Androgenetic alopecia present in the majority of patients hospitalized with COVID-19: The &quot;Gabrin sign&quot;</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32333494/</url>
+    <description>Racial variations in COVID-19 deaths may be due to androgen receptor genetic variants associated with prostate cancer and androgenetic alopecia. Are anti-androgens a potential treatment for COVID-19?</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32707256/</url>
+    <description>Male balding is a major risk factor for severe COVID-19</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32735970/</url>
+    <description>Androgenetic alopecia in COVID-19: Compared to age-matched epidemiologic studies and hospital outcomes with or without the Gabrin sign</description>
+  </link>
+  <reference>
+    <citation>Goren A, McCoy J, Wambier CG, Vano-Galvan S, Shapiro J, Dhurat R, Washenik K, Lotti T. What does androgenetic alopecia have to do with COVID-19? An insight into a potential new therapy. Dermatol Ther. 2020 Jul;33(4):e13365. doi: 10.1111/dth.13365. Epub 2020 Apr 8.</citation>
+    <PMID>32237190</PMID>
+  </reference>
+  <reference>
+    <citation>Müller Ramos P, Ianhez M, Amante Miot H. Alopecia and grey hair are associated with COVID-19 Severity. Exp Dermatol. 2020 Dec;29(12):1250-1252. doi: 10.1111/exd.14220. Epub 2020 Nov 18.</citation>
+    <PMID>33098701</PMID>
+  </reference>
+  <reference>
+    <citation>Goren A, Vaño-Galván S, Wambier CG, McCoy J, Gomez-Zubiaur A, Moreno-Arrones OM, Shapiro J, Sinclair RD, Gold MH, Kovacevic M, Mesinkovska NA, Goldust M, Washenik K. A preliminary observation: Male pattern hair loss among hospitalized COVID-19 patients in Spain - A potential clue to the role of androgens in COVID-19 severity. J Cosmet Dermatol. 2020 Jul;19(7):1545-1547. doi: 10.1111/jocd.13443. Epub 2020 Apr 23.</citation>
+    <PMID>32301221</PMID>
+  </reference>
+  <reference>
+    <citation>Wambier CG, Vaño-Galván S, McCoy J, Gomez-Zubiaur A, Herrera S, Hermosa-Gelbard Á, Moreno-Arrones OM, Jiménez-Gómez N, González-Cantero A, Fonda-Pascual P, Segurado-Miravalles G, Shapiro J, Pérez-García B, Goren A. Androgenetic alopecia present in the majority of patients hospitalized with COVID-19: The &quot;Gabrin sign&quot;. J Am Acad Dermatol. 2020 Aug;83(2):680-682. doi: 10.1016/j.jaad.2020.05.079. Epub 2020 May 22.</citation>
+    <PMID>32446821</PMID>
+  </reference>
+  <reference>
+    <citation>McCoy J, Wambier CG, Vano-Galvan S, Shapiro J, Sinclair R, Ramos PM, Washenik K, Andrade M, Herrera S, Goren A. Racial variations in COVID-19 deaths may be due to androgen receptor genetic variants associated with prostate cancer and androgenetic alopecia. Are anti-androgens a potential treatment for COVID-19? J Cosmet Dermatol. 2020 Jul;19(7):1542-1543. doi: 10.1111/jocd.13455. Epub 2020 Jun 14.</citation>
+    <PMID>32333494</PMID>
+  </reference>
+  <reference>
+    <citation>Lee J, Yousaf A, Fang W, Kolodney MS. Male balding is a major risk factor for severe COVID-19. J Am Acad Dermatol. 2020 Nov;83(5):e353-e354. doi: 10.1016/j.jaad.2020.07.062. Epub 2020 Jul 22. Erratum in: J Am Acad Dermatol. 2021 Sep;85(3):799.</citation>
+    <PMID>32707256</PMID>
+  </reference>
+  <reference>
+    <citation>Wambier CG, Vaño-Galván S, McCoy J, Pai S, Dhurat R, Goren A. Androgenetic alopecia in COVID-19: Compared to age-matched epidemiologic studies and hospital outcomes with or without the Gabrin sign. J Am Acad Dermatol. 2020 Dec;83(6):e453-e454. doi: 10.1016/j.jaad.2020.07.099. Epub 2020 Jul 29.</citation>
+    <PMID>32735970</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>May 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 24, 2021</study_first_posted>
+  <results_first_submitted>July 18, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 29, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 2, 2021</results_first_posted>
+  <last_update_submitted>October 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Jinnah Postgraduate Medical Centre</investigator_affiliation>
+    <investigator_full_name>Syeda Mahanum Ali</investigator_full_name>
+    <investigator_title>Postgraduate trainee dermatology</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Androgenetic alopecia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Alopecia</mesh_term>
+    <mesh_term>Alopecia Areata</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 31, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/66/NCT04898166/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>300 participants at COVID-19 isolation unit jinnah postgraduate medical centre karachi.</recruitment_details>
+      <pre_assignment_details>300 participants signed consent for participation.&#xD;
+300 participants assigned for the study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>220 Hospitalized Male Participants Diagnosed Case of COVID-19.</title>
+          <description>220 hospitalised male participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+        </group>
+        <group group_id="P2">
+          <title>80 Hospitalized Female Participants Diagnosed Case of COVID-19.</title>
+          <description>80 hospitalized female Participants diagnosed case of hospitalized COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught ludwig scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="220"/>
+                <participants group_id="P2" count="80"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="220"/>
+                <participants group_id="P2" count="80"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>220 Hospitalized Male Participants Diagnosed Case of COVID-19.</title>
+          <description>220 hospitalized male Participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+        </group>
+        <group group_id="B2">
+          <title>80 Hospitalized Female Participants Diagnosed Case of COVID-19</title>
+          <description>80 hospitalized female Participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught ludwig scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="220"/>
+            <count group_id="B2" value="80"/>
+            <count group_id="B3" value="300"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53.39" spread="14.928"/>
+                    <measurement group_id="B2" value="52.17" spread="8.391"/>
+                    <measurement group_id="B3" value="53.06" spread="13.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Between 20 to 40 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Between &gt;40 to 60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="99"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="80"/>
+                    <measurement group_id="B2" value="00"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="00"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="220"/>
+                    <measurement group_id="B2" value="00"/>
+                    <measurement group_id="B3" value="220"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="00"/>
+                    <measurement group_id="B2" value="00"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="220"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="300"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="00"/>
+                    <measurement group_id="B2" value="00"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Pakistan</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="220"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="300"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbidities</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Smoking</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ischemic heart disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetes mellitus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Obesity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic kidney disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Multiple comorbidities</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>No comorbidity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="92"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Androgenetic Alopecia Frequency in Participants.</title>
+        <description>Frequency of Androgenetic alopecia in patients be noted.</description>
+        <time_frame>Day 1 of admission</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>220 Hospitalized Participants Diagnosed Case of COVID-19.</title>
+            <description>220 hospitalised male participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+          <group group_id="O2">
+            <title>80 Hospitalized Female Participants Diagnosed Case of Hospitalized COVID-19</title>
+            <description>80 hospitalized female Participants diagnosed case of hospitalized COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught ludwig scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Androgenetic Alopecia Frequency in Participants.</title>
+          <description>Frequency of Androgenetic alopecia in patients be noted.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>With androgenetic alopecia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="209"/>
+                    <measurement group_id="O2" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Without androgenetic alopecia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Severity of Androgenetic Alopecia in Patients</title>
+        <description>Severity of androgenetic alopecia be measured using Hamilton and norwood scale (HNS) less than 3 or 3-7.&#xD;
+In females using ludwig scale: less than 2 or 2-3. Hamilton norwood score: Minimum value 1, maximum value 7. Ludwig score: minimum 0, maximum 3 Mild to moderate: HNS &lt;3/ Ludwig &lt;2 Severe: HNS 3-7/ ludwig 2-3</description>
+        <time_frame>Day 1 of admission</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>220 Hospitalised Male Participants Diagnosed Case of COVID-19.</title>
+            <description>220 hospitalised male participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+          <group group_id="O2">
+            <title>80 Hospitalized Female Participants Diagnosed Case of Hospitalized COVID-19.</title>
+            <description>80 hospitalized female Participants diagnosed case of hospitalized COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught ludwig scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Severity of Androgenetic Alopecia in Patients</title>
+          <description>Severity of androgenetic alopecia be measured using Hamilton and norwood scale (HNS) less than 3 or 3-7.&#xD;
+In females using ludwig scale: less than 2 or 2-3. Hamilton norwood score: Minimum value 1, maximum value 7. Ludwig score: minimum 0, maximum 3 Mild to moderate: HNS &lt;3/ Ludwig &lt;2 Severe: HNS 3-7/ ludwig 2-3</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Mild to moderate</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="43"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Severe</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="177"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>300 Participants Mean Age</title>
+        <description>Age of the patient is very important to co-relate with disease outcome and severity of Androgenetic alopecia</description>
+        <time_frame>Day 1 of admission</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>300 Participants Diagnosed Case of Hospitalized COVID-19. Mean Age be Noted</title>
+            <description>300 Participants diagnosed case of hospitalized COVID-19. Mean age be noted in both males and females</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>300 Participants Mean Age</title>
+          <description>Age of the patient is very important to co-relate with disease outcome and severity of Androgenetic alopecia</description>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="300"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.06" spread="13.495"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Disease Outcome as Assessed by Number of Participants Experiencing Better or Worst Outcome With Respect to Age Group.</title>
+        <description>Outcome of participants suffering from covid-19 with respect to age group as better outcomes: oxygen mask/bag or nasal cannula Worst outcomes: ventilator or death</description>
+        <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>220 Hospitalised Male Participants Diagnosed Case of COVID-19.</title>
+            <description>220 hospitalised male participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+          <group group_id="O2">
+            <title>80 Hospitalized Female Participants Diagnosed Case of Hospitalized COVID-19.</title>
+            <description>80 hospitalized female Participants diagnosed case of hospitalized COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught ludwig scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Outcome as Assessed by Number of Participants Experiencing Better or Worst Outcome With Respect to Age Group.</title>
+          <description>Outcome of participants suffering from covid-19 with respect to age group as better outcomes: oxygen mask/bag or nasal cannula Worst outcomes: ventilator or death</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Participants on mask/bag with age 20-40years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on mask/bag with age &gt;40-60 years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on mask/bag with age &gt;60years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on Nasal cannula with age 20-40years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on nasal cannula with age &gt;40-60 years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on nasal cannula with age &gt;60years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on ventilator with age 20-40years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on ventilator with age &gt;40-60 years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on ventilator with age &gt;60years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants death with age 20-40 years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants death with age &gt;40-60 years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants death with age &gt;60years</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Disease Outcome as Assessed by Severity of Androgeneic Alopecia in Males</title>
+        <description>Covid-19 disease outcome assessed by Severity of androgenetic alopecia to find out their correlation</description>
+        <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>220 Hospitalised Male Subjects. Their Disease Outcomes in Relation to Severity of AGA</title>
+            <description>220 hospitalised male participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of Androgenetic alopecia be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death. Their disease outcomes in relation to severity of AGA</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Outcome as Assessed by Severity of Androgeneic Alopecia in Males</title>
+          <description>Covid-19 disease outcome assessed by Severity of androgenetic alopecia to find out their correlation</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Patients on nasal cannula with HNS &lt;3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients on nasal cannula with HNS 3-7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients on mask/bag with HNS &lt;3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients on mask/bag with HNS 3-7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients on ventilator with HNS &lt;3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients on ventilator with HNS 3-7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients death with HNS &lt;3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Patients death with HNS 3-7</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.000</p_value>
+            <method>Chi-squared</method>
+            <method_desc>Chi-square value 18.90 and its asymptotic significance .000</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Disease Outcome be Assessed by Severity of Androgenetic Alopecia in Females</title>
+        <description>Covid-19 disease outcome assessed by Severity of androgenetic alopecia to find out their correlation</description>
+        <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>80 Hospitalised Female Participants. Their Disease Outcomes in Relation to Severity of AGA</title>
+            <description>80 hospitalised female participants diagnosed case of COVID-19. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught ludwig scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death. Their disease outcomes in relation to severity of AGA</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Outcome be Assessed by Severity of Androgenetic Alopecia in Females</title>
+          <description>Covid-19 disease outcome assessed by Severity of androgenetic alopecia to find out their correlation</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female participants on mask/bag with no androgenetic alopecia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on mask/bag with ludwig scale &lt;2</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on mask/bag with ludwig scale 2-3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on nasal cannula without androgenetic alopecia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on nasal cannula with ludwig scale &lt;2</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on nasal cannula with ludwig scale 2-3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on ventilator with no androgenetic alopecia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on ventilator with ludwig scale &lt;2</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants on ventilator with ludwig scale 2-3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants death with no androgenetic alopecia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants death with ludwig scale &lt;2</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Female participants death with ludwig scale 2-3</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.081</p_value>
+            <method>Chi-squared</method>
+            <method_desc>Chi-square value 7.544 and its asymptotic significance .273</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Covid-19 Disease Outcomes Correlating With Severity of Androgenetic Alopecia and Age in Females.</title>
+        <description>It is to find out how severily disease outcomes can be affected due to androgeneic alopecia by age accordingly.</description>
+        <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>37 Hospitalised Female Participants of COVID-19 With Androgenetic Alopecia</title>
+            <description>37 hospitalised female participants diagnosed case of COVID-19 presence of absence of androgenetic alopecia influencing outcome be noted as patient on mask/bag, nasal cannula, ventilator or death with respec to aget</description>
+          </group>
+          <group group_id="O2">
+            <title>43 Hospitalised Female Participants of COVID-19 Without Androgenetic Alopecia With Respect to Age</title>
+            <description>43 hospitalised female participants diagnosed case of COVID-19 with androgenetic alopecia. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death with respect to age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Covid-19 Disease Outcomes Correlating With Severity of Androgenetic Alopecia and Age in Females.</title>
+          <description>It is to find out how severily disease outcomes can be affected due to androgeneic alopecia by age accordingly.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="37"/>
+                <count group_id="O2" value="43"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Age 20-40yrs: nasal cannula</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;40-60yrs: nasal cannula</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;60yrs nasal cannula</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="00"/>
+                    <measurement group_id="O2" value="00"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age 20-40yrs: mask/bag</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;40-60yrs: mask/bag</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;60yrs mask/bag</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="00"/>
+                    <measurement group_id="O2" value="00"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age 20-40yrs: ventilator</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;40-60yrs: ventilator</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;60yrs: ventilator</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="00"/>
+                    <measurement group_id="O2" value="00"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age 20-40yrs: death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;40-60yrs: death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age &gt;60yrs: death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="00"/>
+                    <measurement group_id="O2" value="00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Covid-19 Disease Outcomes Correlating With Severity of Androgenetic Alopecia and Age in Males</title>
+        <description>It is to find out how severily disease outcomes can be affected due to androgeneic alopecia by age accordingly.</description>
+        <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condtion(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>43 Hospitalised Male Participants Diagnosed Case of COVID-19 With HNS &lt;3.</title>
+            <description>43 hospitalised male participants diagnosed case of COVID-19 with HNS &lt;3. Presence or absence of androgenetic alopecia be noted. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death with respect to age</description>
+          </group>
+          <group group_id="O2">
+            <title>177 Hospitalised Male Participants Diagnosed Case of COVID-19 With HNS &gt;3-7</title>
+            <description>177 hospitalised male participants diagnosed case of COVID-19 with HNS 3-7. Severity of androgeneic be noted throught Hamilton norwood scale. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death with respect to age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Covid-19 Disease Outcomes Correlating With Severity of Androgenetic Alopecia and Age in Males</title>
+          <description>It is to find out how severily disease outcomes can be affected due to androgeneic alopecia by age accordingly.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="43"/>
+                <count group_id="O2" value="177"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Nasal cannula Age 20-40yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Nasal cannula age &gt;40-60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Nasal cannula age &gt;60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mask/bag age 20-40yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mask/bag age &gt;40-60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mask/bag age &gt;60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Ventilator age 20-40yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Ventilator age &gt;40-60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Ventilator age &gt;60yr</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Death age 20-40yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Death age &gt;40-60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Death age &gt;60yrs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Hospital Disease Outcome in 300 Subjects. Having 220 Males and 80 Females</title>
+        <description>Hospital disease outcome as mask, cannnula, ventilator or death in 300 subjects. Having 220 males and 80 Females</description>
+        <time_frame>Disease outcome during this 4 month duration of study.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>220 Hospitalized Participants Diagnosed Case of COVID-19.</title>
+            <description>220 hospitalised male participants diagnosed case of COVID-19. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+          <group group_id="O2">
+            <title>80 Hospitalized Female Participants Diagnosed Case of Hospitalized COVID-19</title>
+            <description>80 hospitalized female Participants diagnosed case of hospitalized COVID-19. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospital Disease Outcome in 300 Subjects. Having 220 Males and 80 Females</title>
+          <description>Hospital disease outcome as mask, cannnula, ventilator or death in 300 subjects. Having 220 males and 80 Females</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Mask/bag</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Nasal cannula</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="72"/>
+                    <measurement group_id="O2" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Ventilator usage</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Comorbidities Including Diabetes Mellitus, Smoking, Hypertension, Ischemic Heart Disease, Chronic Kidney Disease, Obesity in Participants</title>
+        <description>Comorbidities in patients suffering from covid-19 is of great value as it affects disease outcome.number of patients suffrring from comorbidities eg: diabetes mellitus, smoking, hypertension, ischemic heart disease, chronic kidney disease, obesity.</description>
+        <time_frame>Date of randomization until upto 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>300 Participants Diagnosed Case of Hospitalized COVID-19 Outcome in Relation to Comorbidities</title>
+            <description>300 Participants diagnosed case of hospitalized COVID-19. 220 males and 80 females. Presence or absence of comorbidities. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Comorbidities Including Diabetes Mellitus, Smoking, Hypertension, Ischemic Heart Disease, Chronic Kidney Disease, Obesity in Participants</title>
+          <description>Comorbidities in patients suffering from covid-19 is of great value as it affects disease outcome.number of patients suffrring from comorbidities eg: diabetes mellitus, smoking, hypertension, ischemic heart disease, chronic kidney disease, obesity.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="300"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>participant on nasal cannula with no comorbidity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of smoking</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of ischemic heart disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of diabetes mellitus</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of hypertension</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of obesity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of chronic kidney disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on nasal cannula with history of multiple comorbidities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with no comorbidity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on mask/bag with history of smoking</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with history of history of ischemic heart disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with history of diabetes mellitus</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with history of hypertension</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with obesity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with history of chronic kidney disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on mask/bag with history of multiple comorbidities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on ventilator with no comorbidity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants on Ventilator with history of smoking</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on ventilator with history of ischemic heart disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on ventilator with history of diabetes mellitus</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on ventilator with history of hypertension</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on ventilator with history of obesity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on Ventilator with history of chronic kidney disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant on ventilator with history of multiple comorbidities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Participants death with no comorbidity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death with history of smoking</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death: history of ischemic heart disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death with history diabetes mellitus</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death with history of hypertension</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death with history of obesity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death with history of kidney disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>participant death with history of multiple comorbidities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease Duration of COVID-19</title>
+        <description>Duration of symptoms patients experiencing from the onset of symptoms till outcome.</description>
+        <time_frame>Day 1 of admission, till disease outcome in upto 4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>300 Participants Diagnosed Case of Hospitalized COVID-19 Disease Duration</title>
+            <description>300 Participants diagnosed case of hospitalized COVID-19 mean and standard deviation of disease duration.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Duration of COVID-19</title>
+          <description>Duration of symptoms patients experiencing from the onset of symptoms till outcome.</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="300"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.79" spread="5.727"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From date of randomization until the date of clinical improvement (discharge, from ventilator to mask/nasal cannula) or worsening of condition(from mask/bag to ventilator) or death from any cause, assessed up to 4 months</time_frame>
+      <desc>Our participants are hospitalized COVID-19 patients. Their adverse events are categorised as on oxygen mask/bag,nasal cannula, ventilator or death.&#xD;
+Other non serious adverse events are zero because all of our participants were having covid19 so they faced it's symptom and no any other adverse event separately</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>300 Participants Diagnosed Case of Hospitalized COVID-19 With or Without Androgenetic Alopecia.</title>
+          <description>300 Participants diagnosed case of hospitalized COVID-19. 220 males and 80 females. Presence or absence of androgenetic alopecia be noted in males and females. Severity of androgeneic throught be noted throught Hamilton norwood score and ludwig score, respectively. Severity of COVID-19 and outcome be noted as patient on mask/bag, nasal cannula, ventilator or death.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="87" subjects_at_risk="300"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="300" subjects_at_risk="300"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>87 male and female participants death</sub_title>
+                <counts group_id="E1" subjects_affected="87" subjects_at_risk="300"/>
+              </event>
+              <event>
+                <sub_title>Male and female participants on ventilator</sub_title>
+                <counts group_id="E1" subjects_affected="56" subjects_at_risk="300"/>
+              </event>
+              <event>
+                <sub_title>Male and female participants on oxygen mask/bag</sub_title>
+                <counts group_id="E1" subjects_affected="69" subjects_at_risk="300"/>
+              </event>
+              <event>
+                <sub_title>Male and female participants on nasal cannula</sub_title>
+                <counts group_id="E1" subjects_affected="88" subjects_at_risk="300"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="300"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Syeda Mahanum Ali</name_or_title>
+      <organization>Jinnah postgraduate medical centre</organization>
+      <phone>03033901112</phone>
+      <email>mahanumsyed8@gmail.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="110">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04728802</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KP-DRUG-SARS-003</org_study_id>
+    <nct_id>NCT04728802</nct_id>
+  </id_info>
+  <brief_title>Proxalutamide Treatment for Hospitalized COVID-19 Patients</brief_title>
+  <official_title>Proxalutamide Treatment for Hospitalized COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Applied Biology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Applied Biology, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the efficacy and safety of Proxalutamide as a&#xD;
+      treatment for hospitalized COVID-19 male and female patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Actual">April 15, 2021</completion_date>
+  <primary_completion_date type="Actual">April 15, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is designed as a prospective, interventional, placebo controlled, double-blinded, randomized parallel assignment study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>Double (Participant, Care Provider)</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>14 Day Recovery Rate</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Recovery rate defined as those reaching scores 1 or 2 over 14 days after randomization on the COVID-19 ordinal scale.&#xD;
+The ordinal scale is defined as follows:&#xD;
+8. Death; 7. Hospitalized, on invasive mechanical ventilation or ECMO; 6. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 5. Hospitalized, requiring supplemental oxygen; 4. Hospitalized, not requiring supplemental oxygen- requiring ongoing medical care (COVID-19 related or otherwise; 3. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 2. Not hospitalized, limitation on activities;&#xD;
+1. Not hospitalized, no limitations on activities</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>28 Day Recovery Rate</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Recovery rate defined as those reaching scores 1 or 2 over 28 days after randomization on the COVID-19 ordinal scale.&#xD;
+The ordinal scale is defined as follows:&#xD;
+8. Death; 7. Hospitalized, on invasive mechanical ventilation or ECMO; 6. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 5. Hospitalized, requiring supplemental oxygen; 4. Hospitalized, not requiring supplemental oxygen- requiring ongoing medical care (COVID-19 related or otherwise; 3. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 2. Not hospitalized, limitation on activities;&#xD;
+1. Not hospitalized, no limitations on activities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28 Day Mortality Rate</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause mortality rate over 28 days post randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-Randomization Time to Recover (Alive Hospital Discharge)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of day post-randomization required to achieve live hospital discharge.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">645</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Proxalutamide + Usual Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Proxalutamide + usual care as determined by care provider</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Usual Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo + usual care as determined by care provider</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Proxalutamide</intervention_name>
+    <description>Proxalutamide 300mg q.d</description>
+    <arm_group_label>Proxalutamide + Usual Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo pill</description>
+    <arm_group_label>Placebo + Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Admitted to the hospital with symptoms of COVID-19&#xD;
+&#xD;
+          2. Male and females age ≥18 years old&#xD;
+&#xD;
+          3. Laboratory confirmed positive SARS-CoV-2 rtPCR test within 7 days prior to&#xD;
+             randomization&#xD;
+&#xD;
+          4. Clinical status on the COVID-19 Ordinal Scale (defined in Section 5.1) of 3, 4, 5, or&#xD;
+             6&#xD;
+&#xD;
+          5. Coagulation: INR ≤ 1.5×ULN, and APTT ≤ 1.5×ULN&#xD;
+&#xD;
+          6. Subject (or legally authorized representative) gives written informed consent prior to&#xD;
+             performing any study procedures&#xD;
+&#xD;
+          7. Subject (or legally authorized representative) agree that subject will not participate&#xD;
+             in another COVID-19 trial while participating in this study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject enrolled in a study to investigate a treatment for COVID-19&#xD;
+&#xD;
+          2. Requires mechanical ventilation&#xD;
+&#xD;
+          3. Subject taking an anti-androgen of any type including: androgen depravation therapy,&#xD;
+             5-alpha reductase inhibitors, etc…&#xD;
+&#xD;
+          4. Patients who are allergic to the investigational product or similar drugs (or any&#xD;
+             excipients);&#xD;
+&#xD;
+          5. Subjects who have malignant tumors in the past 5 years, with the exception of&#xD;
+             completed resected basal cell and squamous cell skin cancer and completely resected&#xD;
+             carcinoma in situ of any type&#xD;
+&#xD;
+          6. Subjects with known serious cardiovascular diseases, congenital long QT syndrome,&#xD;
+             torsade de pointes, myocardial infarction in the past 6 months, or arterial&#xD;
+             thrombosis, or unstable angina pectoris, or congestive heart failure which is&#xD;
+             classified as New York Heart Association (NYHA) class 3 or higher, or left ventricular&#xD;
+             ejection fraction (LVEF) &lt; 50%, QTcF &gt; 450 ms&#xD;
+&#xD;
+          7. Subjects with uncontrolled medical conditions that could compromise participation in&#xD;
+             the study(e.g. uncontrolled hypertension, hypothyroidism, diabetes mellitus)&#xD;
+&#xD;
+          8. Known diagnosis of human immunodeficiency virus(HIV) , hepatitis C, active hepatitis&#xD;
+             B, treponema pallidum (testing is not mandatory）&#xD;
+&#xD;
+          9. Alanine Transaminase (ALT) or Aspartate Transaminase (AST) &gt; 5 times the upper limit&#xD;
+             of normal.&#xD;
+&#xD;
+         10. Estimated glomerular filtration rate (eGFR) &lt; 30 ml/min&#xD;
+&#xD;
+         11. Severe kidney disease requiring dialysis&#xD;
+&#xD;
+         12. Women of child-bearing potential, defined as all women physiologically capable of&#xD;
+             becoming pregnant, unless they are using highly effective contraception, as shown&#xD;
+             below, throughout the study and for 3 months after stopping GT0918 treatment. Highly&#xD;
+             effective contraception methods include:&#xD;
+&#xD;
+               -  Total Abstinence (when this is in line with the preferred and usual lifestyle of&#xD;
+                  the patient. Periodic abstinence (e.g. calendar, ovulation, symptothermal,&#xD;
+                  post-ovulation methods) and withdrawal are not acceptable methods of&#xD;
+                  contraception, or&#xD;
+&#xD;
+               -  Use of one of the following combinations (a+b or a+c or b+c):&#xD;
+&#xD;
+                    1. Use of oral, injected or implanted hormonal methods of contraception or&#xD;
+                       other forms of hormonal contraception that have comparable efficacy (failure&#xD;
+                       rate &lt; 1%), for example hormone vaginal ring or transdermal hormone&#xD;
+                       contraception.&#xD;
+&#xD;
+                    2. Placement of an intrauterine device (IUD) or intrauterine system (IUS) ;&#xD;
+&#xD;
+                    3. Barrier methods of contraception: Condom or Occlusive cap (diaphragm or&#xD;
+                       cervical/vault caps) with spermicidal foam/gel/film/cream/vaginal&#xD;
+                       suppository ;&#xD;
+&#xD;
+               -  Female sterilization (have had prior surgical bilateral oophorectomy with or&#xD;
+                  without hysterectomy) or tubal ligation at least six weeks before taking study&#xD;
+                  treatment. In case of oophorectomy alone, only when the reproductive status of&#xD;
+                  the woman has been confirmed by follow-up hormone level assessment ;&#xD;
+&#xD;
+               -  Male sterilization (at least 6 months prior to screening). For female patients on&#xD;
+                  the study, the vasectomized male partner should be the sole partner for that&#xD;
+                  patient;&#xD;
+&#xD;
+               -  In case of use of oral contraception women should have been stable for a minimum&#xD;
+                  of 3 months before taking study treatment. Women are considered post-menopausal&#xD;
+                  and not of child bearing potential if they have had 12 months of natural&#xD;
+                  (spontaneous) amenorrhea with an appropriate clinical profile (e.g. age&#xD;
+                  appropriate, history of vasomotor symptoms) or have had surgical bilateral&#xD;
+                  oophorectomy (with or without hysterectomy) or tubal ligation at least six weeks&#xD;
+                  ago. In the case of oophorectomy alone, only when the reproductive status of the&#xD;
+                  woman has been confirmed by follow up hormone level assessment, is she considered&#xD;
+                  not of child bearing potential;&#xD;
+&#xD;
+         13. Sexually active males must use a condom during intercourse while taking the drug and&#xD;
+             for 3 months after stopping GT0918 treatment and should not father a child in this&#xD;
+             period. A condom is required to be used also by vasectomized men in order to prevent&#xD;
+             delivery of the drug via seminal fluid&#xD;
+&#xD;
+         14. Subject likely to transfer to another hospital within the next 28 days&#xD;
+&#xD;
+         15. Subject (or legally authorized representative) not willing or unable to provide&#xD;
+             informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Flavio Cadegiani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Applied Biology, Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andy Goren, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Applied Biology, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Regional José Mendes</name>
+      <address>
+        <city>Itacoatiara</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Campanha de Manacapuru</name>
+      <address>
+        <city>Manacapuru</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Oscar Nicolau</name>
+      <address>
+        <city>Manaus</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Prontocord</name>
+      <address>
+        <city>Manaus</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Samel</name>
+      <address>
+        <city>Manaus</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Dr. Hamilton Maia Cidae</name>
+      <address>
+        <city>Manicore</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Raimunda Francisca Dinelli da Silva</name>
+      <address>
+        <city>Maues</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Jofre Cohen</name>
+      <address>
+        <city>Parintins</city>
+        <state>Amazonas</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <link>
+    <url>http://appliedbiology.com/AppliedBiologyTheAndroCoVProject.html</url>
+    <description>The AndroCoV Project</description>
+  </link>
+  <reference>
+    <citation>Goren A, McCoy J, Wambier CG, Vano-Galvan S, Shapiro J, Dhurat R, Washenik K, Lotti T. What does androgenetic alopecia have to do with COVID-19? An insight into a potential new therapy. Dermatol Ther. 2020 Jul;33(4):e13365. doi: 10.1111/dth.13365. Epub 2020 Apr 8.</citation>
+    <PMID>32237190</PMID>
+  </reference>
+  <reference>
+    <citation>Goren A, Vaño-Galván S, Wambier CG, McCoy J, Gomez-Zubiaur A, Moreno-Arrones OM, Shapiro J, Sinclair RD, Gold MH, Kovacevic M, Mesinkovska NA, Goldust M, Washenik K. A preliminary observation: Male pattern hair loss among hospitalized COVID-19 patients in Spain - A potential clue to the role of androgens in COVID-19 severity. J Cosmet Dermatol. 2020 Jul;19(7):1545-1547. doi: 10.1111/jocd.13443. Epub 2020 Apr 23.</citation>
+    <PMID>32301221</PMID>
+  </reference>
+  <reference>
+    <citation>Wambier CG, Vaño-Galván S, McCoy J, Gomez-Zubiaur A, Herrera S, Hermosa-Gelbard Á, Moreno-Arrones OM, Jiménez-Gómez N, González-Cantero A, Fonda-Pascual P, Segurado-Miravalles G, Shapiro J, Pérez-García B, Goren A. Androgenetic alopecia present in the majority of patients hospitalized with COVID-19: The &quot;Gabrin sign&quot;. J Am Acad Dermatol. 2020 Aug;83(2):680-682. doi: 10.1016/j.jaad.2020.05.079. Epub 2020 May 22.</citation>
+    <PMID>32446821</PMID>
+  </reference>
+  <reference>
+    <citation>Montopoli M, Zumerle S, Vettor R, Rugge M, Zorzi M, Catapano CV, Carbone GM, Cavalli A, Pagano F, Ragazzi E, Prayer-Galetti T, Alimonti A. Androgen-deprivation therapies for prostate cancer and risk of infection by SARS-CoV-2: a population-based study (N = 4532). Ann Oncol. 2020 Aug;31(8):1040-1045. doi: 10.1016/j.annonc.2020.04.479. Epub 2020 May 6.</citation>
+    <PMID>32387456</PMID>
+  </reference>
+  <reference>
+    <citation>McCoy J, Cadegiani FA, Wambier CG, Herrera S, Vaño-Galván S, Mesinkovska NA, Ramos PM, Shapiro J, Sinclair R, Tosti A, Goren A. 5-alpha-reductase inhibitors are associated with reduced frequency of COVID-19 symptoms in males with androgenetic alopecia. J Eur Acad Dermatol Venereol. 2021 Apr;35(4):e243-e246. doi: 10.1111/jdv.17021. Epub 2020 Nov 22. Erratum in: J Eur Acad Dermatol Venereol. 2021 Jul;35(7):1595.</citation>
+    <PMID>33135263</PMID>
+  </reference>
+  <reference>
+    <citation>McCoy J, Wambier CG, Herrera S, Vaño-Galván S, Gioia F, Comeche B, Ron R, Serrano-Villar S, Iwasiow RM, Tayeb MA, Cadegiani FA, Mesinkovska NA, Shapiro J, Sinclair R, Goren A. Androgen receptor genetic variant predicts COVID-19 disease severity: a prospective longitudinal study of hospitalized COVID-19 male patients. J Eur Acad Dermatol Venereol. 2021 Jan;35(1):e15-e17. doi: 10.1111/jdv.16956. Epub 2020 Oct 21. Erratum in: J Eur Acad Dermatol Venereol. 2021 Jul;35(7):1595.</citation>
+    <PMID>32977355</PMID>
+  </reference>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>January 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 28, 2021</study_first_posted>
+  <results_first_submitted>June 15, 2021</results_first_submitted>
+  <results_first_submitted_qc>June 15, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 23, 2021</results_first_posted>
+  <last_update_submitted>June 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Proxalutamide</keyword>
+  <keyword>Androgen</keyword>
+  <keyword>Anti-androgen</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Yes, study data sets will be made available upon request after peer review and publication.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Available upon request after peer review and publication.</ipd_time_frame>
+    <ipd_access_criteria>Available upon request at data@appliedbiology.com</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 1, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/02/NCT04728802/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Proxalutamide + Usual Care</title>
+          <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo + Usual Care</title>
+          <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="317"/>
+                <participants group_id="P2" count="328"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="288"/>
+                <participants group_id="P2" count="292"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+                <participants group_id="P2" count="36"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Transfer</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Proxalutamide + Usual Care</title>
+          <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo + Usual Care</title>
+          <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="317"/>
+            <count group_id="B2" value="328"/>
+            <count group_id="B3" value="645"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50" lower_limit="41" upper_limit="62"/>
+                    <measurement group_id="B2" value="49" lower_limit="38" upper_limit="61"/>
+                    <measurement group_id="B3" value="50" lower_limit="39" upper_limit="61.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="133"/>
+                    <measurement group_id="B2" value="146"/>
+                    <measurement group_id="B3" value="279"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="184"/>
+                    <measurement group_id="B2" value="182"/>
+                    <measurement group_id="B3" value="366"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Brazil</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="317"/>
+                    <measurement group_id="B2" value="328"/>
+                    <measurement group_id="B3" value="645"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body mass index over 30 kg/m2</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="93"/>
+                    <measurement group_id="B2" value="82"/>
+                    <measurement group_id="B3" value="175"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Type 2 diabetes mellitus</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic obstructive pulmonary disorder</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic kidney disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>0 Coexisting conditions</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="204"/>
+                    <measurement group_id="B2" value="227"/>
+                    <measurement group_id="B3" value="431"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>1 Coexisting conditions</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="56"/>
+                    <measurement group_id="B3" value="124"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>2+ Coexisting conditions</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                    <count group_id="B2" value="328"/>
+                    <count group_id="B3" value="645"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="45"/>
+                    <measurement group_id="B3" value="90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>14 Day Recovery Rate</title>
+        <description>Recovery rate defined as those reaching scores 1 or 2 over 14 days after randomization on the COVID-19 ordinal scale.&#xD;
+The ordinal scale is defined as follows:&#xD;
+8. Death; 7. Hospitalized, on invasive mechanical ventilation or ECMO; 6. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 5. Hospitalized, requiring supplemental oxygen; 4. Hospitalized, not requiring supplemental oxygen- requiring ongoing medical care (COVID-19 related or otherwise; 3. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 2. Not hospitalized, limitation on activities;&#xD;
+1. Not hospitalized, no limitations on activities</description>
+        <time_frame>Day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Proxalutamide + Usual Care</title>
+            <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Usual Care</title>
+            <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>14 Day Recovery Rate</title>
+          <description>Recovery rate defined as those reaching scores 1 or 2 over 14 days after randomization on the COVID-19 ordinal scale.&#xD;
+The ordinal scale is defined as follows:&#xD;
+8. Death; 7. Hospitalized, on invasive mechanical ventilation or ECMO; 6. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 5. Hospitalized, requiring supplemental oxygen; 4. Hospitalized, not requiring supplemental oxygen- requiring ongoing medical care (COVID-19 related or otherwise; 3. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 2. Not hospitalized, limitation on activities;&#xD;
+1. Not hospitalized, no limitations on activities</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="317"/>
+                <count group_id="O2" value="328"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="258"/>
+                    <measurement group_id="O2" value="117"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>28 Day Recovery Rate</title>
+        <description>Recovery rate defined as those reaching scores 1 or 2 over 28 days after randomization on the COVID-19 ordinal scale.&#xD;
+The ordinal scale is defined as follows:&#xD;
+8. Death; 7. Hospitalized, on invasive mechanical ventilation or ECMO; 6. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 5. Hospitalized, requiring supplemental oxygen; 4. Hospitalized, not requiring supplemental oxygen- requiring ongoing medical care (COVID-19 related or otherwise; 3. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 2. Not hospitalized, limitation on activities;&#xD;
+1. Not hospitalized, no limitations on activities</description>
+        <time_frame>Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Proxalutamide + Usual Care</title>
+            <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Usual Care</title>
+            <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>28 Day Recovery Rate</title>
+          <description>Recovery rate defined as those reaching scores 1 or 2 over 28 days after randomization on the COVID-19 ordinal scale.&#xD;
+The ordinal scale is defined as follows:&#xD;
+8. Death; 7. Hospitalized, on invasive mechanical ventilation or ECMO; 6. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 5. Hospitalized, requiring supplemental oxygen; 4. Hospitalized, not requiring supplemental oxygen- requiring ongoing medical care (COVID-19 related or otherwise; 3. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 2. Not hospitalized, limitation on activities;&#xD;
+1. Not hospitalized, no limitations on activities</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="317"/>
+                <count group_id="O2" value="328"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="271"/>
+                    <measurement group_id="O2" value="155"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>28 Day Mortality Rate</title>
+        <description>All-cause mortality rate over 28 days post randomization.</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Proxalutamide + Usual Care</title>
+            <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Usual Care</title>
+            <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>28 Day Mortality Rate</title>
+          <description>All-cause mortality rate over 28 days post randomization.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="317"/>
+                <count group_id="O2" value="328"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="35"/>
+                    <measurement group_id="O2" value="162"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Post-Randomization Time to Recover (Alive Hospital Discharge)</title>
+        <description>Number of day post-randomization required to achieve live hospital discharge.</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Proxalutamide + Usual Care</title>
+            <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Usual Care</title>
+            <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Post-Randomization Time to Recover (Alive Hospital Discharge)</title>
+          <description>Number of day post-randomization required to achieve live hospital discharge.</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="317"/>
+                <count group_id="O2" value="328"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5" lower_limit="3" upper_limit="8"/>
+                    <measurement group_id="O2" value="10" lower_limit="6" upper_limit="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 Days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Proxalutamide + Usual Care</title>
+          <description>Proxalutamide + usual care as determined by care provider&#xD;
+Proxalutamide: Proxalutamide 300mg q.d</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo + Usual Care</title>
+          <description>Placebo + usual care as determined by care provider&#xD;
+Placebo: Placebo pill</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="35" subjects_at_risk="317"/>
+                <counts group_id="E2" subjects_affected="162" subjects_at_risk="328"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="317"/>
+                <counts group_id="E2" subjects_affected="170" subjects_at_risk="328"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death</sub_title>
+                <counts group_id="E1" subjects_affected="35" subjects_at_risk="317"/>
+                <counts group_id="E2" subjects_affected="162" subjects_at_risk="328"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mechanical Ventilation</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="317"/>
+                <counts group_id="E2" subjects_affected="41" subjects_at_risk="328"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="317"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="328"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="317"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="328"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. John McCoy</name_or_title>
+      <organization>Applied Biology, Inc.</organization>
+      <phone>+1 (949)387-4526</phone>
+      <email>johnm@appliedbiology.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

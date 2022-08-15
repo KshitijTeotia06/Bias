@@ -1,0 +1,2637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="156">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04671017</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VLA2001-201</org_study_id>
+    <nct_id>NCT04671017</nct_id>
+  </id_info>
+  <brief_title>Dose Finding Study to Evaluate The Safety, Tolerability and Immunogenicity of an Inactiviated, Adjuvanted SARS-CoV-2 Virus Vaccine Candidate Against Covid-19 in Healthy Subjects</brief_title>
+  <official_title>A Phase I/II Randomized, Two Parts, Dose-Finding Study To Evaluate The Safety, Tolerability and Immunogenicity Of An Inactivated, Adjuvanted SARS-CoV-2 Virus Vaccine Candidate (VLA2001), Against Covid-19 In Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Valneva Austria GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute for Health Research, United Kingdom</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Valneva Austria GmbH</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multicenter, 3-arm randomized dose finding study in the UK to evaluate safety, tolerability&#xD;
+      and immunogenicity of a vaccine candidate against Covid-19. 150 healthy volunteers will be&#xD;
+      enrolled and receive two shots of the vaccine candidate. All participants who receive two&#xD;
+      doses of the vaccine candidate will be invited to participate in the Booster phase.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The multicenter, dose finding Phase 1/2 study starts off with an open-label, dose-escalation&#xD;
+      part, thereafter, during the double-blind part of study, participants will be randomized&#xD;
+      1:1:1 to receive the low, medium or high dose of the vaccine (VLA2001). All participants will&#xD;
+      received a total of two vaccinations intramuscularly, on day 1 and day 22.&#xD;
+&#xD;
+      The first 5 participants in each dose group will receive VLA2001 open label, starting with&#xD;
+      the low dose of VLA2001. If no safety concerns are identified, the next 5 subjects will&#xD;
+      receive the medium dose of the vaccine. Again, if no safety issues are identified, 5&#xD;
+      participants will be vaccinated with the high dose of the vaccine. A Data Safety and&#xD;
+      Monitoring Board (DSMB) will review accrued safety data before randomization of the remaining&#xD;
+      135 subjects across all sites will be initiated.&#xD;
+&#xD;
+      All study participants will be followed up for safety and immunogenicity up to approximately&#xD;
+      6 months after receiving their second vaccination.&#xD;
+&#xD;
+      This study was extended to investigate the tolerability, safety and immungenicity of a&#xD;
+      booster vaccination with VLA2001. All study participants, in the Booster phase, will be&#xD;
+      followed up for safety and immunogenicity up to 6 months after receiving their Booster&#xD;
+      vaccination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 16, 2020</start_date>
+  <completion_date type="Actual">April 6, 2022</completion_date>
+  <primary_completion_date type="Actual">February 26, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>st phase Sequential (open-label phase)&#xD;
+nd phase Parallel Assignment (double-blinded randomized phase )&#xD;
+rd phase Parallel Assignment (open-label phase)</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>st phase is open-label&#xD;
+nd phase is double-blind randomized (Participant, Investigator )&#xD;
+rd phase is open-label phase</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of Solicited AEs (Local and Systemic Reactions) Within 7 Days After Any Vaccination of the Primary Vaccination Series</measure>
+    <time_frame>within 7 days after any vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric Mean Titre (GMT) for Neutralizing Antibodies Against SARS-CoV-2 Determined by Wild-type Virus Neutralizing Assay</measure>
+    <time_frame>Day 36</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Unsolicited AE</measure>
+    <time_frame>until Day 36</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Vaccine-related AE</measure>
+    <time_frame>until Day 36</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any AE</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any Vaccine-related AE</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any SAE</measure>
+    <time_frame>until Day 36</time_frame>
+    <description>All Adverse Events of Special Interest (AESIs) were treated as important medical event and were therefore be treated as SAE according to protocol.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any AESI</measure>
+    <time_frame>until Day 36</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any SAE</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of an AESI</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severy of Solicited AEs (Local and Systemic Reactions) After the Booster Vaccination</measure>
+    <time_frame>until Visit 7 plus 6 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any Unsolicited AE</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any Vaccine-related AE</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any SAE</measure>
+    <time_frame>until Visit 10</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and Severity of Any AESI</measure>
+    <time_frame>until Visit 10</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune Response as Measured by Neutralizing Antibody Titres Against SARS-CoV-2</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With Seroconversion in Terms of Neutralizing Antibodies</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold Increase of SARS-CoV-2 Neutralizing Antibody Titres Compared With Baseline</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMTs for IgG Antibodies Against SARS-CoV-2 Determined by ELISA</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With Seroconversion in Terms of IgG Antibodies Against SARS-CoV-2, as Determined by ELISA in Participants Negative for SARS-CoV-2 at Screening</measure>
+    <time_frame>until Day 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose With Regards to Neutralizing Antibodies</measure>
+    <time_frame>until Visit 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose With Regards to Neutralizing Antibodies</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose With Regards to Neutralizing Antibodies</measure>
+    <time_frame>until Visit 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose With Regards to Neutralizing Antibodies</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titres (GMT) Measured as Neutralizing Antibody Titres Against SARSCoV-2</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose With Regards to S-protein Binding Antibodies (ELISA)</measure>
+    <time_frame>until Visit 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose With Regards to S-protein Binding Antibodies (ELISA)</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose in Regards to S-protein Binding Antibodies (ELISA)</measure>
+    <time_frame>until Visit 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose in Regards to S-protein Binding Antibodies (ELISA)</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titres (GMT) Measured as IgG Antibodies Against SARS-CoV-2 (ELISA</measure>
+    <time_frame>until Visit 9</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">153</enrollment>
+  <condition>SARS-CoV-2 Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Low Dose: VLA2001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium Dose: VLA2001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose: VLA2001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Booster: High Dose: VLA2001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VLA2001</intervention_name>
+    <description>whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in combination with aluminium hydroxide</description>
+    <arm_group_label>Booster: High Dose: VLA2001</arm_group_label>
+    <arm_group_label>High Dose: VLA2001</arm_group_label>
+    <arm_group_label>Low Dose: VLA2001</arm_group_label>
+    <arm_group_label>Medium Dose: VLA2001</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria - Subjects who meet ALL of the following criteria are eligible for the&#xD;
+        study:&#xD;
+&#xD;
+          1. Participant is 18 to 55 years of age&#xD;
+&#xD;
+          2. Participant who has a smart phone and is willing and able to install and use the&#xD;
+             eDiary.&#xD;
+&#xD;
+          3. Participant has an understanding of the study and its procedures, agrees to its&#xD;
+             provisions, and voluntarily gives written informed consent prior to any study-related&#xD;
+             procedures.&#xD;
+&#xD;
+          4. Participant is generally healthy as determined by the Investigator&#xD;
+&#xD;
+          5. Participant has a Body Mass Index (BMI) of 18.0-30.0 kg/m2&#xD;
+&#xD;
+          6. If subject is of childbearing potential:&#xD;
+&#xD;
+               1. Participant has practiced an adequate method of contraception during the 30 days&#xD;
+                  before screening (Visit 0).&#xD;
+&#xD;
+               2. Participant has a negative serum or urine pregnancy test at screening (Visit 0)&#xD;
+                  or Visit 1, respectively.&#xD;
+&#xD;
+               3. Participant agrees to employ adequate birth control measures up to Day 106 (Visit&#xD;
+                  5).&#xD;
+&#xD;
+        Inclusion Criteria for Booster Phase - Subjects who meet ALL of the following criteria are&#xD;
+        eligible for the Booster phase:&#xD;
+&#xD;
+          -  B1. Participant has received complete VLA2001 primary immunization (two vaccinations&#xD;
+             according to the protocol)&#xD;
+&#xD;
+          -  B2. Participant who has a smart phone and is willing and able to install and use the&#xD;
+             e-Diary.&#xD;
+&#xD;
+          -  B3. Participant has an understanding of the study and its procedures, agrees to its&#xD;
+             provisions, and voluntarily gives written informed consent prior to any study-related&#xD;
+             procedures.&#xD;
+&#xD;
+          -  B4. Participant is generally healthy as determined by the Investigator's clinical&#xD;
+             judgement&#xD;
+&#xD;
+          -  B5. If a participant is of childbearing potential:&#xD;
+&#xD;
+               1. Participant has a negative urine pregnancy test at Visit 7 prior to booster&#xD;
+                  vaccination.&#xD;
+&#xD;
+               2. Participant agrees to employ adequate birth control measures up to 3 months after&#xD;
+                  the Booster vaccination.&#xD;
+&#xD;
+        Exclusion criteria - Participants who meet ANY of the following criteria are NOT eligible&#xD;
+        for this study:&#xD;
+&#xD;
+          1. Clinically significant infection or other acute illness, including fever ≥ 38°C within&#xD;
+             24 hours prior to the planned study vaccination.&#xD;
+&#xD;
+          2. History of laboratory-confirmed SARS-CoV-2 infection.&#xD;
+&#xD;
+          3. Participant had close contact to persons with confirmed SARS-CoV-2 infection within 30&#xD;
+             days prior to screening (Visit 0).&#xD;
+&#xD;
+          4. Participant has participated in a clinical study involving an investigational&#xD;
+             SARS-CoV-2 vaccine.&#xD;
+&#xD;
+          5. Participant has an acute or recent infection not due to SARS-CoV-2&#xD;
+&#xD;
+          6. Participant has a history of SARS-CoV-1 or MERS infection (self-reported)&#xD;
+&#xD;
+          7. Participant tests positive for human immunodeficiency virus (HIV), hepatitis B surface&#xD;
+             antigen (HBsAg) or hepatitis C virus (HCV).&#xD;
+&#xD;
+          8. Participant has received any vaccine within 30 days prior Visit 1 other than the study&#xD;
+             intervention, with the exception of the seasonal influenza vaccination.&#xD;
+&#xD;
+          9. Participant has abnormal findings in any required study investigations (including&#xD;
+             medical history, physical examination, and clinical laboratory) considered clinically&#xD;
+             relevant by the Investigator.&#xD;
+&#xD;
+         10. Participants with either medical history of or present acute or progressive, unstable&#xD;
+             or uncontrolled clinical conditions that pose a risk for participation or completion&#xD;
+             of the study, based on Investigator's clinical judgement.&#xD;
+&#xD;
+         11. Participants with underlying diseases with a high risk of developing severe COVID-19&#xD;
+             symptoms if infected&#xD;
+&#xD;
+         12. Participant has a history of malignancy in the past 5 years other than squamous cell&#xD;
+             or basal cell skin cancer. If there has been surgical excision or treatment more than&#xD;
+             5 years ago that is considered to have achieved a cure, the subject may be enrolled. A&#xD;
+             history of hematologic malignancy is a permanent exclusion. Participants with a&#xD;
+             history of skin cancer must not be vaccinated at the previous tumour site.&#xD;
+&#xD;
+         13. Participant has a known or suspected defect of the immune system, such as Participants&#xD;
+             with congenital or acquired immune deficiency&#xD;
+&#xD;
+         14. Participant received immuno-suppressive therapy within 4 weeks prior to Visit 1 or&#xD;
+             receipt of immunosuppressive therapy is expected during the study.&#xD;
+&#xD;
+         15. Participant has a history of any vaccine related contraindicating event&#xD;
+&#xD;
+         16. Participant presents with clinical conditions representing a contraindication to&#xD;
+             intramuscular vaccination and blood draws.&#xD;
+&#xD;
+         17. Participant is pregnant, has plans to become pregnant up to Day 106 of the study or&#xD;
+             lactating at the time of enrolment.&#xD;
+&#xD;
+         18. Participant has donated blood, blood fractions or plasma within 4 weeks prior to Visit&#xD;
+             1 or received blood-derived products (e.g. plasma) within 12 weeks prior to Visit 1 in&#xD;
+             this study or plans to donate blood or use blood products during the study.&#xD;
+&#xD;
+         19. Participant with clinically significant bleeding disorder (e.g. factor deficiency,&#xD;
+             coagulopathy or platelet disorder) or prior history of significant bleeding or&#xD;
+             bruising following IM injections or venepuncture.&#xD;
+&#xD;
+         20. Participant has a rash, dermatological condition or tattoos that would, in the opinion&#xD;
+             of the Investigator, interfere with injection site reaction rating.&#xD;
+&#xD;
+         21. Participant has a known or suspected problem with alcohol or drug abuse as determined&#xD;
+             by the Investigator.&#xD;
+&#xD;
+         22. Participant has any condition that, in the opinion of the Investigator, may compromise&#xD;
+             the Participant's well-being, might interfere with evaluation of study endpoints, or&#xD;
+             would limit the Participant's ability to complete the study.&#xD;
+&#xD;
+         23. Participant is committed to an institution (by virtue of an order issued either by the&#xD;
+             judicial or the administrative authorities).&#xD;
+&#xD;
+         24. Participant has participated in another clinical study involving an investigational&#xD;
+             medicinal product (IMP) or device within 4 weeks prior to Visit 0 (screening) or is&#xD;
+             scheduled to participate in another clinical study involving an IMP, or device during&#xD;
+             the course of this study.&#xD;
+&#xD;
+         25. Participant is a member of the team conducting the study or in a dependent&#xD;
+             relationship with one of the study team members.&#xD;
+&#xD;
+        Exclusion Criteria for Booster Phase - Participants who meet ANY of the following criteria&#xD;
+        are NOT eligible for Booster phase:&#xD;
+&#xD;
+          -  B1. Clinically significant infection or other acute illness, including fever ≥ 38°C&#xD;
+             within 48 hours prior to the planned Booster vaccination.&#xD;
+&#xD;
+          -  B2. Participant has an acute or recent infection not due to SARS-CoV-2 and is not&#xD;
+             symptom-free in the week prior to the Booster vaccination (Visit 7).&#xD;
+&#xD;
+          -  B3. Participant has received any vaccine within 30 days prior Visit 7, with the&#xD;
+             exception of the seasonal influenza vaccination. Participants will be encouraged to&#xD;
+             receive this vaccination at least 7 days after their Booster vaccine.&#xD;
+&#xD;
+          -  B4. Participant has abnormal findings in any required study investigations (including&#xD;
+             medical history, physical examination, and clinical laboratory) that is considered&#xD;
+             clinically relevant by the Investigator.&#xD;
+&#xD;
+          -  B5. Participant has received immuno-suppressive therapy within 4 weeks prior to Visit&#xD;
+             7 or is expected to receive immunosuppressive therapy during the study.&#xD;
+             Immunosuppressive therapy is defined as administration of chronic (longer than 2&#xD;
+             weeks) prednisone or equivalent ≥ 0.05 mg/kg/day within 4 weeks prior to Visit 7&#xD;
+             (topical and inhaled steroids are allowed), radiation therapy or immunosuppressive&#xD;
+             cytotoxic drugs or monoclonal antibodies in the previous 3 years.&#xD;
+&#xD;
+          -  B6. Participant has clinical conditions representing a contraindication to&#xD;
+             intramuscular vaccination and blood draws.&#xD;
+&#xD;
+          -  B7. Participant is pregnant (positive urine pregnancy test at Visit 7, respectively),&#xD;
+             has plans to become pregnant up to 3 months after the Booster vaccination.&#xD;
+&#xD;
+          -  B8. Participant has a rash, dermatological condition that would, in the opinion of the&#xD;
+             Investigator, interfere with injection site reaction rating.&#xD;
+&#xD;
+          -  B9. Participant has a known or suspected problem with alcohol or drug abuse as&#xD;
+             determined by the Investigator.&#xD;
+&#xD;
+          -  B10. Participant has any condition that, in the opinion of the Investigator, may&#xD;
+             compromise the Participant's well-being, might interfere with evaluation of study&#xD;
+             endpoints, or would limit the Participant's ability to complete the study.&#xD;
+&#xD;
+          -  B11. Participant is committed to an institution (by virtue of an order issued either&#xD;
+             by the judicial or the administrative authorities).&#xD;
+&#xD;
+          -  B12. Participant has participated in another clinical study involving an&#xD;
+             investigational medicinal product (IMP) or device within 4 weeks prior to Visit 7 or&#xD;
+             is scheduled to participate in another clinical study involving an IMP, or device&#xD;
+             during the course of this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Valneva Clinical Development</last_name>
+    <role>Study Chair</role>
+    <affiliation>Valneva Austria GmbH</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Bristol and Weston NHS Foundation Trust</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS1 3NU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle University Medical School</name>
+      <address>
+        <city>Newcastle</city>
+        <zip>NE7 7DN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southampton NIHR Clinical Research Facility</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>December 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <results_first_submitted>March 7, 2022</results_first_submitted>
+  <results_first_submitted_qc>March 22, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 24, 2022</results_first_posted>
+  <last_update_submitted>April 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>VLA2001</keyword>
+  <keyword>SARS-CoV-2 Virus Infection</keyword>
+  <keyword>Covid-19</keyword>
+  <keyword>inactivated-adjuvanted SARS-CoV-2 virus vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 31, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/17/NCT04671017/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 26, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/17/NCT04671017/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Low Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="P2">
+          <title>Medium Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="P3">
+          <title>High Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+                <participants group_id="P2" count="51"/>
+                <participants group_id="P3" count="51"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+                <participants group_id="P2" count="51"/>
+                <participants group_id="P3" count="51"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Low Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="B2">
+          <title>Medium Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="B3">
+          <title>High Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="51"/>
+            <count group_id="B2" value="51"/>
+            <count group_id="B3" value="51"/>
+            <count group_id="B4" value="153"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33.7" spread="8.89"/>
+                    <measurement group_id="B2" value="35.5" spread="9.53"/>
+                    <measurement group_id="B3" value="31.3" spread="8.52"/>
+                    <measurement group_id="B4" value="33.5" spread="9.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="29"/>
+                    <measurement group_id="B4" value="70"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="22"/>
+                    <measurement group_id="B4" value="83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>count of participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="46"/>
+                    <measurement group_id="B4" value="143"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mixed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Latin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Latin American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White European</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Frequency of Solicited AEs (Local and Systemic Reactions) Within 7 Days After Any Vaccination of the Primary Vaccination Series</title>
+        <time_frame>within 7 days after any vaccination</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O2">
+            <title>Medium Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O3">
+            <title>High Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Frequency of Solicited AEs (Local and Systemic Reactions) Within 7 Days After Any Vaccination of the Primary Vaccination Series</title>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="51"/>
+                <count group_id="O3" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Subjects with at least one Solicited Injection Site Reaction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="35"/>
+                    <measurement group_id="O2" value="31"/>
+                    <measurement group_id="O3" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection site tenderness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32"/>
+                    <measurement group_id="O2" value="23"/>
+                    <measurement group_id="O3" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection site pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="21"/>
+                    <measurement group_id="O3" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection site itching</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection site swelling</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Subjects with at least one Solicited Systemic Reactions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                    <measurement group_id="O2" value="32"/>
+                    <measurement group_id="O3" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="17"/>
+                    <measurement group_id="O3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                    <measurement group_id="O2" value="15"/>
+                    <measurement group_id="O3" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Muscle pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                    <measurement group_id="O2" value="15"/>
+                    <measurement group_id="O3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea/Vomiting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="7"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever/Body temperature</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Geometric Mean Titre (GMT) for Neutralizing Antibodies Against SARS-CoV-2 Determined by Wild-type Virus Neutralizing Assay</title>
+        <time_frame>Day 36</time_frame>
+        <population>Overall Number of Participants analyzed according to Per-Protocol Analysis Set. The Per-Protocol Analysis Set includes all participants who have no major protocol deviations. Participants who received an already licensed COVID-19 vaccine outside of the study or participants who received less than 2 vaccinations will be excluded.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O2">
+            <title>Medium Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O3">
+            <title>High Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Titre (GMT) for Neutralizing Antibodies Against SARS-CoV-2 Determined by Wild-type Virus Neutralizing Assay</title>
+          <population>Overall Number of Participants analyzed according to Per-Protocol Analysis Set. The Per-Protocol Analysis Set includes all participants who have no major protocol deviations. Participants who received an already licensed COVID-19 vaccine outside of the study or participants who received less than 2 vaccinations will be excluded.</population>
+          <units>Geometric Mean Titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="49"/>
+                <count group_id="O3" value="50"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="161.1" lower_limit="121.35" upper_limit="213.82"/>
+                    <measurement group_id="O2" value="222.3" lower_limit="171.84" upper_limit="287.67"/>
+                    <measurement group_id="O3" value="530.4" lower_limit="421.49" upper_limit="667.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency of Any Unsolicited AE</title>
+        <time_frame>until Day 36</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O2">
+            <title>Medium Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O3">
+            <title>High Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Frequency of Any Unsolicited AE</title>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="51"/>
+                <count group_id="O3" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Subjects with at least one unsolicited AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="17"/>
+                    <measurement group_id="O3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Investigations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="8"/>
+                    <measurement group_id="O3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Red blood cell sedimentation rate increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Aspartate aminotransferase increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Blood bilirubin increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Haemoglobin decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lymphocyte count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Red blood cells urine</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White blood cell count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Alanine aminotransferase increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Blood sodium decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>C-reactive protein increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutrophil count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Prothrombin time prolonged</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Red blood cell count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White blood cell count increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infections and infestations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>COVID-19</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gastroenteritis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Tooth infections</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vulvovaginal candidiasis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Epididymitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Onychomycosis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Paronychia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary tract infections</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Blood and lymphatic system disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lymphopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Eosinophilia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Microcytic anaemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutrophilia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nervous system disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dizziness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Paraesthesia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Presyncope</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Respiratory, thoracic and mediastinal disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Oropharyngeal pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rhinorrhoea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sinus congestion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injury, poisoning and procedural complications</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vaccination complications</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chillblains</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ligament sprain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gastrointestinal disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Aphthous ulcer</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Constipation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhoea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gingival discomfort</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>General disorders and administration site conditions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Influenza like illness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Peripheral swelling</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Musculoskeletal and connective tissue disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Arthritis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Limb discomfort</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Musculoskeletal stiffness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pain in extremity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Metabolism and nutrition disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dehydration</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Increased appetite</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Renal and urinary disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Haematuria</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reproductive system and breast disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dysmenorrhoea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vaginal haemorrhage</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Eye disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asthenopia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Psychiatric disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anxiety</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin and subcutaneous tissue disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rash erythematous</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency of Any Vaccine-related AE</title>
+        <time_frame>until Day 36</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O2">
+            <title>Medium Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O3">
+            <title>High Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Frequency of Any Vaccine-related AE</title>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="51"/>
+                <count group_id="O3" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Subjects with at least one treatment related unsolicited AE until Day 36</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="7"/>
+                    <measurement group_id="O3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Investigations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Red blood cell sedimentation rate increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Alanine aminotransferase increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Blood bilirubin increased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lymphocyte count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White blood cell count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Blood and lymphatic system disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Eosinophilia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thromocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nervous system disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dizziness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Paraesthesia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Respiratory, thoracic and mediastinial disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Oropharyngeal pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Musculoskeletal and connective tissue disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Limb discomfort</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Musculoskeletal stiffness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gastrointestinal disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhoea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>General disorders and administration site conditions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infections and infestations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gastroenteritis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin and subcutaneous tissue disorders</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rash erythematous</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any AE</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any Vaccine-related AE</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency of Any SAE</title>
+        <description>All Adverse Events of Special Interest (AESIs) were treated as important medical event and were therefore be treated as SAE according to protocol.</description>
+        <time_frame>until Day 36</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O2">
+            <title>Medium Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O3">
+            <title>High Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Frequency of Any SAE</title>
+          <description>All Adverse Events of Special Interest (AESIs) were treated as important medical event and were therefore be treated as SAE according to protocol.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="51"/>
+                <count group_id="O3" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency of Any AESI</title>
+        <time_frame>until Day 36</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O2">
+            <title>Medium Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+          <group group_id="O3">
+            <title>High Dose: VLA2001</title>
+            <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Frequency of Any AESI</title>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="51"/>
+                <count group_id="O3" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any SAE</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of an AESI</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severy of Solicited AEs (Local and Systemic Reactions) After the Booster Vaccination</title>
+        <time_frame>until Visit 7 plus 6 days</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any Unsolicited AE</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any Vaccine-related AE</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any SAE</title>
+        <time_frame>until Visit 10</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Frequency and Severity of Any AESI</title>
+        <time_frame>until Visit 10</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Immune Response as Measured by Neutralizing Antibody Titres Against SARS-CoV-2</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Participants With Seroconversion in Terms of Neutralizing Antibodies</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Fold Increase of SARS-CoV-2 Neutralizing Antibody Titres Compared With Baseline</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>GMTs for IgG Antibodies Against SARS-CoV-2 Determined by ELISA</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Participants With Seroconversion in Terms of IgG Antibodies Against SARS-CoV-2, as Determined by ELISA in Participants Negative for SARS-CoV-2 at Screening</title>
+        <time_frame>until Day 208</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose With Regards to Neutralizing Antibodies</title>
+        <time_frame>until Visit 8</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose With Regards to Neutralizing Antibodies</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose With Regards to Neutralizing Antibodies</title>
+        <time_frame>until Visit 8</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose With Regards to Neutralizing Antibodies</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Titres (GMT) Measured as Neutralizing Antibody Titres Against SARSCoV-2</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose With Regards to S-protein Binding Antibodies (ELISA)</title>
+        <time_frame>until Visit 8</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Fold Rise (GMFR) From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose With Regards to S-protein Binding Antibodies (ELISA)</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 2 Weeks After Booster Dose in Regards to S-protein Binding Antibodies (ELISA)</title>
+        <time_frame>until Visit 8</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Participants With 4-fold Increase From Pre-booster Time Point (Visit 7) to 4 Weeks After Booster Dose in Regards to S-protein Binding Antibodies (ELISA)</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Titres (GMT) Measured as IgG Antibodies Against SARS-CoV-2 (ELISA</title>
+        <time_frame>until Visit 9</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected from the date of first vaccination until the second part of the study, where participants were followed up on Day 106 (Visit 5) and will be followed up further until Day 208/Month 7 (Visit 6), 6 months after the second vaccination.</time_frame>
+      <desc>The number of participants here represent the number of healthy adults recruited in 3 dose groups (low, medium and high). Adverse event information was collected at specified time points up to the cut-off date for Day 106 (Visit 5) analysis of 30 June 2021.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Low Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="E2">
+          <title>Medium Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+        <group group_id="E3">
+          <title>High Dose: VLA2001</title>
+          <description>VLA2001 whole virus inactivated SARS-CoV-2 vaccine adjuvanted with cytosine phospho-guanine (CpG) 1018 in comibinationn with aluminium hydroxide</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="51"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Chillblains</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="12" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Red blood cell sedimentation rate increased</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Clinical Strategy Manager</name_or_title>
+      <organization>Valneva Austria GmbH</organization>
+      <phone>+43 1 206 20 ext 0</phone>
+      <email>office@valneva.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

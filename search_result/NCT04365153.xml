@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="115">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04365153</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IND 149328</org_study_id>
+    <nct_id>NCT04365153</nct_id>
+  </id_info>
+  <brief_title>Canakinumab in Covid-19 Cardiac Injury (The Three C Study)</brief_title>
+  <official_title>Canakinumab to Reduce Deterioration of Cardiac and Respiratory Function in SARSCoV2 Associated Acute Myocardial Injury With Heightened Inflammation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Cleveland Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      TThe purpose of this prospective, Phase 2, single center, blinded, randomized controlled&#xD;
+      study is to demonstrate as a proof of concept that early treatment with canakinumab prevents&#xD;
+      progressive heart and respiratory failure in patients with COVID-19 infection. These results&#xD;
+      will lead to and inform a Phase III randomized placebo-controlled trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, Phase 2, single center, blinded randomized-controlled study designed&#xD;
+      as a proof of concept to demonstrate that early treatment with canakinumab prevents&#xD;
+      progressive heart and respiratory failure in patients with COVID 19 infection, myocardial&#xD;
+      injury and hyperinflammation. These results will lead to a Phase III randomized&#xD;
+      placebo-controlled trial.&#xD;
+&#xD;
+      The study will be performed in approximately 7 months total, starting from the first patient&#xD;
+      enrolled with enrollment expected to complete within 2 months. The follow-up period is 5&#xD;
+      months for each patient enrolled. The end of the study, including statistical analysis and&#xD;
+      drafting of the final report is expected within 1 month from the last patient enrolled.&#xD;
+&#xD;
+      A total of 45 patients will be randomized using a 1:1:1 allocation ratio: 15 subjects will&#xD;
+      receive 600 mg intravenous canakinumab (8 mg/kg if &lt;/= 40 kg), 15 subjects will receive 300&#xD;
+      mg intravenous canakinumab (4 mg/kg if &lt;/= 40 kg), and 15 patients will receive placebo&#xD;
+      infusion.&#xD;
+&#xD;
+      The investigator, clinical team, and subject will be blinded to treatment assignment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 24, 2020</start_date>
+  <completion_date type="Actual">April 1, 2021</completion_date>
+  <primary_completion_date type="Actual">February 2, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Clinical Improvement at Day 14</measure>
+    <time_frame>Up to day 14</time_frame>
+    <description>Number of patients with either an improvement of two points on a seven category ordinal scale or discharge from the hospital</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause Mortality</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Number of patients who expired after treatment</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV 2</condition>
+  <arm_group>
+    <arm_group_label>High Dose Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Dose Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Canakinumab Injection 600mg</intervention_name>
+    <description>Subjects will be given one-time intravenous infusion of 600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+    <arm_group_label>High Dose Intervention</arm_group_label>
+    <other_name>ACZ885</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Canakinumab Injection 300mg</intervention_name>
+    <description>Subjects will be given one-time intravenous infusion of 300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+    <arm_group_label>Low Dose Intervention</arm_group_label>
+    <other_name>ACZ885</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebos</intervention_name>
+    <description>250 mL of 5% dextrose infused IV over 2 hours</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Subjects eligible for inclusion in this study must meet all of the&#xD;
+        following criteria:&#xD;
+&#xD;
+          1. Written informed consent must be obtained before any assessment is performed&#xD;
+&#xD;
+          2. Hospitalized due to COVID-19 infection&#xD;
+&#xD;
+          3. Documented SARS-CoV2 acute myocardial injury: Defined as upper respiratory tract&#xD;
+             specimen positive for COVID-19 AND Troponin T greater than 99th percentile upper&#xD;
+             reference range without signs or symptoms of acute myocardial ischemia&#xD;
+&#xD;
+          4. NT-proBNP greater than the age-adjusted upper reference limit&#xD;
+&#xD;
+          5. Receiving current standard therapy&#xD;
+&#xD;
+          6. C-reactive protein (CRP) &gt; 50 mg/L&#xD;
+&#xD;
+        Exclusion Criteria: Subjects meeting any of the following criteria are not eligible for&#xD;
+        inclusion in this study.&#xD;
+&#xD;
+          1. Alternative explanation for acute cardiac injury (Type I or Type II MI according to&#xD;
+             4th Universal Definition of Myocardial Infarction, which in addition to a rise and&#xD;
+             fall of troponin above the 99th percentile upper reference limit, includes symptoms of&#xD;
+             acute myocardial ischemia, new ischemic ECG changes, development of pathologic Q&#xD;
+             waves, and imaging evidence of damage in a pattern consistent with an ischemic&#xD;
+             etiology)&#xD;
+&#xD;
+          2. Chronic Systolic Heart Failure with EF&lt;35%&#xD;
+&#xD;
+          3. Age &lt; 18 years-old&#xD;
+&#xD;
+          4. Uncontrolled systemic bacterial or fungal infection&#xD;
+&#xD;
+          5. Concomitant viral infection (e.g., Influenza or other respiratory virus)&#xD;
+&#xD;
+          6. Pregnant. Breast-feeding women are eligible with the decision to continue or&#xD;
+             discontinue breast-feeding during therapy taking into account the risk of infant&#xD;
+             exposure, the benefits of breast-feeding to the infant, and benefits of treatment to&#xD;
+             the mother.&#xD;
+&#xD;
+          7. On mechanical circulatory support&#xD;
+&#xD;
+          8. On mechanical ventilation for greater than 48 hours&#xD;
+&#xD;
+          9. Resuscitated cardiac arrest&#xD;
+&#xD;
+         10. Has a known hypersensitivity to canakinumab or any of its excipients&#xD;
+&#xD;
+         11. Neutrophil count &lt;1000/mm3&#xD;
+&#xD;
+         12. Has a history of myeloproliferative disorder or active malignancy receiving&#xD;
+             chemotherapy&#xD;
+&#xD;
+         13. Known active tuberculosis or history of incompletely treated tuberculosis&#xD;
+&#xD;
+         14. Current treatment with immunosuppressive agents&#xD;
+&#xD;
+         15. Chronic prednisone use &gt;10 mg/daily (for more than 3 weeks prior to admission)&#xD;
+&#xD;
+         16. Has a history of solid-organ or bone marrow transplant&#xD;
+&#xD;
+         17. Severe pre-existing liver disease with clinically significant portal hypertension&#xD;
+&#xD;
+         18. End-stage renal disease on chronic renal replacement therapy&#xD;
+&#xD;
+         19. Enrollment in another investigational study using immunosuppressive therapy&#xD;
+&#xD;
+         20. In the opinion of the investigator and clinical team, should not participate in the&#xD;
+             study&#xD;
+&#xD;
+         21. If male and sexually active, must have documented vasectomy or must practice birth&#xD;
+             control and not donate sperm during the study and for 3 months after study drug&#xD;
+             administration.&#xD;
+&#xD;
+         22. Women of child-bearing potential, defined as all women physiologically capable of&#xD;
+             becoming pregnant, unless they are using highly effective methods of contraception&#xD;
+             during dosing of investigational drug. Such methods include:&#xD;
+&#xD;
+               -  Total abstinence (when this is in line with the preferred and usual lifestyle of&#xD;
+                  the subject. Periodic abstinence (e.g., calendar, ovulation, symptothermal,&#xD;
+                  post-ovulation methods) and withdrawal are not acceptable methods of&#xD;
+                  contraception&#xD;
+&#xD;
+               -  Female sterilization (have had surgical bilateral oophorectomy with or without&#xD;
+                  hysterectomy), total hysterectomy, or bilateral tubal ligation at least six weeks&#xD;
+                  before taking study treatment. In case of oophorectomy alone, only when the&#xD;
+                  reproductive status of the woman has been confirmed by follow up hormone level&#xD;
+                  assessment&#xD;
+&#xD;
+               -  Male sterilization (at least 6 months prior to screening). For female subjects on&#xD;
+                  the study, the vasectomized male partner should be the sole partner for that&#xD;
+                  subject&#xD;
+&#xD;
+               -  Use of oral, (estrogen and progesterone), injected or implanted hormonal methods&#xD;
+                  of contraception or placement of an intrauterine device (IUD) or intrauterine&#xD;
+                  system (IUS), or other forms of hormonal contraception that have comparable&#xD;
+                  efficacy (failure rate &lt;1%), for example hormone vaginal ring or transdermal&#xD;
+                  hormone contraception&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul C Cremer, M. D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Florida</name>
+      <address>
+        <city>Weston</city>
+        <state>Florida</state>
+        <zip>33331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 28, 2020</study_first_posted>
+  <results_first_submitted>April 5, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 13, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 15, 2021</results_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 11, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT04365153/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>High Dose Intervention</title>
+          <description>600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 600mg: Subjects will be given one-time intravenous infusion of 600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="P2">
+          <title>Low Dose Intervention</title>
+          <description>300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 300mg: Subjects will be given one-time intravenous infusion of 300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="P3">
+          <title>Control</title>
+          <description>Placebo&#xD;
+Placebos: 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="14"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="14"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>High Dose Intervention</title>
+          <description>600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 600mg: Subjects will be given one-time intravenous infusion of 600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="B2">
+          <title>Low Dose Intervention</title>
+          <description>300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 300mg: Subjects will be given one-time intravenous infusion of 300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="B3">
+          <title>Control</title>
+          <description>Placebo&#xD;
+Placebos: 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="15"/>
+            <count group_id="B2" value="14"/>
+            <count group_id="B3" value="16"/>
+            <count group_id="B4" value="45"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66.4" lower_limit="63.5" upper_limit="72.9"/>
+                    <measurement group_id="B2" value="70.7" lower_limit="64.7" upper_limit="74.6"/>
+                    <measurement group_id="B3" value="68.2" lower_limit="56.1" upper_limit="83.3"/>
+                    <measurement group_id="B4" value="68.8" lower_limit="61.1" upper_limit="74.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="13"/>
+                    <measurement group_id="B4" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>African-American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="16"/>
+                    <measurement group_id="B4" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <units>kg/m^2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29.2" lower_limit="28.0" upper_limit="46.4"/>
+                    <measurement group_id="B2" value="28.3" lower_limit="25.8" upper_limit="32.0"/>
+                    <measurement group_id="B3" value="29.2" lower_limit="24.0" upper_limit="42.9"/>
+                    <measurement group_id="B4" value="28.8" lower_limit="25.3" upper_limit="36.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diabetes mellitus</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hyperlipidemia</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coronary Artery Disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Stroke</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Atrial fibrillation or flutter</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>COPD</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic kidney disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Current or former smoker</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Time from symptoms onset to randomization</title>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6" lower_limit="3" upper_limit="8"/>
+                    <measurement group_id="B2" value="9" lower_limit="6" upper_limit="11"/>
+                    <measurement group_id="B3" value="6" lower_limit="4" upper_limit="10"/>
+                    <measurement group_id="B4" value="7" lower_limit="4" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Dyspnea</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Temperature</title>
+          <units>degrees Celsius</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36.8" lower_limit="36.6" upper_limit="37.2"/>
+                    <measurement group_id="B2" value="37.4" lower_limit="36.9" upper_limit="37.9"/>
+                    <measurement group_id="B3" value="36.8" lower_limit="36.5" upper_limit="36.9"/>
+                    <measurement group_id="B4" value="36.9" lower_limit="36.6" upper_limit="37.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hospitalized requiring invasive mechanical ventilation</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hospitalized requiring nasal high-flow oxygen or non-invasive ventilation, or both</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hospitalized requiring supplemental oxygen</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hospitalized, not requiring supplemental oxygen</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline PaO2/FiO2 ratio</title>
+          <units>ratio</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="148" lower_limit="73" upper_limit="203"/>
+                    <measurement group_id="B2" value="160" lower_limit="77" upper_limit="246"/>
+                    <measurement group_id="B3" value="117" lower_limit="66" upper_limit="210"/>
+                    <measurement group_id="B4" value="148" lower_limit="73" upper_limit="204"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline SOFA scores (SOFA: Sequential organ failure assessment)</title>
+          <description>SOFA score is the Sequential Organ Failure Assessment which measures dysfunction within PaO2/FIO2 Factor, Platelets Factor, Total Bilirubin Factor, Blood Pressure, Glasgow Coma Score Factor and Renal Factor, each on a scale of 0 (normal function) to 4 (severe dysfunction). The total minimum score is 0, the total maximum score is 24, with higher scores indicating severe dysfunction.</description>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3" lower_limit="2" upper_limit="6"/>
+                    <measurement group_id="B2" value="2" lower_limit="2" upper_limit="4"/>
+                    <measurement group_id="B3" value="4" lower_limit="2" upper_limit="5"/>
+                    <measurement group_id="B4" value="3" lower_limit="2" upper_limit="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Corticosteroids</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Remdesivir</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>High sensitivity troponin T (ng/L) (reference range &lt;12 ng/L)</title>
+          <units>ng/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21" lower_limit="15" upper_limit="31"/>
+                    <measurement group_id="B2" value="25" lower_limit="14" upper_limit="36"/>
+                    <measurement group_id="B3" value="32" lower_limit="16" upper_limit="163"/>
+                    <measurement group_id="B4" value="22" lower_limit="15" upper_limit="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>N-terminal pro B-type natriuretic peptide (pg/mL) (reference range &lt;125 pg/mL)</title>
+          <units>pg/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="371" lower_limit="181" upper_limit="1401"/>
+                    <measurement group_id="B2" value="372" lower_limit="277" upper_limit="1508"/>
+                    <measurement group_id="B3" value="810" lower_limit="349" upper_limit="10264"/>
+                    <measurement group_id="B4" value="479" lower_limit="248" upper_limit="1508"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>C reactive protein (mg/dL) (reference range 0.0-0.4 mg/dL)</title>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.7" lower_limit="10.8" upper_limit="19.7"/>
+                    <measurement group_id="B2" value="12.2" lower_limit="6.4" upper_limit="15.3"/>
+                    <measurement group_id="B3" value="17.6" lower_limit="15.0" upper_limit="19.9"/>
+                    <measurement group_id="B4" value="15.3" lower_limit="12.1" upper_limit="18.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Lymphocyte count (reference range 1.0-4.0 k/uL)</title>
+          <units>k/uL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.8" lower_limit="0.7" upper_limit="1.0"/>
+                    <measurement group_id="B2" value="0.7" lower_limit="0.5" upper_limit="1.2"/>
+                    <measurement group_id="B3" value="0.5" lower_limit="0.4" upper_limit="0.9"/>
+                    <measurement group_id="B4" value="0.7" lower_limit="0.5" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ferritin (ng/mL)(reference range 14.7-205.1 ng/mL)</title>
+          <units>ng/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="740" lower_limit="448" upper_limit="1969"/>
+                    <measurement group_id="B2" value="998" lower_limit="857" upper_limit="1626"/>
+                    <measurement group_id="B3" value="1246" lower_limit="768" upper_limit="2355"/>
+                    <measurement group_id="B4" value="1015" lower_limit="589" upper_limit="2111"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>D-dimer (ng/mL)(reference range &lt;500 ng/mL)</title>
+          <units>ng/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1795" lower_limit="870" upper_limit="3430"/>
+                    <measurement group_id="B2" value="950" lower_limit="730" upper_limit="1340"/>
+                    <measurement group_id="B3" value="1500" lower_limit="560" upper_limit="3340"/>
+                    <measurement group_id="B4" value="1320" lower_limit="730" upper_limit="2140"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Clinical Improvement at Day 14</title>
+        <description>Number of patients with either an improvement of two points on a seven category ordinal scale or discharge from the hospital</description>
+        <time_frame>Up to day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Intervention</title>
+            <description>600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 600mg: Subjects will be given one-time intravenous infusion of 600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Intervention</title>
+            <description>300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 300mg: Subjects will be given one-time intravenous infusion of 300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+          </group>
+          <group group_id="O3">
+            <title>Control</title>
+            <description>Placebo: 250 mL of 5% dextrose infused IV over 2 hours</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Clinical Improvement at Day 14</title>
+          <description>Number of patients with either an improvement of two points on a seven category ordinal scale or discharge from the hospital</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+                <count group_id="O2" value="14"/>
+                <count group_id="O3" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="7"/>
+                    <measurement group_id="O3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-cause Mortality</title>
+        <description>Number of patients who expired after treatment</description>
+        <time_frame>Up to day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Intervention</title>
+            <description>600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 600mg: Subjects will be given one-time intravenous infusion of 600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Intervention</title>
+            <description>300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 300mg: Subjects will be given one-time intravenous infusion of 300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+          </group>
+          <group group_id="O3">
+            <title>Control</title>
+            <description>Placebo&#xD;
+Placebos: 250 mL of 5% dextrose infused IV over 2 hours</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-cause Mortality</title>
+          <description>Number of patients who expired after treatment</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+                <count group_id="O2" value="14"/>
+                <count group_id="O3" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>150 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>High Dose Intervention</title>
+          <description>600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 600mg: Subjects will be given one-time intravenous infusion of 600 mg of canakinumab (8 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="E2">
+          <title>Low Dose Intervention</title>
+          <description>300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg)&#xD;
+Canakinumab Injection 300mg: Subjects will be given one-time intravenous infusion of 300 mg of canakinumab (4 mg/kg for patients &lt;/= 40 kg) in 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+        <group group_id="E3">
+          <title>Control</title>
+          <description>Placebo&#xD;
+Placebos: 250 mL of 5% dextrose infused IV over 2 hours</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="14"/>
+                <counts group_id="E3" subjects_affected="7" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Clot</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>DVT</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Cardiac Arrest</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypertensive</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Liver Dysfunction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Superinfection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Fungemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased Platelet Count</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Product Issues</title>
+            <event_list>
+              <event>
+                <sub_title>Ventilator Tube Occlusion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hematuria</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="15"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="14"/>
+                <counts group_id="E3" events="4" subjects_affected="4" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Chronic Respiratory Failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin Breakdown</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="15"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="14"/>
+                <counts group_id="E3" subjects_affected="11" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="7" subjects_affected="4" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Bleeding</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Clot</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="4" subjects_affected="4" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Elevated Cardiac Enzymes</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Congestive Heart Failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Corneal Abrasion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypovolemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Restless Leg Syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E3" events="4" subjects_affected="4" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypothermia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Liver Dysfunction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="14"/>
+                <counts group_id="E3" events="5" subjects_affected="5" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Encephalitis/Meningitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Positive Respiratory Culture</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="4" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>COVID 19 Hyperinflammation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Elevated ANC</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Hypophosphatemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Elevated Ferritin</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="14"/>
+                <counts group_id="E3" events="5" subjects_affected="5" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Elevated CRP</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypernatremia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Worsening D-Dimer</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Elevated WBC</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Elevated LD</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Worsening of Hemoglobin and Hematocrit</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Musculoskeletal Pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Rigors</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Neuropathic Lower Extremity Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Delirium</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="15"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="14"/>
+                <counts group_id="E3" events="9" subjects_affected="6" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hematuria</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Urinary Retention</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>UTI</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Aspiration</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Pneumomediastinum</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Asthma Exacerbation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Chronic Respiratory Failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Stidor</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Flash Pulmonary Edema</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin Breakdown</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Wound</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Paul C. Cremer, MD</name_or_title>
+      <organization>Cleveland Clinic</organization>
+      <phone>216-444-6765</phone>
+      <email>cremerp@ccf.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

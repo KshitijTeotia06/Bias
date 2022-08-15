@@ -1,0 +1,2529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="65">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516759</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SGS.1656.201</org_study_id>
+    <secondary_id>2020-002211-21</secondary_id>
+    <nct_id>NCT04516759</nct_id>
+  </id_info>
+  <brief_title>AZD1656 in Diabetic Patients Hospitalised With Suspected or Confirmed COVID-19</brief_title>
+  <acronym>ARCADIA</acronym>
+  <official_title>A Phase II, Randomised, Double-blind, Placebo-controlled Clinical Trial to Assess the Safety and Efficacy of AZD1656 in Diabetic Patients Hospitalised With Suspected or Confirmed COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St George Street Capital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St George Street Capital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ARCADIA Trial is a randomised, double-blind, placebo-controlled clinical trial to assess&#xD;
+      the safety and efficacy of AZD1656 in patients with either Type 1 or Type 2 diabetes,&#xD;
+      hospitalised with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The ARCADIA Trial will assess the safety and efficacy of AZD1656 in 150 patients with either&#xD;
+      Type 1 or Type 2 diabetes who have been hospitalised with COVID-19.&#xD;
+&#xD;
+      AZD1656 is a glucokinase (GK; hexokinase 4) activator which has been shown to reduce blood&#xD;
+      glucose for up to 4 months in humans. Diabetic patients admitted to hospital with COVID-19&#xD;
+      often present with hyperglycaemia and are particularly vulnerable to progression to severe&#xD;
+      COVID-19. Treatment with AZD1656 (in addition to their usual care) may provide additional&#xD;
+      glucose control which could help improve clinical outcomes in both Type 1 and Type 2 diabetic&#xD;
+      populations.&#xD;
+&#xD;
+      In addition to its glucose lowering effect, AZD1656 may have additional benefits to COVID-19&#xD;
+      patients via its effects on immune function. In many patients with severe COVID-19, an&#xD;
+      overreaction of the body's own immune system can cause severe problems including damage to&#xD;
+      the lungs and heart, which can lead to breathing problems necessitating intubation and&#xD;
+      ventilation. AZD1656 has been shown to activate the migration of T regulatory cells to sites&#xD;
+      of inflammation in preclinical experiments. This migration of Treg cells to inflamed tissue&#xD;
+      is crucial for their immune-modulatory function (Kishore et al (2017)). AZD1656 could enhance&#xD;
+      Treg migratory capacity and may prevent the development of cardiorespiratory complications&#xD;
+      observed in hospitalised patients with COVID-19, leading to lower requirements for oxygen&#xD;
+      therapy and assisted ventilation, and reduced incidences of pneumonia and acute respiratory&#xD;
+      distress syndrome (ARDS).&#xD;
+&#xD;
+      Diabetic patients hospitalised with COVID-19 will be randomised to receive either AZD1656&#xD;
+      tablets or placebo tablets on a 1:1 basis until they are discharged from hospital or until&#xD;
+      they require intubation/mechanical ventilation. The aim of the study is to determine whether&#xD;
+      AZD1656 improves clinical outcomes in diabetic patients hospitalised with COVID-19. The World&#xD;
+      Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement will be used as the&#xD;
+      standard methodology for measuring patient outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 12, 2020</start_date>
+  <completion_date type="Actual">May 12, 2021</completion_date>
+  <primary_completion_date type="Actual">April 25, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomised double-blind study. Eligible patients will be randomly assigned to one of two groups (AZD1656 plus usual care or placebo plus usual care) on a 1:1 basis</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Improvement by Day 14</measure>
+    <time_frame>Day 1 to Day 14</time_frame>
+    <description>The World Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement (OSCI) was used to measure Clinical Improvement at Day 14 versus baseline, comparing AZD1656 treatment with placebo. The WHO OSCI score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient.&#xD;
+Results are presented as number of responders. Patients who were assigned a WHO score of 1, 2 or 3 at Day 14 were considered a treatment responder. A patient who was discharged before Day 14 was also considered a responder. All other patients (WHO scores 4-8 at Day 14) were considered treatment failures.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Improvement at Day 7, 14 and 21</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>The World Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement (OSCI) was used to measure Clinical Improvement at Day 7, Day 14 and Day 21 versus baseline, comparing AZD1656 treatment with placebo.&#xD;
+Results are presented as the percentage of patients categorised at each severity rating at each timepoint on the WHO 8-point OSCI scale.&#xD;
+The WHO OSCI score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient.&#xD;
+Study Drug Discontinuation was the date on which a patient discontinued treatment. Treatment was given for a maximum of 21 days, or until date of hospital discharge (WHO score 1 or 2), or date mechanical ventilation was required (WHO score 6 or 7) or until date of death (WHO score 8).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glycaemic Control</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Degree of glycaemic control as measured by the need to increase baseline medication requirements or the need to add additional diabetic medications to maintain appropriate blood glucose levels in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Adverse Events</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Proportion of Treatment Emergent Adverse Events (TEAEs) leading to study drug discontinuation in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Serious Adverse Events</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Proportion of Serious Adverse Events (SAEs) in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalisation</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Time from hospital admission to hospital discharge (in hours) in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Mortality rate in patients receiving AZD1656 compared with placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intubation/Mechanical Ventilation</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Number of Patients Receiving Intubation/Mechanical Ventilation</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">170</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>AZD1656 (plus Usual Hospital Care)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>50mg film-coated tablets at a dose of 100mg BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Matched Placebo (plus Usual Hospital Care)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matched placebo tablets</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD1656</intervention_name>
+    <description>50mg film-coated tablets (at daily dose of 100mg BID)</description>
+    <arm_group_label>AZD1656 (plus Usual Hospital Care)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matched placebo tablets</description>
+    <arm_group_label>Matched Placebo (plus Usual Hospital Care)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or Female.&#xD;
+&#xD;
+          2. Aged 18 and older.&#xD;
+&#xD;
+          3. Have either Type I or Type II Diabetes Mellitus.&#xD;
+&#xD;
+          4. Hospitalised with suspected or confirmed novel coronavirus (Severe Acute Respiratory&#xD;
+             Syndrome Coronavirus 2 (SARS-CoV-2)) infection at time of enrolment, categorised as&#xD;
+             stage 3, 4 or 5 on the WHO Ordinal Scale for Clinical Improvement.&#xD;
+&#xD;
+          5. Blood glucose level at or above 4 mmol/L.&#xD;
+&#xD;
+          6. Able to take oral (tablet) formulation of medication.&#xD;
+&#xD;
+          7. Patient is able to provide written informed consent prior to initiation of any study&#xD;
+             procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. In the opinion of the clinical team, progression to intubation or mechanical&#xD;
+             ventilation is imminent and inevitable, within the next 24 hours, irrespective of the&#xD;
+             provision of treatments.&#xD;
+&#xD;
+          2. Patients admitted with primary suspected or proven Mycoplasma pneumoniae, Chlamydia&#xD;
+             pneumoniae and bacterial pneumonia, who acquired COVID-19 while hospitalized.&#xD;
+&#xD;
+          3. Treatment with immunomodulators or anti-rejection drugs within the last 3 months.&#xD;
+&#xD;
+          4. Pregnant or breast feeding.&#xD;
+&#xD;
+          5. Men, and women of child-bearing potential, unwilling to use highly effective&#xD;
+             contraception during their participation in the trial and for 2 weeks after study&#xD;
+             completion.&#xD;
+&#xD;
+          6. Anticipated transfer to another hospital which is not a study site within 72 hours.&#xD;
+&#xD;
+          7. Known sensitivity to any of the study medication/placebo excipients.&#xD;
+&#xD;
+          8. Prior dosing with AZD1656 on a previous clinical trial.&#xD;
+&#xD;
+          9. Patients admitted as a result of and receiving immediate treatment for an acute&#xD;
+             asthmatic attack, acute myocardial infarction, acute cerebrovascular event.&#xD;
+&#xD;
+         10. Any known non-COVID-19, non-diabetes related, serious condition which, in the opinion&#xD;
+             of the clinical team, makes the patient unsuitable for the trial.&#xD;
+&#xD;
+         11. Known history of drug or alcohol abuse within previous 12 months of screening.&#xD;
+&#xD;
+         12. Known history of HIV, hepatitis C or unresolved hepatitis B or severe liver disease.&#xD;
+&#xD;
+         13. Current or planned use of gemfibrozil or any other strong inhibitors of CYP2C8.&#xD;
+&#xD;
+         14. Current or previous participation in another clinical trial where the patient has&#xD;
+             received a dose of an Investigational Medicinal Product (IMP) containing small&#xD;
+             molecule treatment(s) within 30 days or 5 half-lives (whichever is longer) prior to&#xD;
+             enrolment into this study, or containing biological treatment(s) within 3 months prior&#xD;
+             to entry into this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kieran McCafferty, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Barts &amp; The London NHS Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Masarykova Univerzita - Fakultni Nemocnice U SV Anny V Brne (308)</name>
+      <address>
+        <city>Brno</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Hořovice (309)</name>
+      <address>
+        <city>Hořovice</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oblastni Nemocnice Kolín (306)</name>
+      <address>
+        <city>Kolín</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klaudianova Nemonice (302)</name>
+      <address>
+        <city>Mladá Boleslav</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni Nemocnice V Motole (303)</name>
+      <address>
+        <city>Prague</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomayerova Nemonice (310)</name>
+      <address>
+        <city>Prague</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Třebíč (305)</name>
+      <address>
+        <city>Třebíč</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Colentina Clinical Hospital (204)</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic de Boli Infectioase Cluj-Napoca (203)</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic de Pneumoftiziologie &quot;Leon Daniello&quot; Cluj-Napoca (202)</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic de Boli Infectioase Constanţa (207)</name>
+      <address>
+        <city>Constanţa</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic de Boli Infectioase si Pneumoftiziologie Dr Victor Babes Craiova (206)</name>
+      <address>
+        <city>Craiova</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Judetean de Urgenta Deva (208)</name>
+      <address>
+        <city>Deva</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic de Boli Infectioase &quot;Sfanta Parascheva&quot; Iaşi (205)</name>
+      <address>
+        <city>Iaşi</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic de Boli Infectioase si Pneumoftiziologie Dr Victor Babes Timişoara (201)</name>
+      <address>
+        <city>Timişoara</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barnsley Hospital NHS Foundation Trust (105)</name>
+      <address>
+        <city>Barnsley</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bolton NHS Foundation Trust (122)</name>
+      <address>
+        <city>Bolton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bradford Teaching Hospitals NHS Foundation Trust (103)</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD9 6RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Bristol NHS Trust (116)</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS10 5NB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>County Durham and Darlington NHS Foundation Trust (121)</name>
+      <address>
+        <city>Darlington</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Dudley Group NHS Foundation Trust (107)</name>
+      <address>
+        <city>Dudley</city>
+        <zip>DY1 2HQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medway NHS Foundation Trust (108)</name>
+      <address>
+        <city>Gillingham</city>
+        <zip>ME7 5NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hull &amp; East Yorkshire NHS Trust (102)</name>
+      <address>
+        <city>Hull</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barts Health NHS Trust (101 and 111)</name>
+      <address>
+        <city>London</city>
+        <zip>E1 1FR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free London NHS Foundation Trust (119)</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St George's University Hospitals NHS Foundation Trust (114)</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penine Acute Hospitals NHS Trust (106)</name>
+      <address>
+        <city>Salford</city>
+        <zip>M6 8HD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Hospitals NHS Foundation Trust (104)</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 2SB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Somerset NHS Foundation Trust (109)</name>
+      <address>
+        <city>Taunton</city>
+        <zip>TA1 5DA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Walsall Healthcare NHS Trust (113)</name>
+      <address>
+        <city>Walsall</city>
+        <zip>WS2 9PS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Czechia</country>
+    <country>Romania</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://www.sgscapital.org</url>
+    <description>Link to St George Street Capital's website</description>
+  </link>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <results_first_submitted>April 12, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 21, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 25, 2022</results_first_posted>
+  <last_update_submitted>April 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Diabetes Mellitus</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Regulatory T Cell</keyword>
+  <keyword>Glucokinase</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to deidentified individual participant data (IDP) that underlie the published clinical trial results.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Requests for access to the data will be accepted beginning 6 months after article publication and will continue to be accepted for up to 5 years after publication.</ipd_time_frame>
+    <ipd_access_criteria>Researchers must submit a methodologically sound research proposal to St George Street using the contact details provided on our website. See link below.</ipd_access_criteria>
+    <ipd_url>http://www.sgscapital.org</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 21, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/59/NCT04516759/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 27, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/59/NCT04516759/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>170 subjects were screened for participation. 13 subjects were screening failures. 156 subjects were randomized of which 3 subjects withdrew consent prior to start of study medication. 153 subjects started with study treatment.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>AZD1656 (Plus Usual Hospital Care)</title>
+          <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+        </group>
+        <group group_id="P2">
+          <title>Matched Placebo (Plus Usual Hospital Care)</title>
+          <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="80">excluding 2 subjects who were randomized but did not start treatment</participants>
+                <participants group_id="P2" count="73">excluding 1 subject who was randomized but did not start treatment</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="79"/>
+                <participants group_id="P2" count="71"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>AZD1656 (Plus Usual Hospital Care)</title>
+          <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+        </group>
+        <group group_id="B2">
+          <title>Matched Placebo (Plus Usual Hospital Care)</title>
+          <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="80"/>
+            <count group_id="B2" value="73"/>
+            <count group_id="B3" value="153"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="69"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="56"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="77"/>
+                    <measurement group_id="B2" value="70"/>
+                    <measurement group_id="B3" value="147"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Romania</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Czechia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United Kingdom</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>WHO OSCI rating</title>
+          <description>Patients hospitalised with suspected or confirmed novel coronavirus (SARSCoV-2) infection, categorised as 3, 4 or 5 on the WHO Ordinal Scale for Clinical Improvement, were considered eligible for the trial. This score was clinically assessed by the treating physician at baseline. The WHO score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient is/was.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>3 - Hospitalised, no oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4 - Hospitalised, oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="94"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5 - Non-invasive ventilation or high flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diabetes Type</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Type 1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Type 2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="79"/>
+                    <measurement group_id="B2" value="71"/>
+                    <measurement group_id="B3" value="150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Vitamin D group</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt; 25 nmol/l</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;= 25 nmol/l</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46"/>
+                    <measurement group_id="B2" value="45"/>
+                    <measurement group_id="B3" value="91"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Clinical Improvement by Day 14</title>
+        <description>The World Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement (OSCI) was used to measure Clinical Improvement at Day 14 versus baseline, comparing AZD1656 treatment with placebo. The WHO OSCI score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient.&#xD;
+Results are presented as number of responders. Patients who were assigned a WHO score of 1, 2 or 3 at Day 14 were considered a treatment responder. A patient who was discharged before Day 14 was also considered a responder. All other patients (WHO scores 4-8 at Day 14) were considered treatment failures.</description>
+        <time_frame>Day 1 to Day 14</time_frame>
+        <population>Full Analysis Set: all participants who received at least one dose of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Improvement by Day 14</title>
+          <description>The World Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement (OSCI) was used to measure Clinical Improvement at Day 14 versus baseline, comparing AZD1656 treatment with placebo. The WHO OSCI score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient.&#xD;
+Results are presented as number of responders. Patients who were assigned a WHO score of 1, 2 or 3 at Day 14 were considered a treatment responder. A patient who was discharged before Day 14 was also considered a responder. All other patients (WHO scores 4-8 at Day 14) were considered treatment failures.</description>
+          <population>Full Analysis Set: all participants who received at least one dose of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Treatment responder</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="61"/>
+                    <measurement group_id="O2" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Treatment failure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Missing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1854</p_value>
+            <method>Chi-squared</method>
+            <method_desc>Chi-squared test on the one-sided significance level of 2.5%</method_desc>
+            <param_type>Risk Ratio (RR)</param_type>
+            <param_value>1.09</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.9</ci_lower_limit>
+            <ci_upper_limit>1.32</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Improvement at Day 7, 14 and 21</title>
+        <description>The World Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement (OSCI) was used to measure Clinical Improvement at Day 7, Day 14 and Day 21 versus baseline, comparing AZD1656 treatment with placebo.&#xD;
+Results are presented as the percentage of patients categorised at each severity rating at each timepoint on the WHO 8-point OSCI scale.&#xD;
+The WHO OSCI score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient.&#xD;
+Study Drug Discontinuation was the date on which a patient discontinued treatment. Treatment was given for a maximum of 21 days, or until date of hospital discharge (WHO score 1 or 2), or date mechanical ventilation was required (WHO score 6 or 7) or until date of death (WHO score 8).</description>
+        <time_frame>Day 1 to Day 21</time_frame>
+        <population>Full Analysis Set: all participants who received at least one dose of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Improvement at Day 7, 14 and 21</title>
+          <description>The World Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement (OSCI) was used to measure Clinical Improvement at Day 7, Day 14 and Day 21 versus baseline, comparing AZD1656 treatment with placebo.&#xD;
+Results are presented as the percentage of patients categorised at each severity rating at each timepoint on the WHO 8-point OSCI scale.&#xD;
+The WHO OSCI score ranges from 0-8 (0 = no symptoms, 8 = death). The higher the score the worse the condition of the patient.&#xD;
+Study Drug Discontinuation was the date on which a patient discontinued treatment. Treatment was given for a maximum of 21 days, or until date of hospital discharge (WHO score 1 or 2), or date mechanical ventilation was required (WHO score 6 or 7) or until date of death (WHO score 8).</description>
+          <population>Full Analysis Set: all participants who received at least one dose of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <title>Score 1: Ambulatory - no limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 2: Ambulatory - limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 3: Hospitalized, no oxygen therapy</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 4: Hospitalized, oxygen by mask or nasal prongs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52"/>
+                    <measurement group_id="O2" value="42"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 5: Hospitalized, non-invasive ventilation or high-flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 6: Hospitalized, intubation or mechanical ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 7: Hospitalized, ventilation + additional organ support - pressors, RTT, ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 8: Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <category_list>
+                <category>
+                  <title>Score 1: Ambulatory - no limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 2: Ambulatory - limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 3: Hospitalized, no oxygen therapy</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 4: Hospitalized, oxygen by mask or nasal prongs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 5: Hospitalized, non-invasive ventilation or high-flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 6: Hospitalized, intubation or mechanical ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 7: Hospitalized, ventilation + additional organ support - pressors, RTT, ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 8: Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <category_list>
+                <category>
+                  <title>Score 1: Ambulatory - no limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 2: Ambulatory - limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                    <measurement group_id="O2" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 3: Hospitalized, no oxygen therapy</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 4: Hospitalized, oxygen by mask or nasal prongs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 5: Hospitalized, non-invasive ventilation or high-flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 6: Hospitalized, intubation or mechanical ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 7: Hospitalized, ventilation + additional organ support - pressors, RTT, ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 8: Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <category_list>
+                <category>
+                  <title>Score 1: Ambulatory - no limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 2: Ambulatory - limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                    <measurement group_id="O2" value="41"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 3: Hospitalized, no oxygen therapy</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 4: Hospitalized, oxygen by mask or nasal prongs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 5: Hospitalized, non-invasive ventilation or high-flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 6: Hospitalized, intubation or mechanical ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 7: Hospitalized, ventilation + additional organ support - pressors, RTT, ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 8: Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Study Drug Discontinuation (SDD)</title>
+              <category_list>
+                <category>
+                  <title>Score 1: Ambulatory - no limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 2: Ambulatory - limitation of activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                    <measurement group_id="O2" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 3: Hospitalized, no oxygen therapy</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 4: Hospitalized, oxygen by mask or nasal prongs</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 5: Hospitalized, non-invasive ventilation or high-flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 6: Hospitalized, intubation or mechanical ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 7: Hospitalized, ventilation + additional organ support - pressors, RTT, ECMO</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Score 8: Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0286</p_value>
+            <p_value_desc>Baseline p-value</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <method_desc>one-side significance level of 2.5%</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0786</p_value>
+            <p_value_desc>Day 7 p-value</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <method_desc>one-side significance level of 2.5%</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.2169</p_value>
+            <p_value_desc>Day 14 p-value</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <method_desc>one-side significance level of 2.5%</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.1860</p_value>
+            <p_value_desc>Day 21 p-value</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <method_desc>one-sided significance level of 2.5%</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.2256</p_value>
+            <p_value_desc>Study Drug Discontinuation (SDD) p-value</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <method_desc>one-sided significance level of 2.5%</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Glycaemic Control</title>
+        <description>Degree of glycaemic control as measured by the need to increase baseline medication requirements or the need to add additional diabetic medications to maintain appropriate blood glucose levels in patients receiving AZD1656 compared with placebo</description>
+        <time_frame>Day 1 to Day 21</time_frame>
+        <population>Full Analysis Set: all participants who at least received one dose of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Glycaemic Control</title>
+          <description>Degree of glycaemic control as measured by the need to increase baseline medication requirements or the need to add additional diabetic medications to maintain appropriate blood glucose levels in patients receiving AZD1656 compared with placebo</description>
+          <population>Full Analysis Set: all participants who at least received one dose of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Increase in Diabetic Medication Needed equal or More Than 3 Days</title>
+              <category_list>
+                <category>
+                  <title>True</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>False</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68"/>
+                    <measurement group_id="O2" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetic Medication is Stable/Reduced Equal or More Than 3 days</title>
+              <category_list>
+                <category>
+                  <title>True</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="61"/>
+                    <measurement group_id="O2" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>False</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Increase in Diabetic Medication Needed at Any Time During the Study</title>
+              <category_list>
+                <category>
+                  <title>True</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>False</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55"/>
+                    <measurement group_id="O2" value="52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetic Medication is Stable/Reduced at Any Time During the Study</title>
+              <category_list>
+                <category>
+                  <title>True</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="74"/>
+                    <measurement group_id="O2" value="67"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>False</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.4006</p_value>
+            <p_value_desc>Increase in Diabetic Medication needed equal or more than 3 days</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.7482</p_value>
+            <p_value_desc>Diabetic Medication is stable/reduced equal or more than 3 days</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.6949</p_value>
+            <p_value_desc>Increase in Diabetic Medication needed at any time during the study</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.5521</p_value>
+            <p_value_desc>Diabetic Medication is stable/reduced at any time during the study</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Occurrence of Adverse Events</title>
+        <description>Proportion of Treatment Emergent Adverse Events (TEAEs) leading to study drug discontinuation in patients receiving AZD1656 compared with placebo</description>
+        <time_frame>Day 1 to Day 28</time_frame>
+        <population>This analysis includes all participants who received at least one dose of treatment and had at least one post-baseline safety assessment (where the statement that a patient had no AE on the AE eCRF constitutes a safety assessment). 4 patients from the placebo arm are moved to the AZD1656 arm due to having drug in their PK samples. The assignment of patients to the treatment groups are as actually treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Occurrence of Adverse Events</title>
+          <description>Proportion of Treatment Emergent Adverse Events (TEAEs) leading to study drug discontinuation in patients receiving AZD1656 compared with placebo</description>
+          <population>This analysis includes all participants who received at least one dose of treatment and had at least one post-baseline safety assessment (where the statement that a patient had no AE on the AE eCRF constitutes a safety assessment). 4 patients from the placebo arm are moved to the AZD1656 arm due to having drug in their PK samples. The assignment of patients to the treatment groups are as actually treated.</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="84"/>
+                <count group_id="O2" value="69"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>TEAEs leading to study drug discontinuation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other TEAEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.5875</p_value>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Occurrence of Serious Adverse Events</title>
+        <description>Proportion of Serious Adverse Events (SAEs) in patients receiving AZD1656 compared with placebo</description>
+        <time_frame>Day 1 to Day 28</time_frame>
+        <population>This analysis includes all patients who received at least one dose of IMP and had at least one post-baseline safety assessment (where the statement that a patient had no AE on the AE eCRF constitutes a safety assessment). 4 patients from the placebo arm are moved to the AZD1656 arm due to having drug in their PK samples. The assignment of patients to the treatment groups are as actually treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Occurrence of Serious Adverse Events</title>
+          <description>Proportion of Serious Adverse Events (SAEs) in patients receiving AZD1656 compared with placebo</description>
+          <population>This analysis includes all patients who received at least one dose of IMP and had at least one post-baseline safety assessment (where the statement that a patient had no AE on the AE eCRF constitutes a safety assessment). 4 patients from the placebo arm are moved to the AZD1656 arm due to having drug in their PK samples. The assignment of patients to the treatment groups are as actually treated.</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="84"/>
+                <count group_id="O2" value="69"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Serious Adverse Events</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.1129</p_value>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Hospitalisation</title>
+        <description>Time from hospital admission to hospital discharge (in hours) in patients receiving AZD1656 compared with placebo</description>
+        <time_frame>Day 1 to Day 21</time_frame>
+        <population>Full Analysis Set: all participant who at least received on dose of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Hospitalisation</title>
+          <description>Time from hospital admission to hospital discharge (in hours) in patients receiving AZD1656 compared with placebo</description>
+          <population>Full Analysis Set: all participant who at least received on dose of treatment</population>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="264.3" lower_limit="215.5" upper_limit="299.7"/>
+                    <measurement group_id="O2" value="288.7" lower_limit="260.1" upper_limit="307.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1556</p_value>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality Rate</title>
+        <description>Mortality rate in patients receiving AZD1656 compared with placebo.</description>
+        <time_frame>Day 1 to Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality Rate</title>
+          <description>Mortality rate in patients receiving AZD1656 compared with placebo.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Died</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did not die</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="75"/>
+                    <measurement group_id="O2" value="63"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0903</p_value>
+            <method>Fisher Exact</method>
+            <method_desc>The p-value is assessed by means of an Fisher's exact test on the one-sided significance level of 2.5%</method_desc>
+            <param_type>Risk Ratio (RR)</param_type>
+            <param_value>0.41</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.13</ci_lower_limit>
+            <ci_upper_limit>1.26</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Intubation/Mechanical Ventilation</title>
+        <description>Number of Patients Receiving Intubation/Mechanical Ventilation</description>
+        <time_frame>Day 1 to Day 21</time_frame>
+        <population>Full Analysis Set: all participants who at least received one dose of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Intubation/Mechanical Ventilation</title>
+          <description>Number of Patients Receiving Intubation/Mechanical Ventilation</description>
+          <population>Full Analysis Set: all participants who at least received one dose of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Receiving Intubation/Mechanical Ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Receiving Intubation/Mechanical Ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76"/>
+                    <measurement group_id="O2" value="69"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.6144</p_value>
+            <method>Fisher Exact</method>
+            <method_desc>One-sided significance level of 2.5%</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>Mortality Rate</title>
+        <description>Mortality rate from randomization up to and including 168 hours post randomization</description>
+        <time_frame>Randomization to 168 hours post randomization</time_frame>
+        <population>Full Analysis Set: all participant who received at least one dose of treatment; patients who withdrew consent are categorised as missing</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality Rate</title>
+          <description>Mortality rate from randomization up to and including 168 hours post randomization</description>
+          <population>Full Analysis Set: all participant who received at least one dose of treatment; patients who withdrew consent are categorised as missing</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Died</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did not die</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="79"/>
+                    <measurement group_id="O2" value="66"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0105</p_value>
+            <method>Fisher Exact</method>
+            <method_desc>one-sided significance level of 2.5%</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>Proportion of Patients Discharged up to and Including 168 Hours Having a WHO OSCI Rating of 1 or 2</title>
+        <description>Proportion of Patients Being Discharged From Hospital up to and Including 168 hrs Having WHO OSCI Rating of 1 or 2</description>
+        <time_frame>Day 1 up to and including 168 hours post randomization</time_frame>
+        <population>Full Analysis Set: all participants who had at least one dose of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AZD1656 (Plus Usual Hospital Care)</title>
+            <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+          </group>
+          <group group_id="O2">
+            <title>Matched Placebo (Plus Usual Hospital Care)</title>
+            <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Proportion of Patients Discharged up to and Including 168 Hours Having a WHO OSCI Rating of 1 or 2</title>
+          <description>Proportion of Patients Being Discharged From Hospital up to and Including 168 hrs Having WHO OSCI Rating of 1 or 2</description>
+          <population>Full Analysis Set: all participants who had at least one dose of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="73"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Discharged from hospital (within 168 hrs with WHO 1 or 2)</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not discharged from Hospital (within 168 hrs with WHO 1 or 2)</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49"/>
+                    <measurement group_id="O2" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.062</p_value>
+            <method>Fisher Exact</method>
+            <method_desc>one-sided significance level of 2.5%</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>All AEs, including SAEs, were captured after signing the informed consent and until 7 days after treatment discontinuation (up to a maximum of 28 days).</time_frame>
+      <desc>Serious and other Adverse Events were assessed using the Safety Set (SAF) dataset. The SAF dataset included 84 patients in the AZD1656 arm and 69 patients in the placebo arm, All-Cause Mortality was assessed using the Full Analysis Set (FAS) dataset. The FAS dataset included 80 patients in the AZD1656 arm and 73 patients in the placebo arm.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>AZD1656 (Plus Usual Hospital Care)</title>
+          <description>50mg film-coated tablets at a dose of 100mg BID&#xD;
+AZD1656: 50mg film-coated tablets (at daily dose of 100mg BID)</description>
+        </group>
+        <group group_id="E2">
+          <title>Matched Placebo (Plus Usual Hospital Care)</title>
+          <description>Matched placebo tablets&#xD;
+Placebo: Matched placebo tablets</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="80"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="73"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="84"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina unstable</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Cardio-respiratory arrest</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Cardiogenic shock</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Ventricular tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pancreatitis acute</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute hepatic failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Abcess limb</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Septic shock</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="84"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="84"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <description>Sepsis</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Hypophagia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Suicide attempt</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Circulatory collapse</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="43" subjects_at_risk="84"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Leucocytosis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Neutrophilia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Atrial flutter</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Abdominal tenderness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatitis toxic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Oral candidiasis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Device related infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Oral fungal infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal mycotic infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Blood glucose decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Vitamin D decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycaemia</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="8" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Reversible ischaemic neurological deficit</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Restlessness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute kidney injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Dysuria</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Urinary retention</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="84"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="84"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="69"/>
+              </event>
+              <event>
+                <sub_title>Hiccups</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="84"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="69"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Mike Johnson, Managing Director</name_or_title>
+      <organization>St George Street Capital</organization>
+      <phone>+447768335460</phone>
+      <email>mike@sgscapital.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

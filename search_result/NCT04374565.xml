@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="181">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04374565</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200114</org_study_id>
+    <nct_id>NCT04374565</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for Treatment of COVID-19 Patients With Pneumonia</brief_title>
+  <official_title>Efficacy and Safety of High-Titer Anti-SARS-CoV-2 (COVID19) Convalescent Plasma for Hospitalized Patients With Infection Due to COVID-19 to Decrease Complications: A Phase II Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Virginia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Virginia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single arm phase II trial to assess efficacy and confirm safety of infusions of&#xD;
+      anti-SARS-CoV-2 convalescent plasma in hospitalized patients with acute respiratory&#xD;
+      symptoms,with or without confirmed interstitial COVID-19 pneumonia by chest Xray or CT. A&#xD;
+      total of 29 eligible subjects will be enrolled to receive anti-SARS-CoV-2 plasma.Outcomes&#xD;
+      will be compared to hospitalized controls with confirmed COVID-19 disease through&#xD;
+      retrospective chart review.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are no proven treatments for coronavirus disease (COVID-19) and associated pneumonia&#xD;
+      caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Recent experience in&#xD;
+      China suggests that convalescent immune plasma(CIP)may be an effective treatment for&#xD;
+      COVID-19. In the pandemic situation where there are no vaccines for COVID-19, specific&#xD;
+      antibodies in convalescent plasma induced by infection may provide passive protective&#xD;
+      immunity. Passive antibody therapy was the first immunotherapy dating back to the 1890's for&#xD;
+      the treatment of infectious diseases before the development of antibiotics 1940's. Experience&#xD;
+      from prior outbreaks with other coronaviruses, such as SARS-CoV-1 shows that such&#xD;
+      convalescent plasma contains neutralizing antibodies to the relevant virus. In SARS-CoV-2,&#xD;
+      passive antibody therapy from CIP probably provided protection by viral neutralization. CIP&#xD;
+      was also used in the 2013 Ebola epidemic. A small non-randomized study in Sierra Leone&#xD;
+      revealed a significant increase in survival for who received CIP4. CIP administration is the&#xD;
+      only approach that provides immediate immunity to patients who have been exposed or who have&#xD;
+      active disease.&#xD;
+&#xD;
+      This approach is immediately available from individuals who have recovered, are viral&#xD;
+      free,and can donate immune plasma (IP) containing high titer neutralizing antibodies. Passive&#xD;
+      antibody therapy can be given to a patient recently exposed or a patient who is developing an&#xD;
+      infection with COVID-19 by obtaining plasma units from immune individuals by standard&#xD;
+      plasmapheresis using FDA-approved blood banking procedures, cross matching the unit(s) to the&#xD;
+      recipients and infusing the unit(s) using standard transfusion procedures for blood products.&#xD;
+      Based on the safety and long-term experience with plasma infusions, plasma exchanges, and&#xD;
+      other procedures involving plasma or plasma product, this protocol was designed as a phase II&#xD;
+      single arm trial that involves the administration of antibodies to a given agent to a&#xD;
+      susceptible individual for the purpose of preventing or treating an infectious disease due to&#xD;
+      that agent.&#xD;
+&#xD;
+      The only antibody formulation that is available for emergent use is that found in&#xD;
+      convalescent plasma. As more individuals contract COVID-19 and recover, the number of&#xD;
+      potential donors will increase.&#xD;
+&#xD;
+      The principle of passive antibody therapy is that it is more effective when used for&#xD;
+      prophylaxis than for treatment of disease. When used for therapy, antibody is most effective&#xD;
+      when administered shortly after the onset of symptoms. The reason for temporal variation in&#xD;
+      efficacy is not well understood but could reflect that passive antibody works by neutralizing&#xD;
+      the initial inoculum, which is likely to be much smaller than that of established disease.&#xD;
+      Alternatively, antibodies may dampen the early inflammatory response leaving the infected&#xD;
+      individual asymptomatic. For example, antibody therapy for pneumococcal pneumonia was most&#xD;
+      effective when given shortly after the onset of symptoms and was of no benefit if antibody&#xD;
+      therapy was delayed beyond the third day of disease. For passive antibody therapy to be&#xD;
+      effective, a sufficient amount of antibody must be infused. The antibody will circulate in&#xD;
+      the blood, reach tissues,and provide protection against infection. Depending on the type of&#xD;
+      antibody, amount, and composition, the half-life can vary from weeks to months. It is under&#xD;
+      these circumstances, the investigators plan to treat patients who are sick enough to be&#xD;
+      hospitalized before the onset of overwhelming disease involving a systemic inflammatory&#xD;
+      response, sepsis, and/or ARDS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 5, 2020</start_date>
+  <completion_date type="Actual">March 5, 2021</completion_date>
+  <primary_completion_date type="Actual">March 5, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a single arm phase II trial to assess preliminary efficacy and confirm safety of infusions of antiSARS-CoV-2 convalescent plasma in hospitalized patients with acute respiratory symptoms with or without confirmed interstitial COVID-19 pneumonia by CXR or chest CT. A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Transferred to Intensive Care Unit (ICU)</measure>
+    <time_frame>Days 0 - 60</time_frame>
+    <description>Will be done by comparing the admission rate to the ICU between patients who received convalescent plasma and a control group who did not enroll in the study, or receive another experimental therapy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>28 Day Mortality</measure>
+    <time_frame>Days 0 - 28</time_frame>
+    <description>Will be done by comparing the 28 day mortality rate between enrolled subjects and the control group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Serious Adverse Events</measure>
+    <time_frame>Days 0 - 60</time_frame>
+    <description>Will be collected from time of enrollment until completion of the study. The adverse events will be evaluated by CTCAE V5.0 and MedDRA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of SARS-CoV-2 Positivity</measure>
+    <time_frame>Days 0 - 21</time_frame>
+    <description>Respiratory tract swabs will be collected on days, 0, 7, 14, and 21 and will be tested for SARS-CoV-2. The outcome measurement is determining the duration from date of infection until date of first documented negative PCR test, which was assed up to 21 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum of Plasma Antibody Titer to SARS-CoV-2</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Serum or plasma will be collected and analyzed for SARS-CoV-2 antibody.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular and Humoral Immune Response</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Blood will be collected and analyzed for for Spike IgG levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental Oxygen Free Days</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>All days where a supplemental oxygen is needed will be recorded as a concomitant medication and will be subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the supplemental oxygen free days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator Free Days</measure>
+    <time_frame>Days 0 - 28</time_frame>
+    <description>All days where a ventilator is needed will be recorded as a concomitant procedure and will be subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the ventilator free days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU Free Days</measure>
+    <time_frame>Days 0 - 28</time_frame>
+    <description>All days where the participant is admitted to the ICU will be recorded and subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the ICU free days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment Score Improvement</measure>
+    <time_frame>days 0-28</time_frame>
+    <description>Throughout the study, participants were evaluated by study physician using the sequential organ failure assessment score. This outcome measurement is looking for the number of participants who's score improved over the duration of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Needed for Vasopressors</measure>
+    <time_frame>Days 0 - 60</time_frame>
+    <description>Concomitant medications will be recorded throughout the patients participation in the study and vasopressors will be recorded, if they are needed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Needed Renal Replacement Therapy</measure>
+    <time_frame>Days 0 - 60</time_frame>
+    <description>Renal function will be assessed throughout the patients participation in the study. If renal replacement therapy is needed, it will be captured as a concomitant procedure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Needed Extracorporeal Membrane Oxygenation (ECMO)</measure>
+    <time_frame>Days 0 - 60</time_frame>
+    <description>Respiratory function will be assessed throughout the patients participation in the study. If ECMO is needed, it will be captured as a concomitant procedure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Length of Stay (LOS)</measure>
+    <time_frame>Days 0-60</time_frame>
+    <description>Will be calculated from the date the patient entered the hospital until they were discharged.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU LOS</measure>
+    <time_frame>days 0 - 60</time_frame>
+    <description>Will be calculated from the date the patient entered the ICU until they were discharged from the ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Had a Grade 3 or 4 Adverse Events (AEs)</measure>
+    <time_frame>Adverse events were collected from day 0 to 7 days post infusion.</time_frame>
+    <description>All adverse events will be recorded and evaluated by CTCAE v.5.0. All grade 3 and 4 AEs will be calculated to determine safety of convalescent plasma.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">29</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <condition>SARS-CoV 2</condition>
+  <condition>SARS Pneumonia</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Study participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma</intervention_name>
+    <description>Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+    <arm_group_label>Study participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must be 18 years of age or older&#xD;
+&#xD;
+          -  Patients hospitalized with COVID-19 respiratory symptoms within 72 hours of admission&#xD;
+             to a&quot;floor&quot; bed (non-ICU bed) and confirmation via SARS-CoV-2 RT-PCR testing.&#xD;
+&#xD;
+          -  Patient and/or surrogate is willing and able to provide written informed consent and&#xD;
+             comply with all protocol requirements.&#xD;
+&#xD;
+          -  Patients with hematologic malignancies or solid tumors are eligible.&#xD;
+&#xD;
+          -  Patients with autoimmune disorders are eligible.&#xD;
+&#xD;
+          -  Patients with immunodeficiency and organ or stem cell transplant recipients are&#xD;
+             eligible.&#xD;
+&#xD;
+          -  Patients who have received or are receiving hydroxychloroquine or chloroquine are&#xD;
+             eligible (but will be taken off the drug)&#xD;
+&#xD;
+          -  Prior use of IVIG is allowed but the investigator should consider the potential for a&#xD;
+             hypercoagulable state.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients requiring mechanical ventilation or &gt;6 liters per minute nasal cannula oxygen&#xD;
+&#xD;
+          -  Patients on other anti-COVID-19 trials being treated with tocilizumab (anti-IL-6&#xD;
+             receptor), Siltuximab (anti-IL-2), Remdesivir, or other pharmacological trials that&#xD;
+             may be initiated hereafter.&#xD;
+&#xD;
+          -  A pre-existing condition or use of a medication that, in the opinion of the site&#xD;
+             investigator, may place the individual at a substantially increased risk of thrombosis&#xD;
+             (e.g., cryoglobulinemia, severe refractory hypertriglyceridemia, or clinically&#xD;
+             significant monoclonal gammopathy).&#xD;
+&#xD;
+          -  Contraindication to transfusion or history of prior reactions to transfusion blood&#xD;
+             products.&#xD;
+&#xD;
+          -  Medical conditions for which receipt of 500-600 mL of intravenous fluid may be&#xD;
+             dangerous to the subject (e.g., decompensated congestive heart failure).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Virginia Medical Center</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Casadevall A, Scharff MD. Return to the past: the case for antibody-based therapies in infectious diseases. Clin Infect Dis. 1995 Jul;21(1):150-61. Review.</citation>
+    <PMID>7578724</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Dadachova E, Pirofski LA. Passive antibody therapy for infectious diseases. Nat Rev Microbiol. 2004 Sep;2(9):695-703. Review.</citation>
+    <PMID>15372080</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang JS, Chen JT, Liu YX, Zhang ZS, Gao H, Liu Y, Wang X, Ning Y, Liu YF, Gao Q, Xu JG, Qin C, Dong XP, Yin WD. A serological survey on neutralizing antibody titer of SARS convalescent sera. J Med Virol. 2005 Oct;77(2):147-50.</citation>
+    <PMID>16121363</PMID>
+  </reference>
+  <reference>
+    <citation>Sahr F, Ansumana R, Massaquoi TA, Idriss BR, Sesay FR, Lamin JM, Baker S, Nicol S, Conton B, Johnson W, Abiri OT, Kargbo O, Kamara P, Goba A, Russell JB, Gevao SM. Evaluation of convalescent whole blood for treating Ebola Virus Disease in Freetown, Sierra Leone. J Infect. 2017 Mar;74(3):302-309. doi: 10.1016/j.jinf.2016.11.009. Epub 2016 Nov 17.</citation>
+    <PMID>27867062</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Pirofski LA. Antibody-mediated regulation of cellular immunity and the inflammatory response. Trends Immunol. 2003 Sep;24(9):474-8. Review.</citation>
+    <PMID>12967670</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Scharff MD. Serum therapy revisited: animal models of infection and development of passive antibody therapy. Antimicrob Agents Chemother. 1994 Aug;38(8):1695-702. Review.</citation>
+    <PMID>7985997</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.</citation>
+    <PMID>15616839</PMID>
+  </reference>
+  <reference>
+    <citation>Yeh KM, Chiueh TS, Siu LK, Lin JC, Chan PK, Peng MY, Wan HL, Chen JH, Hu BS, Perng CL, Lu JJ, Chang FY. Experience of using convalescent plasma for severe acute respiratory syndrome among healthcare workers in a Taiwan hospital. J Antimicrob Chemother. 2005 Nov;56(5):919-22. Epub 2005 Sep 23.</citation>
+    <PMID>16183666</PMID>
+  </reference>
+  <reference>
+    <citation>Ko JH, Seok H, Cho SY, Ha YE, Baek JY, Kim SH, Kim YJ, Park JK, Chung CR, Kang ES, Cho D, Müller MA, Drosten C, Kang CI, Chung DR, Song JH, Peck KR. Challenges of convalescent plasma infusion therapy in Middle East respiratory coronavirus infection: a single centre experience. Antivir Ther. 2018;23(7):617-622. doi: 10.3851/IMP3243. Epub 2018 Jun 20.</citation>
+    <PMID>29923831</PMID>
+  </reference>
+  <reference>
+    <citation>Arabi YM, Hajeer AH, Luke T, Raviprakash K, Balkhy H, Johani S, Al-Dawood A, Al-Qahtani S, Al-Omari A, Al-Hameed F, Hayden FG, Fowler R, Bouchama A, Shindo N, Al-Khairy K, Carson G, Taha Y, Sadat M, Alahmadi M. Feasibility of Using Convalescent Plasma Immunotherapy for MERS-CoV Infection, Saudi Arabia. Emerg Infect Dis. 2016 Sep;22(9):1554-61. doi: 10.3201/eid2209.151164.</citation>
+    <PMID>27532807</PMID>
+  </reference>
+  <reference>
+    <citation>Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, He L, Chen Y, Wu J, Shi Z, Zhou Y, Du L, Li F. Molecular Mechanism for Antibody-Dependent Enhancement of Coronavirus Entry. J Virol. 2020 Feb 14;94(5). pii: e02015-19. doi: 10.1128/JVI.02015-19. Print 2020 Feb 14.</citation>
+    <PMID>31826992</PMID>
+  </reference>
+  <reference>
+    <citation>Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw FM, Lim WS, Makki S, Rooney KD, Nguyen-Van-Tam JS, Beck CR; Convalescent Plasma Study Group. The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis. J Infect Dis. 2015 Jan 1;211(1):80-90. doi: 10.1093/infdis/jiu396. Epub 2014 Jul 16. Review.</citation>
+    <PMID>25030060</PMID>
+  </reference>
+  <reference>
+    <citation>China puts 245 COVID-19 patients on convalescent plasma therapy. In: Huaxia, (ed): XinhuaNet, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Crowe JE Jr, Firestone CY, Murphy BR. Passively acquired antibodies suppress humoral but not cell-mediated immunity in mice immunized with live attenuated respiratory syncytial virus vaccines. J Immunol. 2001 Oct 1;167(7):3910-8.</citation>
+    <PMID>11564809</PMID>
+  </reference>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>April 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 5, 2020</study_first_posted>
+  <results_first_submitted>April 14, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 30, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 1, 2022</results_first_posted>
+  <last_update_submitted>March 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Virginia</investigator_affiliation>
+    <investigator_full_name>Jeffrey Sturek, MD, PhD</investigator_full_name>
+    <investigator_title>Assistant Professor of Pulmonary and Critical Care Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 11, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/65/NCT04374565/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Study Participants</title>
+          <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Study Participants</title>
+          <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="29"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="57.6" spread="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Transferred to Intensive Care Unit (ICU)</title>
+        <description>Will be done by comparing the admission rate to the ICU between patients who received convalescent plasma and a control group who did not enroll in the study, or receive another experimental therapy.</description>
+        <time_frame>Days 0 - 60</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Transferred to Intensive Care Unit (ICU)</title>
+          <description>Will be done by comparing the admission rate to the ICU between patients who received convalescent plasma and a control group who did not enroll in the study, or receive another experimental therapy.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>28 Day Mortality</title>
+        <description>Will be done by comparing the 28 day mortality rate between enrolled subjects and the control group.</description>
+        <time_frame>Days 0 - 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>28 Day Mortality</title>
+          <description>Will be done by comparing the 28 day mortality rate between enrolled subjects and the control group.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Serious Adverse Events</title>
+        <description>Will be collected from time of enrollment until completion of the study. The adverse events will be evaluated by CTCAE V5.0 and MedDRA.</description>
+        <time_frame>Days 0 - 60</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Serious Adverse Events</title>
+          <description>Will be collected from time of enrollment until completion of the study. The adverse events will be evaluated by CTCAE V5.0 and MedDRA.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of SARS-CoV-2 Positivity</title>
+        <description>Respiratory tract swabs will be collected on days, 0, 7, 14, and 21 and will be tested for SARS-CoV-2. The outcome measurement is determining the duration from date of infection until date of first documented negative PCR test, which was assed up to 21 days</description>
+        <time_frame>Days 0 - 21</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of SARS-CoV-2 Positivity</title>
+          <description>Respiratory tract swabs will be collected on days, 0, 7, 14, and 21 and will be tested for SARS-CoV-2. The outcome measurement is determining the duration from date of infection until date of first documented negative PCR test, which was assed up to 21 days</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.4" spread="1.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum of Plasma Antibody Titer to SARS-CoV-2</title>
+        <description>Serum or plasma will be collected and analyzed for SARS-CoV-2 antibody.</description>
+        <time_frame>Day 28</time_frame>
+        <population>Median IgG anti-spoke protein (ug/ml)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum of Plasma Antibody Titer to SARS-CoV-2</title>
+          <description>Serum or plasma will be collected and analyzed for SARS-CoV-2 antibody.</description>
+          <population>Median IgG anti-spoke protein (ug/ml)</population>
+          <units>ug/mL</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.7" lower_limit="0.1" upper_limit="112.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cellular and Humoral Immune Response</title>
+        <description>Blood will be collected and analyzed for for Spike IgG levels.</description>
+        <time_frame>Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cellular and Humoral Immune Response</title>
+          <description>Blood will be collected and analyzed for for Spike IgG levels.</description>
+          <units>ug/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.0" lower_limit="34.0" upper_limit="90.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Supplemental Oxygen Free Days</title>
+        <description>All days where a supplemental oxygen is needed will be recorded as a concomitant medication and will be subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the supplemental oxygen free days.</description>
+        <time_frame>Days 0-28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Supplemental Oxygen Free Days</title>
+          <description>All days where a supplemental oxygen is needed will be recorded as a concomitant medication and will be subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the supplemental oxygen free days.</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.5" lower_limit="21" upper_limit="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ventilator Free Days</title>
+        <description>All days where a ventilator is needed will be recorded as a concomitant procedure and will be subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the ventilator free days.</description>
+        <time_frame>Days 0 - 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ventilator Free Days</title>
+          <description>All days where a ventilator is needed will be recorded as a concomitant procedure and will be subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the ventilator free days.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.93" spread="1.46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU Free Days</title>
+        <description>All days where the participant is admitted to the ICU will be recorded and subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the ICU free days.</description>
+        <time_frame>Days 0 - 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU Free Days</title>
+          <description>All days where the participant is admitted to the ICU will be recorded and subtracted from total days the participant is alive and enrolled in the study up to day 28 to determine the ICU free days.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.59" spread="1.61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sequential Organ Failure Assessment Score Improvement</title>
+        <description>Throughout the study, participants were evaluated by study physician using the sequential organ failure assessment score. This outcome measurement is looking for the number of participants who's score improved over the duration of the study.</description>
+        <time_frame>days 0-28</time_frame>
+        <population>Number of participants whose score improved throughout their admission.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Sequential Organ Failure Assessment Score Improvement</title>
+          <description>Throughout the study, participants were evaluated by study physician using the sequential organ failure assessment score. This outcome measurement is looking for the number of participants who's score improved over the duration of the study.</description>
+          <population>Number of participants whose score improved throughout their admission.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Needed for Vasopressors</title>
+        <description>Concomitant medications will be recorded throughout the patients participation in the study and vasopressors will be recorded, if they are needed.</description>
+        <time_frame>Days 0 - 60</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Needed for Vasopressors</title>
+          <description>Concomitant medications will be recorded throughout the patients participation in the study and vasopressors will be recorded, if they are needed.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Needed Renal Replacement Therapy</title>
+        <description>Renal function will be assessed throughout the patients participation in the study. If renal replacement therapy is needed, it will be captured as a concomitant procedure.</description>
+        <time_frame>Days 0 - 60</time_frame>
+        <population>number of study patients who required renal therapy</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Needed Renal Replacement Therapy</title>
+          <description>Renal function will be assessed throughout the patients participation in the study. If renal replacement therapy is needed, it will be captured as a concomitant procedure.</description>
+          <population>number of study patients who required renal therapy</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Needed Extracorporeal Membrane Oxygenation (ECMO)</title>
+        <description>Respiratory function will be assessed throughout the patients participation in the study. If ECMO is needed, it will be captured as a concomitant procedure.</description>
+        <time_frame>Days 0 - 60</time_frame>
+        <population>number of patients who received ECMO</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Needed Extracorporeal Membrane Oxygenation (ECMO)</title>
+          <description>Respiratory function will be assessed throughout the patients participation in the study. If ECMO is needed, it will be captured as a concomitant procedure.</description>
+          <population>number of patients who received ECMO</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospital Length of Stay (LOS)</title>
+        <description>Will be calculated from the date the patient entered the hospital until they were discharged.</description>
+        <time_frame>Days 0-60</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospital Length of Stay (LOS)</title>
+          <description>Will be calculated from the date the patient entered the hospital until they were discharged.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.39" spread="1.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU LOS</title>
+        <description>Will be calculated from the date the patient entered the ICU until they were discharged from the ICU.</description>
+        <time_frame>days 0 - 60</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU LOS</title>
+          <description>Will be calculated from the date the patient entered the ICU until they were discharged from the ICU.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.93" spread="1.72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Had a Grade 3 or 4 Adverse Events (AEs)</title>
+        <description>All adverse events will be recorded and evaluated by CTCAE v.5.0. All grade 3 and 4 AEs will be calculated to determine safety of convalescent plasma.</description>
+        <time_frame>Adverse events were collected from day 0 to 7 days post infusion.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Participants</title>
+            <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Had a Grade 3 or 4 Adverse Events (AEs)</title>
+          <description>All adverse events will be recorded and evaluated by CTCAE v.5.0. All grade 3 and 4 AEs will be calculated to determine safety of convalescent plasma.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were collected from day 0 to 7 days post infusion.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Study Participants</title>
+          <description>A total of 29 eligible subjects will be enrolled to receive high titer anti-SARS-CoV-2 plasma. Participants will be compared to a historical control group via retrospective chart review.&#xD;
+High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma: Pathogen reduced SARS-CoV-2 convalescent plasma (1-2 units; ~200 mL each for a total of 200-400mls) given preferably in one day, but allowable to be given over 2 days if clinical circumstances delay infusions in 1 day), with titer to be determined after the unit has been infused.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (Unspecified)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory Failure</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE (Unspecified)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension urgency</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>hypotension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>atrial fibrillation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>epistaxis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>creatine increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>ALT/AST increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>fever</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary Edema</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="5" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>syncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Jeffrey Sturek</name_or_title>
+      <organization>University of Virginia</organization>
+      <phone>434-284-1776</phone>
+      <email>JMS3HK@hscmail.mcc.virginia.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

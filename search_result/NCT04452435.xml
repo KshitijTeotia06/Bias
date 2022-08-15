@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04452435</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VP-C21-006</org_study_id>
+    <secondary_id>2020-001502-38</secondary_id>
+    <nct_id>NCT04452435</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of C21 in Subjects With COVID-19</brief_title>
+  <official_title>A Randomised, Double-blind, Placebo-controlled, Phase 2 Trial Investigating the Safety and Efficacy of C21 in Hospitalised Subjects With COVID-19 Infection Not Requiring Mechanical Ventilation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vicore Pharma AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Orphan Reach</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vicore Pharma AB</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomised, double-blind, placebo-controlled phase 2 trial investigating the safety&#xD;
+      and efficacy of C21 in subjects who are hospitalised with COVID-19 infection, but not in need&#xD;
+      of mechanical invasive or non-invasive ventilation.&#xD;
+&#xD;
+      In total, approximately 100 subjects will be enrolled and randomised to receive twice daily&#xD;
+      oral administration of either standard of care (SoC) + placebo (N=50) or SoC + C21 (N=50).&#xD;
+      Subjects will be treated for 7 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 21, 2020</start_date>
+  <completion_date type="Actual">October 13, 2020</completion_date>
+  <primary_completion_date type="Actual">October 13, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in C-reactive Protein (CRP) After Treatment With C21 200 mg Daily Dose (100 mg b.i.d.)</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Change in C-reactive protein (CRP) from baseline to the average of the last two assessments in the treatment period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Body Temperature</measure>
+    <time_frame>Treatment period of 7 days ((Day 1 to Day 8)</time_frame>
+    <description>Change in body temperature from baseline to the average of the last two assessments in the treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in IL-6</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Change in IL-6 from baseline to the average of the last two assessments during the treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in IL-10</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Change in IL-10 from baseline to the average of the last two assessments during the treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in TNF</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Change in TNF from baseline to the average of the last two assessments during the treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in CA125</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Change in CA125 from baseline to the average of the last two assessments in the treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Ferritin</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Change in Ferritin from baseline to the average of the last two assessments during the treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Not in Need of Oxygen Supply</measure>
+    <time_frame>End-of treatment, Day 7 or 8</time_frame>
+    <description>Number of subjects not in need of oxygen supply at the end of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Not in Need of Mechanical Invasive or Non-invasive Ventilation</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Number of subjects not in need of mechanical invasive or non-invasive ventilation during the treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Need of Mechanical Invasive or Non-invasive Ventilation</measure>
+    <time_frame>Treatment period of 7 days</time_frame>
+    <description>Time to need of mechanical invasive or non-invasive ventilation during treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time on Oxygen Supply (for Those Not Needing Mechanical Invasive or Non-invasive Ventilation)</measure>
+    <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+    <description>Time on oxygen supply during the treatment period (for those not needing mechanical invasive or non-invasive ventilation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>Day 1 to end-of-trial (Visit 9)</time_frame>
+    <description>Adverse events were reported from signing of informed consent until end-of-trial visit. No AEs were reported from signing of informed consent until randomization, except for 2 fatal SAEs described under Adverse events.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">206</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>C21 100 mg twice daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Oral placebo treatment 100 mg twice daily for 7 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>C21</intervention_name>
+    <description>C21</description>
+    <arm_group_label>C21 100 mg twice daily</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent, consistent with ICH-GCP R2 and local laws, obtained before&#xD;
+             the initiation of any trial related procedure&#xD;
+&#xD;
+          2. Diagnosis of coronavirus (SARS-CoV)-2 infection confirmed by polymerase chain reaction&#xD;
+             (PCR) test &lt; 4 days before Visit 1 with signs of an acute respiratory infection&#xD;
+&#xD;
+          3. Age &gt; 18 and &lt; 70 years&#xD;
+&#xD;
+          4. CRP &gt; 50 and &lt; 150 mg/l&#xD;
+&#xD;
+          5. Admitted to a hospital or controlled facility (home quarantine is not sufficient)&#xD;
+&#xD;
+          6. In the opinion of the Investigator, the subject will be able to comply with the&#xD;
+             requirements of the protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any previous experimental treatment for COVID-19&#xD;
+&#xD;
+          2. Need for mechanical invasive or non-invasive ventilation&#xD;
+&#xD;
+          3. Concurrent respiratory disease such as COPD (chronic obstructive pulmonary disease),&#xD;
+             IPF and/or intermittent, persistent or more severe asthma requiring daily therapy or&#xD;
+             any subjects that have had an asthma flare requiring corticosteroids in the 4 weeks&#xD;
+             (28 days) prior to COVID-19 diagnosis&#xD;
+&#xD;
+          4. Participation in any other interventional trial within 3 months prior to Visit 1&#xD;
+&#xD;
+          5. Any of the following findings at Visit 1:&#xD;
+&#xD;
+               -  Positive results for hepatitis B surface antigen (HBsAg), hepatitis C virus&#xD;
+                  antibody (HCVAb) or human immunodeficiency virus 1+2 antigen/antibody (HIV 1+2&#xD;
+                  Ag/Ab&#xD;
+&#xD;
+               -  Positive pregnancy test (see Section 8.2.3)&#xD;
+&#xD;
+          6. Clinically significant abnormal laboratory value at Visit 1 indicating a potential&#xD;
+             risk for the subject if enrolled in the trial as evaluated by the Investigator&#xD;
+&#xD;
+          7. Concurrent serious medical condition with special attention to cardiac or ophthalmic&#xD;
+             conditions (e.g. contraindications to cataract surgery), which in the opinion of the&#xD;
+             Investigator makes the subject inappropriate for this trial&#xD;
+&#xD;
+          8. Malignancy within the past 3 years with the exception of in situ removal of basal cell&#xD;
+             carcinoma and cervical intraepithelial neoplasia grade I&#xD;
+&#xD;
+          9. Treatment with any of the medications listed below within 1 week prior to Visit 1:&#xD;
+&#xD;
+               1. Strong Cytochrome p450 (CYP) 3A4 inducers (e.g. rifampicin, phenytoin, St. John's&#xD;
+                  Wort, phenobarbital, rifabutin, carbamazepine, anti HIV drugs, barbiturates)&#xD;
+&#xD;
+               2. Warfarin&#xD;
+&#xD;
+         10. Pregnant or breast-feeding female subjects&#xD;
+&#xD;
+         11. Female subjects of childbearing potential not willing to use contraceptive methods as&#xD;
+             described in Section 5.3.1&#xD;
+&#xD;
+         12. Male subjects not willing to use contraceptive methods as described in Section 5.3.1&#xD;
+&#xD;
+         13. Subjects known or suspected of not being able to comply with this trial protocol (e.g.&#xD;
+             due to alcoholism, drug dependency or psychological disorder)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joanna Porter, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Respiratory Medicine, University College Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Medicine, Civil Hospital and B J Medical College</name>
+      <address>
+        <city>Ahmadabad</city>
+        <state>Gujarat</state>
+        <zip>380016</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Infectious Disease, Metas Adventist Hospital</name>
+      <address>
+        <city>Surat</city>
+        <state>Gujarat</state>
+        <zip>395001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Department, Basement, Unity Trauma Centre and ICU (Unity Hospital</name>
+      <address>
+        <city>Surat</city>
+        <state>Gujarat</state>
+        <zip>395010</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>First Floor Clinical Research Department Rhythm Heart Institute</name>
+      <address>
+        <city>Vadodara</city>
+        <state>Gujarat</state>
+        <zip>290022</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Internal Medicine S.L. Raheja Hospital</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400016</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Medicine, Government Medical College and Hospital</name>
+      <address>
+        <city>Nagpur</city>
+        <state>Maharashtra</state>
+        <zip>440003</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro Critical Care, Grant Medical Foundation Ruby Hall Clinic</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Medicine, Noble Hospitals Pvt. Ltd</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Respiratory Medicine, University College Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>WC1E 6BT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>India</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>June 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 30, 2020</study_first_posted>
+  <results_first_submitted>March 24, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 28, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 30, 2021</results_first_posted>
+  <last_update_submitted>June 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan: Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 14, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT04452435/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan: Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 10, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT04452435/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>96 enrolled subjects were screening failures because inclusion criteria 4 was not met.&#xD;
+2 enrolled subjects decided to withdraw from the trial before randomization. 2 subjects died before randomization (pneumonia). The remaining 106 subjects were randomized to trial treatment.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>C21 Treatment</title>
+          <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Treatment</title>
+          <description>Oral placebo treatment twice daily for 7 days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Screening</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+                <participants group_id="P2" count="55"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+                <participants group_id="P2" count="55"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Treatment Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+                <participants group_id="P2" count="55"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="12"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Follow-up</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+                <participants group_id="P2" count="42"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>C21 Treatment</title>
+          <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Treatment</title>
+          <description>Oral placebo treatment twice daily for 7 days</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="51"/>
+            <count group_id="B2" value="55"/>
+            <count group_id="B3" value="106"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54.3" lower_limit="29" upper_limit="68"/>
+                    <measurement group_id="B2" value="51.1" lower_limit="22" upper_limit="68"/>
+                    <measurement group_id="B3" value="52.6" lower_limit="22" upper_limit="68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>India</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height</title>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="166.1" lower_limit="132" upper_limit="198"/>
+                    <measurement group_id="B2" value="166.0" lower_limit="143" upper_limit="188"/>
+                    <measurement group_id="B3" value="166.1" lower_limit="132" upper_limit="198"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70.1" lower_limit="46" upper_limit="116"/>
+                    <measurement group_id="B2" value="69.2" lower_limit="47" upper_limit="112"/>
+                    <measurement group_id="B3" value="69.6" lower_limit="46" upper_limit="116"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body mass index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.4" lower_limit="15" upper_limit="41"/>
+                    <measurement group_id="B2" value="25.1" lower_limit="20" upper_limit="34"/>
+                    <measurement group_id="B3" value="25.2" lower_limit="15" upper_limit="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Supplemental oxygen use at baseline</title>
+          <description>Number of subjects in use of supplemental oxygen use at baseline</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>CRP value ≤ median</title>
+          <description>Number of subjects with baseline CRP value ≤ median</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>CRP value &gt; median</title>
+          <description>Number of subjects with baseline CRP value &gt; median</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in C-reactive Protein (CRP) After Treatment With C21 200 mg Daily Dose (100 mg b.i.d.)</title>
+        <description>Change in C-reactive protein (CRP) from baseline to the average of the last two assessments in the treatment period</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Full analysis set. A total of 45 subjects in the C21 group and 46 subjects in the placebo group were included in the analysis of the primary endpoint in the FAS. For a number of the excluded subjects, the reason for exclusion from the primary endpoint analysis was that they had no baseline value available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in C-reactive Protein (CRP) After Treatment With C21 200 mg Daily Dose (100 mg b.i.d.)</title>
+          <description>Change in C-reactive protein (CRP) from baseline to the average of the last two assessments in the treatment period</description>
+          <population>Full analysis set. A total of 45 subjects in the C21 group and 46 subjects in the placebo group were included in the analysis of the primary endpoint in the FAS. For a number of the excluded subjects, the reason for exclusion from the primary endpoint analysis was that they had no baseline value available.</population>
+          <units>mg/L</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.19" lower_limit="0.14" upper_limit="0.25"/>
+                    <measurement group_id="O2" value="0.22" lower_limit="0.17" upper_limit="0.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.4891</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A subgroup analyses was performed in subjects with supplemental oxygen use at baseline. A total of 26 subjects in the C21 group and 27 in the placebo group were included in the analysis of change in CRP from baseline to the mean of the last 2 non-missing scheduled assessments during the treatment period by baseline supplemental oxygen use.</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.0881</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Body Temperature</title>
+        <description>Change in body temperature from baseline to the average of the last two assessments in the treatment period</description>
+        <time_frame>Treatment period of 7 days ((Day 1 to Day 8)</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Body Temperature</title>
+          <description>Change in body temperature from baseline to the average of the last two assessments in the treatment period</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>°C</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="54"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.11" lower_limit="-0.25" upper_limit="0.02"/>
+                    <measurement group_id="O2" value="-0.34" lower_limit="-0.47" upper_limit="-0.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.0492</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in IL-6</title>
+        <description>Change in IL-6 from baseline to the average of the last two assessments during the treatment period</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in IL-6</title>
+          <description>Change in IL-6 from baseline to the average of the last two assessments during the treatment period</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>pg/mL</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.73" lower_limit="0.51" upper_limit="1.05"/>
+                    <measurement group_id="O2" value="0.73" lower_limit="0.51" upper_limit="1.03"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.9923</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in IL-10</title>
+        <description>Change in IL-10 from baseline to the average of the last two assessments during the treatment period</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in IL-10</title>
+          <description>Change in IL-10 from baseline to the average of the last two assessments during the treatment period</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>pg/mL</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="37"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.66" lower_limit="0.54" upper_limit="0.8"/>
+                    <measurement group_id="O2" value="0.73" lower_limit="0.6" upper_limit="0.89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.5355</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in TNF</title>
+        <description>Change in TNF from baseline to the average of the last two assessments during the treatment period.</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in TNF</title>
+          <description>Change in TNF from baseline to the average of the last two assessments during the treatment period.</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>pg/mL</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+                <count group_id="O2" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.91" lower_limit="0.77" upper_limit="1.07"/>
+                    <measurement group_id="O2" value="1.01" lower_limit="0.86" upper_limit="1.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.4738</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in CA125</title>
+        <description>Change in CA125 from baseline to the average of the last two assessments in the treatment period</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in CA125</title>
+          <description>Change in CA125 from baseline to the average of the last two assessments in the treatment period</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>u/mL</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+                <count group_id="O2" value="48"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.16" lower_limit="1.04" upper_limit="1.31"/>
+                    <measurement group_id="O2" value="1.17" lower_limit="1.05" upper_limit="1.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.9418</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Ferritin</title>
+        <description>Change in Ferritin from baseline to the average of the last two assessments during the treatment period.</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Ferritin</title>
+          <description>Change in Ferritin from baseline to the average of the last two assessments during the treatment period.</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>ng/mL</units>
+          <param>Least Squares Mean</param>
+          <dispersion>90% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+                <count group_id="O2" value="47"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.75" lower_limit="0.66" upper_limit="0.84"/>
+                    <measurement group_id="O2" value="0.74" lower_limit="0.66" upper_limit="0.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.9733</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Not in Need of Oxygen Supply</title>
+        <description>Number of subjects not in need of oxygen supply at the end of treatment</description>
+        <time_frame>End-of treatment, Day 7 or 8</time_frame>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Not in Need of Oxygen Supply</title>
+          <description>Number of subjects not in need of oxygen supply at the end of treatment</description>
+          <population>Full analysis set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                    <measurement group_id="O2" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.0568</p_value>
+            <method>Regression, Logistic</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Not in Need of Mechanical Invasive or Non-invasive Ventilation</title>
+        <description>Number of subjects not in need of mechanical invasive or non-invasive ventilation during the treatment period</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Not in Need of Mechanical Invasive or Non-invasive Ventilation</title>
+          <description>Number of subjects not in need of mechanical invasive or non-invasive ventilation during the treatment period</description>
+          <population>Full analysis set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50"/>
+                    <measurement group_id="O2" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.6088</p_value>
+            <method>Regression, Logistic</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Need of Mechanical Invasive or Non-invasive Ventilation</title>
+        <description>Time to need of mechanical invasive or non-invasive ventilation during treatment period</description>
+        <time_frame>Treatment period of 7 days</time_frame>
+        <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Need of Mechanical Invasive or Non-invasive Ventilation</title>
+          <description>Time to need of mechanical invasive or non-invasive ventilation during treatment period</description>
+          <population>Subjects with measurements were included in the analysis for the full analysis set.</population>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60.0" lower_limit="60.0" upper_limit="60.0"/>
+                    <measurement group_id="O2" value="77.925" lower_limit="59.98" upper_limit="95.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.5757</p_value>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time on Oxygen Supply (for Those Not Needing Mechanical Invasive or Non-invasive Ventilation)</title>
+        <description>Time on oxygen supply during the treatment period (for those not needing mechanical invasive or non-invasive ventilation)</description>
+        <time_frame>Treatment period of 7 days (Day 1 to Day 8)</time_frame>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time on Oxygen Supply (for Those Not Needing Mechanical Invasive or Non-invasive Ventilation)</title>
+          <description>Time on oxygen supply during the treatment period (for those not needing mechanical invasive or non-invasive ventilation)</description>
+          <population>Full analysis set</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" lower_limit="1.0" upper_limit="7.0"/>
+                    <measurement group_id="O2" value="5.0" lower_limit="1.0" upper_limit="7.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.8588</p_value>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Adverse Events</title>
+        <description>Adverse events were reported from signing of informed consent until end-of-trial visit. No AEs were reported from signing of informed consent until randomization, except for 2 fatal SAEs described under Adverse events.</description>
+        <time_frame>Day 1 to end-of-trial (Visit 9)</time_frame>
+        <population>Safety analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adverse Events</title>
+          <description>Adverse events were reported from signing of informed consent until end-of-trial visit. No AEs were reported from signing of informed consent until randomization, except for 2 fatal SAEs described under Adverse events.</description>
+          <population>Safety analysis set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31"/>
+                    <measurement group_id="O2" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>Oxygen Supplementation at Day 14</title>
+        <description>Number of subjects requiring oxygen supplementation at Day 14</description>
+        <time_frame>Follow-up Day 14 (7 days after end-of-treatment)</time_frame>
+        <population>Full analysis set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>C21 Treatment</title>
+            <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Treatment</title>
+            <description>Oral placebo treatment twice daily for 7 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Oxygen Supplementation at Day 14</title>
+          <description>Number of subjects requiring oxygen supplementation at Day 14</description>
+          <population>Full analysis set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="51"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>The null hypothesis was that the treatments were equivalent and was to be rejected in favour of the alternative hypothesis that a treatment difference existed, if the probability of the null hypothesis being true was less than 10%.</non_inferiority_desc>
+            <p_value>=0.003</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From signing of informed consent until end-of-trial visit, 14-19 days.</time_frame>
+      <desc>At each visit, the subject was asked about AEs in an objective manner, e.g., &quot;Have you experienced any problems since the last visit?&quot; No AEs were reported from signing of informed consent until randomization except for 2 fatal SAEs.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>C21 Treatment</title>
+          <description>Oral C21 treatment 100 mg twice daily for 7 days</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo Treatment</title>
+          <description>Oral placebo treatment twice daily for 7 days</description>
+        </group>
+        <group group_id="E3">
+          <title>No Treatment (Before Randomization)</title>
+          <description>Subjects that were enrolled in the trial but not randomized</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardio-respiratory arrest</sub_title>
+                <description>The events had a fatal outcome</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="55"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19 pneumonia</sub_title>
+                <description>The events had a fatal outcome</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>3</frequency_threshold>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="36" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="51"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Blood glucose increased</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="5" subjects_at_risk="51"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Interleukin level increased</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="4" subjects_at_risk="51"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="51"/>
+                <counts group_id="E2" events="5" subjects_affected="4" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Serum ferritin increased</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Alpha tumour necrosis factor increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Carbohydrate antigen 125 increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Lymphocyte count decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Neutrophil count increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="5" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Platelet count decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Blood alkaline phosphatase increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Blood calcium decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Blood potassium increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>White blood cell count increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Blood urea increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Platelet count increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="11" subjects_at_risk="51"/>
+                <counts group_id="E2" events="5" subjects_affected="4" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Hyponatraemia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="51"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Dyslipidaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Glycosuria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="55"/>
+                <counts group_id="E3" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Carl-Johan Dalsgaard</name_or_title>
+      <organization>Vicore Pharma</organization>
+      <phone>+46 70 975 98 63</phone>
+      <email>carl-johan.dalsgaard@vicorepharma.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

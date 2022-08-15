@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="36">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04333225</url>
+  </required_header>
+  <id_info>
+    <org_study_id>020-132</org_study_id>
+    <nct_id>NCT04333225</nct_id>
+  </id_info>
+  <brief_title>Hydroxychloroquine in the Prevention of COVID-19 Infection in Healthcare Workers</brief_title>
+  <official_title>A Prospective Clinical Study of Hydroxychloroquine in the Prevention of SARS- CoV-2 (COVID-19) Infection in Healthcare Workers After High-risk Exposures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baylor Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Baylor Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In order to assess the efficacy of hydroxychloroquine treatment weekly for a total of 7 weeks&#xD;
+      in the prevention of COVID-19 infection, three hundred sixty (360) Healthcare workers with&#xD;
+      high risk exposure to patients infected with COVID-19 will be tested for COVID-19 infection&#xD;
+      via nasopharyngeal (NP) swab once weekly for 7 weeks. Of those, one hundred eighty (180) will&#xD;
+      receive weekly doses of hydroxychloroquine for the duration of the study. Subjects who opt&#xD;
+      not to receive the study drug will form the control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 3, 2020</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Infected With COVID-19 or COVID-19 Like Illness During the Trial</measure>
+    <time_frame>Up to 7 weeks after study initiation</time_frame>
+    <description>Number of participants infected with COVID-19 or identified as having COVID-19 like illness during the trial</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time From Study Initiation Until the Occurrence of COVID-19 or COVID-19 Like Illness or Being Censored</measure>
+    <time_frame>Up to 7 weeks after study initiation</time_frame>
+    <description>Time-to-first clinical event consisting of a persistent change for any of the following:&#xD;
+diagnosis of COVID-19&#xD;
+clinical characteristics of COVID-19 like illness&#xD;
+being censored</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">221</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects who chose to enter the HCQ arm received a loading dose of 800 mg HCQ on day 1 followed by two 200 mg tablets once a week for a total of 7 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects who declined taking HCQ were considered as controls</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Weekly treatment in individuals at high risk</description>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <other_name>Plaquenil</other_name>
+    <other_name>HCQ</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult male and female healthcare workers ≥ 18 to ≤ 75 years of age upon study consent&#xD;
+&#xD;
+          2. Healthcare workers with&#xD;
+&#xD;
+             • One day or more of exposure to suspect and/or positive COVID-19 patients, including&#xD;
+             but not limited to those working in the Emergency Department or Intensive Care Unit.&#xD;
+&#xD;
+             OR&#xD;
+&#xD;
+             • Unprotected exposure to a known positive COVID-19 patient within 72 hours of&#xD;
+             screening.&#xD;
+&#xD;
+          3. Afebrile with no constitutional symptoms&#xD;
+&#xD;
+          4. Willing and able to comply with scheduled visits, treatment plan, and other study&#xD;
+             procedures&#xD;
+&#xD;
+          5. Evidence of a personally signed and dated informed consent document indicating that&#xD;
+             the subject (or a legally acceptable representative) has been informed of all&#xD;
+             pertinent aspects of the study prior to initiation of any subject-mandated procedures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in other investigational clinical trials for the treatment or prevention&#xD;
+             of SARS-COV-2 infection within 30days&#xD;
+&#xD;
+          2. Unwilling to practice acceptable methods of birth control (both males who have&#xD;
+             partners of childbearing potential and females of childbearing potential) during&#xD;
+             Screening, while taking study drug, and for at least 30 days after the last dose of&#xD;
+             study drug is ingested Note: the following criteria follow standard clinical practice&#xD;
+             for FDA approved indications of this medication&#xD;
+&#xD;
+          3. Having a prior history of blood disorders such as aplastic anemia, agranulocytosis,&#xD;
+             leukopenia, or thrombocytopenia&#xD;
+&#xD;
+          4. Having a prior history of glucose-6-phosphate dehydrogenase (G-6-PD) deficiency&#xD;
+&#xD;
+          5. Having dermatitis, psoriasis or porphyria&#xD;
+&#xD;
+          6. Taking Digoxin, Mefloquine, methotrexate, cyclosporine, praziquantel, antacids and&#xD;
+             kaolin, cimetidine, ampicillin, Insulin or antidiabetic drugs, arrhythmogenic drugs,&#xD;
+             antiepileptic drugs, loop, thiazide, and related diuretics, laxatives and enemas,&#xD;
+             amphotericin B, high dose corticosteroids, and proton pump inhibitors, neostigmine,&#xD;
+             praziquantel, Pyridostigmine, tamoxifen citrate&#xD;
+&#xD;
+          7. Allergies: 4-Aminoquinolines&#xD;
+&#xD;
+          8. Pre-existing retinopathy of the eye&#xD;
+&#xD;
+          9. Has a chronic liver disease or cirrhosis, including hepatitis B and/or untreated&#xD;
+             hepatitis&#xD;
+&#xD;
+         10. Untreated or uncontrolled active bacterial, fungal infection&#xD;
+&#xD;
+         11. Known or suspected active drug or alcohol abuse, per investigator judgment&#xD;
+&#xD;
+         12. Women who are pregnant or breastfeeding&#xD;
+&#xD;
+         13. Known hypersensitivity to any component of the study drug&#xD;
+&#xD;
+         14. A known history of prolonged QT syndrome or history of additional risk factors for&#xD;
+             torsades de pointe (e.g., heart failure, requires a lab test , family history of Long&#xD;
+             QT Syndrome), or the use of concomitant medications that prolong the QT/QTc interval&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter A McCullough, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baylor Health Care System</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Baylor University Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>April 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <results_first_submitted>August 2, 2021</results_first_submitted>
+  <results_first_submitted_qc>August 18, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 20, 2021</results_first_posted>
+  <last_update_submitted>August 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hydroxychloroquine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 28, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/25/NCT04333225/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 28, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/25/NCT04333225/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>All study subjects were employed by and worked at the Baylor University Medical Center in Dallas, Texas.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Hydroxychloroquine</title>
+          <description>Subjects who chose to enter the HCQ arm received a loading dose of 800 mg HCQ on day 1 followed by two 200 mg tablets once a week for a total of 7 weeks</description>
+        </group>
+        <group group_id="P2">
+          <title>Control</title>
+          <description>Subjects who declined taking HCQ were considered as controls</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="101"/>
+                <participants group_id="P2" count="120"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="98"/>
+                <participants group_id="P2" count="115"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Hydroxychloroquine</title>
+          <description>Subjects who chose to enter the HCQ arm received a loading dose of 800 mg HCQ on day 1 followed by two 200 mg tablets once a week for a total of 7 weeks</description>
+        </group>
+        <group group_id="B2">
+          <title>Control</title>
+          <description>Subjects who declined taking HCQ were considered as controls</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="101"/>
+            <count group_id="B2" value="120"/>
+            <count group_id="B3" value="221"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39.90" spread="12.42"/>
+                    <measurement group_id="B2" value="34.53" spread="800"/>
+                    <measurement group_id="B3" value="35.36" spread="11.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66"/>
+                    <measurement group_id="B2" value="101"/>
+                    <measurement group_id="B3" value="167"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="42"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="85"/>
+                    <measurement group_id="B2" value="94"/>
+                    <measurement group_id="B3" value="179"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Black or African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="104"/>
+                    <measurement group_id="B3" value="182"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Others</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="101"/>
+                    <measurement group_id="B2" value="120"/>
+                    <measurement group_id="B3" value="221"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Cough score</title>
+          <description>Cough Visual Analogue Scale was recorded at baseline to assess cough severity in patients. Each patient was asked to mark on a 100 mm scale between 0 representing 'no cough' and 100 representing the 'worst cough'.</description>
+          <units>Millimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.74" spread="7.66"/>
+                    <measurement group_id="B2" value="3.26" spread="7.46"/>
+                    <measurement group_id="B3" value="3.02" spread="7.54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Infected With COVID-19 or COVID-19 Like Illness During the Trial</title>
+        <description>Number of participants infected with COVID-19 or identified as having COVID-19 like illness during the trial</description>
+        <time_frame>Up to 7 weeks after study initiation</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Hydroxychloroquine</title>
+            <description>Subjects who chose to enter the HCQ arm received a loading dose of 800 mg HCQ on day 1 followed by two 200 mg tablets once a week for a total of 7 weeks</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Subjects who declined taking HCQ were considered as controls</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Infected With COVID-19 or COVID-19 Like Illness During the Trial</title>
+          <description>Number of participants infected with COVID-19 or identified as having COVID-19 like illness during the trial</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="101"/>
+                <count group_id="O2" value="120"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Other: estimating risk reduction</non_inferiority_desc>
+            <p_value>0.0112</p_value>
+            <method>Chi-squared</method>
+            <param_type>Risk Ratio (RR)</param_type>
+            <param_value>2.0718</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.15</ci_lower_limit>
+            <ci_upper_limit>3.72</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time From Study Initiation Until the Occurrence of COVID-19 or COVID-19 Like Illness or Being Censored</title>
+        <description>Time-to-first clinical event consisting of a persistent change for any of the following:&#xD;
+diagnosis of COVID-19&#xD;
+clinical characteristics of COVID-19 like illness&#xD;
+being censored</description>
+        <time_frame>Up to 7 weeks after study initiation</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Hydroxychloroquine</title>
+            <description>Subjects who chose to enter the HCQ arm received a loading dose of 800 mg HCQ on day 1 followed by two 200 mg tablets once a week for a total of 7 weeks</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Subjects who declined taking HCQ were considered as controls</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time From Study Initiation Until the Occurrence of COVID-19 or COVID-19 Like Illness or Being Censored</title>
+          <description>Time-to-first clinical event consisting of a persistent change for any of the following:&#xD;
+diagnosis of COVID-19&#xD;
+clinical characteristics of COVID-19 like illness&#xD;
+being censored</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="101"/>
+                <count group_id="O2" value="120"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="43.17" spread="11.15"/>
+                    <measurement group_id="O2" value="39.25" spread="15.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Other: Estimating hazard ratio</non_inferiority_desc>
+            <p_value>0.0105</p_value>
+            <method>Log Rank</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.35</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.17</ci_lower_limit>
+            <ci_upper_limit>0.75</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>7 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Hydroxychloroquine</title>
+          <description>Subjects who chose to enter the HCQ arm received a loading dose of 800 mg HCQ on day 1 followed by two 200 mg tablets once a week for a total of 7 weeks</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>Subjects who declined taking HCQ were considered as controls</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="101"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="101"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19 like illness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="101"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="101"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="13" subjects_at_risk="101"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="8" subjects_at_risk="101"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Due to the off-label use of HCQ, we were not able to incorporate randomization in our design.&#xD;
+The outcome of CLI was based on self-reported symptoms, which is prone to bias.&#xD;
+The trial may be under-powered as recruitment was forced to stop early at 221 instead of 360 because of the demand for and subsequent shortage of HCQ in March 2020.&#xD;
+Our study participants were young and healthy compared to other prophylaxis trials, which may partially explain the low rates of COVID-19.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Peter A. McCullough, MD, MPH</name_or_title>
+      <organization>Baylor Scott &amp; White Research Institute</organization>
+      <phone>2148412000</phone>
+      <email>peteramccullough@gmail.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

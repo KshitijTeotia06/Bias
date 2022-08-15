@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="114">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04374149</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PHU COVID-19-001</org_study_id>
+    <nct_id>NCT04374149</nct_id>
+  </id_info>
+  <brief_title>Therapeutic Plasma Exchange Alone or in Combination With Ruxolitinib in COVID-19 Associated CRS</brief_title>
+  <official_title>Interventional Study to Evaluate the Efficacy of Therapeutic Plasma Exchange (TPE) Alone or in Combination With Ruxolitinib in COVID-19 Positive Patients With PENN Grade 2, 3, 4 Cytokine Released Syndrome (CRS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prisma Health-Upstate</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Prisma Health-Upstate</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol will evaluate the efficacy of Therapeutic Plasma Exchange (TPE) alone or in&#xD;
+      combination with ruxolitinib in COVID positive patients with PENN grade 2, 3, 4 cytokine&#xD;
+      release syndrome (CRS). It is hypothesized that dual intervention of acute apheretic&#xD;
+      depletion of cytokines and concomitant suppression of production will produce superior&#xD;
+      amelioration of the cytokine load and to help to prevent cytokine load rebound. This protocol&#xD;
+      is envisioned as a pilot study (n=20) for hypothesis generation for future investigation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A virally mediated pandemic of 2020 is linked to a novel Beta Coronavirus (COVID-19) sharing&#xD;
+      subgenus classification with the severe acute respiratory syndrome (SARS) virus. The&#xD;
+      predominant modes of transmission are respiratory aerosolization and contaminated surface&#xD;
+      contact. COVID-19 infection is characterized by a wide range of severity and disease&#xD;
+      manifestations from asymptomatic to respiratory and multi organ failure. Definitive treatment&#xD;
+      is lacking, but there is an increasing awareness of its associated systemic cascade of&#xD;
+      inflammatory molecules that offers avenues to explore therapeutically.&#xD;
+&#xD;
+      Therapeutic plasma exchange (TPE) offers an immediate and scientifically grounded&#xD;
+      intervention for the removal of a host of pathogenic antibodies and toxic molecules by&#xD;
+      centrifugal separation of plasma or plasma membrane filtration. TPE in conjunction with&#xD;
+      Tocilizumab and steroids has been used successfully in the management of severe cytokine&#xD;
+      release syndrome (CRS) following chimeric antigen receptor T-cell therapy (CAR-T).&#xD;
+&#xD;
+      Precedence for consideration of TPE in a variety of inflammatory dominant disease states is&#xD;
+      also well known. Interest in adjuvant treatment for management of sepsis and multi organ&#xD;
+      dysfunction has been studied. TPE has also been used in three pediatric patients with pH1N1&#xD;
+      influenza A acute respiratory failure and hemodynamic shock despite failure of best&#xD;
+      supportive care. All three survived with &quot;good functional recovery.&quot;&#xD;
+&#xD;
+      Ruxolitinib is a Janus kinase (JAK) and signal transducer and activator of transcription&#xD;
+      (STAT) (JAK/STAT) pathway inhibitor which is FDA approved for polycythemia rubra vera,&#xD;
+      myelofibrosis and graft versus host disease. A murine model of CRS following CAR-T cellular&#xD;
+      therapy has been developed showing marked elevation of interleukin-6 (IL-6),&#xD;
+      interferon-gamma, tumor necrosis factor (TNF) alpha mimicking human CAR-T therapy induced&#xD;
+      CRS. Ruxolitinib treated mice demonstrated clinical amelioration and decrement in&#xD;
+      inflammatory cytokines. Incyte Corporation has announced plans to launch a Phase III trial of&#xD;
+      single agent ruxolitinib for COVID-19 associated cytokine storm.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 30, 2020</start_date>
+  <completion_date type="Actual">December 1, 2020</completion_date>
+  <primary_completion_date type="Actual">September 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>C-reactive Protein (CRP) Levels at Baseline and Day 14</measure>
+    <time_frame>Baseline and at Day 14</time_frame>
+    <description>Defined as decreasing the CRP level from baseline to study day 14</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokine Levels at Baseline and Day 14</measure>
+    <time_frame>Baseline and at Day 14</time_frame>
+    <description>Defined as decreasing the interleukin (IL) IL-6 and IL-10 load and the tumor necrosis factor (TNF) load from baseline to study day 14</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Cytokine Release Syndrome</condition>
+  <condition>COVID19</condition>
+  <arm_group>
+    <arm_group_label>1 - TPE Alone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or fresh frozen plasma (FFP) replacement if underlying coagulopathy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2 - TPE Plus Ruxolitinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or fresh frozen plasma (FFP) replacement if underlying coagulopathy combined with ruxolitinib 5mg po twice daily (BID) beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Therapeutic Plasma Exchange</intervention_name>
+    <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy</description>
+    <arm_group_label>1 - TPE Alone</arm_group_label>
+    <arm_group_label>2 - TPE Plus Ruxolitinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruxolitinib</intervention_name>
+    <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+    <arm_group_label>2 - TPE Plus Ruxolitinib</arm_group_label>
+    <other_name>Therapeutic Plasma Exchange</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients positive for COVID-19 by polymerase chain reaction (PCR) assay or alternative&#xD;
+             accepted methodology&#xD;
+&#xD;
+          2. PENN class 2,3,4 CRS&#xD;
+&#xD;
+          3. Respiratory insufficiency with supplemental oxygen to maintain O2 sat greater than 89%&#xD;
+&#xD;
+          4. Clinically positive imaging by chest x-ray (CXR) or CT scan with evidence of bilateral&#xD;
+             pulmonary infiltrates, ground glass opacification or other pattern of consolidation&#xD;
+             felt likely to be linked to COVID infection or complication thereof&#xD;
+&#xD;
+          5. Age 12-80 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnancy&#xD;
+&#xD;
+          2. Breast feeding&#xD;
+&#xD;
+          3. Class 3-4 New York Heart Association (NYHA) heart failure&#xD;
+&#xD;
+          4. Current use of synthetic disease modifying anti-rheumatic drugs (DMARDS) or IL-6&#xD;
+             inhibitors or other immunosuppressive therapies outside of number five below&#xD;
+&#xD;
+          5. Current use of chronic corticosteroids if in excess of prednisone 10mg per day or&#xD;
+             equivalent&#xD;
+&#xD;
+          6. Suspected or confirmed clinically significant bacterial infection&#xD;
+&#xD;
+          7. History of tuberculosis (TB)&#xD;
+&#xD;
+          8. History of HIV&#xD;
+&#xD;
+          9. History of irritable bowel disease (IBD)&#xD;
+&#xD;
+         10. JAK inhibitor use within last 30 days&#xD;
+&#xD;
+         11. Creatinine clearance less than 15 ml / min&#xD;
+&#xD;
+         12. Absolute neutrophil count &lt; 1000&#xD;
+&#xD;
+         13. Platelet count &lt; 50,000&#xD;
+&#xD;
+         14. Clinical assessment that the trial could pose unacceptable risk by study participation&#xD;
+&#xD;
+         15. Current enrollment on another investigational protocol for COVID-19 induced CRS&#xD;
+&#xD;
+         16. Stage 4 obstructive lung disease with chronic hypoxic respiratory failure requiring&#xD;
+             supplemental O2 at baseline, or interstitial lung disease (ILD) with chronic hypoxic&#xD;
+             respiratory failure requiring supplemental O2 at baseline&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>W. Larry Gluck, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Prisma Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Prisma Health</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, Zhao K, Chen QJ, Deng F, Liu LL, Yan B, Zhan FX, Wang YY, Xiao GF, Shi ZL. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Mar;579(7798):270-273. doi: 10.1038/s41586-020-2012-7. Epub 2020 Feb 3.</citation>
+    <PMID>32015507</PMID>
+  </reference>
+  <reference>
+    <citation>Jernigan DB; CDC COVID-19 Response Team. Update: Public Health Response to the Coronavirus Disease 2019 Outbreak - United States, February 24, 2020. MMWR Morb Mortal Wkly Rep. 2020 Feb 28;69(8):216-219. doi: 10.15585/mmwr.mm6908e1.</citation>
+    <PMID>32106216</PMID>
+  </reference>
+  <reference>
+    <citation>Conti P, Ronconi G, Caraffa A, Gallenga CE, Ross R, Frydas I, Kritas SK. Induction of pro-inflammatory cytokines (IL-1 and IL-6) and lung inflammation by Coronavirus-19 (COVI-19 or SARS-CoV-2): anti-inflammatory strategies. J Biol Regul Homeost Agents. 2020 March-April,;34(2):327-331. doi: 10.23812/CONTI-E.</citation>
+    <PMID>32171193</PMID>
+  </reference>
+  <reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </reference>
+  <reference>
+    <citation>Xiao X, He X, Li Q, Zhang H, Meng J, Jiang Y, Deng Q, Zhao M. Plasma Exchange Can Be an Alternative Therapeutic Modality for Severe Cytokine Release Syndrome after Chimeric Antigen Receptor-T Cell Infusion: A Case Report. Clin Cancer Res. 2019 Jan 1;25(1):29-34. doi: 10.1158/1078-0432.CCR-18-1379. Epub 2018 Oct 15.</citation>
+    <PMID>30322878</PMID>
+  </reference>
+  <reference>
+    <citation>Busund R, Koukline V, Utrobin U, Nedashkovsky E. Plasmapheresis in severe sepsis and septic shock: a prospective, randomised, controlled trial. Intensive Care Med. 2002 Oct;28(10):1434-9. Epub 2002 Jul 23.</citation>
+    <PMID>12373468</PMID>
+  </reference>
+  <reference>
+    <citation>Rimmer E, Houston BL, Kumar A, Abou-Setta AM, Friesen C, Marshall JC, Rock G, Turgeon AF, Cook DJ, Houston DS, Zarychanski R. The efficacy and safety of plasma exchange in patients with sepsis and septic shock: a systematic review and meta-analysis. Crit Care. 2014 Dec 20;18(6):699. doi: 10.1186/s13054-014-0699-2. Review.</citation>
+    <PMID>25527094</PMID>
+  </reference>
+  <reference>
+    <citation>Patel P, Nandwani V, Vanchiere J, Conrad SA, Scott LK. Use of therapeutic plasma exchange as a rescue therapy in 2009 pH1N1 influenza A--an associated respiratory failure and hemodynamic shock. Pediatr Crit Care Med. 2011 Mar;12(2):e87-9. doi: 10.1097/PCC.0b013e3181e2a569.</citation>
+    <PMID>20453703</PMID>
+  </reference>
+  <reference>
+    <citation>Porter D, Frey N, Wood PA, Weng Y, Grupp SA. Grading of cytokine release syndrome associated with the CAR T cell therapy tisagenlecleucel. J Hematol Oncol. 2018 Mar 2;11(1):35. doi: 10.1186/s13045-018-0571-y. Review. Erratum in: J Hematol Oncol. 2018 Jun 13;11(1):81.</citation>
+    <PMID>29499750</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 5, 2020</study_first_posted>
+  <results_first_submitted>November 19, 2021</results_first_submitted>
+  <results_first_submitted_qc>November 30, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 2, 2021</results_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Cytokine Release Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All individual participant date (IPD) that underlie results in a publication.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Available April 2021 through December 2021</ipd_time_frame>
+    <ipd_access_criteria>Data can be requested from the Principal Investigator via email and should include a description of the request and the associated project or use of the data.</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 4, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/49/NCT04374149/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 11, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/49/NCT04374149/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>All participants were hospitalized at the time of enrollment. They were identified and referred by the critical care service physicians.</recruitment_details>
+      <pre_assignment_details>Eligible patients were consecutively enrolled with the first 10 to cohort 1A and the second 10 to cohort 1B.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>1 - TPE Alone</title>
+          <description>Therapeutic Plasma Exchange (TPE), five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or fresh frozen plasma (FFP) replacement if underlying coagulopathy&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or fresh frozen plasma (FFP) replacement if underlying coagulopathy</description>
+        </group>
+        <group group_id="P2">
+          <title>2 - TPE Plus Ruxolitinib</title>
+          <description>Therapeutic Plasma Exchange (TPE), five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or fresh frozen plasma (FFP) replacement if underlying coagulopathy combined with ruxolitinib 5mg po twice daily (BID) beginning day prior to first TPE and continuing BID for total of 14 days.&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or fresh frozen plasma (FFP) replacement if underlying coagulopathy&#xD;
+Ruxolitinib: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po twice daily (BID) beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>1 - TPE Alone</title>
+          <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy</description>
+        </group>
+        <group group_id="B2">
+          <title>2 - TPE Plus Ruxolitinib</title>
+          <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Ruxolitinib: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="20"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51.8" spread="12.6"/>
+                    <measurement group_id="B2" value="57.4" spread="8.8"/>
+                    <measurement group_id="B3" value="54.6" spread="10.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34.4" spread="10.2"/>
+                    <measurement group_id="B2" value="36.0" spread="5.6"/>
+                    <measurement group_id="B3" value="35.2" spread="7.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Days from COVID positive test to first therapeutic plasma exchange (TPE)</title>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.5" lower_limit="3" upper_limit="6"/>
+                    <measurement group_id="B2" value="9" lower_limit="4" upper_limit="12"/>
+                    <measurement group_id="B3" value="6.75" lower_limit="3" upper_limit="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>ABO Blood Group</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>A-</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>A+</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>B+</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>O+</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Respiratory Status per Penn Class</title>
+          <description>University of Pennsylvania cytokine release syndrome (CRS) Grading System known as Penn Class defines class 3 as hypoxia requiring supplemental oxygen [nasal cannula oxygen, high-flow oxygen, continuous positive airway pressure (CPAP), or bilevel positive airway pressure (BiPAP)] and class 4 as requiring mechanical ventilation.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Penn Class 3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Penn Class 4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Previous or Concomitant Therapy</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Glucocorticoids</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Convalescent Plasma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Remdesivir</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comorbidities</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Diabetes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Obesity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>C-reactive Protein (CRP) Levels at Baseline and Day 14</title>
+        <description>Defined as decreasing the CRP level from baseline to study day 14</description>
+        <time_frame>Baseline and at Day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>1 - TPE Alone</title>
+            <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy</description>
+          </group>
+          <group group_id="O2">
+            <title>2 - TPE Plus Ruxolitinib</title>
+            <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Ruxolitinib: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>C-reactive Protein (CRP) Levels at Baseline and Day 14</title>
+          <description>Defined as decreasing the CRP level from baseline to study day 14</description>
+          <units>mg/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CRP Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="75.45" lower_limit="41.75" upper_limit="147.9"/>
+                    <measurement group_id="O2" value="59.8" lower_limit="49.025" upper_limit="101.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CRP Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.9" lower_limit="17.9" upper_limit="156.2"/>
+                    <measurement group_id="O2" value="38.7" lower_limit="8.6" upper_limit="103.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Cytokine Levels at Baseline and Day 14</title>
+        <description>Defined as decreasing the interleukin (IL) IL-6 and IL-10 load and the tumor necrosis factor (TNF) load from baseline to study day 14</description>
+        <time_frame>Baseline and at Day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>1 - TPE Alone</title>
+            <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy</description>
+          </group>
+          <group group_id="O2">
+            <title>2 - TPE Plus Ruxolitinib</title>
+            <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Ruxolitinib: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cytokine Levels at Baseline and Day 14</title>
+          <description>Defined as decreasing the interleukin (IL) IL-6 and IL-10 load and the tumor necrosis factor (TNF) load from baseline to study day 14</description>
+          <units>pg/ml</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>IL-6 Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.32" lower_limit="9.79" upper_limit="67.25"/>
+                    <measurement group_id="O2" value="14.22" lower_limit="7.02" upper_limit="42.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-6 Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.8" lower_limit="5.8" upper_limit="53.88"/>
+                    <measurement group_id="O2" value="18.72" lower_limit="7.4" upper_limit="31.92"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-10 Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.06" lower_limit="6.22" upper_limit="20.81"/>
+                    <measurement group_id="O2" value="5.6" lower_limit="4.67" upper_limit="6.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-10 Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2" lower_limit="0.56" upper_limit="3.16"/>
+                    <measurement group_id="O2" value="3.16" lower_limit="2.64" upper_limit="3.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TNF Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.66" lower_limit="7.38" upper_limit="11.3"/>
+                    <measurement group_id="O2" value="7.06" lower_limit="5.02" upper_limit="10.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TNF Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.96" lower_limit="9.28" upper_limit="13.64"/>
+                    <measurement group_id="O2" value="7" lower_limit="5.32" upper_limit="7.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data collected from date of consent through study day 28</time_frame>
+      <desc>As this was a hospitalized, critically ill patient population, adverse events in this study were defined as events deemed by the investigators to be related to study treatment (TPE and / or ruxolitinib). Adverse events occurring in greater than 5% of patients were reported. All serious adverse events (SAEs) were collected and reported. Patients were assessed daily by the critical care service study investigators.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>1 - TPE Alone</title>
+          <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy</description>
+        </group>
+        <group group_id="E2">
+          <title>2 - TPE Plus Ruxolitinib</title>
+          <description>TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.&#xD;
+Therapeutic Plasma Exchange: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy&#xD;
+Ruxolitinib: TPE, five single plasma volume exchanges over 7 days (every day x 2 then every other day x 3) with albumin or FFP replacement if underlying coagulopathy combined with ruxolitinib 5mg po BID beginning day prior to first TPE and continuing BID for total of 14 days.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>myocardial infarction</sub_title>
+                <description>COVID-19 related myocardial infarction</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>acute respiratory failure</sub_title>
+                <description>acute respiratory failure secondary to COVID-19</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>acute respiratory failure</sub_title>
+                <description>acute respiratory failure secondary to enterococcus bacteremia, methicillin-resistant staphylococcus aureus (MRSA)</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Pilot study with small sample size. The imbalance between cohorts with respect to previous or concomitant therapy reflects the greater adoption of convalescent plasma and antiviral medication over the time span of the study.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Julie Martin, Director of Cancer Research</name_or_title>
+      <organization>Prisma Health</organization>
+      <phone>(864) 455-3667</phone>
+      <email>julie.martin@prismahealth.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

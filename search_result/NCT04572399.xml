@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="171">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04572399</url>
+  </required_header>
+  <id_info>
+    <org_study_id>883</org_study_id>
+    <nct_id>NCT04572399</nct_id>
+  </id_info>
+  <brief_title>UVA Light Device to Treat COVID-19</brief_title>
+  <official_title>Respiratory Application of a Novel Ultraviolet Light Delivery Device for Patients Infected With COVID-19: A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aytu BioPharma, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cedars-Sinai Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This pilot study will assess the safety and effectiveness of UV light treatment in&#xD;
+      hospitalized patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single center, open label, pilot study. 5 adult patients, aged over 18, who are&#xD;
+      confirmed positive with SARS-CoV-2 and are newly intubed, will receive UV light treatment to&#xD;
+      reduce SARS-CoV-2 viral load.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 30, 2020</start_date>
+  <completion_date type="Actual">December 28, 2020</completion_date>
+  <primary_completion_date type="Actual">December 28, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Intubated patients with confirmed SARS-CoV-2 will receive UV light treatment to potentially reduce bacterial and viral burden.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Viral Load</measure>
+    <time_frame>5 days</time_frame>
+    <description>Change of viral load in upper airway in patients admitted to hospital for COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Bacterial Load</measure>
+    <time_frame>5 days</time_frame>
+    <description>Change of bacterial load in upper airway</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilated Associated Pneumonia</measure>
+    <time_frame>1 month</time_frame>
+    <description>Percentage of patients developing ventilated pneumonia (VAP) within 30 days of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days to Extubation</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of days patient is intubated with endotracheal tube or tracheostomy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days to Discharge</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of days patient is discharged from the hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-reactive Protein</measure>
+    <time_frame>5 days</time_frame>
+    <description>Change in C-reactive protein from baseline to the end of the treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the World Health Organization (WHO) Coronavirus Disease (COVID)-19 10-point Ordinal Severity Scale by 30 Days</measure>
+    <time_frame>1 month</time_frame>
+    <description>The World Health Organization (WHO) COVID-19 10-point ordinal severity scale:&#xD;
+0 uninfected, No viral RNA detected&#xD;
+Asymptomatic; viral RNA detected&#xD;
+Ambulatory Mild disease: Symptomatic; independent&#xD;
+Ambulatory Mild disease: Symptomatic; assistance needed&#xD;
+Hospitalized: Moderate disease; no oxygen therapy&#xD;
+Hospitalized: Moderate disease; oxygen by mask or nasal prongs&#xD;
+Hospitalized: sever disease, Oxygen by non-invasive ventilation or high flow&#xD;
+Hospitalized: severe disease, intubation and mechanical ventilation, pO2/FiO2&gt;=150 or SpO2/FiO2&gt;=200&#xD;
+Hospitalized: severe disease, Mechanical ventilation pO2/FiO2&lt;150(SpO2/FiO2 &lt;200) or vasopressors&#xD;
+Hospitalized: severe disease, Mechanical ventilation pO2/FiO2&lt;150 and vasopressors, dialysis or extracorporeal membrane oxygenation&#xD;
+Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Catheter Tip Assessment on the Last Day of Treatment</measure>
+    <time_frame>5 days</time_frame>
+    <description>Assessment of total bacterial load on the UV catheter tip on the last day of treatment</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Endotracheal UV Light</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mechanically ventilated patients who will receive UV Light therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>UV Light Treatment</intervention_name>
+    <description>UV light therapy administered while patient is mechanically ventilated</description>
+    <arm_group_label>Endotracheal UV Light</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed positive test result for SARS-CoV-2&#xD;
+&#xD;
+          -  Mechanically ventilated&#xD;
+&#xD;
+          -  Endotracheal tube inner diameter of at least 7.5 mm&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to provide informed consent (or surrogate)&#xD;
+&#xD;
+          -  Enrolled in a therapeutic clinical trial for same condition that does not allow&#xD;
+             recruitment in other trials&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>George Chaux, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cedars-Sinai Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/34173969/</url>
+    <description>Peer-reviewed publication</description>
+  </link>
+  <results_reference>
+    <citation>Rezaie A, Melmed GY, Leite G, Mathur R, Takakura W, Pedraza I, Lewis M, Murthy R, Chaux G, Pimentel M. Endotracheal Application of Ultraviolet A Light in Critically Ill Patients with Severe Acute Respiratory Syndrome Coronavirus 2: A First-in-Human Study. Adv Ther. 2021 Aug;38(8):4556-4568. doi: 10.1007/s12325-021-01830-7. Epub 2021 Jun 26.</citation>
+    <PMID>34173969</PMID>
+  </results_reference>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>September 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2020</study_first_posted>
+  <results_first_submitted>September 22, 2021</results_first_submitted>
+  <results_first_submitted_qc>January 13, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 18, 2022</results_first_posted>
+  <last_update_submitted>January 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cedars-Sinai Medical Center</investigator_affiliation>
+    <investigator_full_name>George Chaux</investigator_full_name>
+    <investigator_title>Medical Director, Lung Transplant Program</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT04572399/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Endotracheal UV Light</title>
+          <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Endotracheal UV Light</title>
+          <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="5"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Viral Load</title>
+        <description>Change of viral load in upper airway in patients admitted to hospital for COVID-19</description>
+        <time_frame>5 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Viral Load</title>
+          <description>Change of viral load in upper airway in patients admitted to hospital for COVID-19</description>
+          <units>log10 copies/mL</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.2" lower_limit="1.20" upper_limit="6.77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Bacterial Load</title>
+        <description>Change of bacterial load in upper airway</description>
+        <time_frame>5 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Bacterial Load</title>
+          <description>Change of bacterial load in upper airway</description>
+          <units>Colony forming units/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="102000" spread="594000"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ventilated Associated Pneumonia</title>
+        <description>Percentage of patients developing ventilated pneumonia (VAP) within 30 days of treatment</description>
+        <time_frame>1 month</time_frame>
+        <population>One case of probable ventilator associated pneumonia with purulent endotracheal secretions and positive endotracheal culture for Pseudomonas aeruginosa.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ventilated Associated Pneumonia</title>
+          <description>Percentage of patients developing ventilated pneumonia (VAP) within 30 days of treatment</description>
+          <population>One case of probable ventilator associated pneumonia with purulent endotracheal secretions and positive endotracheal culture for Pseudomonas aeruginosa.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Days to Extubation</title>
+        <description>Number of days patient is intubated with endotracheal tube or tracheostomy</description>
+        <time_frame>1 month</time_frame>
+        <population>Mean days of intubation within the first 30 days of therapy. Deceased patient was not included.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Days to Extubation</title>
+          <description>Number of days patient is intubated with endotracheal tube or tracheostomy</description>
+          <population>Mean days of intubation within the first 30 days of therapy. Deceased patient was not included.</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.75" lower_limit="6" upper_limit="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Days to Discharge</title>
+        <description>Number of days patient is discharged from the hospital</description>
+        <time_frame>1 month</time_frame>
+        <population>Mean number days for the patients to be discharged from the hospital within the first 30 days. Deceased patient was not included.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Days to Discharge</title>
+          <description>Number of days patient is discharged from the hospital</description>
+          <population>Mean number days for the patients to be discharged from the hospital within the first 30 days. Deceased patient was not included.</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.25" lower_limit="19" upper_limit="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in C-reactive Protein</title>
+        <description>Change in C-reactive protein from baseline to the end of the treatment</description>
+        <time_frame>5 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in C-reactive Protein</title>
+          <description>Change in C-reactive protein from baseline to the end of the treatment</description>
+          <units>mg/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.00" spread="48.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in the World Health Organization (WHO) Coronavirus Disease (COVID)-19 10-point Ordinal Severity Scale by 30 Days</title>
+        <description>The World Health Organization (WHO) COVID-19 10-point ordinal severity scale:&#xD;
+0 uninfected, No viral RNA detected&#xD;
+Asymptomatic; viral RNA detected&#xD;
+Ambulatory Mild disease: Symptomatic; independent&#xD;
+Ambulatory Mild disease: Symptomatic; assistance needed&#xD;
+Hospitalized: Moderate disease; no oxygen therapy&#xD;
+Hospitalized: Moderate disease; oxygen by mask or nasal prongs&#xD;
+Hospitalized: sever disease, Oxygen by non-invasive ventilation or high flow&#xD;
+Hospitalized: severe disease, intubation and mechanical ventilation, pO2/FiO2&gt;=150 or SpO2/FiO2&gt;=200&#xD;
+Hospitalized: severe disease, Mechanical ventilation pO2/FiO2&lt;150(SpO2/FiO2 &lt;200) or vasopressors&#xD;
+Hospitalized: severe disease, Mechanical ventilation pO2/FiO2&lt;150 and vasopressors, dialysis or extracorporeal membrane oxygenation&#xD;
+Death</description>
+        <time_frame>1 month</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in the World Health Organization (WHO) Coronavirus Disease (COVID)-19 10-point Ordinal Severity Scale by 30 Days</title>
+          <description>The World Health Organization (WHO) COVID-19 10-point ordinal severity scale:&#xD;
+0 uninfected, No viral RNA detected&#xD;
+Asymptomatic; viral RNA detected&#xD;
+Ambulatory Mild disease: Symptomatic; independent&#xD;
+Ambulatory Mild disease: Symptomatic; assistance needed&#xD;
+Hospitalized: Moderate disease; no oxygen therapy&#xD;
+Hospitalized: Moderate disease; oxygen by mask or nasal prongs&#xD;
+Hospitalized: sever disease, Oxygen by non-invasive ventilation or high flow&#xD;
+Hospitalized: severe disease, intubation and mechanical ventilation, pO2/FiO2&gt;=150 or SpO2/FiO2&gt;=200&#xD;
+Hospitalized: severe disease, Mechanical ventilation pO2/FiO2&lt;150(SpO2/FiO2 &lt;200) or vasopressors&#xD;
+Hospitalized: severe disease, Mechanical ventilation pO2/FiO2&lt;150 and vasopressors, dialysis or extracorporeal membrane oxygenation&#xD;
+Death</description>
+          <units>Scores on a scale</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.6" lower_limit="-1" upper_limit="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Catheter Tip Assessment on the Last Day of Treatment</title>
+        <description>Assessment of total bacterial load on the UV catheter tip on the last day of treatment</description>
+        <time_frame>5 days</time_frame>
+        <population>Catheter tips could not be retrieved in a sterile fashion due to infectious disease protocols in ICU. Therefore, data were not collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Endotracheal UV Light</title>
+            <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Catheter Tip Assessment on the Last Day of Treatment</title>
+          <description>Assessment of total bacterial load on the UV catheter tip on the last day of treatment</description>
+          <population>Catheter tips could not be retrieved in a sterile fashion due to infectious disease protocols in ICU. Therefore, data were not collected.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 30 following enrollment.</time_frame>
+      <desc>No treatment-emergent adverse events or need for treatment cessation was observed in the study. Oxygen saturations and hemodynamics during all treatment sessions remained stable. No subject experienced pneumothorax, subcutaneous emphysema, or ET tube dislodgment. All subjects survived except study subject 2, who was placed on comfort care following ICH due to ECMO-associated anticoagulation and died on ICU day 17. This complication was not related to study treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Endotracheal UV Light</title>
+          <description>Mechanically ventilated patients who will receive UV Light therapy&#xD;
+UV Light Treatment: UV light therapy administered while patient is mechanically ventilated&#xD;
+No treatment-emergent adverse events or need for treatment cessation was observed in the study. Oxygen saturations and hemodynamics during all treatment sessions remained stable. None of the subjects experienced pneumothorax, subcutaneous emphysema, venous thromboembolism, or endotracheal tube (ETT) dislodgment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Melissa Hampton</name_or_title>
+      <organization>Cedars-Sinai</organization>
+      <phone>3104230617</phone>
+      <email>Melissa.Hampton@cshs.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

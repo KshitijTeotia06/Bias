@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="112">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04632706</url>
+  </required_header>
+  <id_info>
+    <org_study_id>mdc-TTG-CT-001</org_study_id>
+    <nct_id>NCT04632706</nct_id>
+  </id_info>
+  <brief_title>Exploratory Ph I Trial of the Active IMP in Healthy Volunteers in Relation to COVID-19</brief_title>
+  <official_title>A Randomised, Double-Blind, Placebo-Controlled, Exploratory Phase I Trial Assessing the Pharmacokinetic Profile, Safety and Tolerability of a Continuous Daily Dosing Regimen of Active IMP in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>MedinCell S.A</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>MedinCell S.A</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An early stage trial to check how safe and tolerable, as well as how the body handles&#xD;
+      continuous daily use of Active IMP over 28 days in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detailed information restricted because this is a Phase 1 clinical trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 22, 2020</start_date>
+  <completion_date type="Actual">March 9, 2021</completion_date>
+  <primary_completion_date type="Actual">March 9, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>The study is a placebo-controlled, double-blinded exploratory study to investigate safety, Pk and tolerability of a continuous daily dosing of the active drugs (at 3 different doses) in healthy participants.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>The study is double-blinded. Patients will be randomised to receive 1 of 3 doses of the Active IMP or a matching placebo.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetic Concentrations - (Maximum Plasma Concentration [Cmax])</measure>
+    <time_frame>D1, D2 and D28</time_frame>
+    <description>Maximum plasma concentration (Cmax)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Concentrations - (Time to Reach Cmax [Tmax])</measure>
+    <time_frame>D1, D2 and D28</time_frame>
+    <description>Time to reach Cmax (Tmax)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Concentrations - (Area Under the Plasma Concentration-time Curve From Zero to 24 Hours [AUC0-24hr])</measure>
+    <time_frame>D1, D2 and D28</time_frame>
+    <description>area under the plasma concentration-time curve from zero to 24 hours (AUC0-24hr) concentration-time curve from zero to 24 hours (AUC0-24hr)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Concentrations - (Apparent Terminal Half-Life [T1/2])</measure>
+    <time_frame>D28</time_frame>
+    <description>apparent terminal half-life (t1/2)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Treatment Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>From Screening (Day -28) to Follow up visit (Day +42) plus 7 additional days.</time_frame>
+    <description>Clinical safety data from adverse event (AE) reporting</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>50mcg/kg (oral)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>75mcg/kg (oral)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>100mcg/kg (oral)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Matching Placebo (oral)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo using tablets identical to the Active IMP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Ivermectin: Investigation of the safety, tolerability and the pharmacokinetic profile of the active IMP in an exploratory study</description>
+    <arm_group_label>100mcg/kg (oral)</arm_group_label>
+    <arm_group_label>50mcg/kg (oral)</arm_group_label>
+    <arm_group_label>75mcg/kg (oral)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching Placebo to the Active IMP.</description>
+    <arm_group_label>Matching Placebo (oral)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Important Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject is male of any ethnic origin.&#xD;
+&#xD;
+          -  Subject is aged between 18 to 45 years, inclusive.&#xD;
+&#xD;
+          -  Subject has a body mass index (BMI) of 18.5 to 32.0 kg/m2, inclusive.&#xD;
+&#xD;
+          -  Subject is ≥50 kg.&#xD;
+&#xD;
+          -  Negative reverse transcription polymerase chain reaction (RT-PCR) Test for severe&#xD;
+             acute respiratory syndrome coronavirus-2 (SARS-CoV-2) at Screening and negative&#xD;
+             lateral flow immunoassay test for SARS-CoV-2 at Day -1.&#xD;
+&#xD;
+          -  Healthy as determined by a responsible physician, based on medical evaluation&#xD;
+             including medical history, physical examinations, neurological examinations,&#xD;
+             concomitant medication, vital signs, 12-lead ECG and clinical laboratory evaluations.&#xD;
+&#xD;
+          -  Male subjects must use a condom during the study and for 3 months after their final&#xD;
+             dose of study medication, if their partner is a woman of childbearing potential. In&#xD;
+             addition, their female partner of childbearing potential must use an additional method&#xD;
+             of highly effective contraception from first dosing until 3 months following final&#xD;
+             dosing.&#xD;
+&#xD;
+        Important Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinically relevant history of abnormal physical or mental health (defined as any&#xD;
+             subject requiring medical, psychological or pharmacotherapeutic intervention for&#xD;
+             mental illness) interfering with the study as determined by medical history and&#xD;
+             physical examinations obtained during Screening and Day -1 as judged by the&#xD;
+             Investigator (including [but not limited to], neurological, psychiatric, endocrine,&#xD;
+             cardiovascular, respiratory, gastrointestinal, hepatic, or renal disorder).&#xD;
+&#xD;
+          -  Any other concomitant disease or condition that could interfere with, or for which the&#xD;
+             treatment might interfere with, the conduct of the study as outlined in this Protocol,&#xD;
+             or that would, in the opinion of the Investigator, pose an unacceptable risk to the&#xD;
+             subject in this study.&#xD;
+&#xD;
+          -  Evidence of previous SARS-CoV-2 infection from medical history.&#xD;
+&#xD;
+          -  Ophthalmologic disorder (moderate and sever retina or optic nerve pathology; cataracts&#xD;
+             excluded).&#xD;
+&#xD;
+          -  Subjects with a diagnosis of asthma or any other respiratory conditions.&#xD;
+&#xD;
+          -  A neurologic disorder that may compromise blood brain barrier permeability (stroke&#xD;
+             within 90 days, brain tumour, multiple sclerosis, or other neuroinflammatory&#xD;
+             condition, a neurodegenerative disorder, epilepsy) or history of seizures.&#xD;
+&#xD;
+          -  Positive test for hepatitis B surface antigen (HBsAg), anti-hepatitis C antibody&#xD;
+             (anti-HCV) or human immunodeficiency virus I and II (anti-HIV I/II) at Screening.&#xD;
+&#xD;
+          -  The subject has participated in a clinical study and has received a medication or a&#xD;
+             new chemical entity within 3 months or 5 half-lives (whichever is longer) prior to&#xD;
+             first dosing of current study medication.&#xD;
+&#xD;
+          -  Use of any drugs that are known substrates of CYP3A4, P-glycoprotein (P-gp) from&#xD;
+             within 4 weeks of Screening and unable to refrain from them until the end of the study&#xD;
+             (e.g., rifampicin, quinidine, amiodarone, diltiazem, spironolactone, verapamil,&#xD;
+             clarithromycin, erythromycin, itraconazole, ketoconazole, cyclosporine, tacrolimus,&#xD;
+             indinavir, ritonavir or cobicistat). Use of critical CYP3A4 substrate drugs such as&#xD;
+             warfarin or coumarin anticoagulants.&#xD;
+&#xD;
+          -  Recent or expected microfilaricidal drug use, including ivermectin, or travel history&#xD;
+             to areas that are endemic for Loa loa or onchocerciasis (Angola, Cameroon, Central&#xD;
+             African Republic, Chad, Democratic Republic of Congo, Ethiopia, Equatorial, Guinea,&#xD;
+             Gabon, Republic of Congo, Nigeria and Sudan).&#xD;
+&#xD;
+          -  Use of medications having potential activity against SARS-CoV-2 such as&#xD;
+             hydroxychloroquine, chloroquine, lopinavir, ritonavir, remdesivir, azithromycin, in&#xD;
+             the 30 days prior to Screening and unable to refrain from them until the end of the&#xD;
+             study.&#xD;
+&#xD;
+          -  Consumption of any food or drinks containing cranberry, pomegranate, starfruit,&#xD;
+             grapefruit, pomelos, exotic citrus fruits or Seville oranges (including marmalade and&#xD;
+             juices made from these fruits) within 14 days prior to first dosing until the end of&#xD;
+             the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pui Man Leung, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>MAC Clinical Research</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>MAC Clinical Research Manchester (Early Phase Unit), Neuroscience Centre of Excellence</name>
+      <address>
+        <city>Manchester</city>
+        <state>Greater Mancherster</state>
+        <zip>M13 9NQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2020</study_first_posted>
+  <results_first_submitted>December 14, 2021</results_first_submitted>
+  <results_first_submitted_qc>December 22, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 27, 2021</results_first_posted>
+  <last_update_submitted>December 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 16, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT04632706/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 8, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT04632706/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>50mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+        </group>
+        <group group_id="P2">
+          <title>75mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+        </group>
+        <group group_id="P3">
+          <title>100mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+        </group>
+        <group group_id="P4">
+          <title>Matching Placebo (Oral)</title>
+          <description>Placebo tablets matching the Active Investigative Medicinal Product (IMP)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="5"/>
+                <participants group_id="P4" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>50mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+        </group>
+        <group group_id="B2">
+          <title>75mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+        </group>
+        <group group_id="B3">
+          <title>100mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+        </group>
+        <group group_id="B4">
+          <title>Matching Placebo (Oral)</title>
+          <description>Placebo tablets matching the Active IMP</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="6"/>
+            <count group_id="B2" value="6"/>
+            <count group_id="B3" value="6"/>
+            <count group_id="B4" value="6"/>
+            <count group_id="B5" value="24"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="6"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="6"/>
+                    <count group_id="B5" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35.2" lower_limit="25" upper_limit="45"/>
+                    <measurement group_id="B2" value="29.3" lower_limit="21" upper_limit="43"/>
+                    <measurement group_id="B3" value="30.3" lower_limit="21" upper_limit="43"/>
+                    <measurement group_id="B4" value="28.2" lower_limit="23" upper_limit="35"/>
+                    <measurement group_id="B5" value="30.8" lower_limit="21" upper_limit="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="6"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="6"/>
+                    <count group_id="B5" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="0"/>
+                    <count group_id="B5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United Kingdom</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="6"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="6"/>
+                    <count group_id="B5" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="6"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="6"/>
+                    <count group_id="B5" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24.95" lower_limit="19.43" upper_limit="30.85"/>
+                    <measurement group_id="B2" value="25.79" lower_limit="21.73" upper_limit="29.24"/>
+                    <measurement group_id="B3" value="25.84" lower_limit="20.04" upper_limit="31.65"/>
+                    <measurement group_id="B4" value="25.57" lower_limit="23.57" upper_limit="29.10"/>
+                    <measurement group_id="B5" value="25.54" lower_limit="19.43" upper_limit="31.65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetic Concentrations - (Maximum Plasma Concentration [Cmax])</title>
+        <description>Maximum plasma concentration (Cmax)</description>
+        <time_frame>D1, D2 and D28</time_frame>
+        <population>All 18 participants on active IMP were eligible and analyzed for this endpoint. Number Analyzed per Row represents those with data available at each time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>50mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O2">
+            <title>75mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O3">
+            <title>100mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic Concentrations - (Maximum Plasma Concentration [Cmax])</title>
+          <description>Maximum plasma concentration (Cmax)</description>
+          <population>All 18 participants on active IMP were eligible and analyzed for this endpoint. Number Analyzed per Row represents those with data available at each time point.</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 after loading dose of 200mcg/kg (oral) for all active treatment groups</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57.2" spread="28.9"/>
+                    <measurement group_id="O2" value="41.7" spread="73.5"/>
+                    <measurement group_id="O3" value="46.5" spread="53.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 (first day on respective dose of active treatment)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22.3" spread="32.5"/>
+                    <measurement group_id="O2" value="24.4" spread="42.5"/>
+                    <measurement group_id="O3" value="33.2" spread="62.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 (last day of active treatment)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.3" spread="52.8"/>
+                    <measurement group_id="O2" value="31.9" spread="27.6"/>
+                    <measurement group_id="O3" value="44.4" spread="68.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Assessment of dose proportionality on D2 and D28</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.803</p_value>
+            <p_value_desc>If the p-value is more than 0.05 then dose proportionality can not be confirmed.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetic Concentrations - (Time to Reach Cmax [Tmax])</title>
+        <description>Time to reach Cmax (Tmax)</description>
+        <time_frame>D1, D2 and D28</time_frame>
+        <population>All 18 participants on active IMP were eligible and analyzed for this endpoint. Number Analyzed per Row represents those with data available at each time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>50mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O2">
+            <title>75mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O3">
+            <title>100mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic Concentrations - (Time to Reach Cmax [Tmax])</title>
+          <description>Time to reach Cmax (Tmax)</description>
+          <population>All 18 participants on active IMP were eligible and analyzed for this endpoint. Number Analyzed per Row represents those with data available at each time point.</population>
+          <units>hr</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 after loading dose of 200mcg/kg (oral) for all active treatment groups</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.53" spread="36.8"/>
+                    <measurement group_id="O2" value="3.03" spread="50.6"/>
+                    <measurement group_id="O3" value="4.8" spread="47.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 (first day on respective dose of active treatment)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.82" spread="36.7"/>
+                    <measurement group_id="O2" value="2.85" spread="38.8"/>
+                    <measurement group_id="O3" value="3.23" spread="34.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 (last day of active treatment)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.83" spread="39.2"/>
+                    <measurement group_id="O2" value="3.03" spread="50.7"/>
+                    <measurement group_id="O3" value="3.03" spread="39.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetic Concentrations - (Area Under the Plasma Concentration-time Curve From Zero to 24 Hours [AUC0-24hr])</title>
+        <description>area under the plasma concentration-time curve from zero to 24 hours (AUC0-24hr) concentration-time curve from zero to 24 hours (AUC0-24hr)</description>
+        <time_frame>D1, D2 and D28</time_frame>
+        <population>All 18 participants on active IMP were eligible and analyzed for this endpoint. Number Analyzed per Row represents those with data available at each time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>50mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O2">
+            <title>75mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O3">
+            <title>100mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic Concentrations - (Area Under the Plasma Concentration-time Curve From Zero to 24 Hours [AUC0-24hr])</title>
+          <description>area under the plasma concentration-time curve from zero to 24 hours (AUC0-24hr) concentration-time curve from zero to 24 hours (AUC0-24hr)</description>
+          <population>All 18 participants on active IMP were eligible and analyzed for this endpoint. Number Analyzed per Row represents those with data available at each time point.</population>
+          <units>ng*h/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 after loading dose of 200mcg/kg (oral) for all active treatment groups</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="568" spread="33.6"/>
+                    <measurement group_id="O2" value="449" spread="62.0"/>
+                    <measurement group_id="O3" value="523" spread="60.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2 (first day on respective dose of active treatment)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="906" spread="31.4"/>
+                    <measurement group_id="O2" value="779" spread="53.1"/>
+                    <measurement group_id="O3" value="941" spread="59.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 (last day of active treatment)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                    <count group_id="O2" value="6"/>
+                    <count group_id="O3" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.06" spread="36.6"/>
+                    <measurement group_id="O2" value="1.5" spread="47.5"/>
+                    <measurement group_id="O3" value="1.75" spread="20.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Assessment of dose proportionality on D2 and D28</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.689</p_value>
+            <p_value_desc>If the p-value is more than 0.05 then dose proportionality can not be confirmed.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetic Concentrations - (Apparent Terminal Half-Life [T1/2])</title>
+        <description>apparent terminal half-life (t1/2)</description>
+        <time_frame>D28</time_frame>
+        <population>17 participants on active IMP were analysed for this endpoint. On day 21 one subject in the 100 μg/kg/day ivermectin treatment group was discontinued.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>50mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O2">
+            <title>75mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O3">
+            <title>100mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetic Concentrations - (Apparent Terminal Half-Life [T1/2])</title>
+          <description>apparent terminal half-life (t1/2)</description>
+          <population>17 participants on active IMP were analysed for this endpoint. On day 21 one subject in the 100 μg/kg/day ivermectin treatment group was discontinued.</population>
+          <units>hr</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="102" spread="60.1"/>
+                    <measurement group_id="O2" value="99.2" spread="47.3"/>
+                    <measurement group_id="O3" value="127" spread="47.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Safety and Tolerability - Treatment Emergent Adverse Events (TEAEs)</title>
+        <description>Clinical safety data from adverse event (AE) reporting</description>
+        <time_frame>From Screening (Day -28) to Follow up visit (Day +42) plus 7 additional days.</time_frame>
+        <population>All 24 included participants were eligible and analysed for this endpoint</population>
+        <group_list>
+          <group group_id="O1">
+            <title>50mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O2">
+            <title>75mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O3">
+            <title>100mcg/kg (Oral)</title>
+            <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28</description>
+          </group>
+          <group group_id="O4">
+            <title>Matching Placebo (Oral)</title>
+            <description>Placebo tablets matching the Active IMP</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety and Tolerability - Treatment Emergent Adverse Events (TEAEs)</title>
+          <description>Clinical safety data from adverse event (AE) reporting</description>
+          <population>All 24 included participants were eligible and analysed for this endpoint</population>
+          <units>TEAE</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Any TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any serious TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any TEAE leading to discontinuation - due to Study Medication-related TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any TEAE leading to discontinuation - other reason</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TEAE - mild severity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TEAE - moderate severity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Causality (All TEAEs) - Not related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Causality (All TEAEs) - Related (possibly and probably)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From Screening (Day -28) to Follow up visit (Day +42) plus 7 additional days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>50mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 50mcg/kg from D2 to D28.</description>
+        </group>
+        <group group_id="E2">
+          <title>75mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 75mcg/kg from D2 to D28.</description>
+        </group>
+        <group group_id="E3">
+          <title>100mcg/kg (Oral)</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of 100mcg/kg from D2 to D28.</description>
+        </group>
+        <group group_id="E4">
+          <title>Matching Placebo (Oral)</title>
+          <description>Placebo tablets matching the Active IMP</description>
+        </group>
+        <group group_id="E5">
+          <title>Ivermectin Overall</title>
+          <description>Ivermectin loading dose of 200 mcg/kg followed by daily doses of either 50, 75, or 100mcg/kg from D2 to D28.</description>
+        </group>
+        <group group_id="E6">
+          <title>Total (Ivermectin Overall and Placebo)</title>
+          <description>All study participants</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (19.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="6"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="6" subjects_at_risk="6"/>
+                <counts group_id="E5" subjects_affected="11" subjects_at_risk="18"/>
+                <counts group_id="E6" subjects_affected="17" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Palpitations</sub_title>
+                <description>2 subjects on active treatment experienced 3 AEs; 2 AEs (one in each subject) were possibly related to study drug</description>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="3" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E6" events="3" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was possibly related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <description>3 subjects on active treatment experienced 4 AEs and 1 subject on placebo experienced 1 AE; 1 AE in the treatment group was possibly related to the study drug</description>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="4" subjects_affected="3" subjects_at_risk="18"/>
+                <counts group_id="E6" events="5" subjects_affected="4" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest discomfort</sub_title>
+                <description>1 subject on placebo experienced 2 AEs</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="2" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Oral herpes</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Back injury</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Burns first degree</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Exposure to communicable disease</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Joint injury</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Limb injury</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Transaminases increased</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Muscle twitching</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Neck pain</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <description>2 subjects on active treatment experienced 2 AEs and 1 subject on placebo experienced 1 AE; for 1 subject on active treatment and 1 subject on placebo it was possibly related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="2" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E6" events="3" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <description>4 subjects on active treatment experienced 6 AEs and one subject on placebo experienced 1 AE; none were related to the study drug</description>
+                <counts group_id="E1" events="5" subjects_affected="3" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="6" subjects_affected="4" subjects_at_risk="18"/>
+                <counts group_id="E6" events="7" subjects_affected="5" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <description>1 subject on active treatment experienced 1 AE and 2 subjects on placebo experienced 2 AEs; none were related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="3" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <description>2 subjects on active treatment experienced 2 AEs; they were not related to the study drug</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="2" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E6" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was unlikely related to the study drug</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <description>2 subjects on placebo experienced 2 AEs</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Nasal congestion</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <description>2 subjects on active treatment experienced 2 AEs; they were not related to the study drug</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="2" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E6" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Rhinorrhoea</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Eczema</sub_title>
+                <description>1 subject on placebo experienced 1 AE</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <description>1 subject on active treatment experienced 1 AE; it was not related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E6" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <description>2 subjects on active treatment experienced 2 AEs and 1 subject on placebo experienced 1 AE; none were related to the study drug</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E5" events="2" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E6" events="3" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The PI does not have the right to publish or otherwise present any results or data related to the study without an expressed written agreement from the Sponsor.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Joel Richard - Chief Development Officer</name_or_title>
+      <organization>MedinCell S.A.</organization>
+      <phone>00336984590 ext 99</phone>
+      <email>joel.richard@medincell.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

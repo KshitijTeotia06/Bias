@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="186">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04323800</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00245634</org_study_id>
+    <nct_id>NCT04323800</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma to Stem Coronavirus (CSSC-001)</brief_title>
+  <acronym>CSSC-001</acronym>
+  <official_title>Convalescent Plasma to Stem Coronavirus: A Randomized, Blinded Phase 2 Study Comparing the Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluate the efficacy of treatment with high-titer Anti- SARS-CoV-2 plasma versus control&#xD;
+      (SARS-CoV-2 non-immune plasma) in subjects exposed to Coronavirus disease (COVID-19) at day&#xD;
+      28.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized, controlled, double-blinded phase 2 trial will assess the efficacy and safety&#xD;
+      of Anti- SARS-CoV-2 convalescent plasma as prophylaxis following exposure to COVID-19 (as&#xD;
+      defined in the inclusion criteria). Adults 18 years of age and older with high risk exposure&#xD;
+      as defined by CDC may participate. A total of 500 eligible subjects will be randomized in a&#xD;
+      1:1 ratio to receive either high titer anti-SARS-CoV-2 plasma or control (SARS-CoV-2&#xD;
+      non-immune plasma).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 10, 2020</start_date>
+  <completion_date type="Actual">June 22, 2021</completion_date>
+  <primary_completion_date type="Actual">April 22, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>1:1 ratio</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy of Treatment at Day 28 as Assessed by Number of Participants Who Develop SARS-Cov-2 Infection</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Comparison of proportions of cumulative incidence of development of SARS-Cov-2 infection (symptoms compatible with infection and/or + molecular testing) regardless of disease severity, following high-titer Anti- SARS-CoV-2 plasma versus control (SARS-CoV-2 non-immune plasma) in subjects exposed to COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of Treatment With High-titer Anti- SARS-CoV-2 Plasma Versus Control as Assessed by Number of Participants With &quot;Serious Adverse Events&quot;</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Number of participants with serious adverse events categorized as either severe infusion reactions or Acute Respiratory Distress Syndrome during the study period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of Treatment With High-titer Anti- SARS-CoV-2 Plasma Versus Control as Assessed by Cumulative Incidence of Grade 3 and 4 Adverse Events</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Cumulative incidence of grade 3 and 4 adverse events during the study period evaluated as events per 100 person-years will be used to assess safety of the intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Severe Disease</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Number of participants with severe disease between the anti-SARS-CoV-2 convalescent plasma and control groups. Severity of disease will be measured using the number of participants with any of the disease severity categories below:&#xD;
+Death&#xD;
+Requiring mechanical ventilation and/or in ICU&#xD;
+non-ICU hospitalization, requiring supplemental oxygen&#xD;
+non-ICU hospitalization, not requiring supplemental oxygen</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">180</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Convalescence</condition>
+  <arm_group>
+    <arm_group_label>High titer anti-SARS-CoV-2 plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with High titer anti-SARS-CoV-2 plasma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 non-immune plasma</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants with SARS-CoV-2 non-immune plasma.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Anti- SARS-CoV-2 Plasma</intervention_name>
+    <description>SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+    <arm_group_label>High titer anti-SARS-CoV-2 plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 non-immune Plasma</intervention_name>
+    <description>Normal human plasma collected prior to December 2019</description>
+    <arm_group_label>SARS-CoV-2 non-immune plasma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Subjects must be 18 years of age or older&#xD;
+&#xD;
+          2. Close contact exposure (as defined by CDC guidelines) to person with COVID-19 within&#xD;
+             96 hours of randomization (and 120 hours of receipt of plasma)&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Receipt of any blood product in past 120 days.&#xD;
+&#xD;
+          2. Medical, psychiatric,cognitive illness or recreational drug/alcohol use that in the&#xD;
+             opinion of the principal investigator, would affect subject safety and/or compliance.&#xD;
+&#xD;
+          3. Symptoms consistent with COVID-19 infection (fevers, acute onset cough, shortness of&#xD;
+             breath) at time of screening.&#xD;
+&#xD;
+          4. Laboratory evidence of COVID-19 infection at time of screening.&#xD;
+&#xD;
+          5. History or known laboratory evidence of previous COVID-19 infection.&#xD;
+&#xD;
+          6. History of prior reactions to transfusion blood products.&#xD;
+&#xD;
+          7. Inability to complete therapy with the study product within 24 hours after&#xD;
+             randomization.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shmuel Shoham, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for American Indian Health - Whiteriver Office</name>
+      <address>
+        <city>Whiteriver</city>
+        <state>Arizona</state>
+        <zip>85941</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Diego</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Irvine Health</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Western Connecticut Health Network, Danbury Hospital</name>
+      <address>
+        <city>Danbury</city>
+        <state>Connecticut</state>
+        <zip>06810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Western Connecticut Health Netowrk, Norwalk Hospital</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Connecticut</state>
+        <zip>06856</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MedStar Georgetown University Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Clinical Translational Research Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University HealthSystem</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anne Arundel Medical Center</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Worcester</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Health Sciences Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for American Indian Health - Gallup Office</name>
+      <address>
+        <city>Gallup</city>
+        <state>New Mexico</state>
+        <zip>87301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for American Indian Health - Shiprock Office</name>
+      <address>
+        <city>Shiprock</city>
+        <state>New Mexico</state>
+        <zip>87420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vassar Brothers Medical Center</name>
+      <address>
+        <city>Poughkeepsie</city>
+        <state>New York</state>
+        <zip>12601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lifespan/BrownUniversity (Rhode Island Hospital)</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>March 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 27, 2020</study_first_posted>
+  <results_first_submitted>April 20, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 20, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 22, 2022</results_first_posted>
+  <last_update_submitted>April 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Convalescence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Sharing is governed by Johns Hopkins University Institutional Guidelines</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04323800/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 12, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04323800/SAP_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>January 13, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04323800/ICF_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+          <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+        </group>
+        <group group_id="P2">
+          <title>SARS-CoV-2 Non-immune Plasma</title>
+          <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="87"/>
+                <participants group_id="P2" count="93"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+                <participants group_id="P2" count="87"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Incomplete transfusion</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Positive RT-PCR at transfusion</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+          <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+        </group>
+        <group group_id="B2">
+          <title>SARS-CoV-2 Non-immune Plasma</title>
+          <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="87"/>
+            <count group_id="B2" value="93"/>
+            <count group_id="B3" value="180"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48" lower_limit="19" upper_limit="82"/>
+                    <measurement group_id="B2" value="46" lower_limit="18" upper_limit="91"/>
+                    <measurement group_id="B3" value="48" lower_limit="18" upper_limit="91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>18 - 34 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>35 - 44 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>45 - 54 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>55 - 64 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;/=65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="81"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46"/>
+                    <measurement group_id="B2" value="53"/>
+                    <measurement group_id="B3" value="99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72"/>
+                    <measurement group_id="B2" value="77"/>
+                    <measurement group_id="B3" value="149"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="80"/>
+                    <measurement group_id="B2" value="78"/>
+                    <measurement group_id="B3" value="158"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <description>Body Mass Index (BMI) of participants (Kg/m^2).</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;18</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>18-24.9</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>25-29.9</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>30-34.9</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>35-39.9</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;/=40</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of people in household</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;/=5</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of household COVID-19 positives</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="108"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;/=4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Median time from last exposure to transfusion</title>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2" lower_limit="1" upper_limit="4"/>
+                    <measurement group_id="B2" value="3" lower_limit="1" upper_limit="4"/>
+                    <measurement group_id="B3" value="3" lower_limit="1" upper_limit="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Days from last exposure to transfusion</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>0</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;/=5</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not transfused</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Cancer Status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Active cancer</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Active cancer on chemotherapy</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Cancer in remission</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Leukemia/Lymphoma</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No cancer</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="158"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Cardiac condition</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Arrhythmia</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Atrial fibrillation, on anticoagulant</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Cardiomyopathy</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Coronary artery disease</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Myocardial infarction</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No cardiac condition</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82"/>
+                    <measurement group_id="B2" value="87"/>
+                    <measurement group_id="B3" value="169"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Immunologic condition</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Allergic rhinitis</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Inflammatory bowel disease</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>HIV, on antiretroviral treatment</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Psoriasis</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Immunosuppression or on other immune modulator</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No immunologic condition</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="74"/>
+                    <measurement group_id="B3" value="142"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Metabolic condition</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Diabetes Mellitus</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Vitamin D deficiency</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No metabolic condition</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="80"/>
+                    <measurement group_id="B2" value="87"/>
+                    <measurement group_id="B3" value="167"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Respiratory condition</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Asthma</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Chronic Bronchitis</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Chronic sinusitis</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Cough</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Pulmonary fibrosis</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Pulmonary hypertension</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No respiratory condition</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="81"/>
+                    <measurement group_id="B2" value="82"/>
+                    <measurement group_id="B3" value="163"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Tobacco use status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Current tobacco user</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Past tobacco user</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No tobacco use</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="84"/>
+                    <measurement group_id="B2" value="88"/>
+                    <measurement group_id="B3" value="172"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Efficacy of Treatment at Day 28 as Assessed by Number of Participants Who Develop SARS-Cov-2 Infection</title>
+        <description>Comparison of proportions of cumulative incidence of development of SARS-Cov-2 infection (symptoms compatible with infection and/or + molecular testing) regardless of disease severity, following high-titer Anti- SARS-CoV-2 plasma versus control (SARS-CoV-2 non-immune plasma) in subjects exposed to COVID-19.</description>
+        <time_frame>Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+            <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+          </group>
+          <group group_id="O2">
+            <title>SARS-CoV-2 Non-immune Plasma</title>
+            <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Efficacy of Treatment at Day 28 as Assessed by Number of Participants Who Develop SARS-Cov-2 Infection</title>
+          <description>Comparison of proportions of cumulative incidence of development of SARS-Cov-2 infection (symptoms compatible with infection and/or + molecular testing) regardless of disease severity, following high-titer Anti- SARS-CoV-2 plasma versus control (SARS-CoV-2 non-immune plasma) in subjects exposed to COVID-19.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+                <count group_id="O2" value="87"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.42</p_value>
+            <p_value_desc>One-sided p-value</p_value_desc>
+            <method>Restricted Mean Survival Test statistic</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>0.01</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>1-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety of Treatment With High-titer Anti- SARS-CoV-2 Plasma Versus Control as Assessed by Number of Participants With &quot;Serious Adverse Events&quot;</title>
+        <description>Number of participants with serious adverse events categorized as either severe infusion reactions or Acute Respiratory Distress Syndrome during the study period.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+            <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+          </group>
+          <group group_id="O2">
+            <title>SARS-CoV-2 Non-immune Plasma</title>
+            <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety of Treatment With High-titer Anti- SARS-CoV-2 Plasma Versus Control as Assessed by Number of Participants With &quot;Serious Adverse Events&quot;</title>
+          <description>Number of participants with serious adverse events categorized as either severe infusion reactions or Acute Respiratory Distress Syndrome during the study period.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+                <count group_id="O2" value="87"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.67</p_value>
+            <method>Chi-squared</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>-5</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-31</ci_lower_limit>
+            <ci_upper_limit>19</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety of Treatment With High-titer Anti- SARS-CoV-2 Plasma Versus Control as Assessed by Cumulative Incidence of Grade 3 and 4 Adverse Events</title>
+        <description>Cumulative incidence of grade 3 and 4 adverse events during the study period evaluated as events per 100 person-years will be used to assess safety of the intervention.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+            <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+          </group>
+          <group group_id="O2">
+            <title>SARS-CoV-2 Non-immune Plasma</title>
+            <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety of Treatment With High-titer Anti- SARS-CoV-2 Plasma Versus Control as Assessed by Cumulative Incidence of Grade 3 and 4 Adverse Events</title>
+          <description>Cumulative incidence of grade 3 and 4 adverse events during the study period evaluated as events per 100 person-years will be used to assess safety of the intervention.</description>
+          <units>Events per 100 person-years</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+                <count group_id="O2" value="87"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23" lower_limit="6" upper_limit="61"/>
+                    <measurement group_id="O2" value="70" lower_limit="37" upper_limit="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.06</p_value>
+            <method>Chi-squared</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>-47</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-100</ci_lower_limit>
+            <ci_upper_limit>2</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Severe Disease</title>
+        <description>Number of participants with severe disease between the anti-SARS-CoV-2 convalescent plasma and control groups. Severity of disease will be measured using the number of participants with any of the disease severity categories below:&#xD;
+Death&#xD;
+Requiring mechanical ventilation and/or in ICU&#xD;
+non-ICU hospitalization, requiring supplemental oxygen&#xD;
+non-ICU hospitalization, not requiring supplemental oxygen</description>
+        <time_frame>Up to 28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+            <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+          </group>
+          <group group_id="O2">
+            <title>SARS-CoV-2 Non-immune Plasma</title>
+            <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Severe Disease</title>
+          <description>Number of participants with severe disease between the anti-SARS-CoV-2 convalescent plasma and control groups. Severity of disease will be measured using the number of participants with any of the disease severity categories below:&#xD;
+Death&#xD;
+Requiring mechanical ventilation and/or in ICU&#xD;
+non-ICU hospitalization, requiring supplemental oxygen&#xD;
+non-ICU hospitalization, not requiring supplemental oxygen</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+                <count group_id="O2" value="87"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Within 28 days</time_frame>
+      <desc>Adverse events were evaluated among those transfused and not SARS Cov-2 positive at baseline. Adverse Events were monitored/assessed without regard to the specific Adverse Event Term.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>High Titer Anti-SARS-CoV-2 Plasma</title>
+          <description>Participants with High titer anti-SARS-CoV-2 plasma.&#xD;
+Anti- SARS-CoV-2 Plasma: SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and has SARS-CoV-2 antibody titers ≥ 1:320</description>
+        </group>
+        <group group_id="E2">
+          <title>SARS-CoV-2 Non-immune Plasma</title>
+          <description>Participants with SARS-CoV-2 non-immune plasma.&#xD;
+SARS-CoV-2 non-immune Plasma: Normal human plasma collected prior to December 2019</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA unspecified</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="81"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="87"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="81"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="87"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Severe transfusion reaction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="81"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="87"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Grade 3 or 4 adverse events</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="81"/>
+                <counts group_id="E2" events="13" subjects_affected="13" subjects_at_risk="87"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA unspecified</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="81"/>
+                <counts group_id="E2" subjects_affected="44" subjects_at_risk="87"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Non-serious adverse events</sub_title>
+                <counts group_id="E1" events="24" subjects_affected="24" subjects_at_risk="81"/>
+                <counts group_id="E2" events="44" subjects_affected="44" subjects_at_risk="87"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Shmuel Shoham</name_or_title>
+      <organization>The Johns Hopkins University School of Medicine</organization>
+      <phone>410-614-6431</phone>
+      <email>sshoham1@jhmi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="157">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04375397</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M20-310</org_study_id>
+    <nct_id>NCT04375397</nct_id>
+  </id_info>
+  <brief_title>Study of Oral Ibrutinib Capsules to Assess Respiratory Failure in Adult Participants With Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) and Pulmonary Injury</brief_title>
+  <acronym>iNSPIRE</acronym>
+  <official_title>IbrutiNib in SARS CoV-2 Induced Pulmonary Injury and Respiratory Failure (iNSPIRE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Janssen Research &amp; Development LLC; Pharmacyclics LLC (An AbbVie Company)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-CoV-2). Lung failure is the main cause of death&#xD;
+      related to COVID-19 infection. The main objective of this study was to evaluate if ibrutinib&#xD;
+      is safe and can reduce respiratory failure in participants with COVID-19 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a Phase 2, multicenter, randomized, placebo-controlled, double-blind study to&#xD;
+      evaluate the addition of ibrutinib to supportive care in hospitalized participants who&#xD;
+      presented with COVID-19- related pulmonary distress requiring supplemental oxygen.&#xD;
+      Participants were randomized in a 1:1 ratio to receive placebo + supportive care, denoted as&#xD;
+      SOC or standard-of-care, or ibrutinib 420 mg + SOC, with randomization stratified by&#xD;
+      prescription for remdesivir.&#xD;
+&#xD;
+      Participants were to be treated with either placebo or ibrutinib in addition to supportive&#xD;
+      care for up to 28 days unless they met treatment discontinuation criteria and were to be&#xD;
+      followed for 58 days following start of therapy or until death, whichever occurred first.&#xD;
+      Treatment could have been stopped at the discretion of the treating physician after 14 days&#xD;
+      if the participant was clinically stable and had been off supplemental oxygen for &gt; 48 hours.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 6, 2020</start_date>
+  <completion_date type="Actual">June 8, 2021</completion_date>
+  <primary_completion_date type="Actual">May 10, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Alive and Without Respiratory Failure Through Day 28</measure>
+    <time_frame>Through Day 28</time_frame>
+    <description>Respiratory failure is defined as a clinical diagnosis of respiratory failure and initiation of one of the following therapies: endotracheal intubation and mechanical ventilation; OR extracorporeal membrane oxygenation; OR high-flow nasal cannula oxygen delivery (i.e., reinforced nasal cannula delivering heated, humidified oxygen with fraction of delivered oxygen ≥ 0.5 and flow rates of ≥ 30 L/min); OR non-invasive positive pressure ventilation; OR clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision-making is driven solely by resource limitation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the World Health Organization (WHO)-8 Ordinal Scale From Baseline at Study Day 14</measure>
+    <time_frame>At Day 14</time_frame>
+    <description>The WHO-8 is an ordinal scale for clinical improvement with scores ranging from 0 to 8, where a lower score indicates better clinical status. A score of 0 represents uninfected; 1 (ambulatory, no limitation of activities); 2 (ambulatory, limitation of activities); 3 (hospitalized with mild disease, no oxygen therapy); 4 (hospitalized with mild disease, oxygen by mask or nasal prongs); 5 (hospitalized with severe disease, non-invasive ventilation or high-flow oxygen); 6 (hospitalized with severe disease, intubation and mechanical ventilation); 7 (hospitalized with severe disease, ventilation and additional organ support [pressors, renal replacement therapy, extracorporeal membrane oxygenation]); and 8 (death). Negative values indicate improvement from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Reduction in Days Spent on Supplemental Oxygen</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Days spent on supplemental oxygen was set as the date of the participant being off of supplemental oxygen minus the date of initiation of supplemental oxygen + 1 day. If a participant received more than 1 period of supplemental oxygen therapy during the study or switched from supplemental oxygen to a more intensive therapy, then the days spent on supplemental oxygen were to be calculated as the sum of all the periods where the participant was on supplemental oxygen or a more intensive therapy through Day 28. If the date of the first initiation of supplemental oxygen was before Baseline Day 1, then the days spent on supplemental oxygen were to be calculated from Baseline Day 1 to the date of the participant being off the supplemental oxygen. Time on supplemental oxygen was to be imputed to the maximum number of days on study drug (28) for all points following the death of a participant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality at Study Days 7, 14, 21, and 28</measure>
+    <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+    <description>The percentage of participants with mortality from any cause was recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Experiencing Respiratory Failure or Death on Study Days 7, 14, 21, and 28</measure>
+    <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+    <description>Respiratory failure is defined as a clinical diagnosis of respiratory failure and initiation of one of the following therapies: endotracheal intubation and mechanical ventilation; OR extracorporeal membrane oxygenation; OR high-flow nasal cannula oxygen delivery (i.e., reinforced nasal cannula delivering heated, humidified oxygen with fraction of delivered oxygen ≥ 0.5 and flow rates of ≥ 30 L/min), OR non-invasive positive pressure ventilation; OR clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision-making is driven solely by resource limitation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical Ventilation-Free Survival</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Mechanical ventilation-free survival is defined as the number of days from Baseline Day 1 to the date when a participant initiated mechanical ventilation or died, whichever occurred first, during the 28 days post baseline. If the specified event did not occur by Day 28, participants were to be censored. Specifically, a participant without any post-baseline assessment record was to be censored at Baseline Day 1, a participant who prematurely discontinued from study without a record of death or start of mechanical ventilation was to be censored at the earlier timepoint of the date of study discontinuation or Day 28, an ongoing participant in the study without a record of death or start of mechanical ventilation was to be censored at the earlier timepoint of the date of the last evidence that the participant is not on mechanical ventilation or Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days on Mechanical Ventilation</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Days spent on mechanical ventilation was defined as the date of the participant being off mechanical ventilation - date of initiation of mechanical ventilation + 1 day. If a participant received more than 1 period of mechanical ventilation during the study or switched from mechanical ventilation to a more intensive therapy, then the days spent on mechanical ventilation were to be calculated as the sum of all the periods where the participant is on mechanical ventilation or a more intensive therapy through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Duration of Hospitalization</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Median duration of hospitalization is defined as the hospitalization discharge date - hospitalization admission date + 1 day. If a participant was hospitalized more than once during the study then the hospitalization time was to be calculated as the sum of all the periods when the participant was hospitalized through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Discharge From Hospital</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Time to discharge from hospital is defined as the number of days from Baseline Day 1 to the date of the last evidence that a participant is last discharged from hospital, during the 28 days post baseline. If the specified event did not occur by Day 28, participants were censored. Specifically, a participant without any postbaseline assessment record was to be censored at Baseline Day 1, a participant who died was to have time to discharge from hospital censored at Day 28, a participant who prematurely discontinued from study without a record of hospitalization discharge was to be censored at the earlier timepoint of the date of study discontinuation or Day 28, an on-going participant in the study without a record of hospitalization discharge was to be censored at the earlier timepoint of the date of the last evidence that the participant is hospitalized or Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial Pressure of Oxygen in Arterial Blood (PaO2) to Fraction of Inspired Oxygen (FiO2) Ratio</measure>
+    <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+    <description>The PaO2/FiO2 ratio is the ratio of arterial oxygen partial pressure (PaO2 in mmHg) to fractional inspired oxygen (FiO2). A PaO2/FiO2 ratio of 300 to 200 is mild, 200 to 100 moderate, and &lt;100 is severe Adult Respiratory Distress Syndrome (ARDS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygenation Index</measure>
+    <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+    <description>The oxygenation index is used to assess the intensity of ventilatory support required to maintain oxygenation. An index of 0 to &lt; 25 is predictive of a good outcome; 25 to &lt;40 indicates a chance of death &gt;40%; and an index of 40 to 1000 warrants consideration of extracorporeal membrane oxygenation (ECMO).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Adverse Events</measure>
+    <time_frame>From first dose of study drug until 30 days following last dose of study drug (up to 70 days)</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study. A serious adverse event (SAE) is an event that results in death, is life-threatening, requires or prolongs hospitalization, results in a congenital anomaly, persistent or significant disability/incapacity or is an important medical event that, based on medical judgment, may jeopardize the participant and may require medical or surgical intervention to prevent any of the outcomes listed above. Treatment-emergent adverse events (TEAEs) are defined as any event that began or worsened in severity on or after the first dose of study drug.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">46</enrollment>
+  <condition>CoronaVirus Induced Disease-2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Ibrutinib 420 mg + SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibrutinib</intervention_name>
+    <description>Capsules were to be administered orally with water once daily. For participants who required nasogastric tube (NGT) placement while on study, capsules may have been administered by opening the capsules, mixing with water, and flushing down the NGT.</description>
+    <arm_group_label>Ibrutinib 420 mg + SOC</arm_group_label>
+    <other_name>Imbruvica</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Capsules were to be administered orally with water once daily. For participants who required nasogastric tube (NGT) placement while on study, capsules may have been administered by opening the capsules, mixing with water, and flushing down the NGT.</description>
+    <arm_group_label>Placebo + SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Requires hospitalization for COVID-19 infection&#xD;
+&#xD;
+          -  Has Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by&#xD;
+             reverse transcription polymerase chain reaction (RT-PCR) test before study entry&#xD;
+&#xD;
+          -  Requires supplemental oxygen for pulmonary distress related to COVID-19 infection, and&#xD;
+             has been on supplemental oxygen for no more than 5 days, and on breathing room air&#xD;
+             have oxygen saturation levels of 94% or less&#xD;
+&#xD;
+          -  Has radiographic evidence of pulmonary infiltrates&#xD;
+&#xD;
+          -  Females of childbearing potential (FCBP) must use 1 reliable form of contraception or&#xD;
+             have complete abstinence from heterosexual intercourse during the following time&#xD;
+             periods related to this study: while participating in the study; and for at least 1&#xD;
+             month after discontinuation of study drug. FCBP must be referred to a qualified&#xD;
+             provider of contraceptive methods if needed. FCBP must have a negative serum pregnancy&#xD;
+             test as of screening.&#xD;
+&#xD;
+          -  Men must agree to use a latex condom during treatment and for up to 3 months after the&#xD;
+             last dose of ibrutinib during sexual contact with a FCBP.&#xD;
+&#xD;
+          -  Adequate hematologic, hepatic and renal function as described in the protocol&#xD;
+&#xD;
+          -  Must be within 10 days of confirmed diagnosis of COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Respiratory failure at time of screening as defined per protocol with any of these&#xD;
+             following therapies:&#xD;
+&#xD;
+               -  Endotracheal intubation and mechanical ventilation&#xD;
+&#xD;
+               -  Extracorporeal membrane oxygenation (ECMO)&#xD;
+&#xD;
+               -  High flow nasal cannula oxygen at flow rates ≥ 30 L/min and fraction of delivered&#xD;
+                  oxygen ≥ 0.5&#xD;
+&#xD;
+               -  Non-invasive positive pressure ventilation&#xD;
+&#xD;
+          -  Unable to swallow capsules or malabsorption syndrome, disease significantly affecting&#xD;
+             gastrointestinal function, or resection of the stomach or small bowel, symptomatic&#xD;
+             inflammatory bowel disease or ulcerative colitis, or partial or complete bowel&#xD;
+             obstruction&#xD;
+&#xD;
+          -  On a Bruton's tyrosine kinase (BTK)-inhibitor, anti-interleukin 6 (IL6),&#xD;
+             anti-interleukin 6R (IL6R), or Janus kinase inhibitor (JAKi)&#xD;
+&#xD;
+          -  Has received rituximab within 180 days from study entry.&#xD;
+&#xD;
+          -  Known bleeding disorders&#xD;
+&#xD;
+          -  Major surgery within 4 weeks of study entry&#xD;
+&#xD;
+          -  Participants in whom surgery is anticipated to be necessary within 72 hours&#xD;
+&#xD;
+          -  History of stroke or bleeding around or within brain within 6 months prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Known history of human immunodeficiency virus (HIV) or active with hepatitis C virus&#xD;
+             (HCV) or hepatitis B virus (HBV)&#xD;
+&#xD;
+          -  Currently active, clinically significant cardiovascular disease&#xD;
+&#xD;
+          -  Asymptomatic arrythmias and or history of ejection fraction &lt; 40% on an echo&#xD;
+&#xD;
+          -  Participants receiving a strong cytochrome P450 (CYP) 3A4 inhibitor with the exception&#xD;
+             of those receiving anti-fungal therapy/prophylaxis&#xD;
+&#xD;
+          -  Chronic liver disease and hepatic impairment meeting Child Pugh class C&#xD;
+&#xD;
+          -  Female participants who are pregnant, or breastfeeding, or planning to become pregnant&#xD;
+             while enrolled in this study or within 1 month of last dose of study drug. Male&#xD;
+             participants who plan to father a child while enrolled in this study or within 3&#xD;
+             months after the last dose of study drug.&#xD;
+&#xD;
+          -  Unwilling or unable to participate in all required study evaluations and procedures&#xD;
+&#xD;
+          -  Vaccinated with a live, attenuated vaccine within 4 weeks&#xD;
+&#xD;
+          -  Uncontrolled high blood pressure&#xD;
+&#xD;
+          -  On therapeutic anticoagulation at baseline&#xD;
+&#xD;
+          -  Participants with cancer, history of interstitial lung disease, and/or history of&#xD;
+             malignancies as defined in the protocol&#xD;
+&#xD;
+          -  Co-enrolled in another interventional trial&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) ≥ 3.0 × ULN, and&#xD;
+             total bilirubin &gt; 2.0 × ULN&#xD;
+&#xD;
+          -  International normalized ratio (INR) ≥ 1.5 × ULN attributable to coagulation disorders&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ABBVIE INC.</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University School of Med /ID# 221954</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305-2200</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medstar Washington Hospital Center /ID# 221886</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010-3017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duplicate_GW Medical Faculty Associates /ID# 222023</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research /ID# 222004</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami /ID# 223227</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute /ID# 222944</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407-3100</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham &amp; Women's Hospital /ID# 221847</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center /ID# 222994</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215-5400</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Intermountain Healthcare /ID# 221955</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 5, 2020</study_first_posted>
+  <results_first_submitted>April 22, 2022</results_first_submitted>
+  <results_first_submitted_qc>May 31, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 1, 2022</results_first_posted>
+  <last_update_submitted>May 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CoronaVirus Induced Disease-2019</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)</keyword>
+  <keyword>Pulmonary Injury</keyword>
+  <keyword>Ibrutinib</keyword>
+  <keyword>Imbruvica</keyword>
+  <keyword>Respiratory failure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>AbbVie is committed to responsible data sharing regarding the clinical trials we sponsor. This includes access to anonymized, individual and trial-level data (analysis data sets), as well as other information (e.g., protocols and clinical study reports), as long as the trials are not part of an ongoing or planned regulatory submission. This includes requests for clinical trial data for unlicensed products and indications.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data requests can be submitted at any time and the data will be accessible for 12 months, with possible extensions considered.</ipd_time_frame>
+    <ipd_access_criteria>Requests for access to individual participant data from ibrutinib clinical studies conducted by AbbVie can be submitted through Yale Open Data Access (YODA) Project site at http://yoda.yale.edu</ipd_access_criteria>
+    <ipd_url>http://yoda.yale.edu/</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 6, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/97/NCT04375397/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 20, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/97/NCT04375397/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Ibrutinib 420 mg + SOC</title>
+          <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo + SOC</title>
+          <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+                <participants group_id="P2" count="24"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrew consent</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other, not specified</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Ibrutinib 420 mg + SOC</title>
+          <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo + SOC</title>
+          <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="22"/>
+            <count group_id="B2" value="24"/>
+            <count group_id="B3" value="46"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50.1" spread="10.52"/>
+                    <measurement group_id="B2" value="55.2" spread="11.73"/>
+                    <measurement group_id="B3" value="52.8" spread="11.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>American Indian or Alaska Native</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or Other Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Multiple</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Missing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>COVID-19 symptom onset duration prior to baseline (days)</title>
+          <description>Baseline refers to the last non-missing observation on or before the first day of study drug administration.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9.27" spread="2.567"/>
+                    <measurement group_id="B2" value="9.08" spread="2.765"/>
+                    <measurement group_id="B3" value="9.17" spread="2.644"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of participants with a score of 4 on the WHO-8 ordinal scale at screening</title>
+          <description>WHO-8 scores: 0 (uninfected); 1 (ambulatory, no limitation of activities); 2 (ambulatory, limitation of activities); 3 (hospitalized with mild disease, no oxygen therapy); 4 (hospitalized with mild disease, oxygen by mask or nasal prongs); 5 (hospitalized with severe disease, non-invasive ventilation or high-flow oxygen); 6 (hospitalized with severe disease, intubation and mechanical ventilation); 7 (hospitalized with severe disease, ventilation and additional organ support [pressors, renal replacement therapy, extracorporeal membrane oxygenation]); and 8 (death).</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Stratification factor of prescription for remdesivir</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Yes</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants Alive and Without Respiratory Failure Through Day 28</title>
+        <description>Respiratory failure is defined as a clinical diagnosis of respiratory failure and initiation of one of the following therapies: endotracheal intubation and mechanical ventilation; OR extracorporeal membrane oxygenation; OR high-flow nasal cannula oxygen delivery (i.e., reinforced nasal cannula delivering heated, humidified oxygen with fraction of delivered oxygen ≥ 0.5 and flow rates of ≥ 30 L/min); OR non-invasive positive pressure ventilation; OR clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision-making is driven solely by resource limitation.</description>
+        <time_frame>Through Day 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Alive and Without Respiratory Failure Through Day 28</title>
+          <description>Respiratory failure is defined as a clinical diagnosis of respiratory failure and initiation of one of the following therapies: endotracheal intubation and mechanical ventilation; OR extracorporeal membrane oxygenation; OR high-flow nasal cannula oxygen delivery (i.e., reinforced nasal cannula delivering heated, humidified oxygen with fraction of delivered oxygen ≥ 0.5 and flow rates of ≥ 30 L/min); OR non-invasive positive pressure ventilation; OR clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision-making is driven solely by resource limitation.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>80% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="86.4" lower_limit="74.4" upper_limit="93.2"/>
+                    <measurement group_id="O2" value="79.2" lower_limit="66.9" upper_limit="87.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The difference in response rates between the experimental arm and the control arm were analyzed using the Miettinen-Nurminen (MN) method, adjusting for the stratification factor of prescription for remdesivir. The MN test p-value for testing the rate difference = 0 at two-sided alpha = 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.599</p_value>
+            <method>Miettinen-Nurminen method</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>5.8</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-9.2</ci_lower_limit>
+            <ci_upper_limit>20.4</ci_upper_limit>
+            <estimate_desc>Ibrutinib 420 mg + SOC - Placebo + SOC Miettinen-Nurminen (MN) CI for the adjusted risk difference across strata</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The difference in response rates between the experimental arm and the control arm were analyzed using the Miettinen-Nurminen (MN) method, adjusting for the stratification factor of prescription for remdesivir. The MN test p-value for testing the rate difference = 0 at twosided alpha = 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.599</p_value>
+            <method>Miettinen-Nurminen method</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>5.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-18.1</ci_lower_limit>
+            <ci_upper_limit>28.7</ci_upper_limit>
+            <estimate_desc>Ibrutinib 420 mg + SOC - Placebo + SOC Miettinen-Nurminen (MN) CI for the adjusted risk difference across strata</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in the World Health Organization (WHO)-8 Ordinal Scale From Baseline at Study Day 14</title>
+        <description>The WHO-8 is an ordinal scale for clinical improvement with scores ranging from 0 to 8, where a lower score indicates better clinical status. A score of 0 represents uninfected; 1 (ambulatory, no limitation of activities); 2 (ambulatory, limitation of activities); 3 (hospitalized with mild disease, no oxygen therapy); 4 (hospitalized with mild disease, oxygen by mask or nasal prongs); 5 (hospitalized with severe disease, non-invasive ventilation or high-flow oxygen); 6 (hospitalized with severe disease, intubation and mechanical ventilation); 7 (hospitalized with severe disease, ventilation and additional organ support [pressors, renal replacement therapy, extracorporeal membrane oxygenation]); and 8 (death). Negative values indicate improvement from baseline.</description>
+        <time_frame>At Day 14</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug; participants with baseline and Day 14 score data</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in the World Health Organization (WHO)-8 Ordinal Scale From Baseline at Study Day 14</title>
+          <description>The WHO-8 is an ordinal scale for clinical improvement with scores ranging from 0 to 8, where a lower score indicates better clinical status. A score of 0 represents uninfected; 1 (ambulatory, no limitation of activities); 2 (ambulatory, limitation of activities); 3 (hospitalized with mild disease, no oxygen therapy); 4 (hospitalized with mild disease, oxygen by mask or nasal prongs); 5 (hospitalized with severe disease, non-invasive ventilation or high-flow oxygen); 6 (hospitalized with severe disease, intubation and mechanical ventilation); 7 (hospitalized with severe disease, ventilation and additional organ support [pressors, renal replacement therapy, extracorporeal membrane oxygenation]); and 8 (death). Negative values indicate improvement from baseline.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug; participants with baseline and Day 14 score data</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>-4 points</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>-3 points</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>-2 points</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>-1 point</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>0 points</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>1 point</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>3 points</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in ordinal score from baseline to day 14 = -3&#xD;
+To evaluate the odds of clinical status improvement as determined by the WHO-8 ordinal scale, a multinomial logistic regression model was used.&#xD;
+Pairwise Comparison in Reference to the Group with Change = -4</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.886</p_value>
+            <method>Multinomial Logistic Regression</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.17</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.13</ci_lower_limit>
+            <ci_upper_limit>10.44</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in ordinal score from baseline to day 14 = -2&#xD;
+To evaluate the odds of clinical status improvement as determined by the WHO-8 ordinal scale, a multinomial logistic regression model was used.&#xD;
+Pairwise Comparison in Reference to the Group with Change = -4</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.705</p_value>
+            <method>Multinomial Logistic Regression</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.64</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.06</ci_lower_limit>
+            <ci_upper_limit>6.43</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in ordinal score from baseline to day 14 = -1&#xD;
+To evaluate the odds of clinical status improvement as determined by the WHO-8 ordinal scale, a multinomial logistic regression model was used.&#xD;
+Pairwise Comparison in Reference to the Group with Change = -4</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.996</p_value>
+            <method>Multinomial Logistic Regression</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>0.00</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.00</ci_lower_limit>
+            <ci_upper_limit_na_comment>The upper limit of this 95% CI is infinite.</ci_upper_limit_na_comment>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in ordinal score from baseline to day 14 = 0&#xD;
+To evaluate the odds of clinical status improvement as determined by the WHO-8 ordinal scale, a multinomial logistic regression model was used.&#xD;
+Pairwise Comparison in Reference to the Group with Change = -4</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.969</p_value>
+            <method>Multinomial Logistic Regression</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.07</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.04</ci_lower_limit>
+            <ci_upper_limit>32.18</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in ordinal score from baseline to day 14 = 1&#xD;
+To evaluate the odds of clinical status improvement as determined by the WHO-8 ordinal scale, a multinomial logistic regression model was used.&#xD;
+Pairwise Comparison in Reference to the Group with Change = -4</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.969</p_value>
+            <method>Multinomial Logistic Regression</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.07</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.04</ci_lower_limit>
+            <ci_upper_limit>32.18</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in ordinal score from baseline to day 14 = 3&#xD;
+To evaluate the odds of clinical status improvement as determined by the WHO-8 ordinal scale, a multinomial logistic regression model was used.&#xD;
+Pairwise Comparison in Reference to the Group with Change = -4</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.969</p_value>
+            <method>Multinomial Logistic Regression</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.07</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.04</ci_lower_limit>
+            <ci_upper_limit>32.18</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Median Reduction in Days Spent on Supplemental Oxygen</title>
+        <description>Days spent on supplemental oxygen was set as the date of the participant being off of supplemental oxygen minus the date of initiation of supplemental oxygen + 1 day. If a participant received more than 1 period of supplemental oxygen therapy during the study or switched from supplemental oxygen to a more intensive therapy, then the days spent on supplemental oxygen were to be calculated as the sum of all the periods where the participant was on supplemental oxygen or a more intensive therapy through Day 28. If the date of the first initiation of supplemental oxygen was before Baseline Day 1, then the days spent on supplemental oxygen were to be calculated from Baseline Day 1 to the date of the participant being off the supplemental oxygen. Time on supplemental oxygen was to be imputed to the maximum number of days on study drug (28) for all points following the death of a participant.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Reduction in Days Spent on Supplemental Oxygen</title>
+          <description>Days spent on supplemental oxygen was set as the date of the participant being off of supplemental oxygen minus the date of initiation of supplemental oxygen + 1 day. If a participant received more than 1 period of supplemental oxygen therapy during the study or switched from supplemental oxygen to a more intensive therapy, then the days spent on supplemental oxygen were to be calculated as the sum of all the periods where the participant was on supplemental oxygen or a more intensive therapy through Day 28. If the date of the first initiation of supplemental oxygen was before Baseline Day 1, then the days spent on supplemental oxygen were to be calculated from Baseline Day 1 to the date of the participant being off the supplemental oxygen. Time on supplemental oxygen was to be imputed to the maximum number of days on study drug (28) for all points following the death of a participant.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" lower_limit="1" upper_limit="28"/>
+                    <measurement group_id="O2" value="6.5" lower_limit="1" upper_limit="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Median days spent on supplemental oxygen was compared between treatment groups using Van Elteren's test with the stratification factor of prescription for remdesivir.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.801</p_value>
+            <method>Van Elteren's test</method>
+            <param_type>Difference in Medians</param_type>
+            <param_value>-1.5</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Ibrutinib 420 mg + SOC - Placebo + SOC</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-Cause Mortality at Study Days 7, 14, 21, and 28</title>
+        <description>The percentage of participants with mortality from any cause was recorded.</description>
+        <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-Cause Mortality at Study Days 7, 14, 21, and 28</title>
+          <description>The percentage of participants with mortality from any cause was recorded.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>80% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0.0" upper_limit="6.9"/>
+                    <measurement group_id="O2" value="0" lower_limit="0.0" upper_limit="6.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0.0" upper_limit="6.9"/>
+                    <measurement group_id="O2" value="0" lower_limit="0.0" upper_limit="6.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.5" lower_limit="1.4" upper_limit="14.0"/>
+                    <measurement group_id="O2" value="0" lower_limit="0.0" upper_limit="6.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.5" lower_limit="1.4" upper_limit="14.0"/>
+                    <measurement group_id="O2" value="0" lower_limit="0.0" upper_limit="6.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 7-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=1.000</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>0.0</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-6.7</ci_lower_limit>
+            <ci_upper_limit>7.3</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 7-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=1.000</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>0.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-14.4</ci_lower_limit>
+            <ci_upper_limit>15.5</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 14-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=1.000</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>0.0</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-6.7</ci_lower_limit>
+            <ci_upper_limit>7.3</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 14-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=1.000</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>0.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-14.4</ci_lower_limit>
+            <ci_upper_limit>15.5</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 21-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.267</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>4.8</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.7</ci_lower_limit>
+            <ci_upper_limit>14.8</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 21-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.267</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>4.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-9.6</ci_lower_limit>
+            <ci_upper_limit>22.8</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 28-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.267</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>4.8</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.7</ci_lower_limit>
+            <ci_upper_limit>14.8</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>At Day 28-- Ibrutinib 420 mg + SOC - Placebo + SOC&#xD;
+The Miettinen-Nurminen (MN) test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2 and associated confidence intervals are reported.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.267</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Mortality rate difference</param_type>
+            <param_value>4.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-9.6</ci_lower_limit>
+            <ci_upper_limit>22.8</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants Experiencing Respiratory Failure or Death on Study Days 7, 14, 21, and 28</title>
+        <description>Respiratory failure is defined as a clinical diagnosis of respiratory failure and initiation of one of the following therapies: endotracheal intubation and mechanical ventilation; OR extracorporeal membrane oxygenation; OR high-flow nasal cannula oxygen delivery (i.e., reinforced nasal cannula delivering heated, humidified oxygen with fraction of delivered oxygen ≥ 0.5 and flow rates of ≥ 30 L/min), OR non-invasive positive pressure ventilation; OR clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision-making is driven solely by resource limitation.</description>
+        <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Experiencing Respiratory Failure or Death on Study Days 7, 14, 21, and 28</title>
+          <description>Respiratory failure is defined as a clinical diagnosis of respiratory failure and initiation of one of the following therapies: endotracheal intubation and mechanical ventilation; OR extracorporeal membrane oxygenation; OR high-flow nasal cannula oxygen delivery (i.e., reinforced nasal cannula delivering heated, humidified oxygen with fraction of delivered oxygen ≥ 0.5 and flow rates of ≥ 30 L/min), OR non-invasive positive pressure ventilation; OR clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision-making is driven solely by resource limitation.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>80% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.1" lower_limit="3.8" upper_limit="20.0"/>
+                    <measurement group_id="O2" value="20.8" lower_limit="12.3" upper_limit="33.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.1" lower_limit="3.8" upper_limit="20.0"/>
+                    <measurement group_id="O2" value="20.8" lower_limit="12.3" upper_limit="33.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.6" lower_limit="6.8" upper_limit="25.6"/>
+                    <measurement group_id="O2" value="20.8" lower_limit="12.3" upper_limit="33.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.6" lower_limit="6.8" upper_limit="25.6"/>
+                    <measurement group_id="O2" value="20.8" lower_limit="12.3" upper_limit="33.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 7&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.314</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-10.7</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-24.8</ci_lower_limit>
+            <ci_upper_limit>3.3</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 7&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.314</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-10.7</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-32.8</ci_lower_limit>
+            <ci_upper_limit>12.0</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 14&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.314</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-10.7</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-24.8</ci_lower_limit>
+            <ci_upper_limit>3.3</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 14&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.314</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-10.7</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-32.8</ci_lower_limit>
+            <ci_upper_limit>12.0</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 21&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.599</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-5.8</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-20.4</ci_lower_limit>
+            <ci_upper_limit>9.2</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 21&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.599</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-5.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-28.7</ci_lower_limit>
+            <ci_upper_limit>18.1</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 28&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.599</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-5.8</param_value>
+            <ci_percent>80</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-20.4</ci_lower_limit>
+            <ci_upper_limit>9.2</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Failure/Mortality Rate Difference Compared to Placebo + SOC at Day 28&#xD;
+The difference in response rates between the experimental arm and the control arm was analyzed using the Miettinen-Nurminen (MN) method adjusting for the stratification factor of prescription for remdesivir. MN test p-value for testing the rate difference = 0 adjusting for the stratification factor of prescription for remdesivir using Cochran-Mantel-Haenszel weights at two-sided alpha of 0.2.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.599</p_value>
+            <method>Miettinen-Nurminen</method>
+            <param_type>Adjusted risk difference (%)</param_type>
+            <param_value>-5.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-28.7</ci_lower_limit>
+            <ci_upper_limit>18.1</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mechanical Ventilation-Free Survival</title>
+        <description>Mechanical ventilation-free survival is defined as the number of days from Baseline Day 1 to the date when a participant initiated mechanical ventilation or died, whichever occurred first, during the 28 days post baseline. If the specified event did not occur by Day 28, participants were to be censored. Specifically, a participant without any post-baseline assessment record was to be censored at Baseline Day 1, a participant who prematurely discontinued from study without a record of death or start of mechanical ventilation was to be censored at the earlier timepoint of the date of study discontinuation or Day 28, an ongoing participant in the study without a record of death or start of mechanical ventilation was to be censored at the earlier timepoint of the date of the last evidence that the participant is not on mechanical ventilation or Day 28.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mechanical Ventilation-Free Survival</title>
+          <description>Mechanical ventilation-free survival is defined as the number of days from Baseline Day 1 to the date when a participant initiated mechanical ventilation or died, whichever occurred first, during the 28 days post baseline. If the specified event did not occur by Day 28, participants were to be censored. Specifically, a participant without any post-baseline assessment record was to be censored at Baseline Day 1, a participant who prematurely discontinued from study without a record of death or start of mechanical ventilation was to be censored at the earlier timepoint of the date of study discontinuation or Day 28, an ongoing participant in the study without a record of death or start of mechanical ventilation was to be censored at the earlier timepoint of the date of the last evidence that the participant is not on mechanical ventilation or Day 28.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" lower_limit="NA" upper_limit="NA">Not calculable/estimable due to low number of participants with events</measurement>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">Not calculable/estimable due to low number of participants with events</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>For the analysis of mechanical ventilation-free survival, the distribution of time to event was estimated by treatment group using Kaplan-Meier methodology and compared between the experimental arm and the control arm using the log-rank test stratified by prescription for remdesivir.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.851</p_value>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Days on Mechanical Ventilation</title>
+        <description>Days spent on mechanical ventilation was defined as the date of the participant being off mechanical ventilation - date of initiation of mechanical ventilation + 1 day. If a participant received more than 1 period of mechanical ventilation during the study or switched from mechanical ventilation to a more intensive therapy, then the days spent on mechanical ventilation were to be calculated as the sum of all the periods where the participant is on mechanical ventilation or a more intensive therapy through Day 28.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Days on Mechanical Ventilation</title>
+          <description>Days spent on mechanical ventilation was defined as the date of the participant being off mechanical ventilation - date of initiation of mechanical ventilation + 1 day. If a participant received more than 1 period of mechanical ventilation during the study or switched from mechanical ventilation to a more intensive therapy, then the days spent on mechanical ventilation were to be calculated as the sum of all the periods where the participant is on mechanical ventilation or a more intensive therapy through Day 28.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0" upper_limit="28"/>
+                    <measurement group_id="O2" value="0.0" lower_limit="0" upper_limit="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Median days spent on mechanical ventilation were compared between treatment groups using Van Elteren's test with the stratification factor of prescription for remdesivir.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.745</p_value>
+            <method>Van Elteren's test</method>
+            <param_type>Difference in Medians</param_type>
+            <param_value>0.0</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Ibrutinib 420 mg + SOC - Placebo + SOC</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Median Duration of Hospitalization</title>
+        <description>Median duration of hospitalization is defined as the hospitalization discharge date - hospitalization admission date + 1 day. If a participant was hospitalized more than once during the study then the hospitalization time was to be calculated as the sum of all the periods when the participant was hospitalized through Day 28.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Duration of Hospitalization</title>
+          <description>Median duration of hospitalization is defined as the hospitalization discharge date - hospitalization admission date + 1 day. If a participant was hospitalized more than once during the study then the hospitalization time was to be calculated as the sum of all the periods when the participant was hospitalized through Day 28.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.0" lower_limit="2" upper_limit="28"/>
+                    <measurement group_id="O2" value="6.5" lower_limit="3" upper_limit="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Median duration of hospitalization was compared between treatment groups using Van Elteren's test with the stratification factor of prescription for remdesivir.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.977</p_value>
+            <method>Van Elteren's test]</method>
+            <param_type>Difference in Medians</param_type>
+            <param_value>-0.5</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Ibrutinib 420 mg + SOC - Placebo + SOC</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Discharge From Hospital</title>
+        <description>Time to discharge from hospital is defined as the number of days from Baseline Day 1 to the date of the last evidence that a participant is last discharged from hospital, during the 28 days post baseline. If the specified event did not occur by Day 28, participants were censored. Specifically, a participant without any postbaseline assessment record was to be censored at Baseline Day 1, a participant who died was to have time to discharge from hospital censored at Day 28, a participant who prematurely discontinued from study without a record of hospitalization discharge was to be censored at the earlier timepoint of the date of study discontinuation or Day 28, an on-going participant in the study without a record of hospitalization discharge was to be censored at the earlier timepoint of the date of the last evidence that the participant is hospitalized or Day 28.</description>
+        <time_frame>Up to Day 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Discharge From Hospital</title>
+          <description>Time to discharge from hospital is defined as the number of days from Baseline Day 1 to the date of the last evidence that a participant is last discharged from hospital, during the 28 days post baseline. If the specified event did not occur by Day 28, participants were censored. Specifically, a participant without any postbaseline assessment record was to be censored at Baseline Day 1, a participant who died was to have time to discharge from hospital censored at Day 28, a participant who prematurely discontinued from study without a record of hospitalization discharge was to be censored at the earlier timepoint of the date of study discontinuation or Day 28, an on-going participant in the study without a record of hospitalization discharge was to be censored at the earlier timepoint of the date of the last evidence that the participant is hospitalized or Day 28.</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.0" lower_limit="5.0" upper_limit="10.0"/>
+                    <measurement group_id="O2" value="6.5" lower_limit="5.0" upper_limit="9.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>For the analysis of time to discharge from hospital, the distribution of time to event was estimated by treatment group using Kaplan-Meier methodology and compared between the experimental arm and the control arm using the log-rank test stratified by prescription for remdesivir.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>=0.969</p_value>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Partial Pressure of Oxygen in Arterial Blood (PaO2) to Fraction of Inspired Oxygen (FiO2) Ratio</title>
+        <description>The PaO2/FiO2 ratio is the ratio of arterial oxygen partial pressure (PaO2 in mmHg) to fractional inspired oxygen (FiO2). A PaO2/FiO2 ratio of 300 to 200 is mild, 200 to 100 moderate, and &lt;100 is severe Adult Respiratory Distress Syndrome (ARDS).</description>
+        <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug. Participants with non-missing baseline and at least one post-baseline value are included in the analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Partial Pressure of Oxygen in Arterial Blood (PaO2) to Fraction of Inspired Oxygen (FiO2) Ratio</title>
+          <description>The PaO2/FiO2 ratio is the ratio of arterial oxygen partial pressure (PaO2 in mmHg) to fractional inspired oxygen (FiO2). A PaO2/FiO2 ratio of 300 to 200 is mild, 200 to 100 moderate, and &lt;100 is severe Adult Respiratory Distress Syndrome (ARDS).</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug. Participants with non-missing baseline and at least one post-baseline value are included in the analyses.</population>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="2"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100" spread="56.07"/>
+                    <measurement group_id="O2" value="87" spread="33.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="269"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Oxygenation Index</title>
+        <description>The oxygenation index is used to assess the intensity of ventilatory support required to maintain oxygenation. An index of 0 to &lt; 25 is predictive of a good outcome; 25 to &lt;40 indicates a chance of death &gt;40%; and an index of 40 to 1000 warrants consideration of extracorporeal membrane oxygenation (ECMO).</description>
+        <time_frame>At Study Days 7, 14, 21, and 28</time_frame>
+        <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug. Participants with non-missing baseline and at least one post-baseline value are included in the analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Oxygenation Index</title>
+          <description>The oxygenation index is used to assess the intensity of ventilatory support required to maintain oxygenation. An index of 0 to &lt; 25 is predictive of a good outcome; 25 to &lt;40 indicates a chance of death &gt;40%; and an index of 40 to 1000 warrants consideration of extracorporeal membrane oxygenation (ECMO).</description>
+          <population>Full Analysis Set (FAS): all randomized participants who received at least 1 dose of study drug. Participants with non-missing baseline and at least one post-baseline value are included in the analyses.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="2"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 21</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33" spread="43.61"/>
+                    <measurement group_id="O2" value="20" spread="1.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="2"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O2" value="12" spread="4.26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Adverse Events</title>
+        <description>An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study. A serious adverse event (SAE) is an event that results in death, is life-threatening, requires or prolongs hospitalization, results in a congenital anomaly, persistent or significant disability/incapacity or is an important medical event that, based on medical judgment, may jeopardize the participant and may require medical or surgical intervention to prevent any of the outcomes listed above. Treatment-emergent adverse events (TEAEs) are defined as any event that began or worsened in severity on or after the first dose of study drug.</description>
+        <time_frame>From first dose of study drug until 30 days following last dose of study drug (up to 70 days)</time_frame>
+        <population>Safety Population: all participants who received at least 1 dose of study drug</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ibrutinib 420 mg + SOC</title>
+            <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + SOC</title>
+            <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events</title>
+          <description>An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study. A serious adverse event (SAE) is an event that results in death, is life-threatening, requires or prolongs hospitalization, results in a congenital anomaly, persistent or significant disability/incapacity or is an important medical event that, based on medical judgment, may jeopardize the participant and may require medical or surgical intervention to prevent any of the outcomes listed above. Treatment-emergent adverse events (TEAEs) are defined as any event that began or worsened in severity on or after the first dose of study drug.</description>
+          <population>Safety Population: all participants who received at least 1 dose of study drug</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>All-cause mortality is reported from enrollment to the end of study; median time on follow-up was Ibrutinib 420 mg + SOC (58.0 days); and Placebo + SOC (62.0 days). Treatment-emergent adverse events (TEAEs) and serious adverse events (TESAEs) were collected from the first dose of study drug until 30 days after last dose, up to 70 days.</time_frame>
+      <desc>All-cause mortality and adverse events: all participants who received at least one dose of study drug</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Ibrutinib 420 mg + SOC</title>
+          <description>420 mg ibrutinib administered once daily as three hard gelatin capsules (140 mg each) with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo + SOC</title>
+          <description>Three hard gelatin placebo capsules administered once daily with approximately 240 mL of water for up to 28 days and supportive care (standard-of-care, SOC)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 23.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>PNEUMONIA</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>PNEUMONIA BACTERIAL</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>SEPSIS</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>SEPTIC SHOCK</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>STAPHYLOCOCCAL BACTERAEMIA</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ACUTE KIDNEY INJURY</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ACUTE RESPIRATORY FAILURE</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>PULMONARY HAEMORRHAGE</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>PERIPHERAL ARTERY THROMBOSIS</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 23.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ANAEMIA</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="22"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>NAUSEA</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="22"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>ALANINE AMINOTRANSFERASE INCREASED</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="22"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>ASPARTATE AMINOTRANSFERASE INCREASED</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HYPERTENSION</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="22"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>AbbVie requests that any investigator or institution that plans on presenting/publishing results disclosure, provide written notification of their request 60 days prior to their presentation/publication. AbbVie requests that no presentation/publication will be instituted until 12 months after a study is completed, or after the first presentation/publication whichever occurs first. A delay may be proposed of a presentation/publication if AbbVie needs to secure patent or proprietary protection.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Global Medical Services</name_or_title>
+      <organization>AbbVie</organization>
+      <phone>800-633-9110</phone>
+      <email>abbvieclinicaltrials@abbvie.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

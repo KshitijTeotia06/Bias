@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04399980</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IND 149324</org_study_id>
+    <secondary_id>IRB 20-523</secondary_id>
+    <nct_id>NCT04399980</nct_id>
+  </id_info>
+  <brief_title>Mavrilimumab to Reduce Progression of Acute Respiratory Failure in COVID-19 Pneumonia and Systemic Hyper-inflammation</brief_title>
+  <official_title>Mavrilimumab to Reduce Progression of Acute Respiratory Failure in Patients With Severe COVID-19 Pneumonia and Systemic Hyper-inflammation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kiniksa Pharmaceuticals, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Cleveland Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this prospective, Phase 2, multicenter, blinded, randomized placebo controlled&#xD;
+      study is to demonstrate that early treatment with mavrilimumab prevents progression of&#xD;
+      respiratory failure in patients with severe COVID-19 pneumonia and clinical and biological&#xD;
+      features of hyper-inflammation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This prospective, Phase 2, multi-center, blinded randomized placebo-controlled study is&#xD;
+      designed to demonstrate that early treatment with mavrilimumab prevents progression of&#xD;
+      respiratory failure in patients with severe Covid-19 pneumonia and clinical and biological&#xD;
+      features of hyper-inflammation.&#xD;
+&#xD;
+      The study population includes patients who have severe pneumonia, defined as hospitalization&#xD;
+      due to Covid-19 with abnormal chest imaging and SpO2 &lt;92% on room air or requirement for&#xD;
+      supplemental oxygen.&#xD;
+&#xD;
+      Enrollment: The study will be performed in approximately 4 months total, starting from the&#xD;
+      first patient enrolled with enrollment expected to complete within 2 months.&#xD;
+&#xD;
+      Follow-up period: The follow-up period is 60 days for each patient enrolled.&#xD;
+&#xD;
+      A total of 60 patients will be randomized using a 1:1 allocation ratio: 30 subjects will&#xD;
+      receive mavrilimumab, and 30 subjects will receive placebo infusion. The investigator,&#xD;
+      clinical team, and subject will be blinded to treatment assignment.&#xD;
+&#xD;
+      Participants will be identified by regular review of hospitalized COVID19 patients to&#xD;
+      evaluate for inclusion and exclusion criteria. Participants will then be approached in the&#xD;
+      standard manner by study investigator and coordinator/research nurse.&#xD;
+&#xD;
+      Research interventions will take place in the hospital in accordance with privacy standards.&#xD;
+&#xD;
+      The study team is informed on all study procedures and requirements with daily meetings and&#xD;
+      the opportunity to continuously update through secure channels.&#xD;
+&#xD;
+      In this multicenter consortium, each participating site will have their own IND for patients&#xD;
+      enrolled at their site. Data collection will occur at each of the 4 academic centers, and&#xD;
+      data analysis and randomization scheme will be performed by one site, Cleveland Clinic C5&#xD;
+      Research.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 20, 2020</start_date>
+  <completion_date type="Actual">April 23, 2021</completion_date>
+  <primary_completion_date type="Actual">April 23, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Subjects Alive and Off of Oxygen at Day 14</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Number and percentage of subjects alive and off of oxygen at day 14</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects Alive and Without Respiratory Failure at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number and percentage of subjects that are alive and without respiratory failure at Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number and percentage of patients that expired by Day 28</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>COVID 19</condition>
+  <condition>SARS-CoV 2</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Treatment infusion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo infusion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mavrilimumab</intervention_name>
+    <description>Treatment infusion</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>KPL-301</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebos</intervention_name>
+    <description>Placebo infusion</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (must meet all):&#xD;
+&#xD;
+          1. Written informed consent must be obtained before any assessment is performed&#xD;
+&#xD;
+          2. Documented COVID19 pneumonia defined as positive SARS-CoV2 test AND abnormalities/&#xD;
+             infiltrates on chest x-ray or computed tomography AND active fever or documented fever&#xD;
+             within 24-48 hours or ongoing anti-pyretic use to suppress fever&#xD;
+&#xD;
+          3. Hypoxia (Room air SpO2 &lt;92% or requirement for supplemental oxygen)&#xD;
+&#xD;
+          4. Increased serum inflammatory marker (CRP &gt; 5 mg/dL)&#xD;
+&#xD;
+          5. Severity of disease warrants inpatient hospitalization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Onset of COVID-19 symptoms &gt;14 days&#xD;
+&#xD;
+          2. Age &lt; 18 years-old&#xD;
+&#xD;
+          3. Hospitalized &gt;7 days&#xD;
+&#xD;
+          4. Mechanically ventilated&#xD;
+&#xD;
+          5. Serious concomitant illness which in the opinion of the investigator precludes the&#xD;
+             patient from enrolling in the trial, including (but not limited to):&#xD;
+&#xD;
+               -  History of immunodeficiency (congenital or acquired)&#xD;
+&#xD;
+               -  Neutropenia (absolute neutrophil count &lt;1,500/mm3)&#xD;
+&#xD;
+               -  History of solid-organ or bone marrow transplant&#xD;
+&#xD;
+               -  History of current systemic autoimmune or autoinflammatory disease(s) requiring&#xD;
+                  systemic immune-modulating drugs&#xD;
+&#xD;
+               -  History of myeloproliferative disorder or active malignancy receiving cytotoxic&#xD;
+                  chemotherapy&#xD;
+&#xD;
+               -  Pre-existing severe pulmonary disease (i.e. steroid dependent asthma, COPD on&#xD;
+                  home oxygen, or other restrictive/obstructive lung disease requiring home oxygen)&#xD;
+&#xD;
+               -  Pre-existing severe left ventricular systolic dysfunction (i.e. LVEF &lt;35%)&#xD;
+&#xD;
+               -  Known or suspected active tuberculosis (TB), latent TB, or history of&#xD;
+                  incompletely treated TB or at high risk for latent TB (from exposure or prior&#xD;
+                  incarceration)&#xD;
+&#xD;
+               -  History of active or latent viral hepatitis (i.e. Hepatitis B or C)&#xD;
+&#xD;
+               -  Concomitant uncontrolled systemic bacterial or fungal infection&#xD;
+&#xD;
+               -  Concomitant viral infection other than COVID-19 (e.g. Influenza, other&#xD;
+                  respiratory viruses)&#xD;
+&#xD;
+               -  History of chronic liver disease with portal hypertension&#xD;
+&#xD;
+               -  History of end-stage renal disease on chronic renal replacement therapy&#xD;
+&#xD;
+          6. Recent treatment with cell-depleting biological therapies (e.g., anti-CD20) within 12&#xD;
+             months, cell-depleting biological therapies (such as anti-tumor necrosis factor [TNF],&#xD;
+             anakinra, anti-Interleukin [IL]-6 receptor [e.g. tocilizumab], or abatacept) within 8&#xD;
+             weeks (or 5 half-lives, whichever is longer), treatment with alkylating agents within&#xD;
+             12 weeks, treatment with cyclosporine A, azathioprine, cyclophosphamide, or&#xD;
+             mycophenolate mofetil (MMF) within 4 weeks&#xD;
+&#xD;
+          7. Recent treatment with intramuscular live (attenuated) vaccine within 4 weeks&#xD;
+&#xD;
+          8. Chronic or recent corticosteroid use &gt; 10 mg/day&#xD;
+&#xD;
+          9. Pregnant. Breast-feeding women are eligible with the decision to continue or&#xD;
+             discontinue breast-feeding during therapy taking into account the risk of infant&#xD;
+             exposure, the benefits of breast-feeding to the infant, and benefits of treatment to&#xD;
+             the mother&#xD;
+&#xD;
+         10. Enrolled in another investigational study using immunosuppressive therapy&#xD;
+&#xD;
+         11. Known hypersensitivity to mavrilimumab or any of its excipients&#xD;
+&#xD;
+         12. In the opinion of the investigator, unable to comply with the requirements to&#xD;
+             participate in the study&#xD;
+&#xD;
+         13. Women of child-bearing potential, defined as all women physiologically capable of&#xD;
+             becoming pregnant, unless they are using highly effective methods of contraception&#xD;
+             during dosing of investigational drug. Such methods include:&#xD;
+&#xD;
+               -  Total abstinence (when this is in line with the preferred and usual lifestyle of&#xD;
+                  the subject). Periodic abstinence (e.g., calendar, ovulation, symptothermal,&#xD;
+                  post-ovulation methods) and withdrawal are not acceptable methods of&#xD;
+                  contraception&#xD;
+&#xD;
+               -  Female sterilization (have had surgical bilateral oophorectomy with or without&#xD;
+                  hysterectomy), total hysterectomy, or bilateral tubal ligation at least six weeks&#xD;
+                  before taking study treatment. In case of oophorectomy alone, only when the&#xD;
+                  reproductive status of the woman has been confirmed by follow up hormone level&#xD;
+                  assessment&#xD;
+&#xD;
+               -  Male sterilization (at least 6 months prior to screening). For female subjects on&#xD;
+                  the study, the vasectomized male partner should be the sole partner for that&#xD;
+                  subject&#xD;
+&#xD;
+               -  Use of oral, (estrogen and progesterone), injected or implanted hormonal methods&#xD;
+                  of contraception or placement of an intrauterine device (IUD) or intrauterine&#xD;
+                  system (IUS), or other forms of hormonal contraception that have comparable&#xD;
+                  efficacy (failure rate &lt;1%), for example hormone vaginal ring or transdermal&#xD;
+                  hormone contraception&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul C Cremer, M. D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Florida</name>
+      <address>
+        <city>Weston</city>
+        <state>Florida</state>
+        <zip>33331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Health System</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>May 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 22, 2020</study_first_posted>
+  <results_first_submitted>May 6, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 11, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 13, 2021</results_first_posted>
+  <last_update_submitted>May 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mavrilimumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 25, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT04399980/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Intervention</title>
+          <description>One-time Mavrilimumab infusion at 6mg/kg via IV</description>
+        </group>
+        <group group_id="P2">
+          <title>Control</title>
+          <description>One-time placebo infusion via IV</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Intervention</title>
+          <description>One-time Mavrilimumab infusion at 6mg/kg via IV</description>
+        </group>
+        <group group_id="B2">
+          <title>Control</title>
+          <description>One-time placebo infusion via IV</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="21"/>
+            <count group_id="B2" value="19"/>
+            <count group_id="B3" value="40"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56.7" spread="13.49"/>
+                    <measurement group_id="B2" value="54.8" spread="18.44"/>
+                    <measurement group_id="B3" value="55.75" spread="15.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>History of Diabetes</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>History of Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>History of Hyperlipidemia</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Subjects Alive and Off of Oxygen at Day 14</title>
+        <description>Number and percentage of subjects alive and off of oxygen at day 14</description>
+        <time_frame>Day 14</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention</title>
+            <description>One-time Mavrilimumab infusion at 6mg/kg via IV</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>One-time placebo infusion via IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Subjects Alive and Off of Oxygen at Day 14</title>
+          <description>Number and percentage of subjects alive and off of oxygen at day 14</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Subjects Alive and Without Respiratory Failure at Day 28</title>
+        <description>Number and percentage of subjects that are alive and without respiratory failure at Day 28</description>
+        <time_frame>Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention</title>
+            <description>One-time Mavrilimumab infusion at 6mg/kg via IV</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>One-time placebo infusion via IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Alive and Without Respiratory Failure at Day 28</title>
+          <description>Number and percentage of subjects that are alive and without respiratory failure at Day 28</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality at Day 28</title>
+        <description>Number and percentage of patients that expired by Day 28</description>
+        <time_frame>Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention</title>
+            <description>One-time Mavrilimumab infusion at 6mg/kg via IV</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>One-time placebo infusion via IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality at Day 28</title>
+          <description>Number and percentage of patients that expired by Day 28</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>60 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Intervention</title>
+          <description>One-time Mavrilimumab infusion at 6kg/mg via IV</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>One-time placebo infusion via IV</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated WBC</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Respiratory Distress Syndrome</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Chronic Respiratory Failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia - Worsening</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>anemia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary Embolism</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Clot</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Shock</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Liver Dysfunction</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Worsening D Dimer</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Hypophosphatemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Elevated Ferritin</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Elevated CRP</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Delirium</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="21"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Acute Respiratory Syndrome</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Paul C. Cremer, MD</name_or_title>
+      <organization>Cleveland Clinic</organization>
+      <phone>216-444-6765</phone>
+      <email>cremerp@ccf.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

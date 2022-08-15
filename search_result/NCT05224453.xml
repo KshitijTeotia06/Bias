@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="192">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05224453</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RHPT/020/051</org_study_id>
+    <nct_id>NCT05224453</nct_id>
+  </id_info>
+  <brief_title>Integrated Physical Training With Protein Diet in Older Adults With Sarcopenia Symptoms.</brief_title>
+  <official_title>Comparative Effects of Integrated Physical Training With High Protein Diet Versus Low Protein Diet in COVID-19 Asymptomatic Older Adults With Sarcopenia Symptoms.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prince Sattam Bin Abdulaziz University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Princess Nourah Bint Abdulrahman University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Prince Sattam Bin Abdulaziz University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sarcopenia is the major health concern and common consequence of COVID-19 in the aging&#xD;
+      population. Moreover, this clinical condition has not been considered in usual physical&#xD;
+      rehabilitation practice, and its optimal protein requirement in food is not well defined,&#xD;
+      which requires a meaningful study in this field. The reports of this trial would deliver the&#xD;
+      latest evidence and proper guidelines for the prescription of physical exercises and also&#xD;
+      provide an optimal dietary plan in sarcopenia patients with COVID infection.&#xD;
+&#xD;
+      Objective: To find and compare the clinical and psychological effects of integrated physical&#xD;
+      training with a high protein diet versus a low-protein diet in community-dwelling COVID-19&#xD;
+      asymptomatic older adults with Sarcopenia symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is a single-blinded, randomized, experimental study performed from March -2020 to&#xD;
+      November-2021. The trial received acceptance from the department of the ethical committee&#xD;
+      (DEC), Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia with an approval number&#xD;
+      of RHPT/020/51. The DEC approved the subject consent form, treatment protocols, and the&#xD;
+      outcome parameters measured in the trial. The trial was executed in accordance with the&#xD;
+      ethical guidelines laid down in the 1964 Declaration of Helsinki. The finally selected&#xD;
+      subjects for the trial were asked to fill out the written subject consent form and underwent&#xD;
+      measurements for pre-interventional personal and anthropometric data. A two-block simple&#xD;
+      random sampling method was used to randomize and allocated the participants into two&#xD;
+      treatment groups. Group A was treated with integrated physical training with a high protein&#xD;
+      diet (n = 38) and group B was treated with the same integrated physical training with a low&#xD;
+      protein diet (n = 38) for a duration of eight weeks.&#xD;
+&#xD;
+      Subjects' personal and anthropometric measurements were calculated through Kolmogorov-Smirnov&#xD;
+      test for testing homogeneity and the data were represented in tabular form. The measurements&#xD;
+      were taken before the intervention, during the intervention at 4 weeks, after intervention at&#xD;
+      8 weeks and after 6 months follow up. The data were shown as mean and standard deviation with&#xD;
+      95% confidence interval (CI) with upper and lower limits. The time and group (4 × 2) multiple&#xD;
+      analysis of variance (MANOVA) of primary and secondary variables are reported between group A&#xD;
+      and group B at various intervals. The student's t-test was used to calculate inter-group&#xD;
+      effects and repeated measures (rANOVA) were used to calculate the intra-group effects.&#xD;
+      IBMSPSS - online version 20 was used to do all the statistical tests and the α level was set&#xD;
+      at 0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Actual">November 30, 2021</completion_date>
+  <primary_completion_date type="Actual">November 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single-blinded, randomized, experimental study</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in Hand Grip Strength</measure>
+    <time_frame>At baseline and at 6 months</time_frame>
+    <description>The test is easy to perform and a less expensive one. It measures the strength of upper extremity by using a device handheld dynamometer. The participant was instructed to press the hand piece of the dynamometer to the maximum of his ability and the values shown on the display were recorded. Three values were noted for each participant and the mean value was considered for interpretation and it is a reliable and valid tool to measure the strength of upper extremity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Muscle Cross Sectional Area</measure>
+    <time_frame>At baseline and at 6 months</time_frame>
+    <description>Muscle CSA is measured with Magnetic resonance imaging (MRI) scan and it is an expensive measurement. The CSA of three major muscle such as;half way at arm - biceps, thigh - quadriceps and calf muscles were measured and included for analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Kinesiophobia</measure>
+    <time_frame>At baseline and at 6 months</time_frame>
+    <description>Tampa scale of kinesiophobia questionnaire - Tampa scale of kinesiophobia questionnaire was administered to find the level of fear of movement of participants. The questionnaire has eleven items, which measures the mindset at various activities on a four-point Likert scale (1- Strongly disagree, 2 - Disagree, 3 - Agree, 4 - Strongly agree). The maximum score indicates a high level of fear whereas the minimum score indicates a low level of fear during activities, where 11-21 means no kinesiophobia, 22-27 mild kinesiophobia, 28-33 moderate kinesiophobia, and 34-44 means severe kinesiophobia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Quality of Life</measure>
+    <time_frame>At baseline and at 6 months</time_frame>
+    <description>Sarcopenia quality of life (SarQol) questionnaire: The sarcopenia quality of life (SarQol) questionnaire was used to measure the subjects' wellbeing. The participants filled out the questionnaire themselves and it is a robust tool to measure Quality of life. The maximum score indicates a high level of quality of life, whereas the minimum score indicates a low level of quality of life. The total scoring indicates 0-20: worst health, 21-40: poor health; 41-60: fair 61-80: good, and 81-100, best health.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">76</enrollment>
+  <condition>Sarcopenia</condition>
+  <arm_group>
+    <arm_group_label>Physical training and high protein diet</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Physical training and low protein diet</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physical training and high protein diet</intervention_name>
+    <description>In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d)</description>
+    <arm_group_label>Physical training and high protein diet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physical training and low protein diet</intervention_name>
+    <description>In addition to the integrated physical training exercises, group B received low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+    <arm_group_label>Physical training and low protein diet</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Sarcopenia was diagnosed according to the guidelines given by the Asian working group for&#xD;
+        Sarcopenia (AWGS).&#xD;
+&#xD;
+        Appendicular skeletal muscle mass index (ASMI&lt; 7.0 kg/m2) Patients with less muscle mass,&#xD;
+        Low handgrip strength (&lt; 24 kg) Decrease walking speed (&lt; 0.7 m/sec)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects with a history of physical workout, Taking medicines Recent surgeries Joint&#xD;
+        problems in the leg Heart and lung problems Neurological issues Other systemic diseases&#xD;
+        Contraindications for physical training&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>patients with 60 - 80 years of age</gender_description>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Dr. Gopal Nambi</name>
+      <address>
+        <city>Al Kharj</city>
+        <state>Riyadh</state>
+        <zip>11942</zip>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Saudi Arabia</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>January 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 4, 2022</study_first_posted>
+  <results_first_submitted>February 6, 2022</results_first_submitted>
+  <results_first_submitted_qc>February 16, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 17, 2022</results_first_posted>
+  <last_update_submitted>February 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Prince Sattam Bin Abdulaziz University</investigator_affiliation>
+    <investigator_full_name>Gopal Nambi</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Sarcopenia</keyword>
+  <keyword>physical training</keyword>
+  <keyword>muscle strength</keyword>
+  <keyword>muscle mass</keyword>
+  <keyword>Quality of life</keyword>
+  <keyword>protein diet</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcopenia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All the data can be obtained by contacting the principal investigator.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Within one week.</ipd_time_frame>
+    <ipd_access_criteria>IPD can be obtained by contacting principal investigator</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 2, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT05224453/Prot_SAP_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>01-03-2020 to 30-11-2021 at Department of Physical therapy, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia</recruitment_details>
+      <pre_assignment_details>The finally selected subjects for the trial were asked to fill out the written subject consent form and underwent measurements for pre-interventional personal and anthropometric data. Their baseline primary and secondary outcome measures were also measured.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Physical Training and High Protein Diet</title>
+          <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+        </group>
+        <group group_id="P2">
+          <title>Physical Training and Low Protein Diet</title>
+          <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+                <participants group_id="P2" count="38"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="36"/>
+                <participants group_id="P2" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Physical Training and High Protein Diet</title>
+          <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+        </group>
+        <group group_id="B2">
+          <title>Physical Training and Low Protein Diet</title>
+          <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="38"/>
+            <count group_id="B2" value="38"/>
+            <count group_id="B3" value="76"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="64.1" spread="3.8"/>
+                    <measurement group_id="B2" value="64.5" spread="3.6"/>
+                    <measurement group_id="B3" value="64.3" spread="3.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="00"/>
+                    <measurement group_id="B2" value="00"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height (m)</title>
+          <units>metre</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1.64" spread="0.23"/>
+                    <measurement group_id="B2" value="1.68" spread="0.25"/>
+                    <measurement group_id="B3" value="1.66" spread="0.24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight (kg)</title>
+          <units>kilogram</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78.8" spread="4.3"/>
+                    <measurement group_id="B2" value="79.2" spread="3.8"/>
+                    <measurement group_id="B3" value="79.0" spread="4.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI (kg/m^2 )</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23.2" spread="1.8"/>
+                    <measurement group_id="B2" value="23.4" spread="1.9"/>
+                    <measurement group_id="B3" value="23.3" spread="1.85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>VO2peak (ml/kg/min)</title>
+          <units>ml/kg/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30.8" spread="1.9"/>
+                    <measurement group_id="B2" value="31.1" spread="1.6"/>
+                    <measurement group_id="B3" value="30.9" spread="1.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>HR (beats/min)</title>
+          <units>beats/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="38"/>
+                    <count group_id="B2" value="38"/>
+                    <count group_id="B3" value="76"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78.1" spread="4.5"/>
+                    <measurement group_id="B2" value="79.2" spread="4.6"/>
+                    <measurement group_id="B3" value="78.6" spread="4.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Hand Grip Strength</title>
+        <description>The test is easy to perform and a less expensive one. It measures the strength of upper extremity by using a device handheld dynamometer. The participant was instructed to press the hand piece of the dynamometer to the maximum of his ability and the values shown on the display were recorded. Three values were noted for each participant and the mean value was considered for interpretation and it is a reliable and valid tool to measure the strength of upper extremity.</description>
+        <time_frame>At baseline and at 6 months</time_frame>
+        <population>At baseline and at 6 months</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Physical Training and High Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+          </group>
+          <group group_id="O2">
+            <title>Physical Training and Low Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Hand Grip Strength</title>
+          <description>The test is easy to perform and a less expensive one. It measures the strength of upper extremity by using a device handheld dynamometer. The participant was instructed to press the hand piece of the dynamometer to the maximum of his ability and the values shown on the display were recorded. Three values were noted for each participant and the mean value was considered for interpretation and it is a reliable and valid tool to measure the strength of upper extremity.</description>
+          <population>At baseline and at 6 months</population>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>At Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.2" spread="2.5"/>
+                    <measurement group_id="O2" value="29.5" spread="2.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At 6 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="35.3" spread="2.8"/>
+                    <measurement group_id="O2" value="30.3" spread="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Parametric t test</non_inferiority_desc>
+            <p_value>&lt;0.05</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-5.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-6.21</ci_lower_limit>
+            <ci_upper_limit>-3.78</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Muscle Cross Sectional Area</title>
+        <description>Muscle CSA is measured with Magnetic resonance imaging (MRI) scan and it is an expensive measurement. The CSA of three major muscle such as;half way at arm - biceps, thigh - quadriceps and calf muscles were measured and included for analysis.</description>
+        <time_frame>At baseline and at 6 months</time_frame>
+        <population>At baseline and at 6 months</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Physical Training and High Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+          </group>
+          <group group_id="O2">
+            <title>Physical Training and Low Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Muscle Cross Sectional Area</title>
+          <description>Muscle CSA is measured with Magnetic resonance imaging (MRI) scan and it is an expensive measurement. The CSA of three major muscle such as;half way at arm - biceps, thigh - quadriceps and calf muscles were measured and included for analysis.</description>
+          <population>At baseline and at 6 months</population>
+          <units>cm^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>MRI - mid arm: At baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54.9" spread="4.2"/>
+                    <measurement group_id="O2" value="55.1" spread="4.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MRI - mid arm: At 6 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.9" spread="4.7"/>
+                    <measurement group_id="O2" value="57.2" spread="4.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MRI - mid thigh: At baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.2" spread="5.5"/>
+                    <measurement group_id="O2" value="64.9" spread="5.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MRI - mid thigh: At 6 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71.2" spread="6.4"/>
+                    <measurement group_id="O2" value="67.5" spread="6.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MRI - mid calf: At baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="61.8" spread="4.7"/>
+                    <measurement group_id="O2" value="60.9" spread="4.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MRI - mid calf: At 6 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67.2" spread="5.3"/>
+                    <measurement group_id="O2" value="62.8" spread="5.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Parametric t test</non_inferiority_desc>
+            <p_value>&lt;0.05</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-3.7</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-6.53</ci_lower_limit>
+            <ci_upper_limit>-0.86</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Parametric t test</non_inferiority_desc>
+            <p_value>&lt;0.05</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-1.7</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.84</ci_lower_limit>
+            <ci_upper_limit>0.44</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Kinesiophobia</title>
+        <description>Tampa scale of kinesiophobia questionnaire - Tampa scale of kinesiophobia questionnaire was administered to find the level of fear of movement of participants. The questionnaire has eleven items, which measures the mindset at various activities on a four-point Likert scale (1- Strongly disagree, 2 - Disagree, 3 - Agree, 4 - Strongly agree). The maximum score indicates a high level of fear whereas the minimum score indicates a low level of fear during activities, where 11-21 means no kinesiophobia, 22-27 mild kinesiophobia, 28-33 moderate kinesiophobia, and 34-44 means severe kinesiophobia.</description>
+        <time_frame>At baseline and at 6 months</time_frame>
+        <population>At baseline and at 6 months</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Physical Training and High Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+          </group>
+          <group group_id="O2">
+            <title>Physical Training and Low Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Kinesiophobia</title>
+          <description>Tampa scale of kinesiophobia questionnaire - Tampa scale of kinesiophobia questionnaire was administered to find the level of fear of movement of participants. The questionnaire has eleven items, which measures the mindset at various activities on a four-point Likert scale (1- Strongly disagree, 2 - Disagree, 3 - Agree, 4 - Strongly agree). The maximum score indicates a high level of fear whereas the minimum score indicates a low level of fear during activities, where 11-21 means no kinesiophobia, 22-27 mild kinesiophobia, 28-33 moderate kinesiophobia, and 34-44 means severe kinesiophobia.</description>
+          <population>At baseline and at 6 months</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>At baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32.5" spread="3.3"/>
+                    <measurement group_id="O2" value="32.7" spread="3.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At 6 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.2" spread="1.6"/>
+                    <measurement group_id="O2" value="22.3" spread="2.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Quality of Life</title>
+        <description>Sarcopenia quality of life (SarQol) questionnaire: The sarcopenia quality of life (SarQol) questionnaire was used to measure the subjects' wellbeing. The participants filled out the questionnaire themselves and it is a robust tool to measure Quality of life. The maximum score indicates a high level of quality of life, whereas the minimum score indicates a low level of quality of life. The total scoring indicates 0-20: worst health, 21-40: poor health; 41-60: fair 61-80: good, and 81-100, best health.</description>
+        <time_frame>At baseline and at 6 months</time_frame>
+        <population>At 6 months</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Physical Training and High Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+          </group>
+          <group group_id="O2">
+            <title>Physical Training and Low Protein Diet</title>
+            <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Quality of Life</title>
+          <description>Sarcopenia quality of life (SarQol) questionnaire: The sarcopenia quality of life (SarQol) questionnaire was used to measure the subjects' wellbeing. The participants filled out the questionnaire themselves and it is a robust tool to measure Quality of life. The maximum score indicates a high level of quality of life, whereas the minimum score indicates a low level of quality of life. The total scoring indicates 0-20: worst health, 21-40: poor health; 41-60: fair 61-80: good, and 81-100, best health.</description>
+          <population>At 6 months</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>At baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57.1" spread="5.9"/>
+                    <measurement group_id="O2" value="58.0" spread="5.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At 6 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68.2" spread="5.9"/>
+                    <measurement group_id="O2" value="61.9" spread="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 months follow-up.</time_frame>
+      <desc>No adverse reactions were noted.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Physical Training and High Protein Diet</title>
+          <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group A received a high protein diet in the range of 1.1 - 1.3 g/kg protein/ ideal body weight/day (&gt;1 g/kg aBW/d).</description>
+        </group>
+        <group group_id="E2">
+          <title>Physical Training and Low Protein Diet</title>
+          <description>Subjects in this group underwent integrated physical training for 8 weeks. In addition to the integrated physical training exercises, group B received a low protein diet in the range of 0.7 - 0.9 g/kg protein/ ideal body weight/day (&lt;1 g/kg aBW/d)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Gopal Nambi</name_or_title>
+      <organization>Prince Sattam bin Abdulaziz University</organization>
+      <phone>0501878382</phone>
+      <email>physio_gopal@rediffmail.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

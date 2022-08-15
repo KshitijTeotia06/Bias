@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="197">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04328467</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MED-2020-28720</org_study_id>
+    <nct_id>NCT04328467</nct_id>
+  </id_info>
+  <brief_title>Pre-exposure Prophylaxis for SARS-Coronavirus-2</brief_title>
+  <official_title>Pre-exposure Prophylaxis for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objective: To determine if pre-exposure prophylaxis with hydroxychloroquine is effective for&#xD;
+      the prevention of COVID-19 disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The current standard of care is observation and quarantine after exposure to COVID-19. There&#xD;
+      is no approved treatment or prophylaxis for COVID-19.&#xD;
+&#xD;
+      As of March 6, 2020, the CDC estimates that the transmission of SARS-CoV2 after a U.S.&#xD;
+      household close contract is 10.5% (95%CI, 2.9 to 31.4%). Among all close contacts, the&#xD;
+      SARS-CoV2 transmission rate is estimated at 0.45% (95%CI, 0.12 to 1.6%) by the CDC. These&#xD;
+      estimates are based on monitoring of travel-associated COVID19 cases. Conversely, in a&#xD;
+      setting with community transmission, the secondary attack rate in China was 35% (95%CI,&#xD;
+      27-44%) based on 48 transmissions among 137 persons in 9 index patients.&#xD;
+&#xD;
+      Chloroquine or Hydroxychloroquine may have antiviral effects against SARS-COV2 which may&#xD;
+      prevent COVID-19 disease or reduce disease severity. It is not known at what dosing&#xD;
+      hydroxychloroquine may be effective for pre-exposure prophylaxis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 6, 2020</start_date>
+  <completion_date type="Actual">July 13, 2020</completion_date>
+  <primary_completion_date type="Actual">July 13, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19-free Survival</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Outcome reported as the number of participants in each arm who are COVID-19-free at the end of study treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Confirmed SARS-CoV-2 Detection</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Outcome reported as the number of participants in each arm who have a confirmed SARS-CoV-2 infection during study treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Possible COVID-19 Symptoms</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Outcome reported as the count of participants in each arm who report COVID-19-related symptoms during study treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of All-cause Study Medicine Discontinuation</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Outcome reported as the count of participants in each arm who discontinue study medication use for any reason during treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ordinal Scale of COVID-19 Disease Maximum Severity if COVID-19 Diagnosed at Study End</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Participants will self-report COVID-19 status on an ordinal scale as follows: No illness (score=1), Illness with outpatient observation (score=2), Hospitalization (or post-hospital discharge) (score=3), or Hospitalization with ICU stay or death (score=4). Possible scores range from 1-4 with higher scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Hospitalization for COVID-19 or Death</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Outcome reported as the number of participants in each arm who are hospitalized or expire due to COVID-19 during study treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Possible Study Medication-related Side Effects</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Outcome reported as the number of participants in each arm who experience possible medication-related side effects during study treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">1483</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>ARDS</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Intervention Once Weekly</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Twice Weekly</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Hydroxychloroquine; 200mg tablet; oral</description>
+    <arm_group_label>Intervention Once Weekly</arm_group_label>
+    <arm_group_label>Intervention Twice Weekly</arm_group_label>
+    <other_name>Plaquenil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo; tablet; oral</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - A healthcare worker at high risk for COVID-19 exposure (defined below):&#xD;
+&#xD;
+          -  Persons primarily working in emergency departments (physicians, nurses, ancillary&#xD;
+             staff, triage personnel)&#xD;
+&#xD;
+          -  Persons primarily working in intensive care units (physicians, nurses, ancillary&#xD;
+             staff, respiratory therapists)&#xD;
+&#xD;
+          -  Persons performing aerosol generating procedures (i.e. anesthesiologists, nurse&#xD;
+             anesthetists (CRNAs)&#xD;
+&#xD;
+          -  First responders (i.e. EMTs, paramedics)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active COVID-19 disease&#xD;
+&#xD;
+          -  Prior COVID-19 disease&#xD;
+&#xD;
+          -  Current fever, cough, shortness of breath&#xD;
+&#xD;
+          -  Allergy to chloroquine or hydroxychloroquine&#xD;
+&#xD;
+          -  Prior retinal eye disease&#xD;
+&#xD;
+          -  Known Chronic Kidney disease, Stage 4 or 5 or dialysis&#xD;
+&#xD;
+          -  Known glucose-6 phosphate dehydrogenase (G-6-PD) deficiency&#xD;
+&#xD;
+          -  Weight &lt;40 kg&#xD;
+&#xD;
+          -  Prolonged QT syndrome&#xD;
+&#xD;
+          -  Current use of hydroxychloroquine, chloroquine, or cardiac medicines of flecainide,&#xD;
+             amiodarone, digoxin, procainamide, or propafenone&#xD;
+&#xD;
+          -  Current use of medications with known significant drug-drug interactions: artemether,&#xD;
+             lumefantrine, mefloquine, tamoxifen, or methotrexate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Radha Rajasingham, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Nationwide Enrollment via Internet, please email: covid19@umn.edu</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Rajasingham R, Bangdiwala AS, Nicol MR, Skipper CP, Pastick KA, Axelrod ML, Pullen MF, Nascene AA, Williams DA, Engen NW, Okafor EC, Rini BI, Mayer IA, McDonald EG, Lee TC, Li P, MacKenzie LJ, Balko JM, Dunlop SJ, Hullsiek KH, Boulware DR, Lofgren SM; COVID PREP team. Hydroxychloroquine as Pre-exposure Prophylaxis for Coronavirus Disease 2019 (COVID-19) in Healthcare Workers: A Randomized Trial. Clin Infect Dis. 2021 Jun 1;72(11):e835-e843. doi: 10.1093/cid/ciaa1571.</citation>
+    <PMID>33068425</PMID>
+  </results_reference>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>March 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2020</study_first_posted>
+  <results_first_submitted>June 25, 2021</results_first_submitted>
+  <results_first_submitted_qc>June 25, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 30, 2021</results_first_posted>
+  <last_update_submitted>June 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 27, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/67/NCT04328467/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/67/NCT04328467/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Intervention Once Weekly</title>
+          <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+        </group>
+        <group group_id="P2">
+          <title>Intervention Twice Weekly</title>
+          <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+        </group>
+        <group group_id="P3">
+          <title>Control Group</title>
+          <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="494"/>
+                <participants group_id="P2" count="495"/>
+                <participants group_id="P3" count="494"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="490"/>
+                <participants group_id="P2" count="493"/>
+                <participants group_id="P3" count="493"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Did not meet inclusion criteria after randomization</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Intervention Once Weekly</title>
+          <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+        </group>
+        <group group_id="B2">
+          <title>Intervention Twice Weekly</title>
+          <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+        </group>
+        <group group_id="B3">
+          <title>Control Group</title>
+          <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="494"/>
+            <count group_id="B2" value="495"/>
+            <count group_id="B3" value="494"/>
+            <count group_id="B4" value="1483"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42" lower_limit="35" upper_limit="49"/>
+                    <measurement group_id="B2" value="41" lower_limit="35" upper_limit="49"/>
+                    <measurement group_id="B3" value="40" lower_limit="34" upper_limit="48"/>
+                    <measurement group_id="B4" value="41" lower_limit="35" upper_limit="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="261"/>
+                    <measurement group_id="B2" value="258"/>
+                    <measurement group_id="B3" value="241"/>
+                    <measurement group_id="B4" value="760"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="233"/>
+                    <measurement group_id="B2" value="237"/>
+                    <measurement group_id="B3" value="253"/>
+                    <measurement group_id="B4" value="723"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>White or Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="431"/>
+                    <measurement group_id="B2" value="421"/>
+                    <measurement group_id="B3" value="419"/>
+                    <measurement group_id="B4" value="1271"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black of African</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="29"/>
+                    <measurement group_id="B4" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic or Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="18"/>
+                    <measurement group_id="B4" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native American or Alaska Native</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Middle Eastern</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>South Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="493"/>
+                    <measurement group_id="B2" value="494"/>
+                    <measurement group_id="B3" value="493"/>
+                    <measurement group_id="B4" value="1480"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Canada</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>COVID-19-free Survival</title>
+        <description>Outcome reported as the number of participants in each arm who are COVID-19-free at the end of study treatment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>COVID-19-free Survival</title>
+          <description>Outcome reported as the number of participants in each arm who are COVID-19-free at the end of study treatment.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+                <count group_id="O3" value="494"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="464"/>
+                    <measurement group_id="O2" value="468"/>
+                    <measurement group_id="O3" value="454"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Confirmed SARS-CoV-2 Detection</title>
+        <description>Outcome reported as the number of participants in each arm who have a confirmed SARS-CoV-2 infection during study treatment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Confirmed SARS-CoV-2 Detection</title>
+          <description>Outcome reported as the number of participants in each arm who have a confirmed SARS-CoV-2 infection during study treatment.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+                <count group_id="O3" value="494"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="29"/>
+                    <measurement group_id="O3" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Possible COVID-19 Symptoms</title>
+        <description>Outcome reported as the count of participants in each arm who report COVID-19-related symptoms during study treatment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Possible COVID-19 Symptoms</title>
+          <description>Outcome reported as the count of participants in each arm who report COVID-19-related symptoms during study treatment.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+                <count group_id="O3" value="494"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="28"/>
+                    <measurement group_id="O3" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of All-cause Study Medicine Discontinuation</title>
+        <description>Outcome reported as the count of participants in each arm who discontinue study medication use for any reason during treatment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of All-cause Study Medicine Discontinuation</title>
+          <description>Outcome reported as the count of participants in each arm who discontinue study medication use for any reason during treatment.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+                <count group_id="O3" value="494"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="119"/>
+                    <measurement group_id="O2" value="158"/>
+                    <measurement group_id="O3" value="133"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ordinal Scale of COVID-19 Disease Maximum Severity if COVID-19 Diagnosed at Study End</title>
+        <description>Participants will self-report COVID-19 status on an ordinal scale as follows: No illness (score=1), Illness with outpatient observation (score=2), Hospitalization (or post-hospital discharge) (score=3), or Hospitalization with ICU stay or death (score=4). Possible scores range from 1-4 with higher scores indicating greater disease severity.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <population>Measure was only collected for one participant in the twice-weekly intervention group and one participant in the control group. No participants in the once-weekly intervention group were sampled for this measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ordinal Scale of COVID-19 Disease Maximum Severity if COVID-19 Diagnosed at Study End</title>
+          <description>Participants will self-report COVID-19 status on an ordinal scale as follows: No illness (score=1), Illness with outpatient observation (score=2), Hospitalization (or post-hospital discharge) (score=3), or Hospitalization with ICU stay or death (score=4). Possible scores range from 1-4 with higher scores indicating greater disease severity.</description>
+          <population>Measure was only collected for one participant in the twice-weekly intervention group and one participant in the control group. No participants in the once-weekly intervention group were sampled for this measure.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="1"/>
+                <count group_id="O3" value="1"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O2" value="1" spread="NA">Only one data point was collected, therefore a measure of dispersion could not be calculated.</measurement>
+                    <measurement group_id="O3" value="1" spread="NA">Only one data point was collected, therefore a measure of dispersion could not be calculated.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Hospitalization for COVID-19 or Death</title>
+        <description>Outcome reported as the number of participants in each arm who are hospitalized or expire due to COVID-19 during study treatment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Hospitalization for COVID-19 or Death</title>
+          <description>Outcome reported as the number of participants in each arm who are hospitalized or expire due to COVID-19 during study treatment.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+                <count group_id="O3" value="494"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="8"/>
+                    <measurement group_id="O3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Possible Study Medication-related Side Effects</title>
+        <description>Outcome reported as the number of participants in each arm who experience possible medication-related side effects during study treatment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Intervention Once Weekly</title>
+            <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O2">
+            <title>Intervention Twice Weekly</title>
+            <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+          </group>
+          <group group_id="O3">
+            <title>Control Group</title>
+            <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Possible Study Medication-related Side Effects</title>
+          <description>Outcome reported as the number of participants in each arm who experience possible medication-related side effects during study treatment.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="494"/>
+                <count group_id="O2" value="495"/>
+                <count group_id="O3" value="494"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="148"/>
+                    <measurement group_id="O2" value="168"/>
+                    <measurement group_id="O3" value="100"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>up to 12 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Intervention Once Weekly</title>
+          <description>400 mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+        </group>
+        <group group_id="E2">
+          <title>Intervention Twice Weekly</title>
+          <description>400mg orally once, followed by 400mg 6 to 8 hours later, thereafter 400mg twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Hydroxychloroquine: Hydroxychloroquine; 200mg tablet; oral</description>
+        </group>
+        <group group_id="E3">
+          <title>Control Group</title>
+          <description>Placebo 2 tabs once, followed by 2 tabs 6 to 8 hours later, thereafter two tabs weekly or twice weekly for the duration of follow up, up to 12 weeks&#xD;
+Placebo: Placebo; tablet; oral</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="494"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="495"/>
+                <counts group_id="E3" subjects_affected="8" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Heart Palpitations</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Atrial Fibrillation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperthyroid</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diverticulitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Other Not Specified</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Motor Vehicle Accident</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="495"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Hysteroscopy</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Spinal Surgery</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Elective Coronary Angiogram</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Gall Bladder Surgery</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="495"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+              <event>
+                <sub_title>Sarcoidosis Biopsy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="494"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="495"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="494"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Radha Rajasingham, MD</name_or_title>
+      <organization>University of Minnesota</organization>
+      <phone>612-626-8171</phone>
+      <email>radha@umn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

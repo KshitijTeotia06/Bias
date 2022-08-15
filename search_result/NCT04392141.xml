@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04392141</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1399.062</org_study_id>
+    <nct_id>NCT04392141</nct_id>
+  </id_info>
+  <brief_title>Colchicine Plus Phenolic Monoterpenes to Treat COVID-19</brief_title>
+  <official_title>Application of Colchicine Plus Herbal Phenolic Monoterpene Fractions to Treat COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kermanshah University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kermanshah University of Medical Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this randomized controlled clinical trial, defined cases of COVID-19 with mild, moderate,&#xD;
+      or severe pneumonia (according to the NIH guideline) were treated with conventional treatment&#xD;
+      regimens (controls) as well as in combination with oral administration of colchicine plus&#xD;
+      herbal phenolic monoterpene fractions (intervention arm). After randomization, each group&#xD;
+      received the mentioned treatments and were evaluated for different variables including&#xD;
+      mortality, hospitalization duration, intensive care unit (ICU) administration ratios as well&#xD;
+      as laboratory variables such as leukocytes and lymphocytes count. The follow-up period&#xD;
+      considered as 2 weeks after discharge. The mentioned variables were assessed as before and&#xD;
+      after receiving the treatment in each group as well as intergroup analysis for comparing both&#xD;
+      baseline and final values.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Actual">November 1, 2020</completion_date>
+  <primary_completion_date type="Actual">November 1, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>From admission to 14 days after being discharge.</time_frame>
+    <description>All cause of death in duration hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SpO2</measure>
+    <time_frame>Admission to discharge dates (approximately 4-14 days after admission). Discharge variables considered as the last available data before their death for the expired patients.</time_frame>
+    <description>Change in patients' oxygen saturation levels assessed by non-invasive method (pulse oximetry)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Hospitalization</measure>
+    <time_frame>The duration of hospitalization for the patients (admission to discharge dates, approximately 4-14 days after admission). The patients who died were excluded.</time_frame>
+    <description>Day(s) each patient has spent in the hospital as an inpatient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte Count</measure>
+    <time_frame>Admission to discharge dates (approximately 4-14 days after admission). Discharge variables considered as the last available data before their death for the expired patients.</time_frame>
+    <description>Lymphocyte count*1000/ mm^3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Lactate Dehydrogenase</measure>
+    <time_frame>Admission to discharge dates (approximately 4-14 days after admission). Discharge variables considered as the last available data before their death for the expired patients.</time_frame>
+    <description>Serum lactate dehydrogenase: LDH (U/L)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">120</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Standard Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Colchicine and Herbal Phenolic Monoterpene Fractions</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard Treatment</intervention_name>
+    <description>Standard Treatment for COVID-19 based on National Recommendations</description>
+    <arm_group_label>Standard Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions</intervention_name>
+    <description>Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+    <arm_group_label>Colchicine and Herbal Phenolic Monoterpene Fractions</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Defined cases of COVID-19 based on laboratory and/or radiological and clinical&#xD;
+             manifestation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;10, Pregnancy, Sever kidney dysfunction, Previous history of allergy to&#xD;
+             Colchicine, not willing to sign informed consent form&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ali Mostafaie, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical Biology Research Center, Kermanshah University of Medical Sciences, Kermanshah, Iran.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical Biology Research Center, Kermanshah University of Medical Sciences, Kermanshah, Iran</name>
+      <address>
+        <city>Kermanshah</city>
+        <zip>083</zip>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Nerlekar N, Beale A, Harper RW. Colchicine--a short history of an ancient drug. Med J Aust. 2014 Dec 11;201(11):687-8.</citation>
+    <PMID>25495322</PMID>
+  </reference>
+  <reference>
+    <citation>Larsson S, Rønsted N. Reviewing Colchicaceae alkaloids - perspectives of evolution on medicinal chemistry. Curr Top Med Chem. 2014;14(2):274-89. Review.</citation>
+    <PMID>24359194</PMID>
+  </reference>
+  <reference>
+    <citation>Slobodnick A, Shah B, Krasnokutsky S, Pillinger MH. Update on colchicine, 2017. Rheumatology (Oxford). 2018 Jan 1;57(suppl_1):i4-i11. doi: 10.1093/rheumatology/kex453. Review.</citation>
+    <PMID>29272515</PMID>
+  </reference>
+  <reference>
+    <citation>Cronstein BN, Molad Y, Reibman J, Balakhane E, Levin RI, Weissmann G. Colchicine alters the quantitative and qualitative display of selectins on endothelial cells and neutrophils. J Clin Invest. 1995 Aug;96(2):994-1002.</citation>
+    <PMID>7543498</PMID>
+  </reference>
+  <reference>
+    <citation>Umar S, Shah MAA, Munir MT, Yaqoob M, Fiaz M, Anjum S, Kaboudi K, Bouzouaia M, Younus M, Nisa Q, Iqbal M, Umar W. RETRACTED: Synergistic effects of thymoquinone and curcumin on immune response and anti-viral activity against avian influenza virus (H9N2) in turkeys. Poult Sci. 2016 Jul 1;95(7):1513-1520. doi: 10.3382/ps/pew069. Epub 2016 Mar 4.</citation>
+    <PMID>26944958</PMID>
+  </reference>
+  <reference>
+    <citation>Wu QF, Wang W, Dai XY, Wang ZY, Shen ZH, Ying HZ, Yu CH. Chemical compositions and anti-influenza activities of essential oils from Mosla dianthera. J Ethnopharmacol. 2012 Jan 31;139(2):668-71. doi: 10.1016/j.jep.2011.11.056. Epub 2011 Dec 16.</citation>
+    <PMID>22193174</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>May 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 18, 2020</study_first_posted>
+  <results_first_submitted>November 25, 2020</results_first_submitted>
+  <results_first_submitted_qc>April 16, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 20, 2021</results_first_posted>
+  <last_update_submitted>April 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kermanshah University of Medical Sciences</investigator_affiliation>
+    <investigator_full_name>Dr. Ali Mostafaie, PhD</investigator_full_name>
+    <investigator_title>Professor of Immunology</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Colchicine</keyword>
+  <keyword>Phenolic Monoterpenes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>January 20, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/41/NCT04392141/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 20, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/41/NCT04392141/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Standard Treatment</title>
+          <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+        </group>
+        <group group_id="P2">
+          <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+          <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Standard Treatment</title>
+          <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+        </group>
+        <group group_id="B2">
+          <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+          <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="60"/>
+            <count group_id="B2" value="60"/>
+            <count group_id="B3" value="120"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Year</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54.11" spread="14.39"/>
+                    <measurement group_id="B2" value="52.99" spread="15.88"/>
+                    <measurement group_id="B3" value="53.55" spread="15.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Iran</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="60"/>
+                    <measurement group_id="B3" value="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diabetic mellitus</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Malignancy</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Autoimmune diseases</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Smoking/Substance abuse</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Severe to critically ill COVID-19</title>
+          <description>Moderate Illness: Individuals who show evidence of lower respiratory disease during clinical assessment or imaging and who have saturation of oxygen (SpO2) ≥94%.&#xD;
+Severe Illness: Individuals who have SpO2 &lt;94%, respiratory frequency &gt;30 breaths/min, or lung infiltrates &gt;50%.&#xD;
+Critical Illness: Individuals who have respiratory failure, septic shock, and/or multiple organ dysfunction.&#xD;
+The definition of severe to critically ill COVID-19 patient is according to the National Health Institute (NIH).</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="52"/>
+                    <measurement group_id="B3" value="100"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>lymphocytes count</title>
+          <units>cells*1000/mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1.19" spread="0.45"/>
+                    <measurement group_id="B2" value="1.31" spread="0.64"/>
+                    <measurement group_id="B3" value="1.26" spread="0.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>LDH</title>
+          <units>U/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="664.98" spread="295.84"/>
+                    <measurement group_id="B2" value="680.27" spread="471.44"/>
+                    <measurement group_id="B3" value="674.20" spread="401.78"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SpO2</title>
+          <units>Percentage of O2 saturation</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="60"/>
+                    <count group_id="B3" value="120"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="87.39" spread="6.32"/>
+                    <measurement group_id="B2" value="90.94" spread="3.27"/>
+                    <measurement group_id="B3" value="89.53" spread="4.48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mortality Rate</title>
+        <description>All cause of death in duration hospitalization</description>
+        <time_frame>From admission to 14 days after being discharge.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Treatment</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+          </group>
+          <group group_id="O2">
+            <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality Rate</title>
+          <description>All cause of death in duration hospitalization</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of odds of death between both groups</non_inferiority_desc>
+            <p_value>0.0318</p_value>
+            <method>Fisher Exact</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>9.87</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.16</ci_lower_limit>
+            <ci_upper_limit>83.89</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SpO2</title>
+        <description>Change in patients' oxygen saturation levels assessed by non-invasive method (pulse oximetry)</description>
+        <time_frame>Admission to discharge dates (approximately 4-14 days after admission). Discharge variables considered as the last available data before their death for the expired patients.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Treatment</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+          </group>
+          <group group_id="O2">
+            <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SpO2</title>
+          <description>Change in patients' oxygen saturation levels assessed by non-invasive method (pulse oximetry)</description>
+          <units>Percentage of oxygen saturation</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Admission</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="87.39" spread="6.32"/>
+                    <measurement group_id="O2" value="90.94" spread="3.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Discharge</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="92.89" spread="1.76"/>
+                    <measurement group_id="O2" value="93.49" spread="2.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>Statistical comparison of SpO2 (%) between admission and discharge times in standard treatment group</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of SpO2 percentage between admission and discharge phases</non_inferiority_desc>
+            <p_value>0.0001</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>Paired T-test</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-5.5</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-7.03</ci_lower_limit>
+            <ci_upper_limit>-3.96</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Statistical comparison of SpO2 % between admission and discharge times in the Colchicine and Herbal Phenolic Monoterpene Fractions treatment</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of SpO2 percentage between admission and discharge phases</non_inferiority_desc>
+            <p_value>0.0001</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>Paired T-test</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-2.55</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.28</ci_lower_limit>
+            <ci_upper_limit>-1.81</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Length of Hospitalization</title>
+        <description>Day(s) each patient has spent in the hospital as an inpatient.</description>
+        <time_frame>The duration of hospitalization for the patients (admission to discharge dates, approximately 4-14 days after admission). The patients who died were excluded.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Treatment</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+          </group>
+          <group group_id="O2">
+            <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Length of Hospitalization</title>
+          <description>Day(s) each patient has spent in the hospital as an inpatient.</description>
+          <units>Day</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="54"/>
+                <count group_id="O2" value="59"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.39" spread="2.59"/>
+                    <measurement group_id="O2" value="4.17" spread="1.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of means of the length of hospitalization between both groups</non_inferiority_desc>
+            <p_value>0.0001</p_value>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>2.22</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.63</ci_lower_limit>
+            <ci_upper_limit>2.80</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Lymphocyte Count</title>
+        <description>Lymphocyte count*1000/ mm^3</description>
+        <time_frame>Admission to discharge dates (approximately 4-14 days after admission). Discharge variables considered as the last available data before their death for the expired patients.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Treatment</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+          </group>
+          <group group_id="O2">
+            <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lymphocyte Count</title>
+          <description>Lymphocyte count*1000/ mm^3</description>
+          <units>cells*1000/mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Admission</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.19" spread="0.45"/>
+                    <measurement group_id="O2" value="1.31" spread="0.64"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Discharge</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.17" spread="0.49"/>
+                    <measurement group_id="O2" value="1.74" spread="0.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>Statistical comparison of lymphocytes count between admission and discharge times in standard treatment</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of mean of lymphocytes count between admission and discharge phases</non_inferiority_desc>
+            <p_value>0.80</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>Paired T-test</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.02</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.136</ci_lower_limit>
+            <ci_upper_limit>0.176</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Statistical comparison of lymphocytes count between admission and discharge times in Colchicine and Herbal Phenolic Monoterpene Fractions treatment</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of mean of lymphocytes count between admission and discharge phases</non_inferiority_desc>
+            <p_value>0.0001</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>Paired T-test</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.43</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.63</ci_lower_limit>
+            <ci_upper_limit>-0.23</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Lactate Dehydrogenase</title>
+        <description>Serum lactate dehydrogenase: LDH (U/L)</description>
+        <time_frame>Admission to discharge dates (approximately 4-14 days after admission). Discharge variables considered as the last available data before their death for the expired patients.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Treatment</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+          </group>
+          <group group_id="O2">
+            <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+            <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum Lactate Dehydrogenase</title>
+          <description>Serum lactate dehydrogenase: LDH (U/L)</description>
+          <units>U/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="60"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Admission</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="664.98" spread="295.84"/>
+                    <measurement group_id="O2" value="680.27" spread="471.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Discharge</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="691.04" spread="299.09"/>
+                    <measurement group_id="O2" value="542.94" spread="225.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>Statistical comparison of LDH between admission and discharge times in standard treatment</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of mean of LDH between admission and discharge phases</non_inferiority_desc>
+            <p_value>0.602</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>Paired T-test</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-26.06</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-124.76</ci_lower_limit>
+            <ci_upper_limit>72.64</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Statistical comparison of LDH between admission and discharge times in Colchicine and Herbal Phenolic Monoterpene Fractions treatment</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>equivalence of mean of LDH between admission and discharge phases</non_inferiority_desc>
+            <p_value>0.006</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>Paired T-test</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>137.33</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>38.19</ci_lower_limit>
+            <ci_upper_limit>236.46</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 month</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Standard Treatment</title>
+          <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline&#xD;
+Standard Treatment: Standard Treatment for COVID-19 based on National Recommendations</description>
+        </group>
+        <group group_id="E2">
+          <title>Colchicine and Herbal Phenolic Monoterpene Fractions</title>
+          <description>Patients diagnosed with COVID-19 which receive the standard treatment national guideline plus Colchicine and Herbal Phenolic Monoterpene Fractions&#xD;
+Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions: Colchicine plus a Herbal extraction containing a Phenolic Monoterpene Fractions will be added to standard treatment in patients with COVID-19.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="60"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Palpitation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea with or without vomiting</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="60"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Restlessness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Prof. Ali Mostafaie</name_or_title>
+      <organization>Kermanshah University of Medical Sciences</organization>
+      <phone>+989188302044</phone>
+      <email>amostafaie@kums.ac.ir</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

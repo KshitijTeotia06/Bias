@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="196">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02788903</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PCORI</org_study_id>
+    <secondary_id>NEN-1509-32304</secondary_id>
+    <nct_id>NCT02788903</nct_id>
+  </id_info>
+  <brief_title>A Patient-Centered PaTH to Addressing Diabetes</brief_title>
+  <official_title>A Patient-Centered PaTH to Addressing Diabetes: Impact of State Health Policies on Diabetes Outcomes and Disparities and Enhancement Study: Telemedicine Access and Severe Disease Outcomes in Patients With Diabetes and Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Milton S. Hershey Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient-Centered Outcomes Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Milton S. Hershey Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this proposal is to understand the comparative effectiveness of&#xD;
+      obesity counseling as covered by CMS in improving weight loss for adults either with or at&#xD;
+      high risk of type 2 diabetes. CMS and most insurers now include obesity screening and&#xD;
+      counseling benefits, with no cost sharing to patients. Since overweight patients are at&#xD;
+      highest risk for diabetes, improved weight management services could prevent diabetes and its&#xD;
+      negative health outcomes. Beneficiaries with obesity are eligible for up to 20 face-to-face&#xD;
+      visits for weight counseling in the primary care setting. The investigators propose comparing&#xD;
+      weight and diabetes outcomes in three states using EHR and claims data before and after this&#xD;
+      policy was implemented by leveraging the novel infrastructure of the Patient-Centered&#xD;
+      Outcomes Research Institute-funded PaTH Clinical Data Research Network. Following&#xD;
+      developments during the COVID-19 pandemic, the investigators further plan to leverage our&#xD;
+      study infrastructure across five health systems to understand the comparative effectiveness&#xD;
+      of telemedicine approaches for providing outpatient care for patients with or at risk of type&#xD;
+      2 diabetes and how these approaches impact the subgroup of patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Aim 1: Evaluate the impact of universal preventive service coverage for obesity screening and&#xD;
+      counseling on weight loss, diabetes incidence, and diabetes outcomes, in patients with&#xD;
+      diabetes or at high risk for diabetes (defined by body mass index (BMI) ≥ 25). The&#xD;
+      investigators will determine how the annual probability of receiving obesity and/or&#xD;
+      nutritional counseling (as defined by Current Procedural Terminology (CPT) code) changed pre-&#xD;
+      and post-policy across all insurers in a cohort of patients with diabetes and at high risk&#xD;
+      for diabetes. The investigators hypothesize that individual patients are more likely to&#xD;
+      receive counseling following coverage implementation. Further, the investigators hypothesize&#xD;
+      that patients who receive a greater number of face-to-face visits will have greater weight&#xD;
+      loss compared to those who receive fewer visits.&#xD;
+&#xD;
+      Aim 2: Compare patient weight loss and diabetes-related outcomes among those who receive&#xD;
+      obesity screening and counseling to those who do not, following implementation of preventive&#xD;
+      service coverage. The investigators will examine post-policy impact of obesity screening and&#xD;
+      counseling in a cohort of patients with diabetes and at high risk for diabetes. Specific&#xD;
+      outcomes to be examined include weight loss, diabetes incidence, and diabetes outcomes&#xD;
+      (including hemoglobin A1c, controlled blood pressure, use of a statin medication). Further,&#xD;
+      the investigators will determine patient characteristics, including demographics (age,&#xD;
+      race/ethnicity, rurality), and practice characteristics, including provider type, and their&#xD;
+      impact on receiving/providing obesity screening and counseling. Understanding patient and&#xD;
+      practice characteristics most likely to engage in obesity counseling can identify best&#xD;
+      practices and inform how to increase engagement by both patients and providers.&#xD;
+&#xD;
+      Aim 3: To understand the impact of telemedicine access (telephonic and/or virtual visits)&#xD;
+      compared to no telemedicine visits for outpatient care for patients with, or at risk of, type&#xD;
+      2 diabetes during the pandemic on patient-centered outcomes including hemoglobin A1c and&#xD;
+      healthcare utilization, with sub-group analysis of patients with COVID-19;&#xD;
+&#xD;
+      Aim 4: To evaluate the risk of severe COVID-19 disease (defined by hospitalization and&#xD;
+      mortality) in patients with diabetes and/or elevated BMI, with a focus on identifying&#xD;
+      modifiable factors (i.e., medication use, treatment timeline/location, chronic comorbid&#xD;
+      conditions) and associated with improved outcomes to inform immediate intervention and future&#xD;
+      study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2016</start_date>
+  <completion_date type="Actual">May 2021</completion_date>
+  <primary_completion_date type="Actual">May 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Used the Intensive Behavioral Therapy (IBT) Service</measure>
+    <time_frame>11 years</time_frame>
+    <description>Number of patients who utilized IBT services was assessed in both the diabetes and pre-diabetes cohorts using code G0447.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Weight During Counseling Program</measure>
+    <time_frame>11 years</time_frame>
+    <description>Weight change during counseling and/or % of weight change during program and maintained over remaining time period will be assessed in both the diabetes and pre-diabetes cohorts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hemoglobin A1c</measure>
+    <time_frame>1 year</time_frame>
+    <description>A1c of patients who received a telehealth visit and COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Diagnosed With COVID-19 Who Were Hospitalized</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of Participants Diagnosed with COVID-19 Who Were Hospitalized in both the diabetes and pre-diabetes cohorts.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Who Received Telehealth and Were Hospitalized With a COVID-19 Diagnosis</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of patients who received telehealth and were hospitalized with a COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Uncontrolled Blood Pressure</measure>
+    <time_frame>11 years</time_frame>
+    <description>The number of patients with uncontrolled blood pressure (SBP &gt; 140, DBP &gt; 90 all the time, defined for 1-year prior to first IBTb visit, and 1-year after) in the diabetes and pre-diabetes cohorts</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Uncontrolled Hemoglobin A1c</measure>
+    <time_frame>11 years</time_frame>
+    <description>The number of patients with uncontrolled hemoglobin A1c (HbA1cc &gt; 9 any time, defined for 1-year prior to first IBTb visit, and 1-year after) in the diabetes and pre-diabetes cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With a COVID-19 Diagnosis and ICU Use, Ventilator Use, or Death</measure>
+    <time_frame>1 year</time_frame>
+    <description>Incidence of ICU admission, ventilator use, or death in patients with a COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">2622164</enrollment>
+  <condition>Obesity</condition>
+  <condition>Diabetes</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Diabetes</arm_group_label>
+    <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pre-Diabetes</arm_group_label>
+    <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Weight Counseling</intervention_name>
+    <description>This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+    <arm_group_label>Diabetes</arm_group_label>
+    <arm_group_label>Pre-Diabetes</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Data will be collected through the PaTH Clinical Data Research Network (CDRN), a&#xD;
+        partnership of six academic health systems (Penn State Hershey Medical Center, University&#xD;
+        of Pittsburgh Medical Center, Temple Health System, Johns Hopkins Health System, University&#xD;
+        of Utah and Geisinger Health System) creating an electronic health record (EHR)-based data&#xD;
+        infrastructure across three states (Maryland, Pennsylvania, and Utah).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients with Diabetes&#xD;
+&#xD;
+          -  Ages 18 and older&#xD;
+&#xD;
+          -  Indication of Type 2 Diabetes as defined using a clinically validated algorithm: type&#xD;
+             2 diabetes mellitus on the problem list, diabetes-specific medications, hemoglobin A1c&#xD;
+             (HbA1c) results &gt; 6.5%, or one inpatient diagnosis code or two out-patient diagnosis&#xD;
+             codes for type 2 diabetes (ICD-9 codes 250.xx)&#xD;
+&#xD;
+          -  patients who have either: (1) visited a primary care doctor from one of the PaTH&#xD;
+             health systems in the past 3 years (since January 1, 2012), or (2) for whom claims&#xD;
+             data are available&#xD;
+&#xD;
+        Patients with Pre-Diabetes (At risk):&#xD;
+&#xD;
+          -  Ages 18 and older&#xD;
+&#xD;
+          -  BMI &gt; 25 kg/m2&#xD;
+&#xD;
+          -  patients who have either: (1) visited a primary care doctor from one of the PaTH&#xD;
+             health systems in the past 3 years (since January 1, 2012), or (2) for whom claims&#xD;
+             data are available&#xD;
+&#xD;
+        Patients with COVID-19:&#xD;
+&#xD;
+          -  Ages 18 and older&#xD;
+&#xD;
+          -  Patients with a diagnosis of COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients under the age of 18&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer L Kraschnewski, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Penn State College of Medicine, Penn State Milton S. Hershey Medical Center</affiliation>
+  </overall_official>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>May 27, 2016</study_first_submitted>
+  <study_first_submitted_qc>May 27, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 2, 2016</study_first_posted>
+  <results_first_submitted>September 1, 2021</results_first_submitted>
+  <results_first_submitted_qc>September 29, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 1, 2021</results_first_posted>
+  <last_update_submitted>September 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Milton S. Hershey Medical Center</investigator_affiliation>
+    <investigator_full_name>Jennifer Kraschnewski</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Obesity Counseling</keyword>
+  <keyword>telemedicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 28, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/03/NCT02788903/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants' data was analyzed as part of a secondary data analysis analyzing de-identified EHR and Claims data. Participants did not consent to participate in this study.</recruitment_details>
+      <pre_assignment_details>Participants were not randomized for this study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Diabetes</title>
+          <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.&#xD;
+Telemedicine: This is a natural experiment which will observe the impact of telemedicine approaches for providing outpatient care for patients with or at risk of type 2 diabetes</description>
+        </group>
+        <group group_id="P2">
+          <title>Pre-Diabetes</title>
+          <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="567908"/>
+                <participants group_id="P2" count="2054256"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="567908"/>
+                <participants group_id="P2" count="2054256"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Diabetes</title>
+          <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.&#xD;
+Telemedicine: This is a natural experiment which will observe the impact of telemedicine approaches for providing outpatient care for patients with or at risk of type 2 diabetes</description>
+        </group>
+        <group group_id="B2">
+          <title>Pre-Diabetes</title>
+          <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="567,908"/>
+            <count group_id="B2" value="2,054,256"/>
+            <count group_id="B3" value="2622164"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Age</title>
+              <category_list>
+                <category>
+                  <title>18-24 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10,371"/>
+                    <measurement group_id="B2" value="259,691"/>
+                    <measurement group_id="B3" value="270062"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>25-34 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23,169"/>
+                    <measurement group_id="B2" value="355,885"/>
+                    <measurement group_id="B3" value="379054"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>35-44 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51,885"/>
+                    <measurement group_id="B2" value="340,065"/>
+                    <measurement group_id="B3" value="391950"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>45-54 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="105,646"/>
+                    <measurement group_id="B2" value="374,446"/>
+                    <measurement group_id="B3" value="480092"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>55-64 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="151,061"/>
+                    <measurement group_id="B2" value="346,075"/>
+                    <measurement group_id="B3" value="497136"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>65-74 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="131,104"/>
+                    <measurement group_id="B2" value="224,386"/>
+                    <measurement group_id="B3" value="355490"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;75 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="94,672"/>
+                    <measurement group_id="B2" value="153,708"/>
+                    <measurement group_id="B3" value="248380"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex/Gender, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Sex</title>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="287,725"/>
+                    <measurement group_id="B2" value="1,167,327"/>
+                    <measurement group_id="B3" value="1455052"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="280,170"/>
+                    <measurement group_id="B2" value="886,884"/>
+                    <measurement group_id="B3" value="1167054"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other/Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="45"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29,211"/>
+                    <measurement group_id="B2" value="105,438"/>
+                    <measurement group_id="B3" value="134649"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="514,125"/>
+                    <measurement group_id="B2" value="1,855,612"/>
+                    <measurement group_id="B3" value="2369737"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24,572"/>
+                    <measurement group_id="B2" value="93,206"/>
+                    <measurement group_id="B3" value="117778"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race</title>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1,860"/>
+                    <measurement group_id="B2" value="4,725"/>
+                    <measurement group_id="B3" value="6585"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10,809"/>
+                    <measurement group_id="B2" value="35,410"/>
+                    <measurement group_id="B3" value="46219"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="79,732"/>
+                    <measurement group_id="B2" value="216,860"/>
+                    <measurement group_id="B3" value="296592"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiin or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1,311"/>
+                    <measurement group_id="B2" value="4,413"/>
+                    <measurement group_id="B3" value="5724"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="438,948"/>
+                    <measurement group_id="B2" value="1,667,767"/>
+                    <measurement group_id="B3" value="2106715"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Multiple Race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="397"/>
+                    <measurement group_id="B2" value="1,879"/>
+                    <measurement group_id="B3" value="2276"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other/Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34,851"/>
+                    <measurement group_id="B2" value="123,202"/>
+                    <measurement group_id="B3" value="158053"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <title>Rural</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31,402"/>
+                    <measurement group_id="B2" value="92,934"/>
+                    <measurement group_id="B3" value="124336"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Urban</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="470,209"/>
+                    <measurement group_id="B2" value="1,744,529"/>
+                    <measurement group_id="B3" value="2214738"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Missing</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66,297"/>
+                    <measurement group_id="B2" value="216,793"/>
+                    <measurement group_id="B3" value="283090"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32.9" spread="7.9"/>
+                    <measurement group_id="B2" value="30.9" spread="6.2"/>
+                    <measurement group_id="B3" value="31.55" spread="7.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diastolic Blood Pressure</title>
+          <units>mm Hg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75.0" spread="7.7"/>
+                    <measurement group_id="B2" value="76.6" spread="7.4"/>
+                    <measurement group_id="B3" value="75.24" spread="10.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Systolic Blood Pressure</title>
+          <units>mm Hg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="130.4" spread="12.1"/>
+                    <measurement group_id="B2" value="126.0" spread="11.9"/>
+                    <measurement group_id="B3" value="127.03" spread="17.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hemoglobin A1c</title>
+          <units>mg/dL</units>
+          <param>Mean</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7.0" lower_limit="6.3" upper_limit="8.1"/>
+                    <measurement group_id="B2" value="5.6" lower_limit="5.3" upper_limit="5.8"/>
+                    <measurement group_id="B3" value="6.9" lower_limit="6.3" upper_limit="8.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Used the Intensive Behavioral Therapy (IBT) Service</title>
+        <description>Number of patients who utilized IBT services was assessed in both the diabetes and pre-diabetes cohorts using code G0447.</description>
+        <time_frame>11 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.&#xD;
+Telemedicine: This is a natural experiment which will observe the impact of telemedicine approaches for providing outpatient care for patients with or at risk of type 2 diabetes</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Used the Intensive Behavioral Therapy (IBT) Service</title>
+          <description>Number of patients who utilized IBT services was assessed in both the diabetes and pre-diabetes cohorts using code G0447.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2417"/>
+                    <measurement group_id="O2" value="3731"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Weight During Counseling Program</title>
+        <description>Weight change during counseling and/or % of weight change during program and maintained over remaining time period will be assessed in both the diabetes and pre-diabetes cohorts.</description>
+        <time_frame>11 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Weight During Counseling Program</title>
+          <description>Weight change during counseling and/or % of weight change during program and maintained over remaining time period will be assessed in both the diabetes and pre-diabetes cohorts.</description>
+          <units>lbs</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="206.8" spread="55.0"/>
+                    <measurement group_id="O2" value="194.8" spread="44.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Hemoglobin A1c</title>
+        <description>A1c of patients who received a telehealth visit and COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+        <time_frame>1 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.&#xD;
+Telemedicine: This is a natural experiment which will observe the impact of telemedicine approaches for providing outpatient care for patients with or at risk of type 2 diabetes</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hemoglobin A1c</title>
+          <description>A1c of patients who received a telehealth visit and COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+          <units>mmol/mol</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.6" spread="1.5"/>
+                    <measurement group_id="O2" value="6.6" spread="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Diagnosed With COVID-19 Who Were Hospitalized</title>
+        <description>Number of Participants Diagnosed with COVID-19 Who Were Hospitalized in both the diabetes and pre-diabetes cohorts.</description>
+        <time_frame>1 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Diagnosed With COVID-19 Who Were Hospitalized</title>
+          <description>Number of Participants Diagnosed with COVID-19 Who Were Hospitalized in both the diabetes and pre-diabetes cohorts.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1,025"/>
+                    <measurement group_id="O2" value="1,379"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Who Received Telehealth and Were Hospitalized With a COVID-19 Diagnosis</title>
+        <description>Number of patients who received telehealth and were hospitalized with a COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+        <time_frame>1 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Who Received Telehealth and Were Hospitalized With a COVID-19 Diagnosis</title>
+          <description>Number of patients who received telehealth and were hospitalized with a COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="639"/>
+                    <measurement group_id="O2" value="838"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Uncontrolled Blood Pressure</title>
+        <description>The number of patients with uncontrolled blood pressure (SBP &gt; 140, DBP &gt; 90 all the time, defined for 1-year prior to first IBTb visit, and 1-year after) in the diabetes and pre-diabetes cohorts</description>
+        <time_frame>11 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Uncontrolled Blood Pressure</title>
+          <description>The number of patients with uncontrolled blood pressure (SBP &gt; 140, DBP &gt; 90 all the time, defined for 1-year prior to first IBTb visit, and 1-year after) in the diabetes and pre-diabetes cohorts</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="300,665"/>
+                    <measurement group_id="O2" value="928,366"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Uncontrolled Hemoglobin A1c</title>
+        <description>The number of patients with uncontrolled hemoglobin A1c (HbA1cc &gt; 9 any time, defined for 1-year prior to first IBTb visit, and 1-year after) in the diabetes and pre-diabetes cohorts.</description>
+        <time_frame>11 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Uncontrolled Hemoglobin A1c</title>
+          <description>The number of patients with uncontrolled hemoglobin A1c (HbA1cc &gt; 9 any time, defined for 1-year prior to first IBTb visit, and 1-year after) in the diabetes and pre-diabetes cohorts.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="79,046"/>
+                    <measurement group_id="O2" value="164"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With a COVID-19 Diagnosis and ICU Use, Ventilator Use, or Death</title>
+        <description>Incidence of ICU admission, ventilator use, or death in patients with a COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+        <time_frame>1 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Diabetes</title>
+            <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-Diabetes</title>
+            <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With a COVID-19 Diagnosis and ICU Use, Ventilator Use, or Death</title>
+          <description>Incidence of ICU admission, ventilator use, or death in patients with a COVID-19 diagnosis in both the diabetes and pre-diabetes cohorts.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="567,908"/>
+                <count group_id="O2" value="2,054,256"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="586"/>
+                    <measurement group_id="O2" value="500"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were not collected as patients were not enrolled in the study. This study included only secondary data.</time_frame>
+      <desc>Adverse event data were not collected as patients were not enrolled in the study. This study included only secondary data.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Diabetes</title>
+          <description>During year 1 of the proposed project, the investigative team will identify a valid cohort of patients with type 2 diabetes using EHR data. The cohort of patients under study will be defined as all patients age 18 and older with an indication of type 2 diabetes during the proposed study time frame (2009-2019).&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.&#xD;
+Telemedicine: This is a natural experiment which will observe the impact of telemedicine approaches for providing outpatient care for patients with or at risk of type 2 diabetes</description>
+        </group>
+        <group group_id="E2">
+          <title>Pre-Diabetes</title>
+          <description>The cohort of patients under study will be defined as patients age 18 and older who are at risk for the development of diabetes, based on being overweight. Patients seen at one of the six PaTH institutions will be included in the at-risk cohort if they have a BMI ≥ 25 kg/m2, based on most recent recorded weight and at least one recorded height.&#xD;
+Weight Counseling: This is a natural experiment which will observe the impact of weight counseling by primary care physicians on patient outcomes.</description>
+        </group>
+        <group group_id="E3">
+          <title>COVID-19</title>
+          <description>This cohort of patients will be defined as patients age 18 and older who have received a diagnosis of COVID-19.&#xD;
+Telemedicine: This is a natural experiment which will observe the impact of telemedicine approaches for providing outpatient care for patients with or at risk of type 2 diabetes</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Jennifer Kraschnewski</name_or_title>
+      <organization>Penn State College of Medicine</organization>
+      <phone>717-531-8161</phone>
+      <email>jkraschnewski@pennstatehealth.psu.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

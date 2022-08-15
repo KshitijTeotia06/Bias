@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04425538</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00000564</org_study_id>
+    <nct_id>NCT04425538</nct_id>
+  </id_info>
+  <brief_title>A Phase 2 Trial of Infliximab in Coronavirus Disease 2019 (COVID-19).</brief_title>
+  <official_title>A Phase 2 Trial of Infliximab in Coronavirus Disease 2019 (COVID-19).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tufts Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tufts Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators hypothesize that early institution of TNFα inhibitor therapy in patients&#xD;
+      with severe COVID-19 infections will prevent further clinical deterioration and reduce the&#xD;
+      need for advanced cardiorespiratory support and early mortality. To address this hypothesis,&#xD;
+      a prospective, single center, phase 2 trial is proposed to assess the efficacy of infliximab&#xD;
+      or infliximab-abda in hospitalized adult patients with severe or critical COVID-19.&#xD;
+      Observations from this study will inform the conduct of prospective randomized controlled&#xD;
+      studies to follow.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators hypothesize that early institution of TNFα inhibitor therapy in patients&#xD;
+      with severe COVID-19 infections will prevent further clinical deterioration and reduce the&#xD;
+      need for advanced cardiorespiratory support and early mortality. To address this hypothesis,&#xD;
+      a prospective, single center, phase 2 trial is proposed to assess the efficacy of infliximab&#xD;
+      or infliximab-abda in hospitalized adult patients with severe or critical COVID-19.&#xD;
+      Observations from this study will inform the conduct of prospective randomized controlled&#xD;
+      studies to follow.&#xD;
+&#xD;
+      Infliximab and Infliximab-abda are TNFα inhibitors currently FDA-approved for the treatment&#xD;
+      of autoimmune disorders, including Crohn's disease and rheumatoid arthritis. The risks and&#xD;
+      adverse reactions are described in the approved prescribing information for infliximab (or&#xD;
+      infliximab-abda). Infliximab will be used when available. Should infliximab be unavailable in&#xD;
+      the pharmacy, infliximab-abda, a biosimilar, will be used.&#xD;
+&#xD;
+      Treatment with infliximab or infliximab-abda 5mg/kg IV should ideally be administered within&#xD;
+      6 hours of enrollment, and no more than 24 hours following enrollment. Pre-medication with&#xD;
+      Tylenol 650 mg once 30 minutes prior to infusion would be recommended. Other pre-medications&#xD;
+      may be given at the discretion of the treating physician. These include diphenhydramine 50mg&#xD;
+      by mouth, as well as prednisone 20mg by mouth, both given 30 minutes prior to infusion. Pulse&#xD;
+      and blood pressure should be monitored every 30 minutes during the infusion, and patients&#xD;
+      should be monitored for at least 30 minutes following the infusion.&#xD;
+&#xD;
+      Retreatment with infliximab is permitted at treating physician discretion 7-21 days following&#xD;
+      primary therapy and based on initial response; the usual treatment schedule is every 2 weeks,&#xD;
+      this interval is not strictly enforced given the uncertainty of outcomes with primary&#xD;
+      therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Actual">January 22, 2021</completion_date>
+  <primary_completion_date type="Actual">January 22, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Improvement in Oxygenation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Time to improvement in oxygenation (increase in SpO2/FiO2 of 50 or greater compared to the baseline SpO2/FiO2)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of p[Atients With Improvement in Oxygenation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of participants who showed improvement in oxygenation (increase in SpO2/FiO2 of 50 or greater compared to the baseline SpO2/FiO2)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>28-Day Survival Status</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of patients who were confirmed to be alive 28 days from enrollment onto the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Supplemental Oxygen Administration by Nasal Cannula</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Duration of supplemental oxygen administration by nasal cannula, simple face mask, or other similar oxygen delivery device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Non-invasive Ventilation or by Non-rebreather Mask or High-flow Nasal Cannula</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Duration of non-invasive ventilation or by non-rebreather mask or high-flow nasal cannula</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Mechanical Ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of patients enrolled who required mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Vasopressor Support</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of participants who required vasopressor support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Extracorporeal Membrane Oxygenation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of patients requiring extracorporeal membrane oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Fever</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of patients who exhibited fever during the study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of Dynamic Changes in IP-10 to Cytokine Profile</measure>
+    <time_frame>3 Days</time_frame>
+    <description>Correlation of dynamic changes in IP-10 to cytokine profile between day 3 and baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Duration of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Who Developed Secondary Infections</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of patients who developed secondary infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Supplemental Oxygen Administration by Nasal Cannula</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Incidence of supplemental oxygen administration by nasal cannula, simple face mask, or other similar oxygen delivery device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Mechanical Ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>duration of use of mechanical ventilation (for patients requiring mechanical ventilation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Non-invasive Ventilation or by Non-rebreather Mask or High-flow Nasal Cannula</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Number of participants who required non-invasive ventilation or by non-rebreather mask or high-flow nasal cannula</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Cytokine and Inflammatory Profile at Baseline</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Assessment of cytokine and inflammatory profile at baseline (TNFα, IL-1b, IL-2, IL-6, ferritin) after therapy</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">17</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Infliximab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Infliximab</intervention_name>
+    <description>Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+    <arm_group_label>Infliximab</arm_group_label>
+    <other_name>infliximab-abda</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 years or older&#xD;
+&#xD;
+          2. Able to provide informed consent&#xD;
+&#xD;
+          3. Hospitalized adult patients with pneumonia evidenced by chest X-ray or CT scan&#xD;
+&#xD;
+          4. Laboratory (RT-PCR) confirmed infection with 2019-nCoV or strongly suspected to be&#xD;
+             infected with SARS-COV2 with confirmation studies pending&#xD;
+&#xD;
+          5. And at least one of the following:&#xD;
+&#xD;
+               1. Respiratory frequency ≥30/min&#xD;
+&#xD;
+               2. Blood oxygen saturation ≤93% on RA&#xD;
+&#xD;
+               3. Partial pressure of arterial oxygen to fraction of inspired oxygen ratio&#xD;
+                  (PaO2/FiO2) &lt;300&#xD;
+&#xD;
+               4. Worsening of lung involvement, defined as an increase in number and/or extension&#xD;
+                  of pulmonary areas of consolidation, need for increased FiO2 to maintain stable&#xD;
+                  O2 saturation, or worsening O2 saturation of &gt;3% with stable FiO2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Treatment with any TNFα inhibitor in the past 30 days&#xD;
+&#xD;
+          2. Known hypersensitivity to any TNFα inhibitor, murine proteins, or any component of the&#xD;
+             formulation&#xD;
+&#xD;
+          3. Presence of any of the following abnormal laboratory values at screening: absolute&#xD;
+             neutrophil count (ANC) less than 1000 mm3, hemoglobin &lt;8.0g/L, platelets &lt;50,000 per&#xD;
+             mm3, or AST or ALT greater than 5 x ULN&#xD;
+&#xD;
+          4. Known active or latent Hepatitis B&#xD;
+&#xD;
+          5. Known or suspected active tuberculosis (TB) or a history of incompletely treated or&#xD;
+             latent TB.&#xD;
+&#xD;
+          6. Pregnancy&#xD;
+&#xD;
+          7. Intubated for &gt;48hours&#xD;
+&#xD;
+          8. Patients with uncontrolled systemic bacterial or fungal infections (Patients with a&#xD;
+             history of positive bacterial or fungal cultures but on enrollment are on appropriate&#xD;
+             therapy with negative repeat cultures may be enrolled)&#xD;
+&#xD;
+          9. Serious co-morbidity, including:&#xD;
+&#xD;
+               1. Myocardial infarction (within last month)&#xD;
+&#xD;
+               2. Moderate or severe heart failure (New York Heart Association (NYHA) class III or&#xD;
+                  IV)&#xD;
+&#xD;
+               3. Acute stroke (within last month)&#xD;
+&#xD;
+               4. Uncontrolled malignancy&#xD;
+&#xD;
+               5. Stage 4 severe chronic kidney disease or requiring dialysis (i.e. estimated&#xD;
+                  glomerular filtration rate (eGFR) &lt; 30 ml /min/1.73 m^2) at baseline&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Mathew, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tufts Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Hachem H, Godara A, Schroeder C, Fein D, Mann H, Lawlor C, Marshall J, Klein A, Poutsiaka D, Breeze JL, Joshi R, Mathew P. Rapid and sustained decline in CXCL-10 (IP-10) annotates clinical outcomes following TNF-α antagonist therapy in hospitalized patients with severe and critical COVID-19 respiratory failure. medRxiv. 2021 Jun 2. pii: 2021.05.29.21258010. doi: 10.1101/2021.05.29.21258010. Update in: J Clin Transl Sci. 2021 Jun 25;5(1):e146.</citation>
+    <PMID>34100026</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hachem H, Godara A, Schroeder C, Fein D, Mann H, Lawlor C, Marshall J, Klein A, Poutsiaka D, Breeze JL, Joshi R, Mathew P. Rapid and sustained decline in CXCL-10 (IP-10) annotates clinical outcomes following TNFα-antagonist therapy in hospitalized patients with severe and critical COVID-19 respiratory failure. J Clin Transl Sci. 2021 Jun 25;5(1):e146. doi: 10.1017/cts.2021.805. eCollection 2021.</citation>
+    <PMID>34457357</PMID>
+  </results_reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>June 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 11, 2020</study_first_posted>
+  <results_first_submitted>August 23, 2021</results_first_submitted>
+  <results_first_submitted_qc>December 1, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 3, 2021</results_first_posted>
+  <last_update_submitted>April 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infliximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 22, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/38/NCT04425538/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Infliximab</title>
+          <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Infliximab</title>
+          <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="17"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>18-40 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>41-60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black/African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chinese</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic/Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Improvement in Oxygenation</title>
+        <description>Time to improvement in oxygenation (increase in SpO2/FiO2 of 50 or greater compared to the baseline SpO2/FiO2)</description>
+        <time_frame>28 Days</time_frame>
+        <population>15 patients met this endpoint whereby duration data could be obtained</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Improvement in Oxygenation</title>
+          <description>Time to improvement in oxygenation (increase in SpO2/FiO2 of 50 or greater compared to the baseline SpO2/FiO2)</description>
+          <population>15 patients met this endpoint whereby duration data could be obtained</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" lower_limit="1" upper_limit="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of p[Atients With Improvement in Oxygenation</title>
+        <description>Number of participants who showed improvement in oxygenation (increase in SpO2/FiO2 of 50 or greater compared to the baseline SpO2/FiO2)</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of p[Atients With Improvement in Oxygenation</title>
+          <description>Number of participants who showed improvement in oxygenation (increase in SpO2/FiO2 of 50 or greater compared to the baseline SpO2/FiO2)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>28-Day Survival Status</title>
+        <description>Number of patients who were confirmed to be alive 28 days from enrollment onto the study.</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>28-Day Survival Status</title>
+          <description>Number of patients who were confirmed to be alive 28 days from enrollment onto the study.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Supplemental Oxygen Administration by Nasal Cannula</title>
+        <description>Duration of supplemental oxygen administration by nasal cannula, simple face mask, or other similar oxygen delivery device</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Supplemental Oxygen Administration by Nasal Cannula</title>
+          <description>Duration of supplemental oxygen administration by nasal cannula, simple face mask, or other similar oxygen delivery device</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3" lower_limit="1" upper_limit="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Non-invasive Ventilation or by Non-rebreather Mask or High-flow Nasal Cannula</title>
+        <description>Duration of non-invasive ventilation or by non-rebreather mask or high-flow nasal cannula</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Non-invasive Ventilation or by Non-rebreather Mask or High-flow Nasal Cannula</title>
+          <description>Duration of non-invasive ventilation or by non-rebreather mask or high-flow nasal cannula</description>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.5" lower_limit="2" upper_limit="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Mechanical Ventilation</title>
+        <description>Number of patients enrolled who required mechanical ventilation</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Mechanical Ventilation</title>
+          <description>Number of patients enrolled who required mechanical ventilation</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Vasopressor Support</title>
+        <description>Number of participants who required vasopressor support</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Vasopressor Support</title>
+          <description>Number of participants who required vasopressor support</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Extracorporeal Membrane Oxygenation</title>
+        <description>Number of patients requiring extracorporeal membrane oxygenation</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Extracorporeal Membrane Oxygenation</title>
+          <description>Number of patients requiring extracorporeal membrane oxygenation</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Fever</title>
+        <description>Number of patients who exhibited fever during the study period</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Fever</title>
+          <description>Number of patients who exhibited fever during the study period</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Correlation of Dynamic Changes in IP-10 to Cytokine Profile</title>
+        <description>Correlation of dynamic changes in IP-10 to cytokine profile between day 3 and baseline</description>
+        <time_frame>3 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Correlation of Dynamic Changes in IP-10 to Cytokine Profile</title>
+          <description>Correlation of dynamic changes in IP-10 to cytokine profile between day 3 and baseline</description>
+          <units>Correlation coefficient</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CXCL9</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.652"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.605"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FLT-3L</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.601"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-12p40</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.585"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".571"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>M-CSF</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.564"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MDC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.528"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IFN-A2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.509"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".501"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-18</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".484"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Hospitalization</title>
+        <description>Duration of hospitalization</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Hospitalization</title>
+          <description>Duration of hospitalization</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8" lower_limit="1" upper_limit="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Who Developed Secondary Infections</title>
+        <description>Number of patients who developed secondary infections</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Who Developed Secondary Infections</title>
+          <description>Number of patients who developed secondary infections</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Supplemental Oxygen Administration by Nasal Cannula</title>
+        <description>Incidence of supplemental oxygen administration by nasal cannula, simple face mask, or other similar oxygen delivery device</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Supplemental Oxygen Administration by Nasal Cannula</title>
+          <description>Incidence of supplemental oxygen administration by nasal cannula, simple face mask, or other similar oxygen delivery device</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Mechanical Ventilation</title>
+        <description>duration of use of mechanical ventilation (for patients requiring mechanical ventilation)</description>
+        <time_frame>28 Days</time_frame>
+        <population>7 of 17 enrolled patients required mechanical ventilation</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Mechanical Ventilation</title>
+          <description>duration of use of mechanical ventilation (for patients requiring mechanical ventilation)</description>
+          <population>7 of 17 enrolled patients required mechanical ventilation</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10" lower_limit="5" upper_limit="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Non-invasive Ventilation or by Non-rebreather Mask or High-flow Nasal Cannula</title>
+        <description>Number of participants who required non-invasive ventilation or by non-rebreather mask or high-flow nasal cannula</description>
+        <time_frame>28 Days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Non-invasive Ventilation or by Non-rebreather Mask or High-flow Nasal Cannula</title>
+          <description>Number of participants who required non-invasive ventilation or by non-rebreather mask or high-flow nasal cannula</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Assessment of Cytokine and Inflammatory Profile at Baseline</title>
+        <description>Assessment of cytokine and inflammatory profile at baseline (TNFα, IL-1b, IL-2, IL-6, ferritin) after therapy</description>
+        <time_frame>Baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infliximab</title>
+            <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Assessment of Cytokine and Inflammatory Profile at Baseline</title>
+          <description>Assessment of cytokine and inflammatory profile at baseline (TNFα, IL-1b, IL-2, IL-6, ferritin) after therapy</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>TNFα</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="109.2" spread="53.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-1β</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42.3" spread="97.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.46" spread="2.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69.2" spread="130.85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ferritin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1972.12" spread="1517.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events and serious adverse events were collected for each patient beginning at the time of first infliximab dose through 28 days following the last dose of infliximab. Study-wide, adverse event collection was conducted for approximately 8 months.</time_frame>
+      <desc>Serious adverse events and all-cause mortality were collected according to clinicaltrials.gov definitions. For other adverse events, only adverse events of special interest were collected for the purposes of this trial. Adverse events of special interest include infusion reactions from infliximab treatment, anaphylaxis, and any other event deemed by the investigator to be directly related to infliximab treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Infliximab</title>
+          <description>All patients enrolled into this trial will be assigned to the Infliximab arm. Patients will be treated with infliximab on Day 1, and may be re-treated per protocol and at the discretion of the investigator.&#xD;
+Infliximab: Either infliximab or infliximab-abda will be used at the discretion of the investigator</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac Arrest</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Covid-Associated Pulmonary Aspergillosis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial Fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Intermittent Sinus Bradycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Infusion Reaction</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Lung Infection</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Herpes Simplex Reactivation</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>AST Elevation</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>ALT Elevation</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Director of Clinical Trials</name_or_title>
+      <organization>Neely Center for Clinical Research, Tufts Medical Center</organization>
+      <phone>617-636-5000 ext 3264</phone>
+      <email>ncccr@tuftsmedicalcenter.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

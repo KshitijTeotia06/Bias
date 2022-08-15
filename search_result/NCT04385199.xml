@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04385199</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13807</org_study_id>
+    <nct_id>NCT04385199</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for Patients With COVID-19</brief_title>
+  <official_title>The Use of Convalescent Plasma for Patients Hospitalized With COVID-19 Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Henry Ford Health System</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Henry Ford Health System</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pilot study of tolerability and efficacy of transfusion of 200mL of convalescent plasma in&#xD;
+      patients with COVID-19 respiratory disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Importance: Convalescent plasma has been shown to be safe in patients with COVID-19, but&#xD;
+      whether it is clinically effective in patients with severe COVID-19 pneumonia is still&#xD;
+      unclear.&#xD;
+&#xD;
+      Objective: To evaluate the safety, tolerability, efficacy, and adverse events related to&#xD;
+      transfusion of convalescent plasma in patients hospitalized with severe or critical COVID-19&#xD;
+      pneumonia.&#xD;
+&#xD;
+      Design, Setting and Participants: Randomized, single center, open-label, controlled trial of&#xD;
+      patients hospitalized between May 1, 2020, and August 1, 2020, with severe COVID-19 pneumonia&#xD;
+      in 1 tertiary care health system in the United States. A total of 30 participants age ≥ 18&#xD;
+      years with 1 or more of the following were enrolled: dyspnea; respiratory rate &gt; 30; O2&#xD;
+      saturation ≤ 93%; PaO2/FiO2 or SaO2/FiO2 ratio &lt; 300 mm Hg; and bilateral airspace opacities&#xD;
+      on chest x-ray &gt; 50% within 24 to 48 hours.&#xD;
+&#xD;
+      Intervention: Transfusion with 1 unit of ABO compatible convalescent plasma in addition to&#xD;
+      standard care (n = 20) or standard care (n = 10). Standard care included steroids.&#xD;
+&#xD;
+      Main Outcomes and Measures: Primary outcome was improvement in oxygenation 72 hours after&#xD;
+      infusion measured by change in arterial blood gas or in PaO2/FiO2 or Sa/FiO2. Secondary&#xD;
+      outcomes were mortality at 28 days, days on mechanical ventilation, intensive care unit and&#xD;
+      hospital length of stay, and mSOFA score.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 4, 2020</start_date>
+  <completion_date type="Actual">August 1, 2020</completion_date>
+  <primary_completion_date type="Actual">August 1, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized control trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Respiratory Disease Severity</measure>
+    <time_frame>day 3 post transfusion</time_frame>
+    <description>Change in oxygenation as documented by SaO2/FiO2 at 72 hours after infusion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU Length of Stay</measure>
+    <time_frame>Up to 60 days At the end of the trial, if patients were still in the ICU, their date of transfer out of the ICU was collected and total ICU length of stay calculated.</time_frame>
+    <description>Total ICU length of stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Stay</measure>
+    <time_frame>Up to 60 days At the end of the trial, if patients were still in the hospital, their date of transfer out of the hospital was collected and hospital length of stay calculated.</time_frame>
+    <description>Hospital length of stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator Days</measure>
+    <time_frame>28 day</time_frame>
+    <description>Duration of time on ventilator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Transfusion Adverse Events</measure>
+    <time_frame>From transfusion up to 1 day post-transfusion</time_frame>
+    <description>Adverse transfusion events after 1 unit of convalescent plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Normal Chest X Ray at 28 Days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in Chest X Ray Findings</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause Mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause overall deaths at end of trial at 28 days</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Coronavirus</condition>
+  <condition>COVID</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Convalescent plasma 200mL transfusion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Therapy Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent plasma</intervention_name>
+    <description>One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+    <arm_group_label>Convalescent Plasma Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age &gt; 18 with one or more of the following: Dyspnea Respiratory rate &gt;= 30 breaths/min&#xD;
+             Oxygen saturation &lt;=93% PaO2/FiO2 &lt;300 Bilateral airspace opacities on chest&#xD;
+             radiograph at 24 to 48 hours&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Acute myocardial infarction in past 30 days Acute stroke in past 30 days VV ECMO VA&#xD;
+             ECMO&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Geneva Tatem, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Henry Ford Health System</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>May 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 12, 2020</study_first_posted>
+  <results_first_submitted>August 25, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 28, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 2, 2022</results_first_posted>
+  <last_update_submitted>April 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Henry Ford Health System</investigator_affiliation>
+    <investigator_full_name>Geneva Tatem</investigator_full_name>
+    <investigator_title>Associate Clinical Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 4, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT04385199/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Convalescent Plasma Intervention</title>
+          <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard Therapy Control</title>
+          <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Convalescent Plasma Intervention</title>
+          <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+        </group>
+        <group group_id="B2">
+          <title>Standard Therapy Control</title>
+          <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="20"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="30"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56.6" spread="13.9"/>
+                    <measurement group_id="B2" value="53" spread="13.6"/>
+                    <measurement group_id="B3" value="55" spread="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <description>Ethnicity categories as defined by the National Institutes of Health/Office of Management and Budget (NIH/OMB) Standards</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <description>Race categories as defined by the National Institutes of Health/Office of Management and Budget (NIH/OMB) Standards</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Dyspnea with Respiratory Rate (RR) &gt;30</title>
+          <description>Number of participants with a respiratory rate &gt;30 at randomization</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SaO2/FiO2</title>
+          <description>The ratio of oxygen saturation by pulse oximeter (SaO2) to oxygen concentration (FiO2)</description>
+          <units>ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="188.4" spread="96.0"/>
+                    <measurement group_id="B2" value="196.5" spread="89.9"/>
+                    <measurement group_id="B3" value="190" spread="90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Bilateral airspace opacities on CXR &gt;50% within 24 to 48 hours</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Mechanical ventilation</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Respiratory Disease Severity</title>
+        <description>Change in oxygenation as documented by SaO2/FiO2 at 72 hours after infusion</description>
+        <time_frame>day 3 post transfusion</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Respiratory Disease Severity</title>
+          <description>Change in oxygenation as documented by SaO2/FiO2 at 72 hours after infusion</description>
+          <units>ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="251" spread="89"/>
+                    <measurement group_id="O2" value="276" spread="188"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ICU Length of Stay</title>
+        <description>Total ICU length of stay</description>
+        <time_frame>Up to 60 days At the end of the trial, if patients were still in the ICU, their date of transfer out of the ICU was collected and total ICU length of stay calculated.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ICU Length of Stay</title>
+          <description>Total ICU length of stay</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19.5" lower_limit="10" upper_limit="46"/>
+                    <measurement group_id="O2" value="13" lower_limit="10" upper_limit="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Length of Stay</title>
+        <description>Hospital length of stay</description>
+        <time_frame>Up to 60 days At the end of the trial, if patients were still in the hospital, their date of transfer out of the hospital was collected and hospital length of stay calculated.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Length of Stay</title>
+          <description>Hospital length of stay</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20" lower_limit="7.5" upper_limit="46"/>
+                    <measurement group_id="O2" value="11.5" lower_limit="9" upper_limit="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ventilator Days</title>
+        <description>Duration of time on ventilator</description>
+        <time_frame>28 day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ventilator Days</title>
+          <description>Duration of time on ventilator</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.6" lower_limit="8.4" upper_limit="26"/>
+                    <measurement group_id="O2" value="4.2" lower_limit="1.4" upper_limit="7.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Transfusion Adverse Events</title>
+        <description>Adverse transfusion events after 1 unit of convalescent plasma</description>
+        <time_frame>From transfusion up to 1 day post-transfusion</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Transfusion Adverse Events</title>
+          <description>Adverse transfusion events after 1 unit of convalescent plasma</description>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Normal Chest X Ray at 28 Days</title>
+        <description>Change in Chest X Ray Findings</description>
+        <time_frame>28 days</time_frame>
+        <population>Normal CXR at 28 days</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Normal Chest X Ray at 28 Days</title>
+          <description>Change in Chest X Ray Findings</description>
+          <population>Normal CXR at 28 days</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-cause Mortality</title>
+        <description>All-cause overall deaths at end of trial at 28 days</description>
+        <time_frame>28 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Convalescent Plasma Intervention</title>
+            <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Therapy Control</title>
+            <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-cause Mortality</title>
+          <description>All-cause overall deaths at end of trial at 28 days</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>28 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Intervention</title>
+          <description>Convalescent plasma 200mL transfusion&#xD;
+Convalescent plasma: One 200mL transfusion of ABO compatible convalescent plasma over 3 hours</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>Standard therapy for COVID-19 disease as defined by institutional protocols</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr Geneva Tatem</name_or_title>
+      <organization>Henry Ford Health System</organization>
+      <phone>313-916-2431</phone>
+      <email>gtatem1@hfhs.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

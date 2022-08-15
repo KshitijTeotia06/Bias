@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="66">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04912700</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-118</org_study_id>
+    <nct_id>NCT04912700</nct_id>
+  </id_info>
+  <brief_title>The Impact of Vaccination on Severity of Illness in COVID-19</brief_title>
+  <official_title>The Impact of Vaccination on Severity of Illness in COVID-19: A Multicenter Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>William Beaumont Hospitals</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>William Beaumont Hospitals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With the FDA's emergency use authorization declaration in December of 2020, the&#xD;
+      Pfizer-BioNtech vaccine became the first of several vaccines to kick off the mass vaccination&#xD;
+      effort across the United States against CoronaVIrus Disease 2019 (COVID-19). Subsequently,&#xD;
+      Moderna as well as Johnson and Johnson both had vaccines receive emergency use authorization.&#xD;
+      While the Pfizer and the Moderna vaccines both utilize novel mRNA technology, Johnson and&#xD;
+      Johnson's vaccine uses a viral vector that has been used previously in both the approved&#xD;
+      European Ebola vaccine and a trial vaccine for HIV. However, none of these vaccine types have&#xD;
+      previously been approved in the United States. While preliminary data from safety and&#xD;
+      efficacy trials have shown positive results, actual-world data on its effectiveness is still&#xD;
+      lacking. Several small cohort studies and one large trial from Israel are currently the only&#xD;
+      insights into the actual rates of infection, hospitalization, and severe illness among&#xD;
+      vaccinated individuals. As COVID-19 variants, with the potential to reduce vaccine efficacy,&#xD;
+      continue to emerge worldwide, there is a need of more data regarding the real-world&#xD;
+      effectiveness of our current mass vaccination efforts.&#xD;
+&#xD;
+      Vaccination efforts in the State of Michigan have been ongoing since December 2020. Given&#xD;
+      that approximately 33.7% of the state's population is either partially or fully vaccinated,&#xD;
+      it is unclear why the number of cases has risen so dramatically or if immunization efforts&#xD;
+      can help the situation.&#xD;
+&#xD;
+      Given the current situation in the State of Michigan, this study will evaluate the efficacy&#xD;
+      of COVID-19 vaccination on rates of hospital visits and severe illness when breakthrough&#xD;
+      Severe Acute Respiratory Syndrome coronavirus-2 (SARS-CoV-2) infection occurs in a region&#xD;
+      with high incidence of variant strain disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A retrospective chart review of all patients presenting to Beaumont Health System emergency&#xD;
+      departments between December 15, 2020 and April 30, 2021 who tested positive for COVID-19&#xD;
+      will be performed. The primary aim is to compare the rate of Emergency Department (ED)&#xD;
+      presentations/hospitalizations among unvaccinated, partially vaccinated, and fully vaccinated&#xD;
+      patients presenting to an emergency center (EC). Secondarily, the rates of individual&#xD;
+      clinical outcomes of COVID-19 infection for hospitalized patients will be compared among&#xD;
+      unvaccinated, partially vaccinated, and fully vaccinated patients, including the proportion&#xD;
+      of COVID-positive patients who develop severe disease, require admission to the hospital, and&#xD;
+      rates of those requiring intensive care unit (ICU) admission, mechanical ventilation,&#xD;
+      extracorporeal membrane oxygenation (ECMO), renal replacement therapy (RRT), supplemental&#xD;
+      oxygenation, or noninvasive ventilation, as well as the rate of in-hospital mortality and the&#xD;
+      hospital length of stay. Exploratory outcomes may include comparisons among fully-vaccinated&#xD;
+      individuals receiving each of the three types of vaccines, and investigation of demographic,&#xD;
+      epidemiological, clinical and laboratory predictors of hospitalization. For each individual,&#xD;
+      data collected will include vital signs (temperature, blood pressure, heart rate, respiratory&#xD;
+      rate, pulse oximetry), demographics (age, gender, existing medical conditions), home&#xD;
+      medications, chief complaint from emergency provider note, duration of symptoms in days at&#xD;
+      the time of presentation from emergency provider note, chest X-ray or chest computed&#xD;
+      tomography (CT) results, and laboratory values. For patients who were admitted, data&#xD;
+      collected will include initial hospital admission unit (regular medical or surgical floor,&#xD;
+      progressive floor, intensive care unit), change in unit type during admission, oxygen therapy&#xD;
+      (none, nasal cannula, supplemental high flow oxygen, ventilator), days on high flow oxygen,&#xD;
+      days on ventilator, specific inpatient medical therapies, laboratory values, imaging results,&#xD;
+      hospital length of stay, and disposition from hospital (home, rehabilitation unit, death).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2021</start_date>
+  <completion_date type="Actual">June 7, 2021</completion_date>
+  <primary_completion_date type="Actual">June 7, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Emergency Center (EC) Encounters and/or Hospitalizations With Positive COVID-19 Test</measure>
+    <time_frame>During the period from December 15, 2020 through April 30, 2021 (up to 5 months)</time_frame>
+    <description>Number of participants with encounters at emergency center (EC) and /or hospitalizations with positive COVID-19 test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Severe Infection</measure>
+    <time_frame>During EC visit or hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Patient with any of the following: ICU admission, mechanical ventilation, or in-hospital mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With ICU Admission</measure>
+    <time_frame>During hospitalization, from date of admission until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of patients admitted to ICU during hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Mechanical Ventilation</measure>
+    <time_frame>During EC visit or in-patient hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of patients who required mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With In-hospital Mortality</measure>
+    <time_frame>During EC visit or in-patient hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of patients who died during EC visit or hospital admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospitalized Patients Requiring Extracorporeal Membrane Oxygenation (ECMO)</measure>
+    <time_frame>During hospitalization, from date of admission until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of hospitalized patients requiring ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospitalized Patients Requiring Renal Replacement Therapy (RRT)</measure>
+    <time_frame>During hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of hospitalized patients requiring RRT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospitalized Patients Requiring Supplemental Oxygen</measure>
+    <time_frame>During hospitalization, from date of admission until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of hospitalized patients requiring supplemental oxygen, by type</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospitalized Patients Requiring Non-invasive Ventilation</measure>
+    <time_frame>During EC visit or hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of hospitalized patients requiring non-invasive ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospitalized Patients Requiring Vasopressors</measure>
+    <time_frame>During EC visit or hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of hospitalized patients with hypotension requiring vasopressors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Discharged From Hospital to Home, Skilled Nursing Facility, Rehabilitation Facility, or Hospice.</measure>
+    <time_frame>During the period from December 15, 2020 through May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of patients discharged from in-patient hospital admission to home, skilled nursing facility, rehabilitation facility, or hospice.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Length of Stay</measure>
+    <time_frame>During the period from December 15, 2020 through May 15, 2021 (up to 5 months)</time_frame>
+    <description>Number of days from admission after emergency center (EC) visit and positive COVID-19 test, until discharge</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">11834</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Unvaccinated</arm_group_label>
+    <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Partially vaccinated</arm_group_label>
+    <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fully vaccinated</arm_group_label>
+    <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 vaccine</intervention_name>
+    <description>Full or partial reception of vaccine</description>
+    <arm_group_label>Fully vaccinated</arm_group_label>
+    <arm_group_label>Partially vaccinated</arm_group_label>
+    <other_name>Pfizer vaccine, Moderna vaccine, Johnson &amp; Johnson vaccine</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Consecutive patients during study period with COVID-19 infection and EC visit.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients presenting to Beaumont Health emergency departments who have tested&#xD;
+             positive for COVID-19 between December 15, 2020 and April 30, 2021 with available&#xD;
+             vaccination data through state of Michigan registry.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who have previously tested positive for COVID-19 prior to the study period&#xD;
+             will be excluded.&#xD;
+&#xD;
+          -  Patients with missing vaccine status will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amit Bahl</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>William Beaumont Hospitals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beaumont Hospital - Royal Oak</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Azar AM. Emergency Use Authorization Declaration. Published online 2020. https://www.federalregister.gov/documents/2020/04/01/2020-06905/emergency-use-authorization-declaration</citation>
+  </reference>
+  <reference>
+    <citation>US Food and Drug Administration. FDA Issues Emergency Use Authorization for Third COVID-19 Vaccine. Accessed April 10, 2021. https://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-third-covid-19-vaccine</citation>
+  </reference>
+  <reference>
+    <citation>Lurie N, Saville M, Hatchett R, Halton J. Developing Covid-19 Vaccines at Pandemic Speed. N Engl J Med. 2020 May 21;382(21):1969-1973. doi: 10.1056/NEJMp2005630. Epub 2020 Mar 30.</citation>
+    <PMID>32227757</PMID>
+  </reference>
+  <reference>
+    <citation>Emary KRW, Golubchik T, Aley PK, Ariani CV, Angus B, Bibi S, Blane B, Bonsall D, Cicconi P, Charlton S, Clutterbuck EA, Collins AM, Cox T, Darton TC, Dold C, Douglas AD, Duncan CJA, Ewer KJ, Flaxman AL, Faust SN, Ferreira DM, Feng S, Finn A, Folegatti PM, Fuskova M, Galiza E, Goodman AL, Green CM, Green CA, Greenland M, Hallis B, Heath PT, Hay J, Hill HC, Jenkin D, Kerridge S, Lazarus R, Libri V, Lillie PJ, Ludden C, Marchevsky NG, Minassian AM, McGregor AC, Mujadidi YF, Phillips DJ, Plested E, Pollock KM, Robinson H, Smith A, Song R, Snape MD, Sutherland RK, Thomson EC, Toshner M, Turner DPJ, Vekemans J, Villafana TL, Williams CJ, Hill AVS, Lambe T, Gilbert SC, Voysey M, Ramasamy MN, Pollard AJ; COVID-19 Genomics UK consortium; AMPHEUS Project; Oxford COVID-19 Vaccine Trial Group. Efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine against SARS-CoV-2 variant of concern 202012/01 (B.1.1.7): an exploratory analysis of a randomised controlled trial. Lancet. 2021 Apr 10;397(10282):1351-1362. doi: 10.1016/S0140-6736(21)00628-0. Epub 2021 Mar 30.</citation>
+    <PMID>33798499</PMID>
+  </reference>
+  <reference>
+    <citation>Dagan N, Barda N, Kepten E, Miron O, Perchik S, Katz MA, Hernán MA, Lipsitch M, Reis B, Balicer RD. BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting. N Engl J Med. 2021 Apr 15;384(15):1412-1423. doi: 10.1056/NEJMoa2101765. Epub 2021 Feb 24.</citation>
+    <PMID>33626250</PMID>
+  </reference>
+  <reference>
+    <citation>Daniel W, Nivet M, Warner J, Podolsky DK. Early Evidence of the Effect of SARS-CoV-2 Vaccine at One Medical Center. N Engl J Med. 2021 May 20;384(20):1962-1963. doi: 10.1056/NEJMc2102153. Epub 2021 Mar 23.</citation>
+    <PMID>33755374</PMID>
+  </reference>
+  <reference>
+    <citation>Amit S, Regev-Yochay G, Afek A, Kreiss Y, Leshem E. Early rate reductions of SARS-CoV-2 infection and COVID-19 in BNT162b2 vaccine recipients. Lancet. 2021 Mar 6;397(10277):875-877. doi: 10.1016/S0140-6736(21)00448-7. Epub 2021 Feb 18.</citation>
+    <PMID>33610193</PMID>
+  </reference>
+  <reference>
+    <citation>Sanders RW, de Jong MD. Pandemic moves and countermoves: vaccines and viral variants. Lancet. 2021 Apr 10;397(10282):1326-1327. doi: 10.1016/S0140-6736(21)00730-3. Epub 2021 Mar 30.</citation>
+    <PMID>33798497</PMID>
+  </reference>
+  <reference>
+    <citation>State of Michigan COVID-19 Vaccine Dashboard. https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214-547150--,00.html. Retrieved 25 April 2021.</citation>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>June 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 3, 2021</study_first_posted>
+  <results_first_submitted>September 4, 2021</results_first_submitted>
+  <results_first_submitted_qc>September 28, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 30, 2021</results_first_posted>
+  <last_update_submitted>September 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>William Beaumont Hospitals</investigator_affiliation>
+    <investigator_full_name>Amit Bahl</investigator_full_name>
+    <investigator_title>Director, Emergency Ultrasound</investigator_title>
+  </responsible_party>
+  <keyword>vaccination</keyword>
+  <keyword>efficacy</keyword>
+  <keyword>severe outcomes</keyword>
+  <keyword>mortality</keyword>
+  <keyword>variants</keyword>
+  <keyword>breakthrough infection</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-Cov-2 virus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No plan at this point.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 13, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04912700/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 13, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT04912700/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Unvaccinated</title>
+          <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+        </group>
+        <group group_id="P2">
+          <title>Partially Vaccinated</title>
+          <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+        </group>
+        <group group_id="P3">
+          <title>Fully Vaccinated</title>
+          <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10880"/>
+                <participants group_id="P2" count="825"/>
+                <participants group_id="P3" count="129"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10880"/>
+                <participants group_id="P2" count="825"/>
+                <participants group_id="P3" count="129"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Unvaccinated</title>
+          <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+        </group>
+        <group group_id="B2">
+          <title>Partially Vaccinated</title>
+          <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).&#xD;
+COVID-19 vaccine: Full or partial reception of vaccine</description>
+        </group>
+        <group group_id="B3">
+          <title>Fully Vaccinated</title>
+          <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).&#xD;
+COVID-19 vaccine: Full or partial reception of vaccine</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10880"/>
+            <count group_id="B2" value="825"/>
+            <count group_id="B3" value="129"/>
+            <count group_id="B4" value="11834"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52.1" spread="18.2"/>
+                    <measurement group_id="B2" value="62.5" spread="15.3"/>
+                    <measurement group_id="B3" value="70.3" spread="16.4"/>
+                    <measurement group_id="B4" value="53.0" spread="18.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5750"/>
+                    <measurement group_id="B2" value="425"/>
+                    <measurement group_id="B3" value="69"/>
+                    <measurement group_id="B4" value="6244"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5130"/>
+                    <measurement group_id="B2" value="400"/>
+                    <measurement group_id="B3" value="60"/>
+                    <measurement group_id="B4" value="5590"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3452"/>
+                    <measurement group_id="B2" value="198"/>
+                    <measurement group_id="B3" value="13"/>
+                    <measurement group_id="B4" value="3663"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6467"/>
+                    <measurement group_id="B2" value="559"/>
+                    <measurement group_id="B3" value="108"/>
+                    <measurement group_id="B4" value="7134"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="961"/>
+                    <measurement group_id="B2" value="68"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="1037"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10880"/>
+                    <measurement group_id="B2" value="825"/>
+                    <measurement group_id="B3" value="129"/>
+                    <measurement group_id="B4" value="11834"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Emergency Center (EC) Encounters and/or Hospitalizations With Positive COVID-19 Test</title>
+        <description>Number of participants with encounters at emergency center (EC) and /or hospitalizations with positive COVID-19 test</description>
+        <time_frame>During the period from December 15, 2020 through April 30, 2021 (up to 5 months)</time_frame>
+        <population>Study population is defined as numbers of participants presenting to EC or hospitalized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Emergency Center (EC) Encounters and/or Hospitalizations With Positive COVID-19 Test</title>
+          <description>Number of participants with encounters at emergency center (EC) and /or hospitalizations with positive COVID-19 test</description>
+          <population>Study population is defined as numbers of participants presenting to EC or hospitalized.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10880"/>
+                <count group_id="O2" value="825"/>
+                <count group_id="O3" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10880"/>
+                    <measurement group_id="O2" value="825"/>
+                    <measurement group_id="O3" value="129"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Severe Infection</title>
+        <description>Patient with any of the following: ICU admission, mechanical ventilation, or in-hospital mortality</description>
+        <time_frame>During EC visit or hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Severe Infection</title>
+          <description>Patient with any of the following: ICU admission, mechanical ventilation, or in-hospital mortality</description>
+          <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10880"/>
+                <count group_id="O2" value="825"/>
+                <count group_id="O3" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="733"/>
+                    <measurement group_id="O2" value="85"/>
+                    <measurement group_id="O3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With ICU Admission</title>
+        <description>Number of patients admitted to ICU during hospital stay</description>
+        <time_frame>During hospitalization, from date of admission until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With ICU Admission</title>
+          <description>Number of patients admitted to ICU during hospital stay</description>
+          <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10880"/>
+                <count group_id="O2" value="825"/>
+                <count group_id="O3" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="619"/>
+                    <measurement group_id="O2" value="75"/>
+                    <measurement group_id="O3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Mechanical Ventilation</title>
+        <description>Number of patients who required mechanical ventilation</description>
+        <time_frame>During EC visit or in-patient hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Mechanical Ventilation</title>
+          <description>Number of patients who required mechanical ventilation</description>
+          <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10880"/>
+                <count group_id="O2" value="825"/>
+                <count group_id="O3" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="398"/>
+                    <measurement group_id="O2" value="42"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With In-hospital Mortality</title>
+        <description>Number of patients who died during EC visit or hospital admission</description>
+        <time_frame>During EC visit or in-patient hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With In-hospital Mortality</title>
+          <description>Number of patients who died during EC visit or hospital admission</description>
+          <population>Analysis performed on all patients presenting to EC including those hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10880"/>
+                <count group_id="O2" value="825"/>
+                <count group_id="O3" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="384"/>
+                    <measurement group_id="O2" value="50"/>
+                    <measurement group_id="O3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Hospitalized Patients Requiring Extracorporeal Membrane Oxygenation (ECMO)</title>
+        <description>Number of hospitalized patients requiring ECMO</description>
+        <time_frame>During hospitalization, from date of admission until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Hospitalized Patients Requiring Extracorporeal Membrane Oxygenation (ECMO)</title>
+          <description>Number of hospitalized patients requiring ECMO</description>
+          <population>Analysis performed only on patients hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Hospitalized Patients Requiring Renal Replacement Therapy (RRT)</title>
+        <description>Number of hospitalized patients requiring RRT</description>
+        <time_frame>During hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Hospitalized Patients Requiring Renal Replacement Therapy (RRT)</title>
+          <description>Number of hospitalized patients requiring RRT</description>
+          <population>Analysis performed only on patients hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="130"/>
+                    <measurement group_id="O2" value="14"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Hospitalized Patients Requiring Supplemental Oxygen</title>
+        <description>Number of hospitalized patients requiring supplemental oxygen, by type</description>
+        <time_frame>During hospitalization, from date of admission until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Hospitalized Patients Requiring Supplemental Oxygen</title>
+          <description>Number of hospitalized patients requiring supplemental oxygen, by type</description>
+          <population>Analysis performed only on patients hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Nasal canula</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2563"/>
+                    <measurement group_id="O2" value="231"/>
+                    <measurement group_id="O3" value="38"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>High flow oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="656"/>
+                    <measurement group_id="O2" value="67"/>
+                    <measurement group_id="O3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Non-invasive ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="428"/>
+                    <measurement group_id="O2" value="56"/>
+                    <measurement group_id="O3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mechanical ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="395"/>
+                    <measurement group_id="O2" value="42"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>none</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1208"/>
+                    <measurement group_id="O2" value="119"/>
+                    <measurement group_id="O3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Hospitalized Patients Requiring Non-invasive Ventilation</title>
+        <description>Number of hospitalized patients requiring non-invasive ventilation</description>
+        <time_frame>During EC visit or hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Hospitalized Patients Requiring Non-invasive Ventilation</title>
+          <description>Number of hospitalized patients requiring non-invasive ventilation</description>
+          <population>Analysis performed only on patients hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="428"/>
+                    <measurement group_id="O2" value="56"/>
+                    <measurement group_id="O3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Hospitalized Patients Requiring Vasopressors</title>
+        <description>Number of hospitalized patients with hypotension requiring vasopressors</description>
+        <time_frame>During EC visit or hospitalization, from date of presentation until May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients hospitalized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Hospitalized Patients Requiring Vasopressors</title>
+          <description>Number of hospitalized patients with hypotension requiring vasopressors</description>
+          <population>Analysis performed only on patients hospitalized</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="348"/>
+                    <measurement group_id="O2" value="45"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Discharged From Hospital to Home, Skilled Nursing Facility, Rehabilitation Facility, or Hospice.</title>
+        <description>Number of patients discharged from in-patient hospital admission to home, skilled nursing facility, rehabilitation facility, or hospice.</description>
+        <time_frame>During the period from December 15, 2020 through May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients who were admitted to hospital</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Discharged From Hospital to Home, Skilled Nursing Facility, Rehabilitation Facility, or Hospice.</title>
+          <description>Number of patients discharged from in-patient hospital admission to home, skilled nursing facility, rehabilitation facility, or hospice.</description>
+          <population>Analysis performed only on patients who were admitted to hospital</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Home</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4110"/>
+                    <measurement group_id="O2" value="368"/>
+                    <measurement group_id="O3" value="61"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Rehabilitation Institute</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="72"/>
+                    <measurement group_id="O2" value="7"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Skilled Nursing Home</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="514"/>
+                    <measurement group_id="O2" value="66"/>
+                    <measurement group_id="O3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hospice</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="125"/>
+                    <measurement group_id="O2" value="21"/>
+                    <measurement group_id="O3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Transferred to another facility</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="379"/>
+                    <measurement group_id="O2" value="49"/>
+                    <measurement group_id="O3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospital Length of Stay</title>
+        <description>Number of days from admission after emergency center (EC) visit and positive COVID-19 test, until discharge</description>
+        <time_frame>During the period from December 15, 2020 through May 15, 2021 (up to 5 months)</time_frame>
+        <population>Analysis performed only on patients admitted to hospital after EC visit</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Unvaccinated</title>
+            <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+          </group>
+          <group group_id="O2">
+            <title>Partially Vaccinated</title>
+            <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+          <group group_id="O3">
+            <title>Fully Vaccinated</title>
+            <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospital Length of Stay</title>
+          <description>Number of days from admission after emergency center (EC) visit and positive COVID-19 test, until discharge</description>
+          <population>Analysis performed only on patients admitted to hospital after EC visit</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5250"/>
+                <count group_id="O2" value="515"/>
+                <count group_id="O3" value="95"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.2" spread="7.0"/>
+                    <measurement group_id="O2" value="7.3" spread="6.3"/>
+                    <measurement group_id="O3" value="7.0" spread="5.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>December 15, 2020 through May 15, 2021 (up to 5 months)</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Unvaccinated</title>
+          <description>Unvaccinated individuals are defined as having positive laboratory COVID-19 testing with no record of immunization against COVID-19 or first-dose vaccination after symptom onset.</description>
+        </group>
+        <group group_id="E2">
+          <title>Partially Vaccinated</title>
+          <description>Partially vaccinated individuals are defined as having positive laboratory COVID-19 testing and symptom onset after a single dose of either mRNA (Pfizer, Moderna) vaccine, or &lt; 14 days after the second dose of either mRNA vaccine (Pfizer, Moderna) or &lt; 14 days after the administration of the single dose of viral vector vaccine (Johnson &amp; Johnson).&#xD;
+COVID-19 vaccine: Full or partial reception of vaccine</description>
+        </group>
+        <group group_id="E3">
+          <title>Fully Vaccinated</title>
+          <description>Fully vaccinated individuals are defined as having positive laboratory testing for COVID-19 and symptom onset &gt;14 days since administration of second dose of either mRNA vaccine, or &gt;14 days since administration of viral vector vaccine (Johnson &amp; Johnson).&#xD;
+COVID-19 vaccine: Full or partial reception of vaccine</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="384" subjects_at_risk="10880"/>
+                <counts group_id="E2" subjects_affected="50" subjects_at_risk="825"/>
+                <counts group_id="E3" subjects_affected="8" subjects_at_risk="129"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4176" subjects_at_risk="10880"/>
+                <counts group_id="E2" subjects_affected="410" subjects_at_risk="825"/>
+                <counts group_id="E3" subjects_affected="64" subjects_at_risk="129"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <description>Requiring vasopressor therapy</description>
+                <counts group_id="E1" events="348" subjects_affected="348" subjects_at_risk="10880"/>
+                <counts group_id="E2" events="45" subjects_affected="45" subjects_at_risk="825"/>
+                <counts group_id="E3" events="6" subjects_affected="6" subjects_at_risk="129"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute renal failure</sub_title>
+                <description>Requiring renal replacement therapy</description>
+                <counts group_id="E1" events="130" subjects_affected="130" subjects_at_risk="10880"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="825"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="129"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory insufficiency</sub_title>
+                <description>Requiring supplemental oxygen, mechanical ventilation or ECMO</description>
+                <counts group_id="E1" events="4046" subjects_affected="4046" subjects_at_risk="10880"/>
+                <counts group_id="E2" events="396" subjects_affected="396" subjects_at_risk="825"/>
+                <counts group_id="E3" events="64" subjects_affected="64" subjects_at_risk="129"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10880"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="825"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="129"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Retrospective study of medical records</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Ahmit Bahl, MD</name_or_title>
+      <organization>Beaumont Hospitals</organization>
+      <phone>(248) 898-9111</phone>
+      <email>ahmit.bahl@beaumont.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

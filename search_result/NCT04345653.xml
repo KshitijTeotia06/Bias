@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="87">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04345653</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro2020-0356</org_study_id>
+    <nct_id>NCT04345653</nct_id>
+  </id_info>
+  <brief_title>Hydroxychloroquine as Chemoprevention for COVID-19 for High Risk Healthcare Workers</brief_title>
+  <official_title>Feasibility, Safety and Early Efficacy Trial of Hydroxychloroquine as Primary Prevention of Corona Virus Disease 2019 in High Risk Health Care Providers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hackensack Meridian Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hackensack Meridian Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study proposes to conduct an open-label Phase II trial to evaluate the feasibility,&#xD;
+      safety and early efficacy of hydroxychloroquine (HCQ) administration in reduction of&#xD;
+      transmission of severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) and development&#xD;
+      of Corona Virus Disease 2019 (COVID-19) in high-risk, healthy acute care provider&#xD;
+      participants exposed, directly or indirectly, to COVID-19 patients. There is a more than 50&#xD;
+      years track record of safety of HCQ for treatment and prevention of various disease states.&#xD;
+      Early data on use of HCQ for COVID treatment suggests anti-viral activity and&#xD;
+      immunomodulatory properties for reducing inflammation associated with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Given the lack of data regarding use of HCQ for COVID-19 prevention in healthy participants&#xD;
+      in midst of pandemic crisis, this study proposes an expedited feasibility study focusing on&#xD;
+      safety and early efficacy.&#xD;
+&#xD;
+      Prior to HCQ administration, baseline SARS-CoV-2 and other baseline biomarker testing will be&#xD;
+      conducted. During the 4-week study period, participants will be monitored for drug related&#xD;
+      adverse events and assessed for development of COVID. SARS-CoV-2 assay and biomarker testing&#xD;
+      will be repeated at the end of four-week study. Safety outcomes will be assessed by the&#xD;
+      number of adverse events (AEs) and their severity; and early efficacy as the number of&#xD;
+      participants who tested positive at the end of the 4-week period comparing to data collected&#xD;
+      by occupational Health regarding the total number of high-risk healthcare workers that were&#xD;
+      tested positive during the same period and historical controls from known high risk infection&#xD;
+      rates. An exploratory analysis of inflammatory regulation and immunomodulatory markers by HCQ&#xD;
+      and its effect on possible disease modification based on previously studied&#xD;
+      pathophysiological mechanism of COVID-19.&#xD;
+&#xD;
+      The broader aim of this study is to set a precedent to facilitate a large-scale emergent&#xD;
+      public health intervention. Purpose would be to mitigate, or abort further transmission of&#xD;
+      COVID-19. Given that COVID-19 transmission has occurred prior to initiation of this study,&#xD;
+      the rationale for this intervention is based on prior epidemiological evidence.&#xD;
+      Post-infectious or vaccination-induced immunity in at least 30% of population at-risk has&#xD;
+      been shown to mitigate or abort propagation of a local epidemics and global pandemic. This&#xD;
+      would help flatten the curve of the disease progression, until such time that a vaccine may&#xD;
+      become available. Data from this study will be used to design and implement a&#xD;
+      population-based phase IIb/III randomized clinical trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 14, 2020</start_date>
+  <completion_date type="Actual">May 10, 2021</completion_date>
+  <primary_completion_date type="Actual">June 5, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recruitment Feasibility</measure>
+    <time_frame>Study period, up to two months from the day the first participant was screened</time_frame>
+    <description>To evaluate the feasibility of this protocol including participants' recruitment within the estimated time frame, i.e. understand the ability of the team to identify eligible participants, enroll them, retain them and follow them up until study completion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Resource Utilization</measure>
+    <time_frame>Study period, up to two months from the day the first participant was screened</time_frame>
+    <description>To evaluate the utilization of tests and drug for this study in consideration with the limited availability of both for research purposes as reflected on the number of participants that got tested and received at least one dose of the drug.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety as Reflected on the Number and Severity of Adverse Events and Serious Adverse Events</measure>
+    <time_frame>28 day post enrollment</time_frame>
+    <description>To Determine the Safety profile for a previously well studied drug in this select group of HCP. Incidence of well described side effects would be studied over the course of the study and will be compared with the side effects and their prevalence as described in the Pharmacy manual for HCQ.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Early Feasibility as Reflected on the Number of Participants Contracting COVID-19 (10% or Less) in Comparison to the Expected 30% as Per CDC.</measure>
+    <time_frame>28 day post enrollment</time_frame>
+    <description>To evaluate the early efficacy of HCQ in high-risk, healthy volunteers in the prevention of acquiring COVID-19 while continuing to follow standard precautions that meet or exceed Centers of Disease Control (CDC) guidelines.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Study arm - Hydroxychloroquine Sulfate (HCQ)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine Sulfate (HCQ)</intervention_name>
+    <description>Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+    <arm_group_label>Study arm - Hydroxychloroquine Sulfate (HCQ)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Volunteers ages 18 to 99 years,&#xD;
+&#xD;
+          -  Able to sign own informed consent form,&#xD;
+&#xD;
+          -  Considered high-risk healthcare care providers in a hospital setting with active&#xD;
+             exposure to COVID-19 infection.&#xD;
+&#xD;
+        High-risk healthcare providers are defined as those actively working during the study&#xD;
+        duration in the Emergency Department and in the Intensive Care Setting, for the purpose of&#xD;
+        this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to tolerate an oral medication or known allergy to chloroquine or&#xD;
+             hydroxychloroquine&#xD;
+&#xD;
+          -  Pregnancy or breast-feeding&#xD;
+&#xD;
+          -  Immunocompromised status, hepatic failure, electrolytic imbalance&#xD;
+&#xD;
+          -  Creatinine clearance (CCL) &lt;30 mL/min&#xD;
+&#xD;
+          -  Prolonged QT interval (QTc &gt; 450ms for males and QTc &gt; 470 for females)&#xD;
+&#xD;
+          -  Confirmed COVID-19 infection on baseline testing&#xD;
+&#xD;
+          -  Has another known contraindication to treatment with the study drug, including&#xD;
+             retinopathy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jawad Kirmani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hackensack Meridian Health Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hackensack Meridian Health - JFK Medical Center</name>
+      <address>
+        <city>Edison</city>
+        <state>New Jersey</state>
+        <zip>08820</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>April 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 14, 2020</study_first_posted>
+  <results_first_submitted>April 1, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 5, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 10, 2021</results_first_posted>
+  <last_update_submitted>May 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>workers</keyword>
+  <keyword>prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT04345653/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Study Arm - Hydroxychloroquine Sulfate (HCQ)</title>
+          <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="48"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>High risk healthcare providers</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Study Arm - Hydroxychloroquine Sulfate (HCQ)</title>
+          <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="46"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39.5" lower_limit="26.0" upper_limit="61.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Recruitment Feasibility</title>
+        <description>To evaluate the feasibility of this protocol including participants' recruitment within the estimated time frame, i.e. understand the ability of the team to identify eligible participants, enroll them, retain them and follow them up until study completion.</description>
+        <time_frame>Study period, up to two months from the day the first participant was screened</time_frame>
+        <population>High risk healthcare providers</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Arm</title>
+            <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Recruitment Feasibility</title>
+          <description>To evaluate the feasibility of this protocol including participants' recruitment within the estimated time frame, i.e. understand the ability of the team to identify eligible participants, enroll them, retain them and follow them up until study completion.</description>
+          <population>High risk healthcare providers</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Resource Utilization</title>
+        <description>To evaluate the utilization of tests and drug for this study in consideration with the limited availability of both for research purposes as reflected on the number of participants that got tested and received at least one dose of the drug.</description>
+        <time_frame>Study period, up to two months from the day the first participant was screened</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Arm - Hydroxychloroquine Sulfate (HCQ)</title>
+            <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Resource Utilization</title>
+          <description>To evaluate the utilization of tests and drug for this study in consideration with the limited availability of both for research purposes as reflected on the number of participants that got tested and received at least one dose of the drug.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety as Reflected on the Number and Severity of Adverse Events and Serious Adverse Events</title>
+        <description>To Determine the Safety profile for a previously well studied drug in this select group of HCP. Incidence of well described side effects would be studied over the course of the study and will be compared with the side effects and their prevalence as described in the Pharmacy manual for HCQ.</description>
+        <time_frame>28 day post enrollment</time_frame>
+        <population>High risk healthcare providers</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Arm - Hydroxychloroquine Sulfate (HCQ)</title>
+            <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety as Reflected on the Number and Severity of Adverse Events and Serious Adverse Events</title>
+          <description>To Determine the Safety profile for a previously well studied drug in this select group of HCP. Incidence of well described side effects would be studied over the course of the study and will be compared with the side effects and their prevalence as described in the Pharmacy manual for HCQ.</description>
+          <population>High risk healthcare providers</population>
+          <units>Adverse Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Serious Adverse events</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Adverse events</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Early Feasibility as Reflected on the Number of Participants Contracting COVID-19 (10% or Less) in Comparison to the Expected 30% as Per CDC.</title>
+        <description>To evaluate the early efficacy of HCQ in high-risk, healthy volunteers in the prevention of acquiring COVID-19 while continuing to follow standard precautions that meet or exceed Centers of Disease Control (CDC) guidelines.</description>
+        <time_frame>28 day post enrollment</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study Arm - Hydroxychloroquine Sulfate (HCQ)</title>
+            <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Early Feasibility as Reflected on the Number of Participants Contracting COVID-19 (10% or Less) in Comparison to the Expected 30% as Per CDC.</title>
+          <description>To evaluate the early efficacy of HCQ in high-risk, healthy volunteers in the prevention of acquiring COVID-19 while continuing to follow standard precautions that meet or exceed Centers of Disease Control (CDC) guidelines.</description>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Overall follow up period: 6 month</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Study Arm - Hydroxychloroquine Sulfate (HCQ)</title>
+          <description>HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth&#xD;
+Hydroxychloroquine Sulfate (HCQ): Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shortness of breath and chest pain</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headaches</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mood Disorder</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Alopecia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Jawad Kirmani</name_or_title>
+      <organization>JFK University Medical Center - Hackensack Meridian Health</organization>
+      <phone>7327745805</phone>
+      <email>jawad.kirmani@hmhn.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="88">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on August 12, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04342663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202004023</org_study_id>
+    <nct_id>NCT04342663</nct_id>
+  </id_info>
+  <brief_title>A Double-blind, Placebo-controlled Clinical Trial of Fluvoxamine for Symptomatic Individuals With COVID-19 Infection</brief_title>
+  <acronym>STOP COVID</acronym>
+  <official_title>A Double-blind, Placebo-controlled Clinical Trial of Fluvoxamine for Symptomatic Individuals With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to determine if a drug called fluvoxamine can be used&#xD;
+      early in the course of the COVID-19 infection to prevent more serious complications like&#xD;
+      shortness of breath. Fluvoxamine is an anti-depressant drug approved by the FDA for the&#xD;
+      treatment of obsessive-compulsive disorder. The use of fluvoxamine for the treatment of&#xD;
+      COVID-19 is considered investigational, which means the US Food and Drug Administration has&#xD;
+      not approved it for this use.&#xD;
+&#xD;
+      This study is fully-remote, which means that there is no face-to-face contact; study&#xD;
+      materials including study drug will be shipped to participants' houses. Only residents of&#xD;
+      Missouri and Illinois may participate.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will consent approximately 152 participants, age 18 and older, who have tested tested&#xD;
+      positive for COVID-19 and are currently experiencing mild symptoms. All interactions for this&#xD;
+      study will be conducted remotely by videoconferencing, email, or phone.&#xD;
+&#xD;
+      Screening: All participants will first complete a pre-screen to see if they may be eligible&#xD;
+      for the study. Once a participant is confirmed eligible and consented, the study team will&#xD;
+      send the study materials. These materials will consist of study medication and&#xD;
+      self-monitoring equipment, including a pregnancy test (for females of childbearing age not&#xD;
+      using contraception), an oxygen saturation monitor, blood pressure monitor, and thermometer.&#xD;
+      Once the study team has finalized the screening process, the participant will begin taking&#xD;
+      the study medication.&#xD;
+&#xD;
+      RCT: Participants will be randomly assigned (1:1) to take either fluvoxamine or a placebo.&#xD;
+      This phase of the study will last approximately 15 days and is double-blinded. Participants&#xD;
+      will take 100mg of fluvoxamine or placebo by mouth three times a day for a daily total of&#xD;
+      300mg. They will continue this dose for approximately 15 days. Depending on tolerability, the&#xD;
+      dose may be adjusted. Participants will also complete short 10-15 minute assessments daily to&#xD;
+      assess symptoms, results of self-monitoring (including oxygen level, blood pressure, and&#xD;
+      temperature) and any adverse events.&#xD;
+&#xD;
+      Open-label Phase: After completing the randomization phase, participants will then&#xD;
+      participate in an open-label phase (participant will definitely receive fluvoxamine) that&#xD;
+      will last up to 15 days. Those randomized to placebo will have the opportunity to try&#xD;
+      fluvoxamine during this time. Those randomized to fluvoxamine will continue this medication&#xD;
+      while slowly decreasing the drug. The participant may opt out of this phase. The dosage&#xD;
+      during this time will be 50-100mg two times daily until discontinuing the drug.&#xD;
+&#xD;
+      Follow-up Phase: We will follow participants for approximately 30 days after the end of the&#xD;
+      randomized phase. If needed, the study team will review medical records to determine the&#xD;
+      clinical course of participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 10, 2020</start_date>
+  <completion_date type="Actual">December 12, 2020</completion_date>
+  <primary_completion_date type="Actual">August 20, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Met Clinical Worsening</measure>
+    <time_frame>RCT (approximately 15 days)</time_frame>
+    <description>Clinical worsening is defined meeting both of the following: (1) presence of dyspnea and/or hospitalization for shortness of breath or pneumonia, plus (2) decrease in O2 saturation (&lt;92%) on room air and/or supplemental oxygen requirement in order to keep O2 saturation &gt;92%.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Deterioration on a Likert-type Scale (0-6)</measure>
+    <time_frame>RCT (approximately 15 days)</time_frame>
+    <description>(0) none; (1) moderate severity of illness as defined by O2 saturation &lt;92% but no supplemental oxygen requirement; (2) O2 saturation plus supplemental oxygen requirement; (3) O2 saturation &lt;92% plus hospitalization (related to dyspnea/hypoxia); (4) the above, plus ventilator support requirement; (5) the above, plus ventilator support for at least 3 days; (6) death.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">152</enrollment>
+  <condition>COVID 19</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Fluvoxamine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluvoxamine</intervention_name>
+    <description>Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.</description>
+    <arm_group_label>Fluvoxamine</arm_group_label>
+    <other_name>Luvox</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. men and woman age 18 and older;&#xD;
+&#xD;
+          2. Not hospitalized;&#xD;
+&#xD;
+          3. Has recently tested SARS-CoV-2 (COVID-19 virus) positive.&#xD;
+&#xD;
+          4. Currently symptomatic with one or more of one or more of the following symptoms:&#xD;
+             fever, cough, myalgia, mild dyspnea, diarrhea, vomiting, anosmia (inability to smell),&#xD;
+             ageusia (inability to taste), sore throat.&#xD;
+&#xD;
+          5. Able to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Illness severe enough to require hospitalization or already meeting study's primary&#xD;
+             endpoint for clinical worsening.&#xD;
+&#xD;
+          2. Unstable medical comorbidities including, but not limited to: Severe underlying lung&#xD;
+             disease (COPD on home oxygen, interstitial lung disease, pulmonary hypertension),&#xD;
+             decompensated cirrhosis, Congestive heart failure (stage 3 or 4 per patient report&#xD;
+             and/or medical records).&#xD;
+&#xD;
+          3. Immunocompromised (solid organ transplant, BMT, AIDS, on biologics and/or high dose&#xD;
+             steroids (&gt;20mg prednisone per day)&#xD;
+&#xD;
+          4. Unable to provide informed consent (eg moderate-severe dementia diagnosis)&#xD;
+&#xD;
+          5. Unable to perform the study procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric J Lenze, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>BJC</name>
+      <address>
+        <city>Belleville</city>
+        <state>Illinois</state>
+        <zip>62220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>April 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2020</study_first_posted>
+  <results_first_submitted>July 1, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 7, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 9, 2021</results_first_posted>
+  <last_update_submitted>July 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University School of Medicine</investigator_affiliation>
+    <investigator_full_name>Eric Lenze</investigator_full_name>
+    <investigator_title>Wallace and Lucille Renard Professor of Psychiatry</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>fluvoxamine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluvoxamine</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 21, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT04342663/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 20, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT04342663/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Fluvoxamine</title>
+          <description>Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days.&#xD;
+Fluvoxamine: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days.&#xD;
+Placebo: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="80"/>
+                <participants group_id="P2" count="72"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="62"/>
+                <participants group_id="P2" count="53"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Fluvoxamine</title>
+          <description>Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days.&#xD;
+Fluvoxamine: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days.&#xD;
+Placebo: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="80"/>
+            <count group_id="B2" value="72"/>
+            <count group_id="B3" value="152"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46" lower_limit="35" upper_limit="58"/>
+                    <measurement group_id="B2" value="45" lower_limit="36" upper_limit="54"/>
+                    <measurement group_id="B3" value="46" lower_limit="36" upper_limit="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56"/>
+                    <measurement group_id="B2" value="53"/>
+                    <measurement group_id="B3" value="109"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75"/>
+                    <measurement group_id="B2" value="66"/>
+                    <measurement group_id="B3" value="141"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56"/>
+                    <measurement group_id="B2" value="50"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Co-existing conditions</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Asthma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>High cholesterol</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyperthyroidism</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anxiety</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Arthritis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Depression</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body mass index category</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Underweight (&lt;18.5)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Normal (18.5-24.9)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Overweight (25-29.9)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Obese (≥30)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Oxygen saturation</title>
+          <units>percentage of oxygen saturation</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="97" lower_limit="96" upper_limit="98"/>
+                    <measurement group_id="B2" value="97" lower_limit="96" upper_limit="98"/>
+                    <measurement group_id="B3" value="97" lower_limit="96" upper_limit="98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Most severe COVID 19 symptom at baseline</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Loss of sense of smell</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Body aches</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Subjective fever</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Loss of appetite</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chills</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Shortness of breath</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Loss of taste</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Met Clinical Worsening</title>
+        <description>Clinical worsening is defined meeting both of the following: (1) presence of dyspnea and/or hospitalization for shortness of breath or pneumonia, plus (2) decrease in O2 saturation (&lt;92%) on room air and/or supplemental oxygen requirement in order to keep O2 saturation &gt;92%.</description>
+        <time_frame>RCT (approximately 15 days)</time_frame>
+        <population>The primary and secondary end points were measured using participants' self-reported responses on twice-daily surveys during the 15 days after randomization that were corroborated by research staff with phone contact.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluvoxamine</title>
+            <description>Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days.&#xD;
+Fluvoxamine: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days.&#xD;
+Placebo: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Met Clinical Worsening</title>
+          <description>Clinical worsening is defined meeting both of the following: (1) presence of dyspnea and/or hospitalization for shortness of breath or pneumonia, plus (2) decrease in O2 saturation (&lt;92%) on room air and/or supplemental oxygen requirement in order to keep O2 saturation &gt;92%.</description>
+          <population>The primary and secondary end points were measured using participants' self-reported responses on twice-daily surveys during the 15 days after randomization that were corroborated by research staff with phone contact.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="72"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Deterioration on a Likert-type Scale (0-6)</title>
+        <description>(0) none; (1) moderate severity of illness as defined by O2 saturation &lt;92% but no supplemental oxygen requirement; (2) O2 saturation plus supplemental oxygen requirement; (3) O2 saturation &lt;92% plus hospitalization (related to dyspnea/hypoxia); (4) the above, plus ventilator support requirement; (5) the above, plus ventilator support for at least 3 days; (6) death.</description>
+        <time_frame>RCT (approximately 15 days)</time_frame>
+        <population>The primary and secondary end points were measured using participants' self-reported responses on twice-daily surveys during the 15 days after randomization that were corroborated by research staff with phone contact.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Fluvoxamine</title>
+            <description>Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days.&#xD;
+Fluvoxamine: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days.&#xD;
+Placebo: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Deterioration on a Likert-type Scale (0-6)</title>
+          <description>(0) none; (1) moderate severity of illness as defined by O2 saturation &lt;92% but no supplemental oxygen requirement; (2) O2 saturation plus supplemental oxygen requirement; (3) O2 saturation &lt;92% plus hospitalization (related to dyspnea/hypoxia); (4) the above, plus ventilator support requirement; (5) the above, plus ventilator support for at least 3 days; (6) death.</description>
+          <population>The primary and secondary end points were measured using participants' self-reported responses on twice-daily surveys during the 15 days after randomization that were corroborated by research staff with phone contact.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+                <count group_id="O2" value="72"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>0 (none)</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80"/>
+                    <measurement group_id="O2" value="66"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>1, shortness of breath and oxygen saturation less than 92% but no supplemental oxygen needed</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2, O2 saturation plus supplemental oxygen requirement</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3, oxygen saturation less than 92% + supplemental O2 and hospitalized related to dyspnea or hypoxia</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4, the above, plus ventilator support requirement;</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5, oxygen &lt; 92%, + supplemental O2, hospitalized related to dyspnea/hypoxia + ventilator 3 days</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6, Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were collected daily via participant self-report during the 15 day RCT and again at the 30 day follow-up for both the fluvoxamine and placebo groups.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Fluvoxamine</title>
+          <description>Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days.&#xD;
+Fluvoxamine: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days.&#xD;
+Placebo: Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Exacerbation of COVID 19 with hospitalization</sub_title>
+                <description>Hospitalized for nausea, vomiting, and chest pain (O2 not below 92%)</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Flank Pain (hospitalized)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Exacerbation of COVID 19 with hospitalization</sub_title>
+                <description>Hospitalized for nausea, vomiting, fever, low oxygen saturation, and pneumonia</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Exacerbation of COVID 19 with hospitalization</sub_title>
+                <description>Hospitalized with nausea, fever, and pneumonia with requirement of supplemental oxygen to maintain oxygen saturation about 92%</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute chronic respiratory failure with hypoxia and hypercapnia (hospitalized)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Bilateral multi-focal pneumonia with shortness of breath and low oxygen saturation (hospitalized)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="80"/>
+                <counts group_id="E2" subjects_affected="28" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypercapnia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache or head pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis, nausea, or vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bacterial infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Vasovagal syncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Teeth chattering</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Muscle aches</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="80"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="80"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Shortness of breath</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="80"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Low oxygen saturation or hypoxia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Chest pain or tightness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="72"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="80"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="72"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>It was a small study and was conducted within a single geographic area; there was a small number of end point events; it is possible that the differences in clinical deterioration may have been a reflection of the comparative baseline distributions of O2 saturation rather than an effect of treatment; the method of measuring the most severe baseline symptom over time did not appear to provide valid data; the follow-up was short; the 7-point scale created for this study has not been validated.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Eric Lenze</name_or_title>
+      <organization>Washington University School of Medicine</organization>
+      <phone>314-362-5154</phone>
+      <email>lenzee@wustl.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+
